@@ -9,7 +9,7 @@ _chem_comp.mon_nstd_parent_comp_id "THR, PHE, GLY"
 _chem_comp.pdbx_synonyms          "PEPTIDE DERIVED CHROMOPHORE"
 _chem_comp.pdbx_formal_charge     0
 _chem_comp.pdbx_initial_date      2018-12-19
-_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_modified_date     2023-07-19
 _chem_comp.pdbx_ambiguous_flag    N
 _chem_comp.pdbx_release_status    REL
 _chem_comp.pdbx_replaced_by       ?
@@ -35,8 +35,8 @@ _chem_comp_atom.pdbx_align
 _chem_comp_atom.pdbx_aromatic_flag
 _chem_comp_atom.pdbx_leaving_atom_flag
 _chem_comp_atom.pdbx_backbone_flag
-_chem_comp_atom.pdbx_N-terminal_flag
-_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_n_terminal_flag
+_chem_comp_atom.pdbx_c_terminal_flag
 _chem_comp_atom.pdbx_stereo_config
 _chem_comp_atom.model_Cartn_x
 _chem_comp_atom.model_Cartn_y
@@ -189,10 +189,10 @@ _pdbx_chem_comp_audit.comp_id
 _pdbx_chem_comp_audit.action_type
 _pdbx_chem_comp_audit.date
 _pdbx_chem_comp_audit.processing_site
-BF9 "Create component"     2018-12-19 PDBJ
-BF9 "Initial release"      2019-01-30 RCSB
-BF9 "Modify synonyms"      2021-03-01 PDBE
-BF9 "Standardize backbone" 2023-07-18 PDBE
+BF9 "Create component" 2018-12-19 PDBJ
+BF9 "Initial release"  2019-01-30 RCSB
+BF9 "Modify synonyms"  2021-03-01 PDBE
+BF9 "Modify backbone"  2023-07-19 PDBE
 
 _pdbx_chem_comp_synonyms.ordinal  1
 _pdbx_chem_comp_synonyms.comp_id  BF9

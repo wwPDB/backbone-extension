@@ -8,7 +8,7 @@ _chem_comp.mon_nstd_parent_comp_id TRP
 _chem_comp.pdbx_synonyms          "4-(N,N-DIMETHYLAMINO)PHTHALIMIDOALANYL; DAPA"
 _chem_comp.pdbx_formal_charge     0
 _chem_comp.pdbx_initial_date      2006-10-25
-_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_modified_date     2023-07-19
 _chem_comp.pdbx_ambiguous_flag    N
 _chem_comp.pdbx_release_status    REL
 _chem_comp.pdbx_replaced_by       ?
@@ -34,8 +34,8 @@ _chem_comp_atom.pdbx_align
 _chem_comp_atom.pdbx_aromatic_flag
 _chem_comp_atom.pdbx_leaving_atom_flag
 _chem_comp_atom.pdbx_backbone_flag
-_chem_comp_atom.pdbx_N-terminal_flag
-_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_n_terminal_flag
+_chem_comp_atom.pdbx_c_terminal_flag
 _chem_comp_atom.pdbx_stereo_config
 _chem_comp_atom.model_Cartn_x
 _chem_comp_atom.model_Cartn_y
@@ -155,10 +155,10 @@ _pdbx_chem_comp_audit.comp_id
 _pdbx_chem_comp_audit.action_type
 _pdbx_chem_comp_audit.date
 _pdbx_chem_comp_audit.processing_site
-4DP "Create component"     2006-10-25 RCSB
-4DP "Modify descriptor"    2011-06-04 RCSB
-4DP "Modify synonyms"      2020-06-05 PDBE
-4DP "Standardize backbone" 2023-07-18 PDBE
+4DP "Create component"  2006-10-25 RCSB
+4DP "Modify descriptor" 2011-06-04 RCSB
+4DP "Modify synonyms"   2020-06-05 PDBE
+4DP "Modify backbone"   2023-07-19 PDBE
 
 loop_
 _pdbx_chem_comp_synonyms.ordinal

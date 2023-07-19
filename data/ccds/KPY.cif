@@ -8,7 +8,7 @@ _chem_comp.mon_nstd_parent_comp_id LYS
 _chem_comp.pdbx_synonyms          PYRUVOYL-L-THIALYSINE
 _chem_comp.pdbx_formal_charge     0
 _chem_comp.pdbx_initial_date      2012-02-03
-_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_modified_date     2023-07-19
 _chem_comp.pdbx_ambiguous_flag    N
 _chem_comp.pdbx_release_status    REL
 _chem_comp.pdbx_replaced_by       ?
@@ -34,8 +34,8 @@ _chem_comp_atom.pdbx_align
 _chem_comp_atom.pdbx_aromatic_flag
 _chem_comp_atom.pdbx_leaving_atom_flag
 _chem_comp_atom.pdbx_backbone_flag
-_chem_comp_atom.pdbx_N-terminal_flag
-_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_n_terminal_flag
+_chem_comp_atom.pdbx_c_terminal_flag
 _chem_comp_atom.pdbx_stereo_config
 _chem_comp_atom.model_Cartn_x
 _chem_comp_atom.model_Cartn_y
@@ -146,7 +146,7 @@ KPY "Initial release"        2013-01-18 RCSB
 KPY "Modify descriptor"      2014-09-05 RCSB
 KPY "Modify one letter code" 2019-05-06 EBI
 KPY "Modify synonyms"        2020-06-05 PDBE
-KPY "Standardize backbone"   2023-07-18 PDBE
+KPY "Modify backbone"        2023-07-19 PDBE
 
 _pdbx_chem_comp_synonyms.ordinal  1
 _pdbx_chem_comp_synonyms.comp_id  KPY

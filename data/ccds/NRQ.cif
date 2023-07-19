@@ -9,7 +9,7 @@ _chem_comp.mon_nstd_parent_comp_id MET,TYR,GLY
 _chem_comp.pdbx_synonyms          "CHROMOPHORE (MET-TYR-GLY)"
 _chem_comp.pdbx_formal_charge     0
 _chem_comp.pdbx_initial_date      2003-10-07
-_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_modified_date     2023-07-19
 _chem_comp.pdbx_ambiguous_flag    N
 _chem_comp.pdbx_release_status    REL
 _chem_comp.pdbx_replaced_by       ?
@@ -35,8 +35,8 @@ _chem_comp_atom.pdbx_align
 _chem_comp_atom.pdbx_aromatic_flag
 _chem_comp_atom.pdbx_leaving_atom_flag
 _chem_comp_atom.pdbx_backbone_flag
-_chem_comp_atom.pdbx_N-terminal_flag
-_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_n_terminal_flag
+_chem_comp_atom.pdbx_c_terminal_flag
 _chem_comp_atom.pdbx_stereo_config
 _chem_comp_atom.model_Cartn_x
 _chem_comp_atom.model_Cartn_y
@@ -172,7 +172,7 @@ NRQ "Create component"     2003-10-07 RCSB
 NRQ "Modify aromatic_flag" 2011-06-04 RCSB
 NRQ "Modify descriptor"    2011-06-04 RCSB
 NRQ "Modify synonyms"      2020-06-05 PDBE
-NRQ "Standardize backbone" 2023-07-18 PDBE
+NRQ "Modify backbone"      2023-07-19 PDBE
 
 _pdbx_chem_comp_synonyms.ordinal  1
 _pdbx_chem_comp_synonyms.comp_id  NRQ
