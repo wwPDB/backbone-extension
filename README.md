@@ -1,4 +1,4 @@
-## Backbone Annotation
+## Peptide Residues Remediation
 
 The documents in this repository include content extension definitions and data 
 files for the upcoming Backbone Remediation Project at PDB.
