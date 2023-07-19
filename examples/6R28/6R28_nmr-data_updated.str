@@ -1,0 +1,1306 @@
+data_nef_6r28
+
+save_entry_information
+# 
+_Entry.Sf_category        entry_information 
+_Entry.Sf_framecode       entry_information 
+_Entry.ID                 6R28 
+_Entry.Assigned_BMRB_ID   34380 
+# 
+loop_
+_Data_set.Type 
+_Data_set.Count 
+_Data_set.Entry_ID 
+assigned_chemical_shifts     1 6R28 
+general_distance_constraints 3 6R28 
+stop_
+save_
+save_assembly
+# 
+_Assembly.Sf_category                       assembly 
+_Assembly.Sf_framecode                      assembly 
+_Assembly.Entry_ID                          6R28 
+_Assembly.ID                                1 
+_Assembly.Name                              'peptide P7' 
+_Assembly.BMRB_code                         . 
+_Assembly.Number_of_components              1 
+_Assembly.Organic_ligands                   . 
+_Assembly.Metal_ions                        . 
+_Assembly.Non_standard_bonds                yes 
+_Assembly.Ambiguous_conformational_states   . 
+_Assembly.Ambiguous_chem_comp_sites         . 
+_Assembly.Molecules_in_chemical_exchange    . 
+_Assembly.Paramagnetic                      no 
+_Assembly.Thiol_state                       'all other bound' 
+_Assembly.Molecular_mass                    2070.401 
+_Assembly.Enzyme_commission_number          . 
+_Assembly.Details                           . 
+_Assembly.DB_query_date                     . 
+_Assembly.DB_query_revised_last_date        . 
+# 
+loop_
+_Entity_assembly.ID 
+_Entity_assembly.Entity_assembly_name 
+_Entity_assembly.Entity_ID 
+_Entity_assembly.Entity_label 
+_Entity_assembly.Asym_ID 
+_Entity_assembly.PDB_chain_ID 
+_Entity_assembly.Experimental_data_reported 
+_Entity_assembly.Physical_state 
+_Entity_assembly.Conformational_isomer 
+_Entity_assembly.Chemical_exchange_state 
+_Entity_assembly.Magnetic_equivalence_group_code 
+_Entity_assembly.Role 
+_Entity_assembly.Details 
+_Entity_assembly.Entry_ID 
+_Entity_assembly.Assembly_ID 
+1 entity_1 1 '$entity_1' A A yes . . . . . ? 6R28 1 
+stop_
+# 
+loop_
+_Chem_comp_assembly.Entity_assembly_ID 
+_Chem_comp_assembly.Entity_ID 
+_Chem_comp_assembly.Comp_index_ID 
+_Chem_comp_assembly.Comp_ID 
+_Chem_comp_assembly.Seq_ID 
+_Chem_comp_assembly.Auth_asym_ID 
+_Chem_comp_assembly.Auth_seq_ID 
+_Chem_comp_assembly.Auth_comp_ID 
+_Chem_comp_assembly.Auth_variant_ID 
+_Chem_comp_assembly.Sequence_linking 
+_Chem_comp_assembly.Cis_residue 
+_Chem_comp_assembly.Entry_ID 
+_Chem_comp_assembly.Assembly_ID 
+1 1 1  PRO 1  A 1  PRO . start  no 6R28 1 
+1 1 2  SER 2  A 2  SER . middle .  6R28 1 
+1 1 3  ILE 3  A 3  ILE . middle .  6R28 1 
+1 1 4  HCS 4  A 4  HCS . middle .  6R28 1 
+1 1 5  HIS 5  A 5  HIS . middle .  6R28 1 
+1 1 6  VAL 6  A 6  VAL . middle .  6R28 1 
+1 1 7  HIS 7  A 7  HIS . middle .  6R28 1 
+1 1 8  ARG 8  A 8  ARG . middle .  6R28 1 
+1 1 9  PRO 9  A 9  PRO . middle no 6R28 1 
+1 1 10 ASP 10 A 10 ASP . middle .  6R28 1 
+1 1 11 TRP 11 A 11 TRP . middle .  6R28 1 
+1 1 12 PRO 12 A 12 PRO . middle no 6R28 1 
+1 1 13 CYS 13 A 13 CYS . middle .  6R28 1 
+1 1 14 TRP 14 A 14 TRP . middle .  6R28 1 
+1 1 15 TYR 15 A 15 TYR . middle .  6R28 1 
+1 1 16 ARG 16 A 16 ARG . end    .  6R28 1 
+stop_
+# 
+loop_
+_Bond.ID 
+_Bond.Type 
+_Bond.Value_order 
+_Bond.Entity_assembly_ID_1 
+_Bond.Entity_assembly_name_1 
+_Bond.Entity_ID_1 
+_Bond.Comp_ID_1 
+_Bond.Comp_index_ID_1 
+_Bond.Seq_ID_1 
+_Bond.Atom_ID_1 
+_Bond.Entity_assembly_ID_2 
+_Bond.Entity_assembly_name_2 
+_Bond.Entity_ID_2 
+_Bond.Comp_ID_2 
+_Bond.Comp_index_ID_2 
+_Bond.Seq_ID_2 
+_Bond.Atom_ID_2 
+_Bond.Auth_asym_ID_1 
+_Bond.Auth_seq_ID_1 
+_Bond.Auth_comp_ID_1 
+_Bond.Auth_atom_ID_1 
+_Bond.Auth_asym_ID_2 
+_Bond.Auth_seq_ID_2 
+_Bond.Auth_comp_ID_2 
+_Bond.Auth_atom_ID_2 
+_Bond.Entry_ID 
+_Bond.Assembly_ID 
+1 disulfide sing 1 entity_1 1 HCS 4 4 SD 1 entity_1 1 CYS 13 13 SG A 4 HCS SD A 13 CYS SG 6R28 1 
+2 covalent  sing 1 entity_1 1 ILE 3 3 C  1 entity_1 1 HCS 4  4  N  A 3 ILE C  A 4  HCS N  6R28 1 
+3 covalent  sing 1 entity_1 1 HCS 4 4 C  1 entity_1 1 HIS 5  5  N  A 4 HCS C  A 5  HIS N  6R28 1 
+stop_
+# 
+loop_
+_Entity_deleted_atom.ID 
+_Entity_deleted_atom.Entity_assembly_ID 
+_Entity_deleted_atom.Comp_ID 
+_Entity_deleted_atom.Comp_index_ID 
+_Entity_deleted_atom.Seq_ID 
+_Entity_deleted_atom.Atom_ID 
+_Entity_deleted_atom.Auth_entity_assembly_ID 
+_Entity_deleted_atom.Auth_seq_ID 
+_Entity_deleted_atom.Auth_comp_ID 
+_Entity_deleted_atom.Auth_atom_ID 
+_Entity_deleted_atom.Entry_ID 
+_Entity_deleted_atom.Assembly_ID 
+1 1 CYS 13 13 HG  A 13 CYS HG  6R28 1 
+2 1 ILE 3  3  OXT A 3  ILE OXT 6R28 1 
+3 1 HCS 4  4  H2  A 4  HCS H2  6R28 1 
+4 1 HCS 4  4  OXT A 4  HCS OXT 6R28 1 
+5 1 HIS 5  5  H2  A 5  HIS H2  6R28 1 
+stop_
+save_
+save_entity_1
+# 
+_Entity.Sf_category                       entity 
+_Entity.Sf_framecode                      entity_1 
+_Entity.Entry_ID                          6R28 
+_Entity.ID                                1 
+_Entity.BMRB_code                         . 
+_Entity.Name                              'peptide P7' 
+_Entity.Type                              polymer 
+_Entity.Polymer_common_type               protein 
+_Entity.Polymer_type                      'polypeptide(L)' 
+_Entity.Polymer_type_details              . 
+_Entity.Polymer_strand_ID                 A 
+_Entity.Polymer_seq_one_letter_code_can   PSIXHVHRPDWPCWYR 
+_Entity.Polymer_seq_one_letter_code       'PSI(HCS)HVHRPDWPCWYR' 
+_Entity.Target_identifier                 . 
+_Entity.Polymer_author_defined_seq        . 
+_Entity.Polymer_author_seq_details        . 
+_Entity.Ambiguous_conformational_states   . 
+_Entity.Ambiguous_chem_comp_sites         . 
+_Entity.Nstd_monomer                      yes 
+_Entity.Nstd_chirality                    . 
+_Entity.Nstd_linkage                      no 
+_Entity.Nonpolymer_comp_ID                . 
+_Entity.Nonpolymer_comp_label             . 
+_Entity.Number_of_monomers                16 
+_Entity.Number_of_nonpolymer_components   . 
+_Entity.Paramagnetic                      no 
+_Entity.Thiol_state                       'all other bound' 
+_Entity.Src_method                        syn 
+_Entity.Parent_entity_ID                  . 
+_Entity.Fragment                          ? 
+_Entity.Mutation                          ? 
+_Entity.EC_number                         ? 
+_Entity.Calc_isoelectric_point            . 
+_Entity.Formula_weight                    2070.401 
+_Entity.Formula_weight_exptl              . 
+_Entity.Formula_weight_exptl_meth         . 
+_Entity.Details                           ? 
+_Entity.DB_query_date                     . 
+_Entity.DB_query_revised_last_date        . 
+# 
+loop_
+_Entity_comp_index.ID 
+_Entity_comp_index.Auth_seq_ID 
+_Entity_comp_index.Comp_ID 
+_Entity_comp_index.Comp_label 
+_Entity_comp_index.Entry_ID 
+_Entity_comp_index.Entity_ID 
+1  1  PRO .                6R28 1 
+2  2  SER .                6R28 1 
+3  3  ILE .                6R28 1 
+4  4  HCS '$chem_comp_HCS' 6R28 1 
+5  5  HIS .                6R28 1 
+6  6  VAL .                6R28 1 
+7  7  HIS .                6R28 1 
+8  8  ARG .                6R28 1 
+9  9  PRO .                6R28 1 
+10 10 ASP .                6R28 1 
+11 11 TRP .                6R28 1 
+12 12 PRO .                6R28 1 
+13 13 CYS .                6R28 1 
+14 14 TRP .                6R28 1 
+15 15 TYR .                6R28 1 
+16 16 ARG .                6R28 1 
+stop_
+# 
+loop_
+_Entity_poly_seq.Hetero 
+_Entity_poly_seq.Mon_ID 
+_Entity_poly_seq.Num 
+_Entity_poly_seq.Comp_index_ID 
+_Entity_poly_seq.Entry_ID 
+_Entity_poly_seq.Entity_ID 
+. PRO 1  1  6R28 1 
+. SER 2  2  6R28 1 
+. ILE 3  3  6R28 1 
+. HCS 4  4  6R28 1 
+. HIS 5  5  6R28 1 
+. VAL 6  6  6R28 1 
+. HIS 7  7  6R28 1 
+. ARG 8  8  6R28 1 
+. PRO 9  9  6R28 1 
+. ASP 10 10 6R28 1 
+. TRP 11 11 6R28 1 
+. PRO 12 12 6R28 1 
+. CYS 13 13 6R28 1 
+. TRP 14 14 6R28 1 
+. TYR 15 15 6R28 1 
+. ARG 16 16 6R28 1 
+stop_
+save_
+save_1
+# 
+_Chem_shift_reference.Sf_category    chem_shift_reference 
+_Chem_shift_reference.Sf_framecode   1 
+_Chem_shift_reference.Entry_ID       6R28 
+_Chem_shift_reference.ID             1 
+# 
+loop_
+_Chem_shift_ref.Atom_type 
+_Chem_shift_ref.Atom_isotope_number 
+_Chem_shift_ref.Mol_common_name 
+_Chem_shift_ref.Atom_group 
+_Chem_shift_ref.Concentration_val 
+_Chem_shift_ref.Concentration_units 
+_Chem_shift_ref.Solvent 
+_Chem_shift_ref.Rank 
+_Chem_shift_ref.Chem_shift_units 
+_Chem_shift_ref.Chem_shift_val 
+_Chem_shift_ref.Ref_method 
+_Chem_shift_ref.Ref_type 
+_Chem_shift_ref.Indirect_shift_ratio 
+_Chem_shift_ref.Entry_ID 
+_Chem_shift_ref.Chem_shift_reference_ID 
+H 1 TMS 0 . . . . ppm 0 na indirect 1 6R28 1 
+stop_
+save_
+save_peptide7.csv4
+# 
+_Assigned_chem_shift_list.Sf_category      assigned_chemical_shifts 
+_Assigned_chem_shift_list.Sf_framecode     peptide7.csv4 
+_Assigned_chem_shift_list.Entry_ID         6R28 
+_Assigned_chem_shift_list.ID               1 
+_Assigned_chem_shift_list.Data_file_name   6r28_cs.str 
+# 
+loop_
+_Atom_chem_shift.ID 
+_Atom_chem_shift.Entity_assembly_ID 
+_Atom_chem_shift.Entity_ID 
+_Atom_chem_shift.Comp_index_ID 
+_Atom_chem_shift.Seq_ID 
+_Atom_chem_shift.Comp_ID 
+_Atom_chem_shift.Atom_ID 
+_Atom_chem_shift.Atom_type 
+_Atom_chem_shift.Atom_isotope_number 
+_Atom_chem_shift.Val 
+_Atom_chem_shift.Val_err 
+_Atom_chem_shift.Assign_fig_of_merit 
+_Atom_chem_shift.Ambiguity_code 
+_Atom_chem_shift.Ambiguity_set_ID 
+_Atom_chem_shift.Occupancy 
+_Atom_chem_shift.Resonance_ID 
+_Atom_chem_shift.Auth_asym_ID 
+_Atom_chem_shift.Auth_seq_ID 
+_Atom_chem_shift.Auth_comp_ID 
+_Atom_chem_shift.Auth_atom_ID 
+_Atom_chem_shift.Original_PDB_strand_ID 
+_Atom_chem_shift.Original_PDB_residue_no 
+_Atom_chem_shift.Original_PDB_residue_name 
+_Atom_chem_shift.Original_PDB_atom_name 
+_Atom_chem_shift.Details 
+_Atom_chem_shift.Entry_ID 
+_Atom_chem_shift.Assigned_chem_shift_list_ID 
+1   1 1 1  1  PRO HA   H 1 4.349  0.002 . 1 . . . A 1  PRO HA   A 1  PRO HA   . 6R28 1 
+2   1 1 1  1  PRO HB2  H 1 2.221  0.002 . 2 . . . A 1  PRO HB2  A 1  PRO HB2  . 6R28 1 
+3   1 1 1  1  PRO HB3  H 1 1.903  0.005 . 2 . . . A 1  PRO HB3  A 1  PRO HB3  . 6R28 1 
+4   1 1 1  1  PRO HD2  H 1 3.755  0.004 . 2 . . . A 1  PRO HD2  A 1  PRO HD2  . 6R28 1 
+5   1 1 1  1  PRO HD3  H 1 3.621  0.002 . 2 . . . A 1  PRO HD3  A 1  PRO HD3  . 6R28 1 
+6   1 1 1  1  PRO HG2  H 1 1.963  0.004 . 1 . . . A 1  PRO HG2  A 1  PRO HG2  . 6R28 1 
+7   1 1 2  2  SER HA   H 1 4.457  0.005 . 1 . . . A 2  SER HA   A 2  SER HA   . 6R28 1 
+8   1 1 2  2  SER HB2  H 1 3.721  0.003 . 2 . . . A 2  SER HB2  A 2  SER HB2  . 6R28 1 
+9   1 1 2  2  SER HB3  H 1 3.747  0.003 . 2 . . . A 2  SER HB3  A 2  SER HB3  . 6R28 1 
+10  1 1 3  3  ILE H    H 1 8.238  0.001 . 1 . . . A 3  ILE H    A 3  ILE H    . 6R28 1 
+11  1 1 3  3  ILE HA   H 1 4.120  0.002 . 1 . . . A 3  ILE HA   A 3  ILE HA   . 6R28 1 
+12  1 1 3  3  ILE HB   H 1 1.699  0.004 . 1 . . . A 3  ILE HB   A 3  ILE HB   . 6R28 1 
+13  1 1 3  3  ILE HD11 H 1 0.734  0.004 . 1 . . . A 3  ILE HD11 A 3  ILE HD11 . 6R28 1 
+14  1 1 3  3  ILE HD12 H 1 0.734  0.004 . 1 . . . A 3  ILE HD12 A 3  ILE HD12 . 6R28 1 
+15  1 1 3  3  ILE HD13 H 1 0.734  0.004 . 1 . . . A 3  ILE HD13 A 3  ILE HD13 . 6R28 1 
+16  1 1 3  3  ILE HG12 H 1 1.304  0.002 . 2 . . . A 3  ILE HG12 A 3  ILE HG12 . 6R28 1 
+17  1 1 3  3  ILE HG13 H 1 1.045  0.003 . 2 . . . A 3  ILE HG13 A 3  ILE HG13 . 6R28 1 
+18  1 1 3  3  ILE HG21 H 1 0.707  0.003 . 1 . . . A 3  ILE HG21 A 3  ILE HG21 . 6R28 1 
+19  1 1 3  3  ILE HG22 H 1 0.707  0.003 . 1 . . . A 3  ILE HG22 A 3  ILE HG22 . 6R28 1 
+20  1 1 3  3  ILE HG23 H 1 0.707  0.003 . 1 . . . A 3  ILE HG23 A 3  ILE HG23 . 6R28 1 
+21  1 1 4  4  HCS H    H 1 8.295  0.002 . 1 . . . A 4  HCS H    A 4  HCS H    . 6R28 1 
+22  1 1 4  4  HCS HA   H 1 4.404  0.001 . 1 . . . A 4  HCS HA   A 4  HCS HCA  . 6R28 1 
+23  1 1 4  4  HCS HB2  H 1 1.912  0.002 . 2 . . . A 4  HCS HB2  A 4  HCS HB2  . 6R28 1 
+24  1 1 4  4  HCS HB3  H 1 1.963  0.004 . 2 . . . A 4  HCS HB3  A 4  HCS HB3  . 6R28 1 
+25  1 1 4  4  HCS HG2  H 1 2.485  0.005 . 2 . . . A 4  HCS HG2  A 4  HCS HG2  . 6R28 1 
+26  1 1 4  4  HCS HG3  H 1 2.642  0.004 . 2 . . . A 4  HCS HG3  A 4  HCS HG3  . 6R28 1 
+27  1 1 5  5  HIS H    H 1 7.783  0.002 . 1 . . . A 5  HIS H    A 5  HIS H    . 6R28 1 
+28  1 1 5  5  HIS HA   H 1 4.541  0.004 . 1 . . . A 5  HIS HA   A 5  HIS HA   . 6R28 1 
+29  1 1 5  5  HIS HB2  H 1 2.921  0.002 . 2 . . . A 5  HIS HB2  A 5  HIS HB2  . 6R28 1 
+30  1 1 5  5  HIS HB3  H 1 2.948  0.003 . 2 . . . A 5  HIS HB3  A 5  HIS HB3  . 6R28 1 
+31  1 1 5  5  HIS HD2  H 1 6.857  0.002 . 1 . . . A 5  HIS HD2  A 5  HIS HD2  . 6R28 1 
+32  1 1 5  5  HIS HE1  H 1 7.784  0.001 . 1 . . . A 5  HIS HE1  A 5  HIS HE1  . 6R28 1 
+33  1 1 6  6  VAL H    H 1 7.980  0.000 . 1 . . . A 6  VAL H    A 6  VAL H    . 6R28 1 
+34  1 1 6  6  VAL HA   H 1 3.903  0.002 . 1 . . . A 6  VAL HA   A 6  VAL HA   . 6R28 1 
+35  1 1 6  6  VAL HB   H 1 1.868  0.003 . 1 . . . A 6  VAL HB   A 6  VAL HB   . 6R28 1 
+36  1 1 6  6  VAL HG11 H 1 0.732  0.005 . 2 . . . A 6  VAL HG11 A 6  VAL HG11 . 6R28 1 
+37  1 1 6  6  VAL HG12 H 1 0.732  0.005 . 2 . . . A 6  VAL HG12 A 6  VAL HG12 . 6R28 1 
+38  1 1 6  6  VAL HG13 H 1 0.732  0.005 . 2 . . . A 6  VAL HG13 A 6  VAL HG13 . 6R28 1 
+39  1 1 6  6  VAL HG21 H 1 0.699  0.003 . 2 . . . A 6  VAL HG21 A 6  VAL HG21 . 6R28 1 
+40  1 1 6  6  VAL HG22 H 1 0.699  0.003 . 2 . . . A 6  VAL HG22 A 6  VAL HG22 . 6R28 1 
+41  1 1 6  6  VAL HG23 H 1 0.699  0.003 . 2 . . . A 6  VAL HG23 A 6  VAL HG23 . 6R28 1 
+42  1 1 7  7  HIS H    H 1 8.530  0.001 . 1 . . . A 7  HIS H    A 7  HIS H    . 6R28 1 
+43  1 1 7  7  HIS HA   H 1 4.524  0.002 . 1 . . . A 7  HIS HA   A 7  HIS HA   . 6R28 1 
+44  1 1 7  7  HIS HB2  H 1 3.008  0.006 . 2 . . . A 7  HIS HB2  A 7  HIS HB2  . 6R28 1 
+45  1 1 7  7  HIS HB3  H 1 2.959  0.004 . 2 . . . A 7  HIS HB3  A 7  HIS HB3  . 6R28 1 
+46  1 1 7  7  HIS HD2  H 1 6.853  0.004 . 1 . . . A 7  HIS HD2  A 7  HIS HD2  . 6R28 1 
+47  1 1 7  7  HIS HE1  H 1 7.737  0.002 . 1 . . . A 7  HIS HE1  A 7  HIS HE1  . 6R28 1 
+48  1 1 8  8  ARG H    H 1 7.737  0.001 . 1 . . . A 8  ARG H    A 8  ARG H    . 6R28 1 
+49  1 1 8  8  ARG HA   H 1 4.534  0.002 . 1 . . . A 8  ARG HA   A 8  ARG HA   . 6R28 1 
+50  1 1 8  8  ARG HB2  H 1 1.487  0.004 . 2 . . . A 8  ARG HB2  A 8  ARG HB2  . 6R28 1 
+51  1 1 8  8  ARG HB3  H 1 1.324  0.005 . 2 . . . A 8  ARG HB3  A 8  ARG HB3  . 6R28 1 
+52  1 1 8  8  ARG HD2  H 1 2.492  0.004 . 2 . . . A 8  ARG HD2  A 8  ARG HD2  . 6R28 1 
+53  1 1 8  8  ARG HD3  H 1 2.645  0.006 . 2 . . . A 8  ARG HD3  A 8  ARG HD3  . 6R28 1 
+54  1 1 8  8  ARG HE   H 1 7.410  0.003 . 1 . . . A 8  ARG HE   A 8  ARG HE   . 6R28 1 
+55  1 1 8  8  ARG HG2  H 1 0.988  0.004 . 2 . . . A 8  ARG HG2  A 8  ARG HG2  . 6R28 1 
+56  1 1 8  8  ARG HG3  H 1 1.112  0.005 . 2 . . . A 8  ARG HG3  A 8  ARG HG3  . 6R28 1 
+57  1 1 9  9  PRO HA   H 1 4.178  0.003 . 1 . . . A 9  PRO HA   A 9  PRO HA   . 6R28 1 
+58  1 1 9  9  PRO HB2  H 1 2.138  0.002 . 2 . . . A 9  PRO HB2  A 9  PRO HB2  . 6R28 1 
+59  1 1 9  9  PRO HB3  H 1 1.836  0.004 . 2 . . . A 9  PRO HB3  A 9  PRO HB3  . 6R28 1 
+60  1 1 9  9  PRO HD2  H 1 3.542  0.003 . 2 . . . A 9  PRO HD2  A 9  PRO HD2  . 6R28 1 
+61  1 1 9  9  PRO HD3  H 1 3.484  0.006 . 2 . . . A 9  PRO HD3  A 9  PRO HD3  . 6R28 1 
+62  1 1 9  9  PRO HG2  H 1 1.865  0.003 . 1 . . . A 9  PRO HG2  A 9  PRO HG2  . 6R28 1 
+63  1 1 10 10 ASP H    H 1 8.607  0.001 . 1 . . . A 10 ASP H    A 10 ASP H    . 6R28 1 
+64  1 1 10 10 ASP HA   H 1 4.387  0.004 . 1 . . . A 10 ASP HA   A 10 ASP HA   . 6R28 1 
+65  1 1 10 10 ASP HB2  H 1 2.671  0.002 . 2 . . . A 10 ASP HB2  A 10 ASP HB2  . 6R28 1 
+66  1 1 10 10 ASP HB3  H 1 2.532  0.001 . 2 . . . A 10 ASP HB3  A 10 ASP HB3  . 6R28 1 
+67  1 1 11 11 TRP H    H 1 7.672  0.001 . 1 . . . A 11 TRP H    A 11 TRP H    . 6R28 1 
+68  1 1 11 11 TRP HA   H 1 4.914  0.002 . 1 . . . A 11 TRP HA   A 11 TRP HA   . 6R28 1 
+69  1 1 11 11 TRP HB2  H 1 2.991  0.009 . 2 . . . A 11 TRP HB2  A 11 TRP HB2  . 6R28 1 
+70  1 1 11 11 TRP HB3  H 1 3.108  0.006 . 2 . . . A 11 TRP HB3  A 11 TRP HB3  . 6R28 1 
+71  1 1 11 11 TRP HD1  H 1 6.951  0.001 . 1 . . . A 11 TRP HD1  A 11 TRP HD1  . 6R28 1 
+72  1 1 11 11 TRP HE1  H 1 9.831  0.001 . 1 . . . A 11 TRP HE1  A 11 TRP HE1  . 6R28 1 
+73  1 1 11 11 TRP HE3  H 1 7.342  0.003 . 1 . . . A 11 TRP HE3  A 11 TRP HE3  . 6R28 1 
+74  1 1 11 11 TRP HH2  H 1 7.089  0.002 . 1 . . . A 11 TRP HH2  A 11 TRP HH2  . 6R28 1 
+75  1 1 11 11 TRP HZ2  H 1 7.322  0.003 . 1 . . . A 11 TRP HZ2  A 11 TRP HZ2  . 6R28 1 
+76  1 1 11 11 TRP HZ3  H 1 6.951  0.001 . 1 . . . A 11 TRP HZ3  A 11 TRP HZ3  . 6R28 1 
+77  1 1 12 12 PRO HA   H 1 4.252  0.002 . 1 . . . A 12 PRO HA   A 12 PRO HA   . 6R28 1 
+78  1 1 12 12 PRO HB2  H 1 1.828  0.004 . 2 . . . A 12 PRO HB2  A 12 PRO HB2  . 6R28 1 
+79  1 1 12 12 PRO HB3  H 1 1.170  0.004 . 2 . . . A 12 PRO HB3  A 12 PRO HB3  . 6R28 1 
+80  1 1 12 12 PRO HD2  H 1 3.025  0.004 . 2 . . . A 12 PRO HD2  A 12 PRO HD2  . 6R28 1 
+81  1 1 12 12 PRO HD3  H 1 3.454  0.002 . 2 . . . A 12 PRO HD3  A 12 PRO HD3  . 6R28 1 
+82  1 1 12 12 PRO HG2  H 1 1.505  0.004 . 2 . . . A 12 PRO HG2  A 12 PRO HG2  . 6R28 1 
+83  1 1 12 12 PRO HG3  H 1 1.645  0.004 . 2 . . . A 12 PRO HG3  A 12 PRO HG3  . 6R28 1 
+84  1 1 13 13 CYS H    H 1 8.519  0.001 . 1 . . . A 13 CYS H    A 13 CYS H    . 6R28 1 
+85  1 1 13 13 CYS HA   H 1 4.478  0.003 . 1 . . . A 13 CYS HA   A 13 CYS HA   . 6R28 1 
+86  1 1 13 13 CYS HB2  H 1 2.859  0.002 . 1 . . . A 13 CYS HB2  A 13 CYS HB2  . 6R28 1 
+87  1 1 13 13 CYS HB3  H 1 2.859  0.002 . 1 . . . A 13 CYS HB3  A 13 CYS HB3  . 6R28 1 
+88  1 1 14 14 TRP H    H 1 7.729  0.002 . 1 . . . A 14 TRP H    A 14 TRP H    . 6R28 1 
+89  1 1 14 14 TRP HA   H 1 4.627  0.002 . 1 . . . A 14 TRP HA   A 14 TRP HA   . 6R28 1 
+90  1 1 14 14 TRP HB2  H 1 3.138  0.004 . 2 . . . A 14 TRP HB2  A 14 TRP HB2  . 6R28 1 
+91  1 1 14 14 TRP HB3  H 1 3.225  0.004 . 2 . . . A 14 TRP HB3  A 14 TRP HB3  . 6R28 1 
+92  1 1 14 14 TRP HD1  H 1 7.108  0.003 . 1 . . . A 14 TRP HD1  A 14 TRP HD1  . 6R28 1 
+93  1 1 14 14 TRP HE1  H 1 10.117 0.001 . 1 . . . A 14 TRP HE1  A 14 TRP HE1  . 6R28 1 
+94  1 1 14 14 TRP HE3  H 1 7.442  0.002 . 1 . . . A 14 TRP HE3  A 14 TRP HE3  . 6R28 1 
+95  1 1 14 14 TRP HH2  H 1 7.088  0.002 . 1 . . . A 14 TRP HH2  A 14 TRP HH2  . 6R28 1 
+96  1 1 14 14 TRP HZ2  H 1 7.350  0.003 . 1 . . . A 14 TRP HZ2  A 14 TRP HZ2  . 6R28 1 
+97  1 1 14 14 TRP HZ3  H 1 7.027  0.002 . 1 . . . A 14 TRP HZ3  A 14 TRP HZ3  . 6R28 1 
+98  1 1 15 15 TYR H    H 1 7.634  0.002 . 1 . . . A 15 TYR H    A 15 TYR H    . 6R28 1 
+99  1 1 15 15 TYR HA   H 1 4.351  0.002 . 1 . . . A 15 TYR HA   A 15 TYR HA   . 6R28 1 
+100 1 1 15 15 TYR HB2  H 1 2.538  0.005 . 2 . . . A 15 TYR HB2  A 15 TYR HB2  . 6R28 1 
+101 1 1 15 15 TYR HB3  H 1 2.654  0.004 . 2 . . . A 15 TYR HB3  A 15 TYR HB3  . 6R28 1 
+102 1 1 15 15 TYR HD1  H 1 6.714  0.003 . 1 . . . A 15 TYR HD1  A 15 TYR HD1  . 6R28 1 
+103 1 1 15 15 TYR HD2  H 1 6.714  0.003 . 1 . . . A 15 TYR HD2  A 15 TYR HD2  . 6R28 1 
+104 1 1 15 15 TYR HE1  H 1 6.538  0.002 . 1 . . . A 15 TYR HE1  A 15 TYR HE1  . 6R28 1 
+105 1 1 15 15 TYR HE2  H 1 6.538  0.002 . 1 . . . A 15 TYR HE2  A 15 TYR HE2  . 6R28 1 
+106 1 1 16 16 ARG H    H 1 7.957  0.002 . 1 . . . A 16 ARG H    A 16 ARG H    . 6R28 1 
+107 1 1 16 16 ARG HA   H 1 4.048  0.002 . 1 . . . A 16 ARG HA   A 16 ARG HA   . 6R28 1 
+108 1 1 16 16 ARG HB2  H 1 1.659  0.002 . 2 . . . A 16 ARG HB2  A 16 ARG HB2  . 6R28 1 
+109 1 1 16 16 ARG HB3  H 1 1.466  0.003 . 2 . . . A 16 ARG HB3  A 16 ARG HB3  . 6R28 1 
+110 1 1 16 16 ARG HD2  H 1 2.987  0.001 . 1 . . . A 16 ARG HD2  A 16 ARG HD2  . 6R28 1 
+111 1 1 16 16 ARG HG2  H 1 1.371  0.010 . 2 . . . A 16 ARG HG2  A 16 ARG HG2  . 6R28 1 
+112 1 1 16 16 ARG HG3  H 1 1.394  0.002 . 2 . . . A 16 ARG HG3  A 16 ARG HG3  . 6R28 1 
+stop_
+save_
+save_constraint_statistics
+# 
+_Constraint_stat_list.Sf_category                       constraint_statistics 
+_Constraint_stat_list.Sf_framecode                      constraint_statistics 
+_Constraint_stat_list.Entry_ID                          6R28 
+_Constraint_stat_list.ID                                1 
+_Constraint_stat_list.Data_file_name                    6r28.mr 
+_Constraint_stat_list.NOE_dist_averaging_method         r-6 
+_Constraint_stat_list.NOE_tot_num                       388 
+_Constraint_stat_list.NOE_intraresidue_tot_num          170 
+_Constraint_stat_list.NOE_sequential_tot_num            110 
+_Constraint_stat_list.NOE_medium_range_tot_num          108 
+_Constraint_stat_list.NOE_long_range_tot_num            52 
+_Constraint_stat_list.NOE_unique_tot_num                328 
+_Constraint_stat_list.NOE_intraresidue_unique_tot_num   164 
+_Constraint_stat_list.NOE_sequential_unique_tot_num     75 
+_Constraint_stat_list.NOE_medium_range_unique_tot_num   71 
+_Constraint_stat_list.NOE_long_range_unique_tot_num     18 
+_Constraint_stat_list.NOE_unamb_intramol_tot_num        328 
+_Constraint_stat_list.NOE_unamb_intermol_tot_num        0 
+_Constraint_stat_list.NOE_ambig_intramol_tot_num        112 
+_Constraint_stat_list.NOE_ambig_intermol_tot_num        0 
+_Constraint_stat_list.NOE_interentity_tot_num           0 
+_Constraint_stat_list.NOE_other_tot_num                 0 
+# 
+loop_
+_Constraint_file.ID 
+_Constraint_file.Constraint_filename 
+_Constraint_file.Software_ID 
+_Constraint_file.Software_label 
+_Constraint_file.Software_name 
+_Constraint_file.Block_ID 
+_Constraint_file.Constraint_type 
+_Constraint_file.Constraint_subtype 
+_Constraint_file.Constraint_subsubtype 
+_Constraint_file.Constraint_number 
+_Constraint_file.Entry_ID 
+_Constraint_file.Constraint_stat_list_ID 
+1 ambig.tbl                 1 . 'X-PLOR NIH/CNS' 1 distance NOE                ambi   32  6R28 1 
+2 D_1292101294_mr_P1.cns.V3 1 . 'X-PLOR NIH/CNS' 2 distance NOE                ambi   356 6R28 1 
+2 D_1292101294_mr_P1.cns.V3 1 . 'X-PLOR NIH/CNS' 3 distance 'general distance' simple 52  6R28 1 
+stop_
+save_
+save_XPLOR-NIH/CNS_distance_restraints_1
+# 
+_Gen_dist_constraint_list.Sf_category          general_distance_constraints 
+_Gen_dist_constraint_list.Sf_framecode         XPLOR-NIH/CNS_distance_restraints_1 
+_Gen_dist_constraint_list.Entry_ID             6R28 
+_Gen_dist_constraint_list.ID                   1 
+_Gen_dist_constraint_list.Data_file_name       ambig.tbl 
+_Gen_dist_constraint_list.Constraint_type      NOE 
+_Gen_dist_constraint_list.Constraint_file_ID   1 
+_Gen_dist_constraint_list.Potential_type       square-well-parabolic 
+_Gen_dist_constraint_list.Block_ID             1 
+# 
+loop_
+_Gen_dist_constraint.Index_ID 
+_Gen_dist_constraint.ID 
+_Gen_dist_constraint.Combination_ID 
+_Gen_dist_constraint.Member_ID 
+_Gen_dist_constraint.Member_logic_code 
+_Gen_dist_constraint.Entity_assembly_ID_1 
+_Gen_dist_constraint.Entity_ID_1 
+_Gen_dist_constraint.Comp_index_ID_1 
+_Gen_dist_constraint.Comp_ID_1 
+_Gen_dist_constraint.Atom_ID_1 
+_Gen_dist_constraint.Entity_assembly_ID_2 
+_Gen_dist_constraint.Entity_ID_2 
+_Gen_dist_constraint.Comp_index_ID_2 
+_Gen_dist_constraint.Comp_ID_2 
+_Gen_dist_constraint.Atom_ID_2 
+_Gen_dist_constraint.Distance_val 
+_Gen_dist_constraint.Target_val 
+_Gen_dist_constraint.Target_val_uncertainty 
+_Gen_dist_constraint.Lower_linear_limit 
+_Gen_dist_constraint.Upper_linear_limit 
+_Gen_dist_constraint.Distance_lower_bound_val 
+_Gen_dist_constraint.Distance_upper_bound_val 
+_Gen_dist_constraint.Weight 
+_Gen_dist_constraint.Auth_asym_ID_1 
+_Gen_dist_constraint.Auth_seq_ID_1 
+_Gen_dist_constraint.Auth_comp_ID_1 
+_Gen_dist_constraint.Auth_atom_ID_1 
+_Gen_dist_constraint.Auth_atom_name_1 
+_Gen_dist_constraint.Auth_asym_ID_2 
+_Gen_dist_constraint.Auth_seq_ID_2 
+_Gen_dist_constraint.Auth_comp_ID_2 
+_Gen_dist_constraint.Auth_atom_ID_2 
+_Gen_dist_constraint.Auth_atom_name_2 
+_Gen_dist_constraint.Entry_ID 
+_Gen_dist_constraint.Gen_dist_constraint_list_ID 
+1   1  1 . OR 1 1 11 TRP H    1 1 6  VAL HG11 . 3.7 . . . 2.0 5.4 1.0 A 11 TRP H    H    A 6  VAL HG11 HG1% 6R28 1 
+2   1  1 . OR 1 1 11 TRP H    1 1 6  VAL HG12 . 3.7 . . . 2.0 5.4 1.0 A 11 TRP H    H    A 6  VAL HG12 HG1% 6R28 1 
+3   1  1 . OR 1 1 11 TRP H    1 1 6  VAL HG13 . 3.7 . . . 2.0 5.4 1.0 A 11 TRP H    H    A 6  VAL HG13 HG1% 6R28 1 
+4   1  2 . OR 1 1 11 TRP H    1 1 3  ILE HG21 . 3.7 . . . 2.0 5.4 1.0 A 11 TRP H    H    A 3  ILE HG21 HG2% 6R28 1 
+5   1  2 . OR 1 1 11 TRP H    1 1 3  ILE HG22 . 3.7 . . . 2.0 5.4 1.0 A 11 TRP H    H    A 3  ILE HG22 HG2% 6R28 1 
+6   1  2 . OR 1 1 11 TRP H    1 1 3  ILE HG23 . 3.7 . . . 2.0 5.4 1.0 A 11 TRP H    H    A 3  ILE HG23 HG2% 6R28 1 
+7   2  1 . .  1 1 11 TRP HZ2  1 1 8  ARG HD3  . 3.6 . . . 0.0 6.0 1.0 A 11 TRP HZ2  HZ2  A 8  ARG HD3  HD3  6R28 1 
+8   2  2 . .  1 1 11 TRP HZ2  1 1 15 TYR HB3  . 3.6 . . . 0.0 6.0 1.0 A 11 TRP HZ2  HZ2  A 15 TYR HB3  HB3  6R28 1 
+9   3  1 . .  1 1 11 TRP HZ3  1 1 8  ARG HD3  . 2.6 . . . 0.0 6.0 1.0 A 11 TRP HZ3  HZ3  A 8  ARG HD3  HD3  6R28 1 
+10  3  2 . .  1 1 11 TRP HZ3  1 1 15 TYR HB3  . 2.6 . . . 0.0 6.0 1.0 A 11 TRP HZ3  HZ3  A 15 TYR HB3  HB3  6R28 1 
+11  3  3 . .  1 1 11 TRP HD1  1 1 8  ARG HD3  . 2.6 . . . 0.0 6.0 1.0 A 11 TRP HD1  HD1  A 8  ARG HD3  HD3  6R28 1 
+12  3  4 . .  1 1 11 TRP HD1  1 1 15 TYR HB3  . 2.6 . . . 0.0 6.0 1.0 A 11 TRP HD1  HD1  A 15 TYR HB3  HB3  6R28 1 
+13  4  1 . .  1 1 11 TRP HZ3  1 1 15 TYR HB2  . 2.9 . . . 0.0 6.0 1.0 A 11 TRP HZ3  HZ3  A 15 TYR HB2  HB2  6R28 1 
+14  4  2 . .  1 1 11 TRP HD1  1 1 10 ASP HB2  . 2.9 . . . 0.0 6.0 1.0 A 11 TRP HD1  HD1  A 10 ASP HB2  HB2  6R28 1 
+15  5  1 . .  1 1 11 TRP HD1  1 1 12 PRO HB2  . 3.4 . . . 0.0 6.0 1.0 A 11 TRP HD1  HD1  A 12 PRO HB2  HB2  6R28 1 
+16  5  2 . .  1 1 11 TRP HD1  1 1 9  PRO HB2  . 3.4 . . . 0.0 6.0 1.0 A 11 TRP HD1  HD1  A 9  PRO HB2  HB2  6R28 1 
+17  6  1 . .  1 1 14 TRP HH2  1 1 12 PRO HG2  . 3.4 . . . 1.9 4.9 1.0 A 14 TRP HH2  HH2  A 12 PRO HG2  HG2  6R28 1 
+18  6  2 . .  1 1 11 TRP HH2  1 1 8  ARG HB2  . 3.4 . . . 1.9 4.9 1.0 A 11 TRP HH2  HH2  A 8  ARG HB2  HB2  6R28 1 
+19  7  1 . .  1 1 11 TRP HH2  1 1 8  ARG HD3  . 3.4 . . . 0.0 6.0 1.0 A 11 TRP HH2  HH2  A 8  ARG HD3  HD3  6R28 1 
+20  7  2 . .  1 1 11 TRP HH2  1 1 15 TYR HB3  . 3.4 . . . 0.0 6.0 1.0 A 11 TRP HH2  HH2  A 15 TYR HB3  HB3  6R28 1 
+21  7  3 . .  1 1 14 TRP HH2  1 1 15 TYR HB3  . 3.4 . . . 0.0 6.0 1.0 A 14 TRP HH2  HH2  A 15 TYR HB3  HB3  6R28 1 
+22  8  1 . .  1 1 14 TRP HH2  1 1 15 TYR HB2  . 3.6 . . . 0.0 6.0 1.0 A 14 TRP HH2  HH2  A 15 TYR HB2  HB2  6R28 1 
+23  8  2 . .  1 1 11 TRP HH2  1 1 15 TYR HB2  . 3.6 . . . 0.0 6.0 1.0 A 11 TRP HH2  HH2  A 15 TYR HB2  HB2  6R28 1 
+24  9  1 . .  1 1 8  ARG H    1 1 8  ARG HA   . 2.4 . . . 1.7 3.1 1.0 A 8  ARG H    H    A 8  ARG HA   HA   6R28 1 
+25  9  2 . .  1 1 8  ARG H    1 1 7  HIS HA   . 2.4 . . . 1.7 3.1 1.0 A 8  ARG H    H    A 7  HIS HA   HA   6R28 1 
+26  10 1 . OR 1 1 15 TYR HD1  1 1 8  ARG HB2  . 3.4 . . . 0.0 6.0 1.0 A 15 TYR HD1  HD%  A 8  ARG HB2  HB2  6R28 1 
+27  10 1 . OR 1 1 15 TYR HD2  1 1 8  ARG HB2  . 3.4 . . . 0.0 6.0 1.0 A 15 TYR HD2  HD%  A 8  ARG HB2  HB2  6R28 1 
+28  10 2 . OR 1 1 15 TYR HD1  1 1 16 ARG HB3  . 3.4 . . . 0.0 6.0 1.0 A 15 TYR HD1  HD%  A 16 ARG HB3  HB3  6R28 1 
+29  10 2 . OR 1 1 15 TYR HD2  1 1 16 ARG HB3  . 3.4 . . . 0.0 6.0 1.0 A 15 TYR HD2  HD%  A 16 ARG HB3  HB3  6R28 1 
+30  11 1 . OR 1 1 15 TYR HD1  1 1 14 TRP HB2  . 3.1 . . . 0.0 6.0 1.0 A 15 TYR HD1  HD%  A 14 TRP HB2  HB2  6R28 1 
+31  11 1 . OR 1 1 15 TYR HD2  1 1 14 TRP HB2  . 3.1 . . . 0.0 6.0 1.0 A 15 TYR HD2  HD%  A 14 TRP HB2  HB2  6R28 1 
+32  11 2 . OR 1 1 15 TYR HD1  1 1 11 TRP HB2  . 3.1 . . . 0.0 6.0 1.0 A 15 TYR HD1  HD%  A 11 TRP HB2  HB2  6R28 1 
+33  11 2 . OR 1 1 15 TYR HD2  1 1 11 TRP HB2  . 3.1 . . . 0.0 6.0 1.0 A 15 TYR HD2  HD%  A 11 TRP HB2  HB2  6R28 1 
+34  12 1 . OR 1 1 15 TYR HE1  1 1 14 TRP HB2  . 3.7 . . . 1.9 5.5 1.0 A 15 TYR HE1  HE%  A 14 TRP HB2  HB2  6R28 1 
+35  12 1 . OR 1 1 15 TYR HE2  1 1 14 TRP HB2  . 3.7 . . . 1.9 5.5 1.0 A 15 TYR HE2  HE%  A 14 TRP HB2  HB2  6R28 1 
+36  12 2 . OR 1 1 15 TYR HE1  1 1 11 TRP HB2  . 3.7 . . . 1.9 5.5 1.0 A 15 TYR HE1  HE%  A 11 TRP HB2  HB2  6R28 1 
+37  12 2 . OR 1 1 15 TYR HE2  1 1 11 TRP HB2  . 3.7 . . . 1.9 5.5 1.0 A 15 TYR HE2  HE%  A 11 TRP HB2  HB2  6R28 1 
+38  13 1 . OR 1 1 15 TYR HE1  1 1 11 TRP HB3  . 3.3 . . . 0.0 6.0 1.0 A 15 TYR HE1  HE%  A 11 TRP HB3  HB3  6R28 1 
+39  13 1 . OR 1 1 15 TYR HE2  1 1 11 TRP HB3  . 3.3 . . . 0.0 6.0 1.0 A 15 TYR HE2  HE%  A 11 TRP HB3  HB3  6R28 1 
+40  13 2 . OR 1 1 15 TYR HE1  1 1 7  HIS HB3  . 3.3 . . . 0.0 6.0 1.0 A 15 TYR HE1  HE%  A 7  HIS HB3  HB3  6R28 1 
+41  13 2 . OR 1 1 15 TYR HE2  1 1 7  HIS HB3  . 3.3 . . . 0.0 6.0 1.0 A 15 TYR HE2  HE%  A 7  HIS HB3  HB3  6R28 1 
+42  14 1 . OR 1 1 15 TYR HD1  1 1 11 TRP HH2  . 3.2 . . . 1.9 4.5 1.0 A 15 TYR HD1  HD%  A 11 TRP HH2  HH2  6R28 1 
+43  14 1 . OR 1 1 15 TYR HD2  1 1 11 TRP HH2  . 3.2 . . . 1.9 4.5 1.0 A 15 TYR HD2  HD%  A 11 TRP HH2  HH2  6R28 1 
+44  14 2 . OR 1 1 15 TYR HD1  1 1 14 TRP HD1  . 3.2 . . . 1.9 4.5 1.0 A 15 TYR HD1  HD%  A 14 TRP HD1  HD1  6R28 1 
+45  14 2 . OR 1 1 15 TYR HD2  1 1 14 TRP HD1  . 3.2 . . . 1.9 4.5 1.0 A 15 TYR HD2  HD%  A 14 TRP HD1  HD1  6R28 1 
+46  15 1 . OR 1 1 7  HIS HD2  1 1 6  VAL HG11 . 2.7 . . . 0.0 6.0 1.0 A 7  HIS HD2  HD2  A 6  VAL HG11 HG1% 6R28 1 
+47  15 1 . OR 1 1 7  HIS HD2  1 1 6  VAL HG12 . 2.7 . . . 0.0 6.0 1.0 A 7  HIS HD2  HD2  A 6  VAL HG12 HG1% 6R28 1 
+48  15 1 . OR 1 1 7  HIS HD2  1 1 6  VAL HG13 . 2.7 . . . 0.0 6.0 1.0 A 7  HIS HD2  HD2  A 6  VAL HG13 HG1% 6R28 1 
+49  15 2 . OR 1 1 5  HIS HD2  1 1 6  VAL HG11 . 2.7 . . . 0.0 6.0 1.0 A 5  HIS HD2  HD2  A 6  VAL HG11 HG1% 6R28 1 
+50  15 2 . OR 1 1 5  HIS HD2  1 1 6  VAL HG12 . 2.7 . . . 0.0 6.0 1.0 A 5  HIS HD2  HD2  A 6  VAL HG12 HG1% 6R28 1 
+51  15 2 . OR 1 1 5  HIS HD2  1 1 6  VAL HG13 . 2.7 . . . 0.0 6.0 1.0 A 5  HIS HD2  HD2  A 6  VAL HG13 HG1% 6R28 1 
+52  16 1 . .  1 1 7  HIS HD2  1 1 8  ARG HD3  . 3.0 . . . 1.9 4.1 1.0 A 7  HIS HD2  HD2  A 8  ARG HD3  HD3  6R28 1 
+53  16 2 . .  1 1 5  HIS HD2  1 1 4  HCS HG3  . 3.0 . . . 1.9 4.1 1.0 A 5  HIS HD2  HD2  A 4  HCS HG3  HG2  6R28 1 
+54  17 1 . OR 1 1 5  HIS HB2  1 1 6  VAL HG21 . 3.0 . . . 0.0 6.0 1.0 A 5  HIS HB2  HB2  A 6  VAL HG21 HG2% 6R28 1 
+55  17 1 . OR 1 1 5  HIS HB2  1 1 6  VAL HG22 . 3.0 . . . 0.0 6.0 1.0 A 5  HIS HB2  HB2  A 6  VAL HG22 HG2% 6R28 1 
+56  17 1 . OR 1 1 5  HIS HB2  1 1 6  VAL HG23 . 3.0 . . . 0.0 6.0 1.0 A 5  HIS HB2  HB2  A 6  VAL HG23 HG2% 6R28 1 
+57  17 2 . OR 1 1 5  HIS HB2  1 1 3  ILE HG21 . 3.0 . . . 0.0 6.0 1.0 A 5  HIS HB2  HB2  A 3  ILE HG21 HG2% 6R28 1 
+58  17 2 . OR 1 1 5  HIS HB2  1 1 3  ILE HG22 . 3.0 . . . 0.0 6.0 1.0 A 5  HIS HB2  HB2  A 3  ILE HG22 HG2% 6R28 1 
+59  17 2 . OR 1 1 5  HIS HB2  1 1 3  ILE HG23 . 3.0 . . . 0.0 6.0 1.0 A 5  HIS HB2  HB2  A 3  ILE HG23 HG2% 6R28 1 
+60  18 1 . OR 1 1 5  HIS HB3  1 1 6  VAL HG21 . 3.3 . . . 1.9 4.7 1.0 A 5  HIS HB3  HB3  A 6  VAL HG21 HG2% 6R28 1 
+61  18 1 . OR 1 1 5  HIS HB3  1 1 6  VAL HG22 . 3.3 . . . 1.9 4.7 1.0 A 5  HIS HB3  HB3  A 6  VAL HG22 HG2% 6R28 1 
+62  18 1 . OR 1 1 5  HIS HB3  1 1 6  VAL HG23 . 3.3 . . . 1.9 4.7 1.0 A 5  HIS HB3  HB3  A 6  VAL HG23 HG2% 6R28 1 
+63  18 2 . OR 1 1 5  HIS HB3  1 1 3  ILE HG21 . 3.3 . . . 1.9 4.7 1.0 A 5  HIS HB3  HB3  A 3  ILE HG21 HG2% 6R28 1 
+64  18 2 . OR 1 1 5  HIS HB3  1 1 3  ILE HG22 . 3.3 . . . 1.9 4.7 1.0 A 5  HIS HB3  HB3  A 3  ILE HG22 HG2% 6R28 1 
+65  18 2 . OR 1 1 5  HIS HB3  1 1 3  ILE HG23 . 3.3 . . . 1.9 4.7 1.0 A 5  HIS HB3  HB3  A 3  ILE HG23 HG2% 6R28 1 
+66  19 1 . OR 1 1 7  HIS HB2  1 1 6  VAL HG11 . 3.1 . . . 1.9 4.3 1.0 A 7  HIS HB2  HB2  A 6  VAL HG11 HG1% 6R28 1 
+67  19 1 . OR 1 1 7  HIS HB2  1 1 6  VAL HG12 . 3.1 . . . 1.9 4.3 1.0 A 7  HIS HB2  HB2  A 6  VAL HG12 HG1% 6R28 1 
+68  19 1 . OR 1 1 7  HIS HB2  1 1 6  VAL HG13 . 3.1 . . . 1.9 4.3 1.0 A 7  HIS HB2  HB2  A 6  VAL HG13 HG1% 6R28 1 
+69  19 2 . OR 1 1 5  HIS HB2  1 1 3  ILE HG21 . 3.1 . . . 1.9 4.3 1.0 A 5  HIS HB2  HB2  A 3  ILE HG21 HG2% 6R28 1 
+70  19 2 . OR 1 1 5  HIS HB2  1 1 3  ILE HG22 . 3.1 . . . 1.9 4.3 1.0 A 5  HIS HB2  HB2  A 3  ILE HG22 HG2% 6R28 1 
+71  19 2 . OR 1 1 5  HIS HB2  1 1 3  ILE HG23 . 3.1 . . . 1.9 4.3 1.0 A 5  HIS HB2  HB2  A 3  ILE HG23 HG2% 6R28 1 
+72  20 1 . OR 1 1 15 TYR HB2  1 1 6  VAL HG21 . 3.7 . . . 0.0 6.0 1.0 A 15 TYR HB2  HB2  A 6  VAL HG21 HG2% 6R28 1 
+73  20 1 . OR 1 1 15 TYR HB2  1 1 6  VAL HG22 . 3.7 . . . 0.0 6.0 1.0 A 15 TYR HB2  HB2  A 6  VAL HG22 HG2% 6R28 1 
+74  20 1 . OR 1 1 15 TYR HB2  1 1 6  VAL HG23 . 3.7 . . . 0.0 6.0 1.0 A 15 TYR HB2  HB2  A 6  VAL HG23 HG2% 6R28 1 
+75  20 2 . OR 1 1 10 ASP HB2  1 1 6  VAL HG21 . 3.7 . . . 0.0 6.0 1.0 A 10 ASP HB2  HB2  A 6  VAL HG21 HG2% 6R28 1 
+76  20 2 . OR 1 1 10 ASP HB2  1 1 6  VAL HG22 . 3.7 . . . 0.0 6.0 1.0 A 10 ASP HB2  HB2  A 6  VAL HG22 HG2% 6R28 1 
+77  20 2 . OR 1 1 10 ASP HB2  1 1 6  VAL HG23 . 3.7 . . . 0.0 6.0 1.0 A 10 ASP HB2  HB2  A 6  VAL HG23 HG2% 6R28 1 
+78  21 1 . OR 1 1 4  HCS HG3  1 1 3  ILE HG21 . 3.4 . . . 2.0 4.8 1.0 A 4  HCS HG3  HG2  A 3  ILE HG21 HG2% 6R28 1 
+79  21 1 . OR 1 1 4  HCS HG3  1 1 3  ILE HG22 . 3.4 . . . 2.0 4.8 1.0 A 4  HCS HG3  HG2  A 3  ILE HG22 HG2% 6R28 1 
+80  21 1 . OR 1 1 4  HCS HG3  1 1 3  ILE HG23 . 3.4 . . . 2.0 4.8 1.0 A 4  HCS HG3  HG2  A 3  ILE HG23 HG2% 6R28 1 
+81  21 2 . OR 1 1 4  HCS HG3  1 1 6  VAL HG11 . 3.4 . . . 2.0 4.8 1.0 A 4  HCS HG3  HG2  A 6  VAL HG11 HG1% 6R28 1 
+82  21 2 . OR 1 1 4  HCS HG3  1 1 6  VAL HG12 . 3.4 . . . 2.0 4.8 1.0 A 4  HCS HG3  HG2  A 6  VAL HG12 HG1% 6R28 1 
+83  21 2 . OR 1 1 4  HCS HG3  1 1 6  VAL HG13 . 3.4 . . . 2.0 4.8 1.0 A 4  HCS HG3  HG2  A 6  VAL HG13 HG1% 6R28 1 
+84  22 1 . OR 1 1 4  HCS HG2  1 1 3  ILE HG21 . 3.4 . . . 0.0 6.0 1.0 A 4  HCS HG2  HG1  A 3  ILE HG21 HG2% 6R28 1 
+85  22 1 . OR 1 1 4  HCS HG2  1 1 3  ILE HG22 . 3.4 . . . 0.0 6.0 1.0 A 4  HCS HG2  HG1  A 3  ILE HG22 HG2% 6R28 1 
+86  22 1 . OR 1 1 4  HCS HG2  1 1 3  ILE HG23 . 3.4 . . . 0.0 6.0 1.0 A 4  HCS HG2  HG1  A 3  ILE HG23 HG2% 6R28 1 
+87  22 2 . OR 1 1 4  HCS HG2  1 1 6  VAL HG11 . 3.4 . . . 0.0 6.0 1.0 A 4  HCS HG2  HG1  A 6  VAL HG11 HG1% 6R28 1 
+88  22 2 . OR 1 1 4  HCS HG2  1 1 6  VAL HG12 . 3.4 . . . 0.0 6.0 1.0 A 4  HCS HG2  HG1  A 6  VAL HG12 HG1% 6R28 1 
+89  22 2 . OR 1 1 4  HCS HG2  1 1 6  VAL HG13 . 3.4 . . . 0.0 6.0 1.0 A 4  HCS HG2  HG1  A 6  VAL HG13 HG1% 6R28 1 
+90  22 3 . OR 1 1 8  ARG HD2  1 1 6  VAL HG11 . 3.4 . . . 0.0 6.0 1.0 A 8  ARG HD2  HD2  A 6  VAL HG11 HG1% 6R28 1 
+91  22 3 . OR 1 1 8  ARG HD2  1 1 6  VAL HG12 . 3.4 . . . 0.0 6.0 1.0 A 8  ARG HD2  HD2  A 6  VAL HG12 HG1% 6R28 1 
+92  22 3 . OR 1 1 8  ARG HD2  1 1 6  VAL HG13 . 3.4 . . . 0.0 6.0 1.0 A 8  ARG HD2  HD2  A 6  VAL HG13 HG1% 6R28 1 
+93  23 1 . .  1 1 6  VAL HA   1 1 7  HIS HA   . 3.2 . . . 1.9 4.5 1.0 A 6  VAL HA   HA   A 7  HIS HA   HA   6R28 1 
+94  23 2 . .  1 1 6  VAL HA   1 1 5  HIS HA   . 3.2 . . . 1.9 4.5 1.0 A 6  VAL HA   HA   A 5  HIS HA   HA   6R28 1 
+95  24 1 . .  1 1 6  VAL HA   1 1 7  HIS HB2  . 3.3 . . . 1.9 4.7 1.0 A 6  VAL HA   HA   A 7  HIS HB2  HB2  6R28 1 
+96  24 2 . .  1 1 6  VAL HA   1 1 5  HIS HB2  . 3.3 . . . 1.9 4.7 1.0 A 6  VAL HA   HA   A 5  HIS HB2  HB2  6R28 1 
+97  25 1 . OR 1 1 9  PRO HD2  1 1 3  ILE HD11 . 3.9 . . . 2.0 5.8 1.0 A 9  PRO HD2  HD2  A 3  ILE HD11 HD1% 6R28 1 
+98  25 1 . OR 1 1 9  PRO HD2  1 1 3  ILE HD12 . 3.9 . . . 2.0 5.8 1.0 A 9  PRO HD2  HD2  A 3  ILE HD12 HD1% 6R28 1 
+99  25 1 . OR 1 1 9  PRO HD2  1 1 3  ILE HD13 . 3.9 . . . 2.0 5.8 1.0 A 9  PRO HD2  HD2  A 3  ILE HD13 HD1% 6R28 1 
+100 25 2 . OR 1 1 9  PRO HD2  1 1 3  ILE HG21 . 3.9 . . . 2.0 5.8 1.0 A 9  PRO HD2  HD2  A 3  ILE HG21 HG2% 6R28 1 
+101 25 2 . OR 1 1 9  PRO HD2  1 1 3  ILE HG22 . 3.9 . . . 2.0 5.8 1.0 A 9  PRO HD2  HD2  A 3  ILE HG22 HG2% 6R28 1 
+102 25 2 . OR 1 1 9  PRO HD2  1 1 3  ILE HG23 . 3.9 . . . 2.0 5.8 1.0 A 9  PRO HD2  HD2  A 3  ILE HG23 HG2% 6R28 1 
+103 25 3 . OR 1 1 9  PRO HD2  1 1 6  VAL HG21 . 3.9 . . . 2.0 5.8 1.0 A 9  PRO HD2  HD2  A 6  VAL HG21 HG2% 6R28 1 
+104 25 3 . OR 1 1 9  PRO HD2  1 1 6  VAL HG22 . 3.9 . . . 2.0 5.8 1.0 A 9  PRO HD2  HD2  A 6  VAL HG22 HG2% 6R28 1 
+105 25 3 . OR 1 1 9  PRO HD2  1 1 6  VAL HG23 . 3.9 . . . 2.0 5.8 1.0 A 9  PRO HD2  HD2  A 6  VAL HG23 HG2% 6R28 1 
+106 26 1 . OR 1 1 9  PRO HD3  1 1 3  ILE HD11 . 3.8 . . . 2.0 5.6 1.0 A 9  PRO HD3  HD3  A 3  ILE HD11 HD1% 6R28 1 
+107 26 1 . OR 1 1 9  PRO HD3  1 1 3  ILE HD12 . 3.8 . . . 2.0 5.6 1.0 A 9  PRO HD3  HD3  A 3  ILE HD12 HD1% 6R28 1 
+108 26 1 . OR 1 1 9  PRO HD3  1 1 3  ILE HD13 . 3.8 . . . 2.0 5.6 1.0 A 9  PRO HD3  HD3  A 3  ILE HD13 HD1% 6R28 1 
+109 26 2 . OR 1 1 9  PRO HD3  1 1 3  ILE HG21 . 3.8 . . . 2.0 5.6 1.0 A 9  PRO HD3  HD3  A 3  ILE HG21 HG2% 6R28 1 
+110 26 2 . OR 1 1 9  PRO HD3  1 1 3  ILE HG22 . 3.8 . . . 2.0 5.6 1.0 A 9  PRO HD3  HD3  A 3  ILE HG22 HG2% 6R28 1 
+111 26 2 . OR 1 1 9  PRO HD3  1 1 3  ILE HG23 . 3.8 . . . 2.0 5.6 1.0 A 9  PRO HD3  HD3  A 3  ILE HG23 HG2% 6R28 1 
+112 26 3 . OR 1 1 9  PRO HD3  1 1 6  VAL HG21 . 3.8 . . . 2.0 5.6 1.0 A 9  PRO HD3  HD3  A 6  VAL HG21 HG2% 6R28 1 
+113 26 3 . OR 1 1 9  PRO HD3  1 1 6  VAL HG22 . 3.8 . . . 2.0 5.6 1.0 A 9  PRO HD3  HD3  A 6  VAL HG22 HG2% 6R28 1 
+114 26 3 . OR 1 1 9  PRO HD3  1 1 6  VAL HG23 . 3.8 . . . 2.0 5.6 1.0 A 9  PRO HD3  HD3  A 6  VAL HG23 HG2% 6R28 1 
+115 27 1 . OR 1 1 6  VAL HG11 1 1 7  HIS HA   . 2.9 . . . 0.0 6.0 1.0 A 6  VAL HG11 HG1% A 7  HIS HA   HA   6R28 1 
+116 27 1 . OR 1 1 6  VAL HG12 1 1 7  HIS HA   . 2.9 . . . 0.0 6.0 1.0 A 6  VAL HG12 HG1% A 7  HIS HA   HA   6R28 1 
+117 27 1 . OR 1 1 6  VAL HG13 1 1 7  HIS HA   . 2.9 . . . 0.0 6.0 1.0 A 6  VAL HG13 HG1% A 7  HIS HA   HA   6R28 1 
+118 27 2 . OR 1 1 6  VAL HG11 1 1 5  HIS HA   . 2.9 . . . 0.0 6.0 1.0 A 6  VAL HG11 HG1% A 5  HIS HA   HA   6R28 1 
+119 27 2 . OR 1 1 6  VAL HG12 1 1 5  HIS HA   . 2.9 . . . 0.0 6.0 1.0 A 6  VAL HG12 HG1% A 5  HIS HA   HA   6R28 1 
+120 27 2 . OR 1 1 6  VAL HG13 1 1 5  HIS HA   . 2.9 . . . 0.0 6.0 1.0 A 6  VAL HG13 HG1% A 5  HIS HA   HA   6R28 1 
+121 28 1 . .  1 1 11 TRP HE1  1 1 7  HIS HA   . 3.9 . . . 2.0 5.8 1.0 A 11 TRP HE1  HE1  A 7  HIS HA   HA   6R28 1 
+122 28 2 . .  1 1 11 TRP HE1  1 1 8  ARG HA   . 3.9 . . . 2.0 5.8 1.0 A 11 TRP HE1  HE1  A 8  ARG HA   HA   6R28 1 
+123 29 1 . .  1 1 11 TRP HD1  1 1 1  PRO HG3  . 3.6 . . . 0.0 6.0 1.0 A 11 TRP HD1  HD1  A 1  PRO HG3  HG3  6R28 1 
+124 29 2 . .  1 1 11 TRP HD1  1 1 4  HCS HB2  . 3.6 . . . 0.0 6.0 1.0 A 11 TRP HD1  HD1  A 4  HCS HB2  HB1  6R28 1 
+125 30 1 . OR 1 1 15 TYR HE1  1 1 12 PRO HG3  . 3.9 . . . 2.0 5.8 1.0 A 15 TYR HE1  HE%  A 12 PRO HG3  HG3  6R28 1 
+126 30 1 . OR 1 1 15 TYR HE2  1 1 12 PRO HG3  . 3.9 . . . 2.0 5.8 1.0 A 15 TYR HE2  HE%  A 12 PRO HG3  HG3  6R28 1 
+127 30 2 . OR 1 1 15 TYR HE1  1 1 16 ARG HB2  . 3.9 . . . 2.0 5.8 1.0 A 15 TYR HE1  HE%  A 16 ARG HB2  HB2  6R28 1 
+128 30 2 . OR 1 1 15 TYR HE2  1 1 16 ARG HB2  . 3.9 . . . 2.0 5.8 1.0 A 15 TYR HE2  HE%  A 16 ARG HB2  HB2  6R28 1 
+129 31 1 . OR 1 1 6  VAL H    1 1 3  ILE HG21 . 3.0 . . . 1.9 4.1 1.0 A 6  VAL H    H    A 3  ILE HG21 HG2% 6R28 1 
+130 31 1 . OR 1 1 6  VAL H    1 1 3  ILE HG22 . 3.0 . . . 1.9 4.1 1.0 A 6  VAL H    H    A 3  ILE HG22 HG2% 6R28 1 
+131 31 1 . OR 1 1 6  VAL H    1 1 3  ILE HG23 . 3.0 . . . 1.9 4.1 1.0 A 6  VAL H    H    A 3  ILE HG23 HG2% 6R28 1 
+132 31 2 . OR 1 1 6  VAL H    1 1 6  VAL HG11 . 3.0 . . . 1.9 4.1 1.0 A 6  VAL H    H    A 6  VAL HG11 HG1% 6R28 1 
+133 31 2 . OR 1 1 6  VAL H    1 1 6  VAL HG12 . 3.0 . . . 1.9 4.1 1.0 A 6  VAL H    H    A 6  VAL HG12 HG1% 6R28 1 
+134 31 2 . OR 1 1 6  VAL H    1 1 6  VAL HG13 . 3.0 . . . 1.9 4.1 1.0 A 6  VAL H    H    A 6  VAL HG13 HG1% 6R28 1 
+135 32 1 . OR 1 1 3  ILE HD11 1 1 9  PRO HD3  . 3.3 . . . 0.0 6.0 1.0 A 3  ILE HD11 HD1% A 9  PRO HD3  HD3  6R28 1 
+136 32 1 . OR 1 1 3  ILE HD12 1 1 9  PRO HD3  . 3.3 . . . 0.0 6.0 1.0 A 3  ILE HD12 HD1% A 9  PRO HD3  HD3  6R28 1 
+137 32 1 . OR 1 1 3  ILE HD13 1 1 9  PRO HD3  . 3.3 . . . 0.0 6.0 1.0 A 3  ILE HD13 HD1% A 9  PRO HD3  HD3  6R28 1 
+138 32 2 . OR 1 1 6  VAL HG21 1 1 9  PRO HD3  . 3.3 . . . 0.0 6.0 1.0 A 6  VAL HG21 HG2% A 9  PRO HD3  HD3  6R28 1 
+139 32 2 . OR 1 1 6  VAL HG22 1 1 9  PRO HD3  . 3.3 . . . 0.0 6.0 1.0 A 6  VAL HG22 HG2% A 9  PRO HD3  HD3  6R28 1 
+140 32 2 . OR 1 1 6  VAL HG23 1 1 9  PRO HD3  . 3.3 . . . 0.0 6.0 1.0 A 6  VAL HG23 HG2% A 9  PRO HD3  HD3  6R28 1 
+stop_
+save_
+save_XPLOR-NIH/CNS_distance_restraints_2
+# 
+_Gen_dist_constraint_list.Sf_category          general_distance_constraints 
+_Gen_dist_constraint_list.Sf_framecode         XPLOR-NIH/CNS_distance_restraints_2 
+_Gen_dist_constraint_list.Entry_ID             6R28 
+_Gen_dist_constraint_list.ID                   2 
+_Gen_dist_constraint_list.Data_file_name       D_1292101294_mr_P1.cns.V3 
+_Gen_dist_constraint_list.Constraint_type      NOE 
+_Gen_dist_constraint_list.Constraint_file_ID   2 
+_Gen_dist_constraint_list.Potential_type       square-well-parabolic 
+_Gen_dist_constraint_list.Block_ID             2 
+# 
+loop_
+_Gen_dist_constraint.Index_ID 
+_Gen_dist_constraint.ID 
+_Gen_dist_constraint.Combination_ID 
+_Gen_dist_constraint.Member_ID 
+_Gen_dist_constraint.Member_logic_code 
+_Gen_dist_constraint.Entity_assembly_ID_1 
+_Gen_dist_constraint.Entity_ID_1 
+_Gen_dist_constraint.Comp_index_ID_1 
+_Gen_dist_constraint.Comp_ID_1 
+_Gen_dist_constraint.Atom_ID_1 
+_Gen_dist_constraint.Entity_assembly_ID_2 
+_Gen_dist_constraint.Entity_ID_2 
+_Gen_dist_constraint.Comp_index_ID_2 
+_Gen_dist_constraint.Comp_ID_2 
+_Gen_dist_constraint.Atom_ID_2 
+_Gen_dist_constraint.Distance_val 
+_Gen_dist_constraint.Target_val 
+_Gen_dist_constraint.Target_val_uncertainty 
+_Gen_dist_constraint.Lower_linear_limit 
+_Gen_dist_constraint.Upper_linear_limit 
+_Gen_dist_constraint.Distance_lower_bound_val 
+_Gen_dist_constraint.Distance_upper_bound_val 
+_Gen_dist_constraint.Weight 
+_Gen_dist_constraint.Auth_asym_ID_1 
+_Gen_dist_constraint.Auth_seq_ID_1 
+_Gen_dist_constraint.Auth_comp_ID_1 
+_Gen_dist_constraint.Auth_atom_ID_1 
+_Gen_dist_constraint.Auth_atom_name_1 
+_Gen_dist_constraint.Auth_asym_ID_2 
+_Gen_dist_constraint.Auth_seq_ID_2 
+_Gen_dist_constraint.Auth_comp_ID_2 
+_Gen_dist_constraint.Auth_atom_ID_2 
+_Gen_dist_constraint.Auth_atom_name_2 
+_Gen_dist_constraint.Entry_ID 
+_Gen_dist_constraint.Gen_dist_constraint_list_ID 
+1   1   . . .  1 1 7  HIS HD2  1 1 8  ARG HG3  . 3.2 . . . 1.9 4.5 1.0 A 7  HIS HD2  HD2  A 8  ARG HG3  HG3  6R28 2 
+2   2   . . OR 1 1 11 TRP HD1  1 1 6  VAL HG11 . 3.0 . . . 1.9 4.1 1.0 A 11 TRP HD1  HD1  A 6  VAL HG11 HG1% 6R28 2 
+3   2   . . OR 1 1 11 TRP HD1  1 1 6  VAL HG12 . 3.0 . . . 1.9 4.1 1.0 A 11 TRP HD1  HD1  A 6  VAL HG12 HG1% 6R28 2 
+4   2   . . OR 1 1 11 TRP HD1  1 1 6  VAL HG13 . 3.0 . . . 1.9 4.1 1.0 A 11 TRP HD1  HD1  A 6  VAL HG13 HG1% 6R28 2 
+5   3   1 . OR 1 1 14 TRP HD1  1 1 6  VAL HG21 . 3.4 . . . 0.0 6.0 1.0 A 14 TRP HD1  HD1  A 6  VAL HG21 HG2% 6R28 2 
+6   3   1 . OR 1 1 14 TRP HD1  1 1 6  VAL HG22 . 3.4 . . . 0.0 6.0 1.0 A 14 TRP HD1  HD1  A 6  VAL HG22 HG2% 6R28 2 
+7   3   1 . OR 1 1 14 TRP HD1  1 1 6  VAL HG23 . 3.4 . . . 0.0 6.0 1.0 A 14 TRP HD1  HD1  A 6  VAL HG23 HG2% 6R28 2 
+8   3   2 . OR 1 1 14 TRP HD1  1 1 6  VAL HG11 . 3.4 . . . 0.0 6.0 1.0 A 14 TRP HD1  HD1  A 6  VAL HG11 HG1% 6R28 2 
+9   3   2 . OR 1 1 14 TRP HD1  1 1 6  VAL HG12 . 3.4 . . . 0.0 6.0 1.0 A 14 TRP HD1  HD1  A 6  VAL HG12 HG1% 6R28 2 
+10  3   2 . OR 1 1 14 TRP HD1  1 1 6  VAL HG13 . 3.4 . . . 0.0 6.0 1.0 A 14 TRP HD1  HD1  A 6  VAL HG13 HG1% 6R28 2 
+11  4   1 . .  1 1 3  ILE H    1 1 2  SER HB3  . 3.6 . . . 2.0 5.2 1.0 A 3  ILE H    H    A 2  SER HB3  HB3  6R28 2 
+12  4   2 . .  1 1 3  ILE H    1 1 2  SER HB2  . 3.6 . . . 2.0 5.2 1.0 A 3  ILE H    H    A 2  SER HB2  HB2  6R28 2 
+13  5   . . .  1 1 3  ILE H    1 1 3  ILE HG13 . 3.4 . . . 1.9 4.9 1.0 A 3  ILE H    H    A 3  ILE HG13 HG13 6R28 2 
+14  6   . . .  1 1 3  ILE H    1 1 3  ILE HG12 . 3.3 . . . 1.9 4.7 1.0 A 3  ILE H    H    A 3  ILE HG12 HG12 6R28 2 
+15  7   . . OR 1 1 3  ILE H    1 1 3  ILE HG21 . 3.4 . . . 2.0 4.8 1.0 A 3  ILE H    H    A 3  ILE HG21 HG2% 6R28 2 
+16  7   . . OR 1 1 3  ILE H    1 1 3  ILE HG22 . 3.4 . . . 2.0 4.8 1.0 A 3  ILE H    H    A 3  ILE HG22 HG2% 6R28 2 
+17  7   . . OR 1 1 3  ILE H    1 1 3  ILE HG23 . 3.4 . . . 2.0 4.8 1.0 A 3  ILE H    H    A 3  ILE HG23 HG2% 6R28 2 
+18  8   . . OR 1 1 5  HIS H    1 1 3  ILE HG21 . 2.8 . . . 1.9 3.7 1.0 A 5  HIS H    H    A 3  ILE HG21 HG2% 6R28 2 
+19  8   . . OR 1 1 5  HIS H    1 1 3  ILE HG22 . 2.8 . . . 1.9 3.7 1.0 A 5  HIS H    H    A 3  ILE HG22 HG2% 6R28 2 
+20  8   . . OR 1 1 5  HIS H    1 1 3  ILE HG23 . 2.8 . . . 1.9 3.7 1.0 A 5  HIS H    H    A 3  ILE HG23 HG2% 6R28 2 
+21  9   . . OR 1 1 4  HCS H    1 1 3  ILE HG21 . 2.9 . . . 1.8 4.0 1.0 A 4  HCS H    H    A 3  ILE HG21 HG2% 6R28 2 
+22  9   . . OR 1 1 4  HCS H    1 1 3  ILE HG22 . 2.9 . . . 1.8 4.0 1.0 A 4  HCS H    H    A 3  ILE HG22 HG2% 6R28 2 
+23  9   . . OR 1 1 4  HCS H    1 1 3  ILE HG23 . 2.9 . . . 1.8 4.0 1.0 A 4  HCS H    H    A 3  ILE HG23 HG2% 6R28 2 
+24  10  . . .  1 1 14 TRP H    1 1 12 PRO HB2  . 3.0 . . . 1.9 4.1 1.0 A 14 TRP H    H    A 12 PRO HB2  HB2  6R28 2 
+25  11  . . .  1 1 14 TRP H    1 1 12 PRO HB3  . 3.4 . . . 2.0 4.8 1.0 A 14 TRP H    H    A 12 PRO HB3  HB3  6R28 2 
+26  12  . . OR 1 1 11 TRP HH2  1 1 15 TYR HD1  . 3.4 . . . 1.9 4.9 1.0 A 11 TRP HH2  HH2  A 15 TYR HD1  HD%  6R28 2 
+27  12  . . OR 1 1 11 TRP HH2  1 1 15 TYR HD2  . 3.4 . . . 1.9 4.9 1.0 A 11 TRP HH2  HH2  A 15 TYR HD2  HD%  6R28 2 
+28  13  . . OR 1 1 11 TRP HH2  1 1 6  VAL HG11 . 3.2 . . . 1.9 4.5 1.0 A 11 TRP HH2  HH2  A 6  VAL HG11 HG1% 6R28 2 
+29  13  . . OR 1 1 11 TRP HH2  1 1 6  VAL HG12 . 3.2 . . . 1.9 4.5 1.0 A 11 TRP HH2  HH2  A 6  VAL HG12 HG1% 6R28 2 
+30  13  . . OR 1 1 11 TRP HH2  1 1 6  VAL HG13 . 3.2 . . . 1.9 4.5 1.0 A 11 TRP HH2  HH2  A 6  VAL HG13 HG1% 6R28 2 
+31  14  . . .  1 1 11 TRP HE3  1 1 8  ARG HG3  . 3.3 . . . 2.0 4.6 1.0 A 11 TRP HE3  HE3  A 8  ARG HG3  HG3  6R28 2 
+32  15  . . .  1 1 11 TRP HE3  1 1 8  ARG HD2  . 3.3 . . . 2.0 4.6 1.0 A 11 TRP HE3  HE3  A 8  ARG HD2  HD2  6R28 2 
+33  16  1 . .  1 1 11 TRP HZ3  1 1 8  ARG HD2  . 2.9 . . . 1.8 4.0 1.0 A 11 TRP HZ3  HZ3  A 8  ARG HD2  HD2  6R28 2 
+34  16  2 . .  1 1 11 TRP HD1  1 1 8  ARG HD2  . 2.9 . . . 1.8 4.0 1.0 A 11 TRP HD1  HD1  A 8  ARG HD2  HD2  6R28 2 
+35  17  . . .  1 1 11 TRP HD1  1 1 6  VAL HB   . 3.3 . . . 1.9 4.7 1.0 A 11 TRP HD1  HD1  A 6  VAL HB   HB   6R28 2 
+36  18  1 . .  1 1 11 TRP HD1  1 1 12 PRO HG3  . 3.5 . . . 0.0 6.0 1.0 A 11 TRP HD1  HD1  A 12 PRO HG3  HG3  6R28 2 
+37  18  2 . .  1 1 11 TRP HZ3  1 1 12 PRO HG3  . 3.5 . . . 0.0 6.0 1.0 A 11 TRP HZ3  HZ3  A 12 PRO HG3  HG3  6R28 2 
+38  19  . . .  1 1 11 TRP HD1  1 1 8  ARG HB2  . 2.7 . . . 1.8 3.6 1.0 A 11 TRP HD1  HD1  A 8  ARG HB2  HB2  6R28 2 
+39  20  . . .  1 1 14 TRP HZ2  1 1 12 PRO HB2  . 3.2 . . . 1.9 4.5 1.0 A 14 TRP HZ2  HZ2  A 12 PRO HB2  HB2  6R28 2 
+40  21  . . .  1 1 11 TRP HH2  1 1 8  ARG HD2  . 3.6 . . . 2.0 5.2 1.0 A 11 TRP HH2  HH2  A 8  ARG HD2  HD2  6R28 2 
+41  22  . . .  1 1 14 TRP HH2  1 1 12 PRO HG3  . 3.6 . . . 1.9 5.3 1.0 A 14 TRP HH2  HH2  A 12 PRO HG3  HG3  6R28 2 
+42  23  . . .  1 1 14 TRP HZ3  1 1 16 ARG HD3  . 3.2 . . . 1.9 4.5 1.0 A 14 TRP HZ3  HZ3  A 16 ARG HD3  HD3  6R28 2 
+43  24  . . .  1 1 14 TRP HZ3  1 1 15 TYR HA   . 3.5 . . . 1.9 5.1 1.0 A 14 TRP HZ3  HZ3  A 15 TYR HA   HA   6R28 2 
+44  25  . . .  1 1 14 TRP HE3  1 1 16 ARG HD3  . 3.6 . . . 2.0 5.2 1.0 A 14 TRP HE3  HE3  A 16 ARG HD3  HD3  6R28 2 
+45  26  . . OR 1 1 15 TYR HD1  1 1 6  VAL HG11 . 3.4 . . . 2.0 4.8 1.0 A 15 TYR HD1  HD%  A 6  VAL HG11 HG1% 6R28 2 
+46  26  . . OR 1 1 15 TYR HD1  1 1 6  VAL HG12 . 3.4 . . . 2.0 4.8 1.0 A 15 TYR HD1  HD%  A 6  VAL HG12 HG1% 6R28 2 
+47  26  . . OR 1 1 15 TYR HD1  1 1 6  VAL HG13 . 3.4 . . . 2.0 4.8 1.0 A 15 TYR HD1  HD%  A 6  VAL HG13 HG1% 6R28 2 
+48  26  . . OR 1 1 15 TYR HD2  1 1 6  VAL HG11 . 3.4 . . . 2.0 4.8 1.0 A 15 TYR HD2  HD%  A 6  VAL HG11 HG1% 6R28 2 
+49  26  . . OR 1 1 15 TYR HD2  1 1 6  VAL HG12 . 3.4 . . . 2.0 4.8 1.0 A 15 TYR HD2  HD%  A 6  VAL HG12 HG1% 6R28 2 
+50  26  . . OR 1 1 15 TYR HD2  1 1 6  VAL HG13 . 3.4 . . . 2.0 4.8 1.0 A 15 TYR HD2  HD%  A 6  VAL HG13 HG1% 6R28 2 
+51  27  . . OR 1 1 15 TYR HE1  1 1 6  VAL HG11 . 3.4 . . . 1.9 4.9 1.0 A 15 TYR HE1  HE%  A 6  VAL HG11 HG1% 6R28 2 
+52  27  . . OR 1 1 15 TYR HE1  1 1 6  VAL HG12 . 3.4 . . . 1.9 4.9 1.0 A 15 TYR HE1  HE%  A 6  VAL HG12 HG1% 6R28 2 
+53  27  . . OR 1 1 15 TYR HE1  1 1 6  VAL HG13 . 3.4 . . . 1.9 4.9 1.0 A 15 TYR HE1  HE%  A 6  VAL HG13 HG1% 6R28 2 
+54  27  . . OR 1 1 15 TYR HE2  1 1 6  VAL HG11 . 3.4 . . . 1.9 4.9 1.0 A 15 TYR HE2  HE%  A 6  VAL HG11 HG1% 6R28 2 
+55  27  . . OR 1 1 15 TYR HE2  1 1 6  VAL HG12 . 3.4 . . . 1.9 4.9 1.0 A 15 TYR HE2  HE%  A 6  VAL HG12 HG1% 6R28 2 
+56  27  . . OR 1 1 15 TYR HE2  1 1 6  VAL HG13 . 3.4 . . . 1.9 4.9 1.0 A 15 TYR HE2  HE%  A 6  VAL HG13 HG1% 6R28 2 
+57  28  . . OR 1 1 15 TYR HD1  1 1 12 PRO HG3  . 3.4 . . . 2.0 4.8 1.0 A 15 TYR HD1  HD%  A 12 PRO HG3  HG3  6R28 2 
+58  28  . . OR 1 1 15 TYR HD2  1 1 12 PRO HG3  . 3.4 . . . 2.0 4.8 1.0 A 15 TYR HD2  HD%  A 12 PRO HG3  HG3  6R28 2 
+59  29  . . OR 1 1 15 TYR HD1  1 1 12 PRO HD2  . 3.1 . . . 1.9 4.3 1.0 A 15 TYR HD1  HD%  A 12 PRO HD2  HD2  6R28 2 
+60  29  . . OR 1 1 15 TYR HD2  1 1 12 PRO HD2  . 3.1 . . . 1.9 4.3 1.0 A 15 TYR HD2  HD%  A 12 PRO HD2  HD2  6R28 2 
+61  30  1 . OR 1 1 15 TYR HE1  1 1 13 CYS HB2  . 3.4 . . . 1.9 4.9 1.0 A 15 TYR HE1  HE%  A 13 CYS HB2  HB2  6R28 2 
+62  30  1 . OR 1 1 15 TYR HE2  1 1 13 CYS HB2  . 3.4 . . . 1.9 4.9 1.0 A 15 TYR HE2  HE%  A 13 CYS HB2  HB2  6R28 2 
+63  30  2 . OR 1 1 15 TYR HE1  1 1 13 CYS HB3  . 3.4 . . . 1.9 4.9 1.0 A 15 TYR HE1  HE%  A 13 CYS HB3  HB3  6R28 2 
+64  30  2 . OR 1 1 15 TYR HE2  1 1 13 CYS HB3  . 3.4 . . . 1.9 4.9 1.0 A 15 TYR HE2  HE%  A 13 CYS HB3  HB3  6R28 2 
+65  31  1 . OR 1 1 15 TYR HE1  1 1 11 TRP HZ2  . 3.4 . . . 2.0 4.8 1.0 A 15 TYR HE1  HE%  A 11 TRP HZ2  HZ2  6R28 2 
+66  31  1 . OR 1 1 15 TYR HE2  1 1 11 TRP HZ2  . 3.4 . . . 2.0 4.8 1.0 A 15 TYR HE2  HE%  A 11 TRP HZ2  HZ2  6R28 2 
+67  31  2 . OR 1 1 15 TYR HE1  1 1 11 TRP HE3  . 3.4 . . . 2.0 4.8 1.0 A 15 TYR HE1  HE%  A 11 TRP HE3  HE3  6R28 2 
+68  31  2 . OR 1 1 15 TYR HE2  1 1 11 TRP HE3  . 3.4 . . . 2.0 4.8 1.0 A 15 TYR HE2  HE%  A 11 TRP HE3  HE3  6R28 2 
+69  32  . . OR 1 1 15 TYR HD1  1 1 11 TRP HE3  . 3.1 . . . 1.9 4.3 1.0 A 15 TYR HD1  HD%  A 11 TRP HE3  HE3  6R28 2 
+70  32  . . OR 1 1 15 TYR HD2  1 1 11 TRP HE3  . 3.1 . . . 1.9 4.3 1.0 A 15 TYR HD2  HD%  A 11 TRP HE3  HE3  6R28 2 
+71  33  . . OR 1 1 15 TYR HE1  1 1 11 TRP HH2  . 3.4 . . . 2.0 4.8 1.0 A 15 TYR HE1  HE%  A 11 TRP HH2  HH2  6R28 2 
+72  33  . . OR 1 1 15 TYR HE2  1 1 11 TRP HH2  . 3.4 . . . 2.0 4.8 1.0 A 15 TYR HE2  HE%  A 11 TRP HH2  HH2  6R28 2 
+73  34  . . .  1 1 7  HIS HD2  1 1 8  ARG HB2  . 3.3 . . . 1.9 4.7 1.0 A 7  HIS HD2  HD2  A 8  ARG HB2  HB2  6R28 2 
+74  35  1 . .  1 1 5  HIS HD2  1 1 13 CYS HB2  . 3.1 . . . 1.9 4.3 1.0 A 5  HIS HD2  HD2  A 13 CYS HB2  HB2  6R28 2 
+75  35  2 . .  1 1 5  HIS HD2  1 1 13 CYS HB3  . 3.1 . . . 1.9 4.3 1.0 A 5  HIS HD2  HD2  A 13 CYS HB3  HB3  6R28 2 
+76  36  . . .  1 1 5  HIS HD2  1 1 4  HCS HA   . 3.3 . . . 1.9 4.7 1.0 A 5  HIS HD2  HD2  A 4  HCS HA   HA   6R28 2 
+77  37  . . .  1 1 7  HIS HD2  1 1 11 TRP HZ2  . 2.8 . . . 1.8 3.8 1.0 A 7  HIS HD2  HD2  A 11 TRP HZ2  HZ2  6R28 2 
+78  38  . . .  1 1 14 TRP H    1 1 12 PRO HA   . 3.2 . . . 1.9 4.5 1.0 A 14 TRP H    H    A 12 PRO HA   HA   6R28 2 
+79  39  . . OR 1 1 4  HCS HG3  1 1 6  VAL HG21 . 3.6 . . . 1.9 5.3 1.0 A 4  HCS HG3  HG2  A 6  VAL HG21 HG2% 6R28 2 
+80  39  . . OR 1 1 4  HCS HG3  1 1 6  VAL HG22 . 3.6 . . . 1.9 5.3 1.0 A 4  HCS HG3  HG2  A 6  VAL HG22 HG2% 6R28 2 
+81  39  . . OR 1 1 4  HCS HG3  1 1 6  VAL HG23 . 3.6 . . . 1.9 5.3 1.0 A 4  HCS HG3  HG2  A 6  VAL HG23 HG2% 6R28 2 
+82  40  . . OR 1 1 4  HCS HG2  1 1 6  VAL HG21 . 3.6 . . . 2.0 5.2 1.0 A 4  HCS HG2  HG1  A 6  VAL HG21 HG2% 6R28 2 
+83  40  . . OR 1 1 4  HCS HG2  1 1 6  VAL HG22 . 3.6 . . . 2.0 5.2 1.0 A 4  HCS HG2  HG1  A 6  VAL HG22 HG2% 6R28 2 
+84  40  . . OR 1 1 4  HCS HG2  1 1 6  VAL HG23 . 3.6 . . . 2.0 5.2 1.0 A 4  HCS HG2  HG1  A 6  VAL HG23 HG2% 6R28 2 
+85  41  . . OR 1 1 15 TYR HB2  1 1 6  VAL HG11 . 3.7 . . . 2.0 5.4 1.0 A 15 TYR HB2  HB2  A 6  VAL HG11 HG1% 6R28 2 
+86  41  . . OR 1 1 15 TYR HB2  1 1 6  VAL HG12 . 3.7 . . . 2.0 5.4 1.0 A 15 TYR HB2  HB2  A 6  VAL HG12 HG1% 6R28 2 
+87  41  . . OR 1 1 15 TYR HB2  1 1 6  VAL HG13 . 3.7 . . . 2.0 5.4 1.0 A 15 TYR HB2  HB2  A 6  VAL HG13 HG1% 6R28 2 
+88  42  . . OR 1 1 3  ILE HG12 1 1 3  ILE HD11 . 1.9 . . . 1.5 2.3 1.0 A 3  ILE HG12 HG12 A 3  ILE HD11 HD1% 6R28 2 
+89  42  . . OR 1 1 3  ILE HG12 1 1 3  ILE HD12 . 1.9 . . . 1.5 2.3 1.0 A 3  ILE HG12 HG12 A 3  ILE HD12 HD1% 6R28 2 
+90  42  . . OR 1 1 3  ILE HG12 1 1 3  ILE HD13 . 1.9 . . . 1.5 2.3 1.0 A 3  ILE HG12 HG12 A 3  ILE HD13 HD1% 6R28 2 
+91  43  . . OR 1 1 3  ILE HG13 1 1 3  ILE HD11 . 2.4 . . . 1.7 3.1 1.0 A 3  ILE HG13 HG13 A 3  ILE HD11 HD1% 6R28 2 
+92  43  . . OR 1 1 3  ILE HG13 1 1 3  ILE HD12 . 2.4 . . . 1.7 3.1 1.0 A 3  ILE HG13 HG13 A 3  ILE HD12 HD1% 6R28 2 
+93  43  . . OR 1 1 3  ILE HG13 1 1 3  ILE HD13 . 2.4 . . . 1.7 3.1 1.0 A 3  ILE HG13 HG13 A 3  ILE HD13 HD1% 6R28 2 
+94  44  . . .  1 1 6  VAL HA   1 1 7  HIS HB3  . 3.7 . . . 2.0 5.4 1.0 A 6  VAL HA   HA   A 7  HIS HB3  HB3  6R28 2 
+95  45  . . .  1 1 15 TYR HB2  1 1 12 PRO HD2  . 3.0 . . . 1.8 4.2 1.0 A 15 TYR HB2  HB2  A 12 PRO HD2  HD2  6R28 2 
+96  46  . . .  1 1 11 TRP HB3  1 1 15 TYR HB3  . 2.9 . . . 1.8 4.0 1.0 A 11 TRP HB3  HB3  A 15 TYR HB3  HB3  6R28 2 
+97  47  . . .  1 1 7  HIS HB2  1 1 8  ARG HG2  . 3.2 . . . 1.9 4.5 1.0 A 7  HIS HB2  HB2  A 8  ARG HG2  HG2  6R28 2 
+98  48  1 . .  1 1 13 CYS HB3  1 1 2  SER HB2  . 3.9 . . . 2.0 5.8 1.0 A 13 CYS HB3  HB3  A 2  SER HB2  HB2  6R28 2 
+99  48  2 . .  1 1 13 CYS HB3  1 1 2  SER HB3  . 3.9 . . . 2.0 5.8 1.0 A 13 CYS HB3  HB3  A 2  SER HB3  HB3  6R28 2 
+100 48  3 . .  1 1 13 CYS HB2  1 1 2  SER HB2  . 3.9 . . . 2.0 5.8 1.0 A 13 CYS HB2  HB2  A 2  SER HB2  HB2  6R28 2 
+101 49  . . OR 1 1 6  VAL HG21 1 1 5  HIS HA   . 2.9 . . . 1.9 3.9 1.0 A 6  VAL HG21 HG2% A 5  HIS HA   HA   6R28 2 
+102 49  . . OR 1 1 6  VAL HG22 1 1 5  HIS HA   . 2.9 . . . 1.9 3.9 1.0 A 6  VAL HG22 HG2% A 5  HIS HA   HA   6R28 2 
+103 49  . . OR 1 1 6  VAL HG23 1 1 5  HIS HA   . 2.9 . . . 1.9 3.9 1.0 A 6  VAL HG23 HG2% A 5  HIS HA   HA   6R28 2 
+104 50  . . OR 1 1 11 TRP HE1  1 1 6  VAL HG11 . 3.5 . . . 1.9 5.1 1.0 A 11 TRP HE1  HE1  A 6  VAL HG11 HG1% 6R28 2 
+105 50  . . OR 1 1 11 TRP HE1  1 1 6  VAL HG12 . 3.5 . . . 1.9 5.1 1.0 A 11 TRP HE1  HE1  A 6  VAL HG12 HG1% 6R28 2 
+106 50  . . OR 1 1 11 TRP HE1  1 1 6  VAL HG13 . 3.5 . . . 1.9 5.1 1.0 A 11 TRP HE1  HE1  A 6  VAL HG13 HG1% 6R28 2 
+107 51  . . OR 1 1 15 TYR HD1  1 1 12 PRO HB2  . 3.9 . . . 2.0 5.8 1.0 A 15 TYR HD1  HD%  A 12 PRO HB2  HB2  6R28 2 
+108 51  . . OR 1 1 15 TYR HD2  1 1 12 PRO HB2  . 3.9 . . . 2.0 5.8 1.0 A 15 TYR HD2  HD%  A 12 PRO HB2  HB2  6R28 2 
+109 52  1 . .  1 1 16 ARG HG3  1 1 16 ARG HD3  . 2.7 . . . 1.8 3.6 1.0 A 16 ARG HG3  HG3  A 16 ARG HD3  HD3  6R28 2 
+110 52  2 . .  1 1 16 ARG HG2  1 1 16 ARG HD3  . 2.7 . . . 1.8 3.6 1.0 A 16 ARG HG2  HG2  A 16 ARG HD3  HD3  6R28 2 
+111 53  . . .  1 1 14 TRP H    1 1 14 TRP HD1  . 3.3 . . . 1.9 4.7 1.0 A 14 TRP H    H    A 14 TRP HD1  HD1  6R28 2 
+112 54  . . .  1 1 12 PRO HB3  1 1 12 PRO HB2  . 2.2 . . . 1.6 2.8 1.0 A 12 PRO HB3  HB3  A 12 PRO HB2  HB2  6R28 2 
+113 55  . . .  1 1 14 TRP HD1  1 1 14 TRP HB3  . 2.3 . . . 1.7 2.9 1.0 A 14 TRP HD1  HD1  A 14 TRP HB3  HB3  6R28 2 
+114 56  . . .  1 1 14 TRP HD1  1 1 12 PRO HB2  . 3.1 . . . 1.9 4.3 1.0 A 14 TRP HD1  HD1  A 12 PRO HB2  HB2  6R28 2 
+115 57  . . .  1 1 14 TRP HE1  1 1 12 PRO HB3  . 3.3 . . . 2.0 4.6 1.0 A 14 TRP HE1  HE1  A 12 PRO HB3  HB3  6R28 2 
+116 58  . . .  1 1 14 TRP HE3  1 1 14 TRP HB2  . 2.4 . . . 1.7 3.1 1.0 A 14 TRP HE3  HE3  A 14 TRP HB2  HB2  6R28 2 
+117 59  . . .  1 1 13 CYS H    1 1 13 CYS HB3  . 3.5 . . . 2.0 5.0 1.0 A 13 CYS H    H    A 13 CYS HB3  HB3  6R28 2 
+118 60  . . .  1 1 6  VAL H    1 1 5  HIS HA   . 2.5 . . . 1.7 3.3 1.0 A 6  VAL H    H    A 5  HIS HA   HA   6R28 2 
+119 61  . . .  1 1 4  HCS H    1 1 3  ILE HG13 . 3.6 . . . 2.0 5.2 1.0 A 4  HCS H    H    A 3  ILE HG13 HG13 6R28 2 
+120 62  . . .  1 1 14 TRP HD1  1 1 14 TRP HB2  . 2.2 . . . 0.0 6.0 1.0 A 14 TRP HD1  HD1  A 14 TRP HB2  HB2  6R28 2 
+121 63  . . .  1 1 14 TRP HE3  1 1 14 TRP HB3  . 2.5 . . . 0.0 6.0 1.0 A 14 TRP HE3  HE3  A 14 TRP HB3  HB3  6R28 2 
+122 64  1 . .  1 1 2  SER HB2  1 1 13 CYS HB3  . 3.7 . . . 0.0 6.0 1.0 A 2  SER HB2  HB2  A 13 CYS HB3  HB3  6R28 2 
+123 64  2 . .  1 1 2  SER HB2  1 1 13 CYS HB2  . 3.7 . . . 0.0 6.0 1.0 A 2  SER HB2  HB2  A 13 CYS HB2  HB2  6R28 2 
+124 65  . . .  1 1 8  ARG HB2  1 1 8  ARG HG3  . 2.6 . . . 1.7 3.5 1.0 A 8  ARG HB2  HB2  A 8  ARG HG3  HG3  6R28 2 
+125 66  1 . .  1 1 2  SER HB3  1 1 13 CYS HB3  . 3.9 . . . 2.0 5.8 1.0 A 2  SER HB3  HB3  A 13 CYS HB3  HB3  6R28 2 
+126 66  2 . .  1 1 2  SER HB3  1 1 13 CYS HB2  . 3.9 . . . 2.0 5.8 1.0 A 2  SER HB3  HB3  A 13 CYS HB2  HB2  6R28 2 
+127 67  . . .  1 1 8  ARG H    1 1 9  PRO HD3  . 3.4 . . . 2.0 4.8 1.0 A 8  ARG H    H    A 9  PRO HD3  HD3  6R28 2 
+128 68  . . .  1 1 1  PRO HD3  1 1 1  PRO HB3  . 3.6 . . . 2.0 5.2 1.0 A 1  PRO HD3  HD3  A 1  PRO HB3  HB3  6R28 2 
+129 69  . . .  1 1 8  ARG HB2  1 1 8  ARG HG2  . 2.7 . . . 1.8 3.6 1.0 A 8  ARG HB2  HB2  A 8  ARG HG2  HG2  6R28 2 
+130 70  . . .  1 1 12 PRO HD2  1 1 11 TRP HA   . 2.3 . . . 1.6 3.0 1.0 A 12 PRO HD2  HD2  A 11 TRP HA   HA   6R28 2 
+131 71  . . .  1 1 12 PRO HG2  1 1 12 PRO HB3  . 2.5 . . . 1.7 3.3 1.0 A 12 PRO HG2  HG2  A 12 PRO HB3  HB3  6R28 2 
+132 72  . . .  1 1 8  ARG HD2  1 1 8  ARG HB3  . 3.2 . . . 1.9 4.5 1.0 A 8  ARG HD2  HD2  A 8  ARG HB3  HB3  6R28 2 
+133 73  . . .  1 1 12 PRO HG3  1 1 12 PRO HB3  . 2.9 . . . 1.9 3.9 1.0 A 12 PRO HG3  HG3  A 12 PRO HB3  HB3  6R28 2 
+134 74  . . .  1 1 8  ARG HD3  1 1 8  ARG HB3  . 3.1 . . . 1.9 4.3 1.0 A 8  ARG HD3  HD3  A 8  ARG HB3  HB3  6R28 2 
+135 75  . . .  1 1 14 TRP HD1  1 1 14 TRP HA   . 2.6 . . . 0.0 6.0 1.0 A 14 TRP HD1  HD1  A 14 TRP HA   HA   6R28 2 
+136 76  . . OR 1 1 6  VAL HG11 1 1 6  VAL HB   . 2.0 . . . 1.5 2.5 1.0 A 6  VAL HG11 HG1% A 6  VAL HB   HB   6R28 2 
+137 76  . . OR 1 1 6  VAL HG12 1 1 6  VAL HB   . 2.0 . . . 1.5 2.5 1.0 A 6  VAL HG12 HG1% A 6  VAL HB   HB   6R28 2 
+138 76  . . OR 1 1 6  VAL HG13 1 1 6  VAL HB   . 2.0 . . . 1.5 2.5 1.0 A 6  VAL HG13 HG1% A 6  VAL HB   HB   6R28 2 
+139 77  . . OR 1 1 13 CYS HA   1 1 6  VAL HG11 . 3.6 . . . 1.9 5.3 1.0 A 13 CYS HA   HA   A 6  VAL HG11 HG1% 6R28 2 
+140 77  . . OR 1 1 13 CYS HA   1 1 6  VAL HG12 . 3.6 . . . 1.9 5.3 1.0 A 13 CYS HA   HA   A 6  VAL HG12 HG1% 6R28 2 
+141 77  . . OR 1 1 13 CYS HA   1 1 6  VAL HG13 . 3.6 . . . 1.9 5.3 1.0 A 13 CYS HA   HA   A 6  VAL HG13 HG1% 6R28 2 
+142 78  . . .  1 1 4  HCS HA   1 1 4  HCS HG2  . 2.6 . . . 1.8 3.4 1.0 A 4  HCS HA   HA   A 4  HCS HG2  HG1  6R28 2 
+143 79  . . .  1 1 10 ASP H    1 1 8  ARG HG2  . 4.0 . . . 2.0 6.0 1.0 A 10 ASP H    H    A 8  ARG HG2  HG2  6R28 2 
+144 80  . . .  1 1 9  PRO HG2  1 1 9  PRO HD2  . 2.3 . . . 1.6 3.0 1.0 A 9  PRO HG2  HG2  A 9  PRO HD2  HD2  6R28 2 
+145 81  . . .  1 1 10 ASP H    1 1 10 ASP HB3  . 2.7 . . . 1.8 3.6 1.0 A 10 ASP H    H    A 10 ASP HB3  HB3  6R28 2 
+146 82  . . .  1 1 14 TRP H    1 1 14 TRP HB3  . 3.1 . . . 1.9 4.3 1.0 A 14 TRP H    H    A 14 TRP HB3  HB3  6R28 2 
+147 83  . . .  1 1 11 TRP HE3  1 1 15 TYR HB2  . 3.3 . . . 1.9 4.7 1.0 A 11 TRP HE3  HE3  A 15 TYR HB2  HB2  6R28 2 
+148 84  . . .  1 1 10 ASP H    1 1 9  PRO HD3  . 3.2 . . . 1.9 4.5 1.0 A 10 ASP H    H    A 9  PRO HD3  HD3  6R28 2 
+149 85  . . OR 1 1 12 PRO HA   1 1 6  VAL HG21 . 3.2 . . . 1.9 4.5 1.0 A 12 PRO HA   HA   A 6  VAL HG21 HG2% 6R28 2 
+150 85  . . OR 1 1 12 PRO HA   1 1 6  VAL HG22 . 3.2 . . . 1.9 4.5 1.0 A 12 PRO HA   HA   A 6  VAL HG22 HG2% 6R28 2 
+151 85  . . OR 1 1 12 PRO HA   1 1 6  VAL HG23 . 3.2 . . . 1.9 4.5 1.0 A 12 PRO HA   HA   A 6  VAL HG23 HG2% 6R28 2 
+152 86  . . .  1 1 14 TRP H    1 1 13 CYS HA   . 2.7 . . . 1.8 3.6 1.0 A 14 TRP H    H    A 13 CYS HA   HA   6R28 2 
+153 87  . . .  1 1 10 ASP H    1 1 9  PRO HD2  . 2.8 . . . 1.8 3.8 1.0 A 10 ASP H    H    A 9  PRO HD2  HD2  6R28 2 
+154 88  . . .  1 1 7  HIS HB3  1 1 7  HIS HA   . 2.2 . . . 1.6 2.8 1.0 A 7  HIS HB3  HB3  A 7  HIS HA   HA   6R28 2 
+155 89  . . .  1 1 8  ARG HD2  1 1 8  ARG HA   . 3.0 . . . 0.0 6.0 1.0 A 8  ARG HD2  HD2  A 8  ARG HA   HA   6R28 2 
+156 90  . . .  1 1 14 TRP H    1 1 14 TRP HA   . 3.1 . . . 1.9 4.3 1.0 A 14 TRP H    H    A 14 TRP HA   HA   6R28 2 
+157 91  . . .  1 1 16 ARG HD3  1 1 16 ARG HA   . 3.0 . . . 0.0 6.0 1.0 A 16 ARG HD3  HD3  A 16 ARG HA   HA   6R28 2 
+158 92  . . .  1 1 10 ASP H    1 1 10 ASP HA   . 2.6 . . . 1.7 3.5 1.0 A 10 ASP H    H    A 10 ASP HA   HA   6R28 2 
+159 93  . . .  1 1 8  ARG H    1 1 8  ARG HG3  . 3.3 . . . 1.9 4.7 1.0 A 8  ARG H    H    A 8  ARG HG3  HG3  6R28 2 
+160 94  . . .  1 1 6  VAL HB   1 1 6  VAL HA   . 2.6 . . . 1.8 3.4 1.0 A 6  VAL HB   HB   A 6  VAL HA   HA   6R28 2 
+161 95  . . .  1 1 8  ARG HD2  1 1 11 TRP HB2  . 3.3 . . . 1.9 4.7 1.0 A 8  ARG HD2  HD2  A 11 TRP HB2  HB2  6R28 2 
+162 96  . . .  1 1 4  HCS HB3  1 1 4  HCS HA   . 2.4 . . . 1.7 3.1 1.0 A 4  HCS HB3  HB2  A 4  HCS HA   HA   6R28 2 
+163 97  . . .  1 1 12 PRO HA   1 1 13 CYS HB3  . 3.4 . . . 2.0 4.8 1.0 A 12 PRO HA   HA   A 13 CYS HB3  HB3  6R28 2 
+164 98  . . .  1 1 8  ARG HA   1 1 8  ARG HD3  . 3.1 . . . 1.9 4.3 1.0 A 8  ARG HA   HA   A 8  ARG HD3  HD3  6R28 2 
+165 99  1 . .  1 1 14 TRP H    1 1 13 CYS HB3  . 3.1 . . . 1.9 4.3 1.0 A 14 TRP H    H    A 13 CYS HB3  HB3  6R28 2 
+166 99  2 . .  1 1 14 TRP H    1 1 13 CYS HB2  . 3.1 . . . 1.9 4.3 1.0 A 14 TRP H    H    A 13 CYS HB2  HB2  6R28 2 
+167 100 . . .  1 1 8  ARG H    1 1 8  ARG HD3  . 3.3 . . . 1.9 4.7 1.0 A 8  ARG H    H    A 8  ARG HD3  HD3  6R28 2 
+168 101 . . .  1 1 14 TRP HE1  1 1 14 TRP HB2  . 3.6 . . . 2.0 5.2 1.0 A 14 TRP HE1  HE1  A 14 TRP HB2  HB2  6R28 2 
+169 102 . . .  1 1 11 TRP HA   1 1 12 PRO HG2  . 3.7 . . . 2.0 5.4 1.0 A 11 TRP HA   HA   A 12 PRO HG2  HG2  6R28 2 
+170 103 . . .  1 1 9  PRO HD2  1 1 8  ARG HD2  . 4.1 . . . 2.0 6.0 1.0 A 9  PRO HD2  HD2  A 8  ARG HD2  HD2  6R28 2 
+171 104 . . .  1 1 8  ARG H    1 1 9  PRO HD2  . 3.6 . . . 1.9 5.3 1.0 A 8  ARG H    H    A 9  PRO HD2  HD2  6R28 2 
+172 105 . . .  1 1 4  HCS HB3  1 1 4  HCS HG3  . 2.4 . . . 1.7 3.1 1.0 A 4  HCS HB3  HB2  A 4  HCS HG3  HG2  6R28 2 
+173 106 . . .  1 1 10 ASP H    1 1 11 TRP HB2  . 4.0 . . . 2.0 6.0 1.0 A 10 ASP H    H    A 11 TRP HB2  HB2  6R28 2 
+174 107 . . .  1 1 8  ARG H    1 1 8  ARG HG2  . 3.1 . . . 1.9 4.3 1.0 A 8  ARG H    H    A 8  ARG HG2  HG2  6R28 2 
+175 108 . . .  1 1 10 ASP HA   1 1 11 TRP HA   . 3.5 . . . 2.0 5.0 1.0 A 10 ASP HA   HA   A 11 TRP HA   HA   6R28 2 
+176 109 . . .  1 1 16 ARG H    1 1 16 ARG HA   . 3.0 . . . 1.8 4.2 1.0 A 16 ARG H    H    A 16 ARG HA   HA   6R28 2 
+177 110 . . .  1 1 8  ARG H    1 1 8  ARG HB3  . 2.9 . . . 1.9 3.9 1.0 A 8  ARG H    H    A 8  ARG HB3  HB3  6R28 2 
+178 111 . . .  1 1 4  HCS HG2  1 1 4  HCS HB3  . 2.5 . . . 1.7 3.3 1.0 A 4  HCS HG2  HG1  A 4  HCS HB3  HB2  6R28 2 
+179 112 . . .  1 1 8  ARG HG3  1 1 11 TRP HB3  . 3.5 . . . 1.9 5.1 1.0 A 8  ARG HG3  HG3  A 11 TRP HB3  HB3  6R28 2 
+180 113 . . OR 1 1 6  VAL HG21 1 1 6  VAL HB   . 1.9 . . . 1.4 2.4 1.0 A 6  VAL HG21 HG2% A 6  VAL HB   HB   6R28 2 
+181 113 . . OR 1 1 6  VAL HG22 1 1 6  VAL HB   . 1.9 . . . 1.4 2.4 1.0 A 6  VAL HG22 HG2% A 6  VAL HB   HB   6R28 2 
+182 113 . . OR 1 1 6  VAL HG23 1 1 6  VAL HB   . 1.9 . . . 1.4 2.4 1.0 A 6  VAL HG23 HG2% A 6  VAL HB   HB   6R28 2 
+183 114 . . .  1 1 8  ARG H    1 1 8  ARG HB2  . 3.1 . . . 1.9 4.3 1.0 A 8  ARG H    H    A 8  ARG HB2  HB2  6R28 2 
+184 115 . . OR 1 1 15 TYR HD1  1 1 15 TYR H    . 3.1 . . . 1.9 4.3 1.0 A 15 TYR HD1  HD%  A 15 TYR H    H    6R28 2 
+185 115 . . OR 1 1 15 TYR HD2  1 1 15 TYR H    . 3.1 . . . 1.9 4.3 1.0 A 15 TYR HD2  HD%  A 15 TYR H    H    6R28 2 
+186 116 . . .  1 1 8  ARG H    1 1 8  ARG HD2  . 3.4 . . . 2.0 4.8 1.0 A 8  ARG H    H    A 8  ARG HD2  HD2  6R28 2 
+187 117 . . .  1 1 10 ASP H    1 1 9  PRO HB3  . 3.2 . . . 1.9 4.5 1.0 A 10 ASP H    H    A 9  PRO HB3  HB3  6R28 2 
+188 118 . . .  1 1 5  HIS H    1 1 3  ILE HB   . 3.7 . . . 2.0 5.4 1.0 A 5  HIS H    H    A 3  ILE HB   HB   6R28 2 
+189 119 . . OR 1 1 15 TYR HD1  1 1 14 TRP HA   . 3.5 . . . 1.9 5.1 1.0 A 15 TYR HD1  HD%  A 14 TRP HA   HA   6R28 2 
+190 119 . . OR 1 1 15 TYR HD2  1 1 14 TRP HA   . 3.5 . . . 1.9 5.1 1.0 A 15 TYR HD2  HD%  A 14 TRP HA   HA   6R28 2 
+191 120 . . OR 1 1 15 TYR HD1  1 1 15 TYR HA   . 2.3 . . . 0.0 6.0 1.0 A 15 TYR HD1  HD%  A 15 TYR HA   HA   6R28 2 
+192 120 . . OR 1 1 15 TYR HD2  1 1 15 TYR HA   . 2.3 . . . 0.0 6.0 1.0 A 15 TYR HD2  HD%  A 15 TYR HA   HA   6R28 2 
+193 121 . . .  1 1 4  HCS HG2  1 1 4  HCS HB2  . 2.4 . . . 1.7 3.1 1.0 A 4  HCS HG2  HG1  A 4  HCS HB2  HB1  6R28 2 
+194 122 . . .  1 1 9  PRO HD3  1 1 8  ARG HD2  . 4.2 . . . 2.0 6.0 1.0 A 9  PRO HD3  HD3  A 8  ARG HD2  HD2  6R28 2 
+195 123 1 . .  1 1 5  HIS H    1 1 13 CYS HB3  . 3.7 . . . 2.0 5.4 1.0 A 5  HIS H    H    A 13 CYS HB3  HB3  6R28 2 
+196 123 2 . .  1 1 5  HIS H    1 1 13 CYS HB2  . 3.7 . . . 2.0 5.4 1.0 A 5  HIS H    H    A 13 CYS HB2  HB2  6R28 2 
+197 124 . . .  1 1 8  ARG HD2  1 1 8  ARG HG2  . 2.7 . . . 1.8 3.6 1.0 A 8  ARG HD2  HD2  A 8  ARG HG2  HG2  6R28 2 
+198 125 . . OR 1 1 15 TYR HD1  1 1 15 TYR HB2  . 2.2 . . . 1.6 2.8 1.0 A 15 TYR HD1  HD%  A 15 TYR HB2  HB2  6R28 2 
+199 125 . . OR 1 1 15 TYR HD2  1 1 15 TYR HB2  . 2.2 . . . 1.6 2.8 1.0 A 15 TYR HD2  HD%  A 15 TYR HB2  HB2  6R28 2 
+200 126 . . .  1 1 8  ARG HD3  1 1 8  ARG HG2  . 2.7 . . . 1.8 3.6 1.0 A 8  ARG HD3  HD3  A 8  ARG HG2  HG2  6R28 2 
+201 127 . . .  1 1 8  ARG HD2  1 1 8  ARG HG3  . 2.8 . . . 1.9 3.7 1.0 A 8  ARG HD2  HD2  A 8  ARG HG3  HG3  6R28 2 
+202 128 . . .  1 1 14 TRP HD1  1 1 12 PRO HG3  . 3.4 . . . 1.9 4.9 1.0 A 14 TRP HD1  HD1  A 12 PRO HG3  HG3  6R28 2 
+203 129 . . .  1 1 11 TRP H    1 1 8  ARG HG2  . 3.7 . . . 2.0 5.4 1.0 A 11 TRP H    H    A 8  ARG HG2  HG2  6R28 2 
+204 130 . . .  1 1 5  HIS H    1 1 6  VAL HB   . 3.9 . . . 2.0 5.8 1.0 A 5  HIS H    H    A 6  VAL HB   HB   6R28 2 
+205 131 . . .  1 1 8  ARG HD3  1 1 8  ARG HB2  . 2.9 . . . 1.9 3.9 1.0 A 8  ARG HD3  HD3  A 8  ARG HB2  HB2  6R28 2 
+206 132 . . .  1 1 11 TRP H    1 1 11 TRP HB3  . 2.2 . . . 0.0 6.0 1.0 A 11 TRP H    H    A 11 TRP HB3  HB3  6R28 2 
+207 133 . . OR 1 1 15 TYR HD1  1 1 15 TYR HB3  . 2.1 . . . 1.5 2.7 1.0 A 15 TYR HD1  HD%  A 15 TYR HB3  HB3  6R28 2 
+208 133 . . OR 1 1 15 TYR HD2  1 1 15 TYR HB3  . 2.1 . . . 1.5 2.7 1.0 A 15 TYR HD2  HD%  A 15 TYR HB3  HB3  6R28 2 
+209 134 . . .  1 1 3  ILE H    1 1 3  ILE HB   . 3.1 . . . 1.9 4.3 1.0 A 3  ILE H    H    A 3  ILE HB   HB   6R28 2 
+210 135 . . .  1 1 12 PRO HB3  1 1 12 PRO HD2  . 3.2 . . . 1.9 4.5 1.0 A 12 PRO HB3  HB3  A 12 PRO HD2  HD2  6R28 2 
+211 136 . . .  1 1 15 TYR HB2  1 1 12 PRO HB3  . 3.7 . . . 2.0 5.4 1.0 A 15 TYR HB2  HB2  A 12 PRO HB3  HB3  6R28 2 
+212 137 . . .  1 1 11 TRP H    1 1 8  ARG HB2  . 3.0 . . . 1.9 4.1 1.0 A 11 TRP H    H    A 8  ARG HB2  HB2  6R28 2 
+213 138 . . .  1 1 12 PRO HG2  1 1 12 PRO HD2  . 2.6 . . . 1.8 3.4 1.0 A 12 PRO HG2  HG2  A 12 PRO HD2  HD2  6R28 2 
+214 139 . . .  1 1 14 TRP HD1  1 1 13 CYS HA   . 3.3 . . . 1.9 4.7 1.0 A 14 TRP HD1  HD1  A 13 CYS HA   HA   6R28 2 
+215 140 . . .  1 1 12 PRO HD3  1 1 11 TRP HA   . 2.3 . . . 1.7 2.9 1.0 A 12 PRO HD3  HD3  A 11 TRP HA   HA   6R28 2 
+216 141 . . .  1 1 11 TRP HE1  1 1 11 TRP HZ2  . 2.3 . . . 1.6 3.0 1.0 A 11 TRP HE1  HE1  A 11 TRP HZ2  HZ2  6R28 2 
+217 142 1 . .  1 1 14 TRP HD1  1 1 13 CYS HB3  . 3.1 . . . 1.9 4.3 1.0 A 14 TRP HD1  HD1  A 13 CYS HB3  HB3  6R28 2 
+218 142 2 . .  1 1 14 TRP HD1  1 1 13 CYS HB2  . 3.1 . . . 1.9 4.3 1.0 A 14 TRP HD1  HD1  A 13 CYS HB2  HB2  6R28 2 
+219 143 . . .  1 1 4  HCS HB2  1 1 4  HCS HG3  . 2.4 . . . 1.7 3.1 1.0 A 4  HCS HB2  HB1  A 4  HCS HG3  HG2  6R28 2 
+220 144 . . .  1 1 16 ARG HD3  1 1 16 ARG HB2  . 2.7 . . . 1.8 3.6 1.0 A 16 ARG HD3  HD3  A 16 ARG HB2  HB2  6R28 2 
+221 145 . . OR 1 1 15 TYR HD1  1 1 12 PRO HD3  . 3.7 . . . 2.0 5.4 1.0 A 15 TYR HD1  HD%  A 12 PRO HD3  HD3  6R28 2 
+222 145 . . OR 1 1 15 TYR HD2  1 1 12 PRO HD3  . 3.7 . . . 2.0 5.4 1.0 A 15 TYR HD2  HD%  A 12 PRO HD3  HD3  6R28 2 
+223 146 . . .  1 1 11 TRP H    1 1 11 TRP HB2  . 2.4 . . . 1.7 3.1 1.0 A 11 TRP H    H    A 11 TRP HB2  HB2  6R28 2 
+224 147 . . .  1 1 9  PRO HD3  1 1 9  PRO HB3  . 2.8 . . . 1.8 3.8 1.0 A 9  PRO HD3  HD3  A 9  PRO HB3  HB3  6R28 2 
+225 148 . . .  1 1 12 PRO HD3  1 1 12 PRO HG3  . 2.6 . . . 1.8 3.4 1.0 A 12 PRO HD3  HD3  A 12 PRO HG3  HG3  6R28 2 
+226 149 . . .  1 1 11 TRP H    1 1 8  ARG HA   . 3.5 . . . 1.9 5.1 1.0 A 11 TRP H    H    A 8  ARG HA   HA   6R28 2 
+227 150 . . .  1 1 16 ARG H    1 1 15 TYR HA   . 2.8 . . . 1.8 3.8 1.0 A 16 ARG H    H    A 15 TYR HA   HA   6R28 2 
+228 151 . . .  1 1 11 TRP HE1  1 1 11 TRP HD1  . 2.0 . . . 1.5 2.5 1.0 A 11 TRP HE1  HE1  A 11 TRP HD1  HD1  6R28 2 
+229 152 . . .  1 1 10 ASP H    1 1 8  ARG HB3  . 3.3 . . . 1.9 4.7 1.0 A 10 ASP H    H    A 8  ARG HB3  HB3  6R28 2 
+230 153 . . .  1 1 11 TRP H    1 1 9  PRO HD2  . 3.8 . . . 2.0 5.6 1.0 A 11 TRP H    H    A 9  PRO HD2  HD2  6R28 2 
+231 154 . . .  1 1 11 TRP HE3  1 1 11 TRP HB3  . 2.4 . . . 1.7 3.1 1.0 A 11 TRP HE3  HE3  A 11 TRP HB3  HB3  6R28 2 
+232 155 . . .  1 1 9  PRO HB2  1 1 9  PRO HA   . 2.5 . . . 1.7 3.3 1.0 A 9  PRO HB2  HB2  A 9  PRO HA   HA   6R28 2 
+233 156 . . .  1 1 11 TRP HE1  1 1 8  ARG HG2  . 4.1 . . . 2.0 6.0 1.0 A 11 TRP HE1  HE1  A 8  ARG HG2  HG2  6R28 2 
+234 157 . . .  1 1 8  ARG HG2  1 1 8  ARG HB3  . 2.3 . . . 1.6 3.0 1.0 A 8  ARG HG2  HG2  A 8  ARG HB3  HB3  6R28 2 
+235 158 . . .  1 1 11 TRP HE3  1 1 11 TRP HB2  . 2.4 . . . 1.7 3.1 1.0 A 11 TRP HE3  HE3  A 11 TRP HB2  HB2  6R28 2 
+236 159 . . .  1 1 9  PRO HD2  1 1 9  PRO HB3  . 2.9 . . . 1.9 3.9 1.0 A 9  PRO HD2  HD2  A 9  PRO HB3  HB3  6R28 2 
+237 160 . . .  1 1 11 TRP H    1 1 11 TRP HA   . 2.4 . . . 1.7 3.1 1.0 A 11 TRP H    H    A 11 TRP HA   HA   6R28 2 
+238 161 . . .  1 1 4  HCS HB3  1 1 13 CYS HA   . 3.6 . . . 2.0 5.2 1.0 A 4  HCS HB3  HB2  A 13 CYS HA   HA   6R28 2 
+239 162 . . .  1 1 11 TRP H    1 1 11 TRP HE3  . 3.7 . . . 2.0 5.4 1.0 A 11 TRP H    H    A 11 TRP HE3  HE3  6R28 2 
+240 163 . . .  1 1 11 TRP H    1 1 11 TRP HD1  . 3.0 . . . 1.9 4.1 1.0 A 11 TRP H    H    A 11 TRP HD1  HD1  6R28 2 
+241 164 . . .  1 1 8  ARG HG3  1 1 8  ARG HD3  . 3.2 . . . 1.9 4.5 1.0 A 8  ARG HG3  HG3  A 8  ARG HD3  HD3  6R28 2 
+242 165 . . .  1 1 4  HCS HA   1 1 4  HCS HB2  . 2.3 . . . 1.6 3.0 1.0 A 4  HCS HA   HA   A 4  HCS HB2  HB1  6R28 2 
+243 166 . . .  1 1 10 ASP H    1 1 8  ARG HG3  . 3.7 . . . 2.0 5.4 1.0 A 10 ASP H    H    A 8  ARG HG3  HG3  6R28 2 
+244 167 . . .  1 1 8  ARG HG3  1 1 8  ARG HA   . 3.2 . . . 1.9 4.5 1.0 A 8  ARG HG3  HG3  A 8  ARG HA   HA   6R28 2 
+245 168 . . .  1 1 11 TRP HE1  1 1 11 TRP HB2  . 3.5 . . . 1.9 5.1 1.0 A 11 TRP HE1  HE1  A 11 TRP HB2  HB2  6R28 2 
+246 169 . . .  1 1 16 ARG HB3  1 1 16 ARG HD3  . 2.9 . . . 1.9 3.9 1.0 A 16 ARG HB3  HB3  A 16 ARG HD3  HD3  6R28 2 
+247 170 . . .  1 1 8  ARG HG2  1 1 8  ARG HA   . 3.0 . . . 1.9 4.1 1.0 A 8  ARG HG2  HG2  A 8  ARG HA   HA   6R28 2 
+248 171 . . .  1 1 11 TRP HE1  1 1 11 TRP HB3  . 3.4 . . . 0.0 6.0 1.0 A 11 TRP HE1  HE1  A 11 TRP HB3  HB3  6R28 2 
+249 172 . . .  1 1 8  ARG HB3  1 1 8  ARG HA   . 2.8 . . . 1.8 3.8 1.0 A 8  ARG HB3  HB3  A 8  ARG HA   HA   6R28 2 
+250 173 . . .  1 1 8  ARG HB2  1 1 8  ARG HA   . 2.6 . . . 1.7 3.5 1.0 A 8  ARG HB2  HB2  A 8  ARG HA   HA   6R28 2 
+251 174 . . .  1 1 13 CYS HA   1 1 4  HCS HG3  . 3.2 . . . 1.9 4.5 1.0 A 13 CYS HA   HA   A 4  HCS HG3  HG2  6R28 2 
+252 175 . . .  1 1 14 TRP HE1  1 1 12 PRO HG2  . 3.4 . . . 1.9 4.9 1.0 A 14 TRP HE1  HE1  A 12 PRO HG2  HG2  6R28 2 
+253 176 . . .  1 1 15 TYR H    1 1 15 TYR HB3  . 2.8 . . . 0.0 6.0 1.0 A 15 TYR H    H    A 15 TYR HB3  HB3  6R28 2 
+254 177 . . .  1 1 15 TYR H    1 1 14 TRP HB2  . 3.4 . . . 2.0 4.8 1.0 A 15 TYR H    H    A 14 TRP HB2  HB2  6R28 2 
+255 178 . . .  1 1 15 TYR H    1 1 15 TYR HA   . 3.1 . . . 1.9 4.3 1.0 A 15 TYR H    H    A 15 TYR HA   HA   6R28 2 
+256 179 . . .  1 1 14 TRP HD1  1 1 12 PRO HB3  . 3.0 . . . 1.8 4.2 1.0 A 14 TRP HD1  HD1  A 12 PRO HB3  HB3  6R28 2 
+257 180 . . .  1 1 14 TRP HZ3  1 1 15 TYR HB3  . 3.8 . . . 2.0 5.6 1.0 A 14 TRP HZ3  HZ3  A 15 TYR HB3  HB3  6R28 2 
+258 181 . . OR 1 1 15 TYR HE1  1 1 15 TYR HA   . 3.2 . . . 0.0 6.0 1.0 A 15 TYR HE1  HE%  A 15 TYR HA   HA   6R28 2 
+259 181 . . OR 1 1 15 TYR HE2  1 1 15 TYR HA   . 3.2 . . . 0.0 6.0 1.0 A 15 TYR HE2  HE%  A 15 TYR HA   HA   6R28 2 
+260 182 1 . .  1 1 5  HIS H    1 1 5  HIS HB2  . 2.7 . . . 1.8 3.6 1.0 A 5  HIS H    H    A 5  HIS HB2  HB2  6R28 2 
+261 182 2 . .  1 1 5  HIS HE1  1 1 5  HIS HB2  . 2.7 . . . 1.8 3.6 1.0 A 5  HIS HE1  HE1  A 5  HIS HB2  HB2  6R28 2 
+262 183 . . .  1 1 11 TRP HE1  1 1 11 TRP HH2  . 3.4 . . . 0.0 6.0 1.0 A 11 TRP HE1  HE1  A 11 TRP HH2  HH2  6R28 2 
+263 184 . . .  1 1 11 TRP HB2  1 1 11 TRP HA   . 3.2 . . . 1.9 4.5 1.0 A 11 TRP HB2  HB2  A 11 TRP HA   HA   6R28 2 
+264 185 . . .  1 1 5  HIS HB2  1 1 5  HIS HA   . 2.1 . . . 1.6 2.6 1.0 A 5  HIS HB2  HB2  A 5  HIS HA   HA   6R28 2 
+265 186 . . .  1 1 7  HIS HD2  1 1 8  ARG HG2  . 3.0 . . . 1.9 4.1 1.0 A 7  HIS HD2  HD2  A 8  ARG HG2  HG2  6R28 2 
+266 187 . . .  1 1 5  HIS HD2  1 1 4  HCS HB3  . 3.1 . . . 1.9 4.3 1.0 A 5  HIS HD2  HD2  A 4  HCS HB3  HB2  6R28 2 
+267 188 . . .  1 1 11 TRP HB3  1 1 11 TRP HA   . 2.3 . . . 1.6 3.0 1.0 A 11 TRP HB3  HB3  A 11 TRP HA   HA   6R28 2 
+268 189 . . .  1 1 15 TYR HB2  1 1 12 PRO HD3  . 3.8 . . . 2.0 5.6 1.0 A 15 TYR HB2  HB2  A 12 PRO HD3  HD3  6R28 2 
+269 190 . . .  1 1 11 TRP H    1 1 10 ASP HB2  . 3.1 . . . 1.9 4.3 1.0 A 11 TRP H    H    A 10 ASP HB2  HB2  6R28 2 
+270 191 . . .  1 1 5  HIS HD2  1 1 4  HCS HB2  . 3.2 . . . 2.0 4.4 1.0 A 5  HIS HD2  HD2  A 4  HCS HB2  HB1  6R28 2 
+271 192 . . .  1 1 15 TYR HB2  1 1 11 TRP HA   . 3.8 . . . 2.0 5.6 1.0 A 15 TYR HB2  HB2  A 11 TRP HA   HA   6R28 2 
+272 193 . . .  1 1 7  HIS HD2  1 1 8  ARG HB3  . 3.1 . . . 1.9 4.3 1.0 A 7  HIS HD2  HD2  A 8  ARG HB3  HB3  6R28 2 
+273 194 . . .  1 1 12 PRO HG3  1 1 11 TRP HA   . 3.9 . . . 2.0 5.8 1.0 A 12 PRO HG3  HG3  A 11 TRP HA   HA   6R28 2 
+274 195 . . .  1 1 1  PRO HB2  1 1 1  PRO HA   . 3.3 . . . 2.0 4.6 1.0 A 1  PRO HB2  HB2  A 1  PRO HA   HA   6R28 2 
+275 196 1 . .  1 1 13 CYS HB3  1 1 4  HCS HB3  . 2.8 . . . 1.8 3.8 1.0 A 13 CYS HB3  HB3  A 4  HCS HB3  HB2  6R28 2 
+276 196 2 . .  1 1 13 CYS HB2  1 1 4  HCS HB3  . 2.8 . . . 1.8 3.8 1.0 A 13 CYS HB2  HB2  A 4  HCS HB3  HB2  6R28 2 
+277 197 . . .  1 1 14 TRP HE1  1 1 12 PRO HB2  . 3.2 . . . 1.9 4.5 1.0 A 14 TRP HE1  HE1  A 12 PRO HB2  HB2  6R28 2 
+278 198 . . .  1 1 8  ARG H    1 1 7  HIS HB2  . 2.6 . . . 1.7 3.5 1.0 A 8  ARG H    H    A 7  HIS HB2  HB2  6R28 2 
+279 199 . . .  1 1 1  PRO HG3  1 1 1  PRO HD3  . 3.1 . . . 1.9 4.3 1.0 A 1  PRO HG3  HG3  A 1  PRO HD3  HD3  6R28 2 
+280 200 . . .  1 1 1  PRO HB3  1 1 1  PRO HD2  . 3.5 . . . 1.9 5.1 1.0 A 1  PRO HB3  HB3  A 1  PRO HD2  HD2  6R28 2 
+281 201 1 . .  1 1 13 CYS HB3  1 1 4  HCS HB2  . 2.6 . . . 1.8 3.4 1.0 A 13 CYS HB3  HB3  A 4  HCS HB2  HB1  6R28 2 
+282 201 2 . .  1 1 13 CYS HB2  1 1 4  HCS HB2  . 2.6 . . . 1.8 3.4 1.0 A 13 CYS HB2  HB2  A 4  HCS HB2  HB1  6R28 2 
+283 202 . . .  1 1 11 TRP HE1  1 1 8  ARG HG3  . 3.9 . . . 2.0 5.8 1.0 A 11 TRP HE1  HE1  A 8  ARG HG3  HG3  6R28 2 
+284 203 1 . .  1 1 13 CYS HB3  1 1 4  HCS HG2  . 2.8 . . . 1.8 3.8 1.0 A 13 CYS HB3  HB3  A 4  HCS HG2  HG1  6R28 2 
+285 203 2 . .  1 1 13 CYS HB2  1 1 4  HCS HG2  . 2.8 . . . 1.8 3.8 1.0 A 13 CYS HB2  HB2  A 4  HCS HG2  HG1  6R28 2 
+286 204 . . .  1 1 11 TRP HH2  1 1 7  HIS HB2  . 3.3 . . . 1.9 4.7 1.0 A 11 TRP HH2  HH2  A 7  HIS HB2  HB2  6R28 2 
+287 205 . . .  1 1 4  HCS H    1 1 4  HCS HG3  . 3.3 . . . 2.0 4.6 1.0 A 4  HCS H    H    A 4  HCS HG3  HG2  6R28 2 
+288 206 . . .  1 1 11 TRP HH2  1 1 7  HIS HB3  . 3.3 . . . 1.9 4.7 1.0 A 11 TRP HH2  HH2  A 7  HIS HB3  HB3  6R28 2 
+289 207 . . .  1 1 16 ARG H    1 1 16 ARG HG3  . 3.8 . . . 2.0 5.6 1.0 A 16 ARG H    H    A 16 ARG HG3  HG3  6R28 2 
+290 208 . . .  1 1 3  ILE HA   1 1 4  HCS HG2  . 3.6 . . . 2.0 5.2 1.0 A 3  ILE HA   HA   A 4  HCS HG2  HG1  6R28 2 
+291 209 . . OR 1 1 14 TRP HE3  1 1 15 TYR HD1  . 3.6 . . . 1.9 5.3 1.0 A 14 TRP HE3  HE3  A 15 TYR HD1  HD%  6R28 2 
+292 209 . . OR 1 1 14 TRP HE3  1 1 15 TYR HD2  . 3.6 . . . 1.9 5.3 1.0 A 14 TRP HE3  HE3  A 15 TYR HD2  HD%  6R28 2 
+293 210 . . .  1 1 12 PRO HD3  1 1 12 PRO HG2  . 2.7 . . . 1.8 3.6 1.0 A 12 PRO HD3  HD3  A 12 PRO HG2  HG2  6R28 2 
+294 211 . . OR 1 1 9  PRO HB3  1 1 3  ILE HG21 . 3.4 . . . 1.9 4.9 1.0 A 9  PRO HB3  HB3  A 3  ILE HG21 HG2% 6R28 2 
+295 211 . . OR 1 1 9  PRO HB3  1 1 3  ILE HG22 . 3.4 . . . 1.9 4.9 1.0 A 9  PRO HB3  HB3  A 3  ILE HG22 HG2% 6R28 2 
+296 211 . . OR 1 1 9  PRO HB3  1 1 3  ILE HG23 . 3.4 . . . 1.9 4.9 1.0 A 9  PRO HB3  HB3  A 3  ILE HG23 HG2% 6R28 2 
+297 212 . . OR 1 1 8  ARG H    1 1 6  VAL HG11 . 2.9 . . . 1.8 4.0 1.0 A 8  ARG H    H    A 6  VAL HG11 HG1% 6R28 2 
+298 212 . . OR 1 1 8  ARG H    1 1 6  VAL HG12 . 2.9 . . . 1.8 4.0 1.0 A 8  ARG H    H    A 6  VAL HG12 HG1% 6R28 2 
+299 212 . . OR 1 1 8  ARG H    1 1 6  VAL HG13 . 2.9 . . . 1.8 4.0 1.0 A 8  ARG H    H    A 6  VAL HG13 HG1% 6R28 2 
+300 213 . . .  1 1 14 TRP HZ2  1 1 12 PRO HB3  . 3.5 . . . 2.0 5.0 1.0 A 14 TRP HZ2  HZ2  A 12 PRO HB3  HB3  6R28 2 
+301 214 . . .  1 1 9  PRO HD2  1 1 8  ARG HG3  . 3.6 . . . 1.9 5.3 1.0 A 9  PRO HD2  HD2  A 8  ARG HG3  HG3  6R28 2 
+302 215 . . .  1 1 16 ARG HG2  1 1 16 ARG HA   . 2.9 . . . 1.9 3.9 1.0 A 16 ARG HG2  HG2  A 16 ARG HA   HA   6R28 2 
+303 216 1 . OR 1 1 13 CYS HB2  1 1 6  VAL HG11 . 3.2 . . . 1.9 4.5 1.0 A 13 CYS HB2  HB2  A 6  VAL HG11 HG1% 6R28 2 
+304 216 1 . OR 1 1 13 CYS HB2  1 1 6  VAL HG12 . 3.2 . . . 1.9 4.5 1.0 A 13 CYS HB2  HB2  A 6  VAL HG12 HG1% 6R28 2 
+305 216 1 . OR 1 1 13 CYS HB2  1 1 6  VAL HG13 . 3.2 . . . 1.9 4.5 1.0 A 13 CYS HB2  HB2  A 6  VAL HG13 HG1% 6R28 2 
+306 216 2 . OR 1 1 13 CYS HB3  1 1 6  VAL HG11 . 3.2 . . . 1.9 4.5 1.0 A 13 CYS HB3  HB3  A 6  VAL HG11 HG1% 6R28 2 
+307 216 2 . OR 1 1 13 CYS HB3  1 1 6  VAL HG12 . 3.2 . . . 1.9 4.5 1.0 A 13 CYS HB3  HB3  A 6  VAL HG12 HG1% 6R28 2 
+308 216 2 . OR 1 1 13 CYS HB3  1 1 6  VAL HG13 . 3.2 . . . 1.9 4.5 1.0 A 13 CYS HB3  HB3  A 6  VAL HG13 HG1% 6R28 2 
+309 217 . . OR 1 1 11 TRP HE1  1 1 15 TYR HD1  . 3.7 . . . 1.9 5.5 1.0 A 11 TRP HE1  HE1  A 15 TYR HD1  HD%  6R28 2 
+310 217 . . OR 1 1 11 TRP HE1  1 1 15 TYR HD2  . 3.7 . . . 1.9 5.5 1.0 A 11 TRP HE1  HE1  A 15 TYR HD2  HD%  6R28 2 
+311 218 . . .  1 1 16 ARG HG3  1 1 16 ARG HA   . 2.8 . . . 1.8 3.8 1.0 A 16 ARG HG3  HG3  A 16 ARG HA   HA   6R28 2 
+312 219 1 . OR 1 1 13 CYS HB3  1 1 6  VAL HG21 . 3.0 . . . 1.9 4.1 1.0 A 13 CYS HB3  HB3  A 6  VAL HG21 HG2% 6R28 2 
+313 219 1 . OR 1 1 13 CYS HB3  1 1 6  VAL HG22 . 3.0 . . . 1.9 4.1 1.0 A 13 CYS HB3  HB3  A 6  VAL HG22 HG2% 6R28 2 
+314 219 1 . OR 1 1 13 CYS HB3  1 1 6  VAL HG23 . 3.0 . . . 1.9 4.1 1.0 A 13 CYS HB3  HB3  A 6  VAL HG23 HG2% 6R28 2 
+315 219 2 . OR 1 1 13 CYS HB2  1 1 6  VAL HG21 . 3.0 . . . 1.9 4.1 1.0 A 13 CYS HB2  HB2  A 6  VAL HG21 HG2% 6R28 2 
+316 219 2 . OR 1 1 13 CYS HB2  1 1 6  VAL HG22 . 3.0 . . . 1.9 4.1 1.0 A 13 CYS HB2  HB2  A 6  VAL HG22 HG2% 6R28 2 
+317 219 2 . OR 1 1 13 CYS HB2  1 1 6  VAL HG23 . 3.0 . . . 1.9 4.1 1.0 A 13 CYS HB2  HB2  A 6  VAL HG23 HG2% 6R28 2 
+318 220 . . .  1 1 16 ARG HB2  1 1 16 ARG HA   . 2.7 . . . 1.8 3.6 1.0 A 16 ARG HB2  HB2  A 16 ARG HA   HA   6R28 2 
+319 221 . . OR 1 1 6  VAL HA   1 1 6  VAL HG11 . 2.1 . . . 1.5 2.7 1.0 A 6  VAL HA   HA   A 6  VAL HG11 HG1% 6R28 2 
+320 221 . . OR 1 1 6  VAL HA   1 1 6  VAL HG12 . 2.1 . . . 1.5 2.7 1.0 A 6  VAL HA   HA   A 6  VAL HG12 HG1% 6R28 2 
+321 221 . . OR 1 1 6  VAL HA   1 1 6  VAL HG13 . 2.1 . . . 1.5 2.7 1.0 A 6  VAL HA   HA   A 6  VAL HG13 HG1% 6R28 2 
+322 222 . . .  1 1 11 TRP H    1 1 12 PRO HA   . 3.8 . . . 1.9 5.7 1.0 A 11 TRP H    H    A 12 PRO HA   HA   6R28 2 
+323 223 . . .  1 1 14 TRP HE1  1 1 14 TRP HZ2  . 2.4 . . . 1.7 3.1 1.0 A 14 TRP HE1  HE1  A 14 TRP HZ2  HZ2  6R28 2 
+324 224 . . .  1 1 11 TRP H    1 1 8  ARG HG3  . 3.3 . . . 1.9 4.7 1.0 A 11 TRP H    H    A 8  ARG HG3  HG3  6R28 2 
+325 225 . . .  1 1 11 TRP HB2  1 1 8  ARG HB3  . 2.9 . . . 1.9 3.9 1.0 A 11 TRP HB2  HB2  A 8  ARG HB3  HB3  6R28 2 
+326 226 . . .  1 1 10 ASP H    1 1 8  ARG HB2  . 3.1 . . . 1.9 4.3 1.0 A 10 ASP H    H    A 8  ARG HB2  HB2  6R28 2 
+327 227 . . OR 1 1 3  ILE HD11 1 1 3  ILE HA   . 2.7 . . . 0.0 6.0 1.0 A 3  ILE HD11 HD1% A 3  ILE HA   HA   6R28 2 
+328 227 . . OR 1 1 3  ILE HD12 1 1 3  ILE HA   . 2.7 . . . 0.0 6.0 1.0 A 3  ILE HD12 HD1% A 3  ILE HA   HA   6R28 2 
+329 227 . . OR 1 1 3  ILE HD13 1 1 3  ILE HA   . 2.7 . . . 0.0 6.0 1.0 A 3  ILE HD13 HD1% A 3  ILE HA   HA   6R28 2 
+330 228 . . .  1 1 11 TRP HB2  1 1 8  ARG HB2  . 2.9 . . . 1.8 4.0 1.0 A 11 TRP HB2  HB2  A 8  ARG HB2  HB2  6R28 2 
+331 229 . . .  1 1 9  PRO HD3  1 1 8  ARG HG3  . 3.8 . . . 2.0 5.6 1.0 A 9  PRO HD3  HD3  A 8  ARG HG3  HG3  6R28 2 
+332 230 . . .  1 1 9  PRO HD3  1 1 8  ARG HA   . 2.1 . . . 1.6 2.6 1.0 A 9  PRO HD3  HD3  A 8  ARG HA   HA   6R28 2 
+333 231 . . OR 1 1 3  ILE HG21 1 1 3  ILE HA   . 2.3 . . . 1.7 2.9 1.0 A 3  ILE HG21 HG2% A 3  ILE HA   HA   6R28 2 
+334 231 . . OR 1 1 3  ILE HG22 1 1 3  ILE HA   . 2.3 . . . 1.7 2.9 1.0 A 3  ILE HG22 HG2% A 3  ILE HA   HA   6R28 2 
+335 231 . . OR 1 1 3  ILE HG23 1 1 3  ILE HA   . 2.3 . . . 1.7 2.9 1.0 A 3  ILE HG23 HG2% A 3  ILE HA   HA   6R28 2 
+336 232 . . .  1 1 6  VAL H    1 1 5  HIS HB2  . 3.2 . . . 1.9 4.5 1.0 A 6  VAL H    H    A 5  HIS HB2  HB2  6R28 2 
+337 233 . . .  1 1 3  ILE HA   1 1 3  ILE HG13 . 2.8 . . . 1.8 3.8 1.0 A 3  ILE HA   HA   A 3  ILE HG13 HG13 6R28 2 
+338 234 . . OR 1 1 11 TRP HE1  1 1 15 TYR HE1  . 3.9 . . . 2.0 5.8 1.0 A 11 TRP HE1  HE1  A 15 TYR HE1  HE%  6R28 2 
+339 234 . . OR 1 1 11 TRP HE1  1 1 15 TYR HE2  . 3.9 . . . 2.0 5.8 1.0 A 11 TRP HE1  HE1  A 15 TYR HE2  HE%  6R28 2 
+340 235 . . .  1 1 14 TRP HE3  1 1 15 TYR HA   . 2.8 . . . 1.8 3.8 1.0 A 14 TRP HE3  HE3  A 15 TYR HA   HA   6R28 2 
+341 236 . . .  1 1 14 TRP HE3  1 1 14 TRP HA   . 2.7 . . . 0.0 6.0 1.0 A 14 TRP HE3  HE3  A 14 TRP HA   HA   6R28 2 
+342 237 . . OR 1 1 6  VAL HA   1 1 6  VAL HG21 . 2.2 . . . 1.6 2.8 1.0 A 6  VAL HA   HA   A 6  VAL HG21 HG2% 6R28 2 
+343 237 . . OR 1 1 6  VAL HA   1 1 6  VAL HG22 . 2.2 . . . 1.6 2.8 1.0 A 6  VAL HA   HA   A 6  VAL HG22 HG2% 6R28 2 
+344 237 . . OR 1 1 6  VAL HA   1 1 6  VAL HG23 . 2.2 . . . 1.6 2.8 1.0 A 6  VAL HA   HA   A 6  VAL HG23 HG2% 6R28 2 
+345 238 . . .  1 1 9  PRO HA   1 1 9  PRO HD3  . 2.9 . . . 1.9 3.9 1.0 A 9  PRO HA   HA   A 9  PRO HD3  HD3  6R28 2 
+346 239 . . .  1 1 7  HIS H    1 1 6  VAL HA   . 3.2 . . . 1.9 4.5 1.0 A 7  HIS H    H    A 6  VAL HA   HA   6R28 2 
+347 240 . . .  1 1 8  ARG HA   1 1 9  PRO HD2  . 2.5 . . . 1.7 3.3 1.0 A 8  ARG HA   HA   A 9  PRO HD2  HD2  6R28 2 
+348 241 . . .  1 1 1  PRO HG3  1 1 1  PRO HA   . 3.4 . . . 2.0 4.8 1.0 A 1  PRO HG3  HG3  A 1  PRO HA   HA   6R28 2 
+349 242 . . .  1 1 15 TYR H    1 1 14 TRP HA   . 2.8 . . . 1.8 3.8 1.0 A 15 TYR H    H    A 14 TRP HA   HA   6R28 2 
+350 243 . . .  1 1 15 TYR H    1 1 15 TYR HB2  . 2.8 . . . 1.8 3.8 1.0 A 15 TYR H    H    A 15 TYR HB2  HB2  6R28 2 
+351 244 . . .  1 1 3  ILE HA   1 1 3  ILE HG12 . 2.7 . . . 1.8 3.6 1.0 A 3  ILE HA   HA   A 3  ILE HG12 HG12 6R28 2 
+352 245 . . .  1 1 1  PRO HD2  1 1 1  PRO HG3  . 3.0 . . . 1.9 4.1 1.0 A 1  PRO HD2  HD2  A 1  PRO HG3  HG3  6R28 2 
+353 246 . . .  1 1 3  ILE HB   1 1 3  ILE HG13 . 2.5 . . . 1.7 3.3 1.0 A 3  ILE HB   HB   A 3  ILE HG13 HG13 6R28 2 
+354 247 . . .  1 1 3  ILE HG12 1 1 3  ILE HG13 . 2.0 . . . 1.5 2.5 1.0 A 3  ILE HG12 HG12 A 3  ILE HG13 HG13 6R28 2 
+355 248 . . .  1 1 16 ARG HB3  1 1 16 ARG HA   . 2.9 . . . 1.9 3.9 1.0 A 16 ARG HB3  HB3  A 16 ARG HA   HA   6R28 2 
+356 249 . . .  1 1 9  PRO HB2  1 1 9  PRO HB3  . 1.9 . . . 1.5 2.3 1.0 A 9  PRO HB2  HB2  A 9  PRO HB3  HB3  6R28 2 
+357 250 . . .  1 1 12 PRO HB3  1 1 12 PRO HD3  . 3.5 . . . 2.0 5.0 1.0 A 12 PRO HB3  HB3  A 12 PRO HD3  HD3  6R28 2 
+358 251 . . .  1 1 5  HIS HB2  1 1 4  HCS HA   . 3.6 . . . 2.0 5.2 1.0 A 5  HIS HB2  HB2  A 4  HCS HA   HA   6R28 2 
+359 252 . . .  1 1 11 TRP H    1 1 8  ARG HB3  . 3.0 . . . 1.8 4.2 1.0 A 11 TRP H    H    A 8  ARG HB3  HB3  6R28 2 
+360 253 . . .  1 1 5  HIS HB3  1 1 5  HIS HA   . 2.2 . . . 1.6 2.8 1.0 A 5  HIS HB3  HB3  A 5  HIS HA   HA   6R28 2 
+361 254 . . OR 1 1 9  PRO HA   1 1 3  ILE HG21 . 2.7 . . . 1.8 3.6 1.0 A 9  PRO HA   HA   A 3  ILE HG21 HG2% 6R28 2 
+362 254 . . OR 1 1 9  PRO HA   1 1 3  ILE HG22 . 2.7 . . . 1.8 3.6 1.0 A 9  PRO HA   HA   A 3  ILE HG22 HG2% 6R28 2 
+363 254 . . OR 1 1 9  PRO HA   1 1 3  ILE HG23 . 2.7 . . . 1.8 3.6 1.0 A 9  PRO HA   HA   A 3  ILE HG23 HG2% 6R28 2 
+364 255 . . .  1 1 9  PRO HD3  1 1 8  ARG HB3  . 3.1 . . . 1.9 4.3 1.0 A 9  PRO HD3  HD3  A 8  ARG HB3  HB3  6R28 2 
+365 256 . . .  1 1 14 TRP HB2  1 1 14 TRP HA   . 2.2 . . . 1.6 2.8 1.0 A 14 TRP HB2  HB2  A 14 TRP HA   HA   6R28 2 
+366 257 . . OR 1 1 9  PRO HA   1 1 3  ILE HD11 . 2.8 . . . 1.8 3.8 1.0 A 9  PRO HA   HA   A 3  ILE HD11 HD1% 6R28 2 
+367 257 . . OR 1 1 9  PRO HA   1 1 3  ILE HD12 . 2.8 . . . 1.8 3.8 1.0 A 9  PRO HA   HA   A 3  ILE HD12 HD1% 6R28 2 
+368 257 . . OR 1 1 9  PRO HA   1 1 3  ILE HD13 . 2.8 . . . 1.8 3.8 1.0 A 9  PRO HA   HA   A 3  ILE HD13 HD1% 6R28 2 
+369 258 . . .  1 1 8  ARG HD2  1 1 8  ARG HB2  . 3.1 . . . 1.9 4.3 1.0 A 8  ARG HD2  HD2  A 8  ARG HB2  HB2  6R28 2 
+370 259 . . OR 1 1 6  VAL H    1 1 6  VAL HG21 . 2.7 . . . 1.8 3.6 1.0 A 6  VAL H    H    A 6  VAL HG21 HG2% 6R28 2 
+371 259 . . OR 1 1 6  VAL H    1 1 6  VAL HG22 . 2.7 . . . 1.8 3.6 1.0 A 6  VAL H    H    A 6  VAL HG22 HG2% 6R28 2 
+372 259 . . OR 1 1 6  VAL H    1 1 6  VAL HG23 . 2.7 . . . 1.8 3.6 1.0 A 6  VAL H    H    A 6  VAL HG23 HG2% 6R28 2 
+373 260 . . .  1 1 9  PRO HA   1 1 9  PRO HD2  . 3.1 . . . 1.9 4.3 1.0 A 9  PRO HA   HA   A 9  PRO HD2  HD2  6R28 2 
+374 261 . . .  1 1 6  VAL H    1 1 6  VAL HB   . 2.8 . . . 1.8 3.8 1.0 A 6  VAL H    H    A 6  VAL HB   HB   6R28 2 
+375 262 1 . .  1 1 13 CYS HB2  1 1 14 TRP HA   . 3.7 . . . 2.0 5.4 1.0 A 13 CYS HB2  HB2  A 14 TRP HA   HA   6R28 2 
+376 262 2 . .  1 1 13 CYS HB3  1 1 14 TRP HA   . 3.7 . . . 2.0 5.4 1.0 A 13 CYS HB3  HB3  A 14 TRP HA   HA   6R28 2 
+377 263 . . .  1 1 10 ASP H    1 1 11 TRP HD1  . 3.8 . . . 2.0 5.6 1.0 A 10 ASP H    H    A 11 TRP HD1  HD1  6R28 2 
+378 264 1 . .  1 1 13 CYS HB3  1 1 4  HCS HA   . 3.1 . . . 1.9 4.3 1.0 A 13 CYS HB3  HB3  A 4  HCS HA   HA   6R28 2 
+379 264 2 . .  1 1 13 CYS HB2  1 1 4  HCS HA   . 3.1 . . . 1.9 4.3 1.0 A 13 CYS HB2  HB2  A 4  HCS HA   HA   6R28 2 
+380 265 . . OR 1 1 6  VAL HG21 1 1 4  HCS HA   . 3.5 . . . 2.0 5.0 1.0 A 6  VAL HG21 HG2% A 4  HCS HA   HA   6R28 2 
+381 265 . . OR 1 1 6  VAL HG22 1 1 4  HCS HA   . 3.5 . . . 2.0 5.0 1.0 A 6  VAL HG22 HG2% A 4  HCS HA   HA   6R28 2 
+382 265 . . OR 1 1 6  VAL HG23 1 1 4  HCS HA   . 3.5 . . . 2.0 5.0 1.0 A 6  VAL HG23 HG2% A 4  HCS HA   HA   6R28 2 
+383 266 . . .  1 1 9  PRO HG2  1 1 9  PRO HB3  . 2.0 . . . 1.5 2.5 1.0 A 9  PRO HG2  HG2  A 9  PRO HB3  HB3  6R28 2 
+384 267 . . .  1 1 14 TRP HE1  1 1 12 PRO HG3  . 3.6 . . . 2.0 5.2 1.0 A 14 TRP HE1  HE1  A 12 PRO HG3  HG3  6R28 2 
+385 268 . . OR 1 1 16 ARG H    1 1 15 TYR HD1  . 3.9 . . . 2.0 5.8 1.0 A 16 ARG H    H    A 15 TYR HD1  HD%  6R28 2 
+386 268 . . OR 1 1 16 ARG H    1 1 15 TYR HD2  . 3.9 . . . 2.0 5.8 1.0 A 16 ARG H    H    A 15 TYR HD2  HD%  6R28 2 
+387 269 . . .  1 1 13 CYS HB2  1 1 13 CYS HA   . 2.1 . . . 1.6 2.6 1.0 A 13 CYS HB2  HB2  A 13 CYS HA   HA   6R28 2 
+388 270 . . .  1 1 4  HCS H    1 1 4  HCS HB3  . 2.7 . . . 1.8 3.6 1.0 A 4  HCS H    H    A 4  HCS HB3  HB2  6R28 2 
+389 271 . . .  1 1 5  HIS H    1 1 4  HCS HG3  . 3.6 . . . 2.0 5.2 1.0 A 5  HIS H    H    A 4  HCS HG3  HG2  6R28 2 
+390 272 . . .  1 1 12 PRO HG2  1 1 12 PRO HB2  . 2.5 . . . 1.7 3.3 1.0 A 12 PRO HG2  HG2  A 12 PRO HB2  HB2  6R28 2 
+391 273 . . .  1 1 15 TYR HB2  1 1 12 PRO HG2  . 3.3 . . . 2.0 4.6 1.0 A 15 TYR HB2  HB2  A 12 PRO HG2  HG2  6R28 2 
+392 274 . . OR 1 1 11 TRP HB2  1 1 6  VAL HG11 . 3.7 . . . 2.0 5.4 1.0 A 11 TRP HB2  HB2  A 6  VAL HG11 HG1% 6R28 2 
+393 274 . . OR 1 1 11 TRP HB2  1 1 6  VAL HG12 . 3.7 . . . 2.0 5.4 1.0 A 11 TRP HB2  HB2  A 6  VAL HG12 HG1% 6R28 2 
+394 274 . . OR 1 1 11 TRP HB2  1 1 6  VAL HG13 . 3.7 . . . 2.0 5.4 1.0 A 11 TRP HB2  HB2  A 6  VAL HG13 HG1% 6R28 2 
+395 275 . . .  1 1 10 ASP H    1 1 8  ARG HA   . 3.2 . . . 1.9 4.5 1.0 A 10 ASP H    H    A 8  ARG HA   HA   6R28 2 
+396 276 . . .  1 1 12 PRO HG3  1 1 12 PRO HB2  . 2.5 . . . 1.7 3.3 1.0 A 12 PRO HG3  HG3  A 12 PRO HB2  HB2  6R28 2 
+397 277 . . .  1 1 4  HCS H    1 1 4  HCS HB2  . 2.8 . . . 1.8 3.8 1.0 A 4  HCS H    H    A 4  HCS HB2  HB1  6R28 2 
+398 278 . . .  1 1 12 PRO HB2  1 1 12 PRO HA   . 2.4 . . . 1.7 3.1 1.0 A 12 PRO HB2  HB2  A 12 PRO HA   HA   6R28 2 
+399 279 . . .  1 1 4  HCS H    1 1 4  HCS HG2  . 3.0 . . . 1.9 4.1 1.0 A 4  HCS H    H    A 4  HCS HG2  HG1  6R28 2 
+400 280 . . .  1 1 12 PRO HD3  1 1 12 PRO HA   . 3.4 . . . 1.9 4.9 1.0 A 12 PRO HD3  HD3  A 12 PRO HA   HA   6R28 2 
+401 281 . . .  1 1 12 PRO HD2  1 1 12 PRO HA   . 3.5 . . . 2.0 5.0 1.0 A 12 PRO HD2  HD2  A 12 PRO HA   HA   6R28 2 
+402 282 . . .  1 1 12 PRO HD2  1 1 12 PRO HD3  . 1.9 . . . 1.4 2.4 1.0 A 12 PRO HD2  HD2  A 12 PRO HD3  HD3  6R28 2 
+403 283 . . .  1 1 12 PRO HG3  1 1 12 PRO HA   . 3.3 . . . 2.0 4.6 1.0 A 12 PRO HG3  HG3  A 12 PRO HA   HA   6R28 2 
+404 284 . . .  1 1 12 PRO HG2  1 1 12 PRO HA   . 3.4 . . . 2.0 4.8 1.0 A 12 PRO HG2  HG2  A 12 PRO HA   HA   6R28 2 
+405 285 . . .  1 1 5  HIS H    1 1 4  HCS HG2  . 3.8 . . . 2.0 5.6 1.0 A 5  HIS H    H    A 4  HCS HG2  HG1  6R28 2 
+406 286 . . .  1 1 12 PRO HD2  1 1 12 PRO HG3  . 2.7 . . . 1.8 3.6 1.0 A 12 PRO HD2  HD2  A 12 PRO HG3  HG3  6R28 2 
+407 287 . . .  1 1 12 PRO HB3  1 1 12 PRO HA   . 3.0 . . . 1.9 4.1 1.0 A 12 PRO HB3  HB3  A 12 PRO HA   HA   6R28 2 
+408 288 . . .  1 1 12 PRO HB2  1 1 12 PRO HD2  . 3.4 . . . 2.0 4.8 1.0 A 12 PRO HB2  HB2  A 12 PRO HD2  HD2  6R28 2 
+409 289 . . .  1 1 16 ARG H    1 1 16 ARG HB2  . 3.6 . . . 2.0 5.2 1.0 A 16 ARG H    H    A 16 ARG HB2  HB2  6R28 2 
+410 290 . . .  1 1 4  HCS H    1 1 4  HCS HA   . 2.6 . . . 1.7 3.5 1.0 A 4  HCS H    H    A 4  HCS HA   HA   6R28 2 
+411 291 . . OR 1 1 15 TYR HE1  1 1 15 TYR HB3  . 2.9 . . . 0.0 6.0 1.0 A 15 TYR HE1  HE%  A 15 TYR HB3  HB3  6R28 2 
+412 291 . . OR 1 1 15 TYR HE2  1 1 15 TYR HB3  . 2.9 . . . 0.0 6.0 1.0 A 15 TYR HE2  HE%  A 15 TYR HB3  HB3  6R28 2 
+413 292 . . OR 1 1 15 TYR HE1  1 1 15 TYR HB2  . 3.0 . . . 0.0 6.0 1.0 A 15 TYR HE1  HE%  A 15 TYR HB2  HB2  6R28 2 
+414 292 . . OR 1 1 15 TYR HE2  1 1 15 TYR HB2  . 3.0 . . . 0.0 6.0 1.0 A 15 TYR HE2  HE%  A 15 TYR HB2  HB2  6R28 2 
+415 293 . . .  1 1 5  HIS H    1 1 13 CYS HA   . 3.6 . . . 2.0 5.2 1.0 A 5  HIS H    H    A 13 CYS HA   HA   6R28 2 
+416 294 . . .  1 1 10 ASP H    1 1 10 ASP HB2  . 2.6 . . . 1.7 3.5 1.0 A 10 ASP H    H    A 10 ASP HB2  HB2  6R28 2 
+417 295 . . .  1 1 9  PRO HD3  1 1 8  ARG HD3  . 3.5 . . . 2.0 5.0 1.0 A 9  PRO HD3  HD3  A 8  ARG HD3  HD3  6R28 2 
+418 296 . . .  1 1 13 CYS H    1 1 12 PRO HA   . 3.2 . . . 1.9 4.5 1.0 A 13 CYS H    H    A 12 PRO HA   HA   6R28 2 
+419 297 . . .  1 1 2  SER HB2  1 1 2  SER HA   . 2.4 . . . 1.7 3.1 1.0 A 2  SER HB2  HB2  A 2  SER HA   HA   6R28 2 
+420 298 . . .  1 1 14 TRP H    1 1 14 TRP HE3  . 3.6 . . . 2.0 5.2 1.0 A 14 TRP H    H    A 14 TRP HE3  HE3  6R28 2 
+421 299 . . .  1 1 11 TRP HZ3  1 1 8  ARG HG3  . 3.2 . . . 1.9 4.5 1.0 A 11 TRP HZ3  HZ3  A 8  ARG HG3  HG3  6R28 2 
+422 300 1 . .  1 1 11 TRP HD1  1 1 13 CYS HB3  . 3.3 . . . 0.0 6.0 1.0 A 11 TRP HD1  HD1  A 13 CYS HB3  HB3  6R28 2 
+423 300 2 . .  1 1 11 TRP HD1  1 1 13 CYS HB2  . 3.3 . . . 0.0 6.0 1.0 A 11 TRP HD1  HD1  A 13 CYS HB2  HB2  6R28 2 
+424 301 . . .  1 1 11 TRP H    1 1 10 ASP HA   . 2.6 . . . 1.8 3.4 1.0 A 11 TRP H    H    A 10 ASP HA   HA   6R28 2 
+425 302 . . .  1 1 11 TRP HD1  1 1 11 TRP HB3  . 2.3 . . . 0.0 6.0 1.0 A 11 TRP HD1  HD1  A 11 TRP HB3  HB3  6R28 2 
+426 303 . . .  1 1 11 TRP HD1  1 1 11 TRP HB2  . 2.3 . . . 0.0 6.0 1.0 A 11 TRP HD1  HD1  A 11 TRP HB2  HB2  6R28 2 
+427 304 . . .  1 1 9  PRO HG2  1 1 8  ARG HA   . 3.1 . . . 1.9 4.3 1.0 A 9  PRO HG2  HG2  A 8  ARG HA   HA   6R28 2 
+428 305 . . OR 1 1 15 TYR HD1  1 1 12 PRO HB3  . 3.5 . . . 1.9 5.1 1.0 A 15 TYR HD1  HD%  A 12 PRO HB3  HB3  6R28 2 
+429 305 . . OR 1 1 15 TYR HD2  1 1 12 PRO HB3  . 3.5 . . . 1.9 5.1 1.0 A 15 TYR HD2  HD%  A 12 PRO HB3  HB3  6R28 2 
+430 306 . . .  1 1 14 TRP H    1 1 14 TRP HB2  . 3.0 . . . 1.9 4.1 1.0 A 14 TRP H    H    A 14 TRP HB2  HB2  6R28 2 
+431 307 . . .  1 1 5  HIS H    1 1 5  HIS HA   . 3.3 . . . 1.9 4.7 1.0 A 5  HIS H    H    A 5  HIS HA   HA   6R28 2 
+432 308 . . .  1 1 11 TRP HD1  1 1 11 TRP HA   . 2.0 . . . 0.0 6.0 1.0 A 11 TRP HD1  HD1  A 11 TRP HA   HA   6R28 2 
+433 309 . . .  1 1 11 TRP HE1  1 1 8  ARG HB2  . 3.6 . . . 2.0 5.2 1.0 A 11 TRP HE1  HE1  A 8  ARG HB2  HB2  6R28 2 
+434 310 . . .  1 1 11 TRP HE3  1 1 12 PRO HD3  . 3.2 . . . 1.9 4.5 1.0 A 11 TRP HE3  HE3  A 12 PRO HD3  HD3  6R28 2 
+435 311 . . .  1 1 11 TRP HE3  1 1 15 TYR HB3  . 3.1 . . . 1.9 4.3 1.0 A 11 TRP HE3  HE3  A 15 TYR HB3  HB3  6R28 2 
+436 312 . . OR 1 1 15 TYR HD1  1 1 16 ARG HG2  . 3.5 . . . 1.9 5.1 1.0 A 15 TYR HD1  HD%  A 16 ARG HG2  HG2  6R28 2 
+437 312 . . OR 1 1 15 TYR HD2  1 1 16 ARG HG2  . 3.5 . . . 1.9 5.1 1.0 A 15 TYR HD2  HD%  A 16 ARG HG2  HG2  6R28 2 
+438 313 . . .  1 1 7  HIS HD2  1 1 7  HIS HB3  . 2.3 . . . 0.0 6.0 1.0 A 7  HIS HD2  HD2  A 7  HIS HB3  HB3  6R28 2 
+439 314 . . .  1 1 9  PRO HD3  1 1 9  PRO HG2  . 2.3 . . . 1.7 2.9 1.0 A 9  PRO HD3  HD3  A 9  PRO HG2  HG2  6R28 2 
+440 315 . . .  1 1 8  ARG HG3  1 1 8  ARG HB3  . 2.6 . . . 1.8 3.4 1.0 A 8  ARG HG3  HG3  A 8  ARG HB3  HB3  6R28 2 
+441 316 . . .  1 1 13 CYS HB3  1 1 4  HCS HG3  . 2.6 . . . 1.7 3.5 1.0 A 13 CYS HB3  HB3  A 4  HCS HG3  HG2  6R28 2 
+442 317 . . .  1 1 7  HIS HB2  1 1 7  HIS HA   . 2.1 . . . 0.0 6.0 1.0 A 7  HIS HB2  HB2  A 7  HIS HA   HA   6R28 2 
+443 318 . . .  1 1 9  PRO HD2  1 1 8  ARG HD3  . 3.4 . . . 1.9 4.9 1.0 A 9  PRO HD2  HD2  A 8  ARG HD3  HD3  6R28 2 
+444 319 . . .  1 1 11 TRP H    1 1 10 ASP HB3  . 3.1 . . . 1.9 4.3 1.0 A 11 TRP H    H    A 10 ASP HB3  HB3  6R28 2 
+445 320 . . .  1 1 1  PRO HB3  1 1 1  PRO HB2  . 2.4 . . . 1.7 3.1 1.0 A 1  PRO HB3  HB3  A 1  PRO HB2  HB2  6R28 2 
+446 321 . . .  1 1 9  PRO HG2  1 1 9  PRO HA   . 2.6 . . . 0.0 6.0 1.0 A 9  PRO HG2  HG2  A 9  PRO HA   HA   6R28 2 
+447 322 . . OR 1 1 6  VAL HG21 1 1 13 CYS HA   . 3.2 . . . 1.9 4.5 1.0 A 6  VAL HG21 HG2% A 13 CYS HA   HA   6R28 2 
+448 322 . . OR 1 1 6  VAL HG22 1 1 13 CYS HA   . 3.2 . . . 1.9 4.5 1.0 A 6  VAL HG22 HG2% A 13 CYS HA   HA   6R28 2 
+449 322 . . OR 1 1 6  VAL HG23 1 1 13 CYS HA   . 3.2 . . . 1.9 4.5 1.0 A 6  VAL HG23 HG2% A 13 CYS HA   HA   6R28 2 
+450 323 . . .  1 1 10 ASP H    1 1 11 TRP H    . 2.3 . . . 1.6 3.0 1.0 A 10 ASP H    H    A 11 TRP H    H    6R28 2 
+451 324 . . OR 1 1 3  ILE HG21 1 1 4  HCS HA   . 3.4 . . . 2.0 4.8 1.0 A 3  ILE HG21 HG2% A 4  HCS HA   HA   6R28 2 
+452 324 . . OR 1 1 3  ILE HG22 1 1 4  HCS HA   . 3.4 . . . 2.0 4.8 1.0 A 3  ILE HG22 HG2% A 4  HCS HA   HA   6R28 2 
+453 324 . . OR 1 1 3  ILE HG23 1 1 4  HCS HA   . 3.4 . . . 2.0 4.8 1.0 A 3  ILE HG23 HG2% A 4  HCS HA   HA   6R28 2 
+454 325 . . .  1 1 5  HIS HD2  1 1 5  HIS HB2  . 2.2 . . . 1.6 2.8 1.0 A 5  HIS HD2  HD2  A 5  HIS HB2  HB2  6R28 2 
+455 326 . . .  1 1 9  PRO HD3  1 1 8  ARG HG2  . 3.6 . . . 1.9 5.3 1.0 A 9  PRO HD3  HD3  A 8  ARG HG2  HG2  6R28 2 
+456 327 . . .  1 1 16 ARG H    1 1 16 ARG HB3  . 3.3 . . . 1.9 4.7 1.0 A 16 ARG H    H    A 16 ARG HB3  HB3  6R28 2 
+457 328 . . .  1 1 15 TYR HB2  1 1 11 TRP HB2  . 3.3 . . . 1.9 4.7 1.0 A 15 TYR HB2  HB2  A 11 TRP HB2  HB2  6R28 2 
+458 329 . . .  1 1 16 ARG HG2  1 1 16 ARG HB2  . 2.2 . . . 0.0 6.0 1.0 A 16 ARG HG2  HG2  A 16 ARG HB2  HB2  6R28 2 
+459 330 . . .  1 1 15 TYR H    1 1 14 TRP HB3  . 3.5 . . . 2.0 5.0 1.0 A 15 TYR H    H    A 14 TRP HB3  HB3  6R28 2 
+460 331 . . .  1 1 11 TRP HE1  1 1 8  ARG HB3  . 3.7 . . . 2.0 5.4 1.0 A 11 TRP HE1  HE1  A 8  ARG HB3  HB3  6R28 2 
+461 332 . . .  1 1 1  PRO HD2  1 1 1  PRO HB2  . 4.0 . . . 2.0 6.0 1.0 A 1  PRO HD2  HD2  A 1  PRO HB2  HB2  6R28 2 
+462 333 . . .  1 1 9  PRO HD2  1 1 8  ARG HB3  . 2.9 . . . 1.8 4.0 1.0 A 9  PRO HD2  HD2  A 8  ARG HB3  HB3  6R28 2 
+463 334 . . .  1 1 3  ILE HB   1 1 3  ILE HA   . 2.6 . . . 1.8 3.4 1.0 A 3  ILE HB   HB   A 3  ILE HA   HA   6R28 2 
+464 335 . . .  1 1 11 TRP HE1  1 1 13 CYS HA   . 4.0 . . . 2.0 6.0 1.0 A 11 TRP HE1  HE1  A 13 CYS HA   HA   6R28 2 
+465 336 . . .  1 1 5  HIS HB3  1 1 6  VAL HA   . 3.9 . . . 2.0 5.8 1.0 A 5  HIS HB3  HB3  A 6  VAL HA   HA   6R28 2 
+466 337 1 . .  1 1 6  VAL HA   1 1 13 CYS HB2  . 3.3 . . . 1.9 4.7 1.0 A 6  VAL HA   HA   A 13 CYS HB2  HB2  6R28 2 
+467 337 2 . .  1 1 6  VAL HA   1 1 13 CYS HB3  . 3.3 . . . 1.9 4.7 1.0 A 6  VAL HA   HA   A 13 CYS HB3  HB3  6R28 2 
+468 338 . . .  1 1 14 TRP HE1  1 1 12 PRO HA   . 4.0 . . . 2.0 6.0 1.0 A 14 TRP HE1  HE1  A 12 PRO HA   HA   6R28 2 
+469 339 . . .  1 1 1  PRO HG3  1 1 1  PRO HB2  . 2.6 . . . 1.7 3.5 1.0 A 1  PRO HG3  HG3  A 1  PRO HB2  HB2  6R28 2 
+470 340 . . .  1 1 9  PRO HD2  1 1 8  ARG HB2  . 2.8 . . . 1.9 3.7 1.0 A 9  PRO HD2  HD2  A 8  ARG HB2  HB2  6R28 2 
+471 341 . . OR 1 1 3  ILE HD11 1 1 3  ILE HB   . 2.5 . . . 1.7 3.3 1.0 A 3  ILE HD11 HD1% A 3  ILE HB   HB   6R28 2 
+472 341 . . OR 1 1 3  ILE HD12 1 1 3  ILE HB   . 2.5 . . . 1.7 3.3 1.0 A 3  ILE HD12 HD1% A 3  ILE HB   HB   6R28 2 
+473 341 . . OR 1 1 3  ILE HD13 1 1 3  ILE HB   . 2.5 . . . 1.7 3.3 1.0 A 3  ILE HD13 HD1% A 3  ILE HB   HB   6R28 2 
+474 342 . . .  1 1 4  HCS H    1 1 3  ILE HB   . 3.1 . . . 1.9 4.3 1.0 A 4  HCS H    H    A 3  ILE HB   HB   6R28 2 
+475 343 . . .  1 1 14 TRP HE1  1 1 14 TRP HB3  . 3.8 . . . 2.0 5.6 1.0 A 14 TRP HE1  HE1  A 14 TRP HB3  HB3  6R28 2 
+476 344 . . .  1 1 9  PRO HB3  1 1 8  ARG HA   . 3.8 . . . 2.0 5.6 1.0 A 9  PRO HB3  HB3  A 8  ARG HA   HA   6R28 2 
+477 345 . . .  1 1 14 TRP HB3  1 1 14 TRP HA   . 2.2 . . . 1.6 2.8 1.0 A 14 TRP HB3  HB3  A 14 TRP HA   HA   6R28 2 
+478 346 . . .  1 1 3  ILE H    1 1 2  SER HA   . 2.7 . . . 1.8 3.6 1.0 A 3  ILE H    H    A 2  SER HA   HA   6R28 2 
+479 347 . . .  1 1 9  PRO HB3  1 1 9  PRO HA   . 2.3 . . . 1.6 3.0 1.0 A 9  PRO HB3  HB3  A 9  PRO HA   HA   6R28 2 
+480 348 . . .  1 1 11 TRP HB2  1 1 8  ARG HG3  . 3.3 . . . 1.9 4.7 1.0 A 11 TRP HB2  HB2  A 8  ARG HG3  HG3  6R28 2 
+481 349 . . .  1 1 15 TYR HB3  1 1 12 PRO HD3  . 3.6 . . . 2.0 5.2 1.0 A 15 TYR HB3  HB3  A 12 PRO HD3  HD3  6R28 2 
+482 350 . . .  1 1 14 TRP HB3  1 1 13 CYS HA   . 3.6 . . . 1.9 5.3 1.0 A 14 TRP HB3  HB3  A 13 CYS HA   HA   6R28 2 
+483 351 . . .  1 1 11 TRP HE3  1 1 11 TRP HA   . 2.8 . . . 0.0 6.0 1.0 A 11 TRP HE3  HE3  A 11 TRP HA   HA   6R28 2 
+484 352 . . .  1 1 4  HCS H    1 1 3  ILE HA   . 2.3 . . . 1.6 3.0 1.0 A 4  HCS H    H    A 3  ILE HA   HA   6R28 2 
+485 353 . . .  1 1 3  ILE HA   1 1 4  HCS HG3  . 3.9 . . . 2.0 5.8 1.0 A 3  ILE HA   HA   A 4  HCS HG3  HG2  6R28 2 
+486 354 . . .  1 1 16 ARG HG3  1 1 16 ARG HB2  . 2.0 . . . 1.5 2.5 1.0 A 16 ARG HG3  HG3  A 16 ARG HB2  HB2  6R28 2 
+487 355 . . .  1 1 13 CYS HA   1 1 6  VAL HA   . 3.5 . . . 2.0 5.0 1.0 A 13 CYS HA   HA   A 6  VAL HA   HA   6R28 2 
+488 356 . . OR 1 1 3  ILE HG21 1 1 3  ILE HB   . 1.8 . . . 1.4 2.2 1.0 A 3  ILE HG21 HG2% A 3  ILE HB   HB   6R28 2 
+489 356 . . OR 1 1 3  ILE HG22 1 1 3  ILE HB   . 1.8 . . . 1.4 2.2 1.0 A 3  ILE HG22 HG2% A 3  ILE HB   HB   6R28 2 
+490 356 . . OR 1 1 3  ILE HG23 1 1 3  ILE HB   . 1.8 . . . 1.4 2.2 1.0 A 3  ILE HG23 HG2% A 3  ILE HB   HB   6R28 2 
+stop_
+save_
+save_XPLOR-NIH/CNS_distance_restraints_3
+# 
+_Gen_dist_constraint_list.Sf_category          general_distance_constraints 
+_Gen_dist_constraint_list.Sf_framecode         XPLOR-NIH/CNS_distance_restraints_3 
+_Gen_dist_constraint_list.Entry_ID             6R28 
+_Gen_dist_constraint_list.ID                   3 
+_Gen_dist_constraint_list.Data_file_name       D_1292101294_mr_P1.cns.V3 
+_Gen_dist_constraint_list.Constraint_type      'general distance' 
+_Gen_dist_constraint_list.Constraint_file_ID   2 
+_Gen_dist_constraint_list.Potential_type       square-well-parabolic 
+_Gen_dist_constraint_list.Block_ID             3 
+# 
+loop_
+_Gen_dist_constraint.Index_ID 
+_Gen_dist_constraint.ID 
+_Gen_dist_constraint.Combination_ID 
+_Gen_dist_constraint.Member_ID 
+_Gen_dist_constraint.Member_logic_code 
+_Gen_dist_constraint.Entity_assembly_ID_1 
+_Gen_dist_constraint.Entity_ID_1 
+_Gen_dist_constraint.Comp_index_ID_1 
+_Gen_dist_constraint.Comp_ID_1 
+_Gen_dist_constraint.Atom_ID_1 
+_Gen_dist_constraint.Entity_assembly_ID_2 
+_Gen_dist_constraint.Entity_ID_2 
+_Gen_dist_constraint.Comp_index_ID_2 
+_Gen_dist_constraint.Comp_ID_2 
+_Gen_dist_constraint.Atom_ID_2 
+_Gen_dist_constraint.Distance_val 
+_Gen_dist_constraint.Target_val 
+_Gen_dist_constraint.Target_val_uncertainty 
+_Gen_dist_constraint.Lower_linear_limit 
+_Gen_dist_constraint.Upper_linear_limit 
+_Gen_dist_constraint.Distance_lower_bound_val 
+_Gen_dist_constraint.Distance_upper_bound_val 
+_Gen_dist_constraint.Weight 
+_Gen_dist_constraint.Auth_asym_ID_1 
+_Gen_dist_constraint.Auth_seq_ID_1 
+_Gen_dist_constraint.Auth_comp_ID_1 
+_Gen_dist_constraint.Auth_atom_ID_1 
+_Gen_dist_constraint.Auth_atom_name_1 
+_Gen_dist_constraint.Auth_asym_ID_2 
+_Gen_dist_constraint.Auth_seq_ID_2 
+_Gen_dist_constraint.Auth_comp_ID_2 
+_Gen_dist_constraint.Auth_atom_ID_2 
+_Gen_dist_constraint.Auth_atom_name_2 
+_Gen_dist_constraint.Entry_ID 
+_Gen_dist_constraint.Gen_dist_constraint_list_ID 
+1  1  . . .  1 1 7  HIS HD2  1 1 8  ARG HA   . 2.4 . . . 0.0 6.0 1.0 A 7  HIS HD2  HD2  A 8  ARG HA   HA   6R28 3 
+2  2  . . OR 1 1 11 TRP HE3  1 1 6  VAL HG11 . 3.1 . . . 0.0 6.0 1.0 A 11 TRP HE3  HE3  A 6  VAL HG11 HG1% 6R28 3 
+3  2  . . OR 1 1 11 TRP HE3  1 1 6  VAL HG12 . 3.1 . . . 0.0 6.0 1.0 A 11 TRP HE3  HE3  A 6  VAL HG12 HG1% 6R28 3 
+4  2  . . OR 1 1 11 TRP HE3  1 1 6  VAL HG13 . 3.1 . . . 0.0 6.0 1.0 A 11 TRP HE3  HE3  A 6  VAL HG13 HG1% 6R28 3 
+5  3  . . .  1 1 11 TRP HZ2  1 1 8  ARG HD2  . 3.5 . . . 0.0 6.0 1.0 A 11 TRP HZ2  HZ2  A 8  ARG HD2  HD2  6R28 3 
+6  4  . . .  1 1 14 TRP HZ2  1 1 1  PRO HB3  . 3.5 . . . 0.0 6.0 1.0 A 14 TRP HZ2  HZ2  A 1  PRO HB3  HB3  6R28 3 
+7  5  . . .  1 1 8  ARG H    1 1 11 TRP HE3  . 3.4 . . . 0.0 6.0 1.0 A 8  ARG H    H    A 11 TRP HE3  HE3  6R28 3 
+8  6  . . .  1 1 14 TRP HD1  1 1 16 ARG HD3  . 3.2 . . . 0.0 6.0 1.0 A 14 TRP HD1  HD1  A 16 ARG HD3  HD3  6R28 3 
+9  7  . . .  1 1 14 TRP HH2  1 1 12 PRO HB2  . 3.5 . . . 0.0 6.0 1.0 A 14 TRP HH2  HH2  A 12 PRO HB2  HB2  6R28 3 
+10 8  . . OR 1 1 15 TYR HE1  1 1 12 PRO HG2  . 3.6 . . . 0.0 6.0 1.0 A 15 TYR HE1  HE%  A 12 PRO HG2  HG2  6R28 3 
+11 8  . . OR 1 1 15 TYR HE2  1 1 12 PRO HG2  . 3.6 . . . 0.0 6.0 1.0 A 15 TYR HE2  HE%  A 12 PRO HG2  HG2  6R28 3 
+12 9  . . OR 1 1 5  HIS HD2  1 1 6  VAL HG21 . 2.7 . . . 0.0 6.0 1.0 A 5  HIS HD2  HD2  A 6  VAL HG21 HG2% 6R28 3 
+13 9  . . OR 1 1 5  HIS HD2  1 1 6  VAL HG22 . 2.7 . . . 0.0 6.0 1.0 A 5  HIS HD2  HD2  A 6  VAL HG22 HG2% 6R28 3 
+14 9  . . OR 1 1 5  HIS HD2  1 1 6  VAL HG23 . 2.7 . . . 0.0 6.0 1.0 A 5  HIS HD2  HD2  A 6  VAL HG23 HG2% 6R28 3 
+15 10 . . .  1 1 11 TRP HE3  1 1 7  HIS HD2  . 3.4 . . . 0.0 6.0 1.0 A 11 TRP HE3  HE3  A 7  HIS HD2  HD2  6R28 3 
+16 11 . . .  1 1 15 TYR HB3  1 1 12 PRO HD2  . 3.1 . . . 0.0 6.0 1.0 A 15 TYR HB3  HB3  A 12 PRO HD2  HD2  6R28 3 
+17 12 . . .  1 1 11 TRP HE3  1 1 12 PRO HG3  . 3.3 . . . 0.0 6.0 1.0 A 11 TRP HE3  HE3  A 12 PRO HG3  HG3  6R28 3 
+18 13 . . .  1 1 10 ASP H    1 1 11 TRP HB3  . 3.6 . . . 0.0 6.0 1.0 A 10 ASP H    H    A 11 TRP HB3  HB3  6R28 3 
+19 14 . . OR 1 1 6  VAL HG11 1 1 12 PRO HA   . 3.3 . . . 0.0 6.0 1.0 A 6  VAL HG11 HG1% A 12 PRO HA   HA   6R28 3 
+20 14 . . OR 1 1 6  VAL HG12 1 1 12 PRO HA   . 3.3 . . . 0.0 6.0 1.0 A 6  VAL HG12 HG1% A 12 PRO HA   HA   6R28 3 
+21 14 . . OR 1 1 6  VAL HG13 1 1 12 PRO HA   . 3.3 . . . 0.0 6.0 1.0 A 6  VAL HG13 HG1% A 12 PRO HA   HA   6R28 3 
+22 15 . . .  1 1 11 TRP HE1  1 1 12 PRO HD3  . 3.9 . . . 0.0 6.0 1.0 A 11 TRP HE1  HE1  A 12 PRO HD3  HD3  6R28 3 
+23 16 . . .  1 1 13 CYS HA   1 1 4  HCS HB2  . 3.7 . . . 0.0 6.0 1.0 A 13 CYS HA   HA   A 4  HCS HB2  HB1  6R28 3 
+24 17 . . OR 1 1 15 TYR HD1  1 1 16 ARG HA   . 2.8 . . . 0.0 6.0 1.0 A 15 TYR HD1  HD%  A 16 ARG HA   HA   6R28 3 
+25 17 . . OR 1 1 15 TYR HD2  1 1 16 ARG HA   . 2.8 . . . 0.0 6.0 1.0 A 15 TYR HD2  HD%  A 16 ARG HA   HA   6R28 3 
+26 18 . . .  1 1 14 TRP HD1  1 1 12 PRO HG2  . 3.4 . . . 0.0 6.0 1.0 A 14 TRP HD1  HD1  A 12 PRO HG2  HG2  6R28 3 
+27 19 . . OR 1 1 11 TRP HB3  1 1 6  VAL HG21 . 3.2 . . . 0.0 6.0 1.0 A 11 TRP HB3  HB3  A 6  VAL HG21 HG2% 6R28 3 
+28 19 . . OR 1 1 11 TRP HB3  1 1 6  VAL HG22 . 3.2 . . . 0.0 6.0 1.0 A 11 TRP HB3  HB3  A 6  VAL HG22 HG2% 6R28 3 
+29 19 . . OR 1 1 11 TRP HB3  1 1 6  VAL HG23 . 3.2 . . . 0.0 6.0 1.0 A 11 TRP HB3  HB3  A 6  VAL HG23 HG2% 6R28 3 
+30 20 . . .  1 1 11 TRP H    1 1 9  PRO HB2  . 3.5 . . . 0.0 6.0 1.0 A 11 TRP H    H    A 9  PRO HB2  HB2  6R28 3 
+31 21 . . .  1 1 11 TRP H    1 1 12 PRO HD3  . 3.0 . . . 0.0 6.0 1.0 A 11 TRP H    H    A 12 PRO HD3  HD3  6R28 3 
+32 22 . . .  1 1 10 ASP H    1 1 9  PRO HB2  . 2.9 . . . 0.0 6.0 1.0 A 10 ASP H    H    A 9  PRO HB2  HB2  6R28 3 
+33 23 . . .  1 1 10 ASP H    1 1 9  PRO HG2  . 2.8 . . . 0.0 6.0 1.0 A 10 ASP H    H    A 9  PRO HG2  HG2  6R28 3 
+34 24 . . .  1 1 14 TRP HD1  1 1 15 TYR HA   . 3.3 . . . 0.0 6.0 1.0 A 14 TRP HD1  HD1  A 15 TYR HA   HA   6R28 3 
+35 25 . . .  1 1 5  HIS H    1 1 3  ILE HG13 . 3.9 . . . 0.0 6.0 1.0 A 5  HIS H    H    A 3  ILE HG13 HG13 6R28 3 
+36 26 . . .  1 1 14 TRP HZ3  1 1 15 TYR HB2  . 3.6 . . . 0.0 6.0 1.0 A 14 TRP HZ3  HZ3  A 15 TYR HB2  HB2  6R28 3 
+37 27 . . .  1 1 5  HIS HD2  1 1 4  HCS HG2  . 3.0 . . . 0.0 6.0 1.0 A 5  HIS HD2  HD2  A 4  HCS HG2  HG1  6R28 3 
+38 28 . . .  1 1 15 TYR HB3  1 1 11 TRP HA   . 3.9 . . . 0.0 6.0 1.0 A 15 TYR HB3  HB3  A 11 TRP HA   HA   6R28 3 
+39 29 . . .  1 1 11 TRP HB2  1 1 8  ARG HG2  . 3.4 . . . 0.0 6.0 1.0 A 11 TRP HB2  HB2  A 8  ARG HG2  HG2  6R28 3 
+40 30 . . .  1 1 8  ARG H    1 1 9  PRO HA   . 3.3 . . . 0.0 6.0 1.0 A 8  ARG H    H    A 9  PRO HA   HA   6R28 3 
+41 31 . . .  1 1 15 TYR HB3  1 1 11 TRP HB2  . 3.3 . . . 0.0 6.0 1.0 A 15 TYR HB3  HB3  A 11 TRP HB2  HB2  6R28 3 
+42 32 . . .  1 1 11 TRP HE3  1 1 8  ARG HB3  . 3.1 . . . 0.0 6.0 1.0 A 11 TRP HE3  HE3  A 8  ARG HB3  HB3  6R28 3 
+43 33 . . OR 1 1 11 TRP HB3  1 1 6  VAL HG11 . 3.2 . . . 0.0 6.0 1.0 A 11 TRP HB3  HB3  A 6  VAL HG11 HG1% 6R28 3 
+44 33 . . OR 1 1 11 TRP HB3  1 1 6  VAL HG12 . 3.2 . . . 0.0 6.0 1.0 A 11 TRP HB3  HB3  A 6  VAL HG12 HG1% 6R28 3 
+45 33 . . OR 1 1 11 TRP HB3  1 1 6  VAL HG13 . 3.2 . . . 0.0 6.0 1.0 A 11 TRP HB3  HB3  A 6  VAL HG13 HG1% 6R28 3 
+46 34 . . .  1 1 14 TRP HE3  1 1 15 TYR HB3  . 3.5 . . . 0.0 6.0 1.0 A 14 TRP HE3  HE3  A 15 TYR HB3  HB3  6R28 3 
+47 35 . . .  1 1 14 TRP HE3  1 1 15 TYR HB2  . 3.4 . . . 0.0 6.0 1.0 A 14 TRP HE3  HE3  A 15 TYR HB2  HB2  6R28 3 
+48 36 . . OR 1 1 8  ARG H    1 1 6  VAL HG21 . 3.0 . . . 0.0 6.0 1.0 A 8  ARG H    H    A 6  VAL HG21 HG2% 6R28 3 
+49 36 . . OR 1 1 8  ARG H    1 1 6  VAL HG22 . 3.0 . . . 0.0 6.0 1.0 A 8  ARG H    H    A 6  VAL HG22 HG2% 6R28 3 
+50 36 . . OR 1 1 8  ARG H    1 1 6  VAL HG23 . 3.0 . . . 0.0 6.0 1.0 A 8  ARG H    H    A 6  VAL HG23 HG2% 6R28 3 
+51 37 . . .  1 1 11 TRP H    1 1 9  PRO HB3  . 3.9 . . . 0.0 6.0 1.0 A 11 TRP H    H    A 9  PRO HB3  HB3  6R28 3 
+52 38 . . .  1 1 11 TRP HE3  1 1 8  ARG HG2  . 3.5 . . . 0.0 6.0 1.0 A 11 TRP HE3  HE3  A 8  ARG HG2  HG2  6R28 3 
+53 39 . . OR 1 1 3  ILE HD11 1 1 9  PRO HD2  . 3.6 . . . 0.0 6.0 1.0 A 3  ILE HD11 HD1% A 9  PRO HD2  HD2  6R28 3 
+54 39 . . OR 1 1 3  ILE HD12 1 1 9  PRO HD2  . 3.6 . . . 0.0 6.0 1.0 A 3  ILE HD12 HD1% A 9  PRO HD2  HD2  6R28 3 
+55 39 . . OR 1 1 3  ILE HD13 1 1 9  PRO HD2  . 3.6 . . . 0.0 6.0 1.0 A 3  ILE HD13 HD1% A 9  PRO HD2  HD2  6R28 3 
+56 40 . . .  1 1 11 TRP HD1  1 1 12 PRO HD3  . 2.7 . . . 0.0 6.0 1.0 A 11 TRP HD1  HD1  A 12 PRO HD3  HD3  6R28 3 
+57 41 . . .  1 1 11 TRP HD1  1 1 10 ASP HA   . 3.2 . . . 0.0 6.0 1.0 A 11 TRP HD1  HD1  A 10 ASP HA   HA   6R28 3 
+58 42 . . .  1 1 11 TRP HD1  1 1 13 CYS HA   . 3.2 . . . 0.0 6.0 1.0 A 11 TRP HD1  HD1  A 13 CYS HA   HA   6R28 3 
+59 43 . . OR 1 1 15 TYR HE1  1 1 16 ARG HG2  . 3.9 . . . 0.0 6.0 1.0 A 15 TYR HE1  HE%  A 16 ARG HG2  HG2  6R28 3 
+60 43 . . OR 1 1 15 TYR HE2  1 1 16 ARG HG2  . 3.9 . . . 0.0 6.0 1.0 A 15 TYR HE2  HE%  A 16 ARG HG2  HG2  6R28 3 
+61 44 . . .  1 1 11 TRP HE3  1 1 8  ARG HB2  . 3.0 . . . 0.0 6.0 1.0 A 11 TRP HE3  HE3  A 8  ARG HB2  HB2  6R28 3 
+62 45 . . .  1 1 13 CYS HA   1 1 4  HCS HG2  . 3.2 . . . 0.0 6.0 1.0 A 13 CYS HA   HA   A 4  HCS HG2  HG1  6R28 3 
+63 46 . . .  1 1 10 ASP H    1 1 9  PRO HA   . 2.4 . . . 0.0 6.0 1.0 A 10 ASP H    H    A 9  PRO HA   HA   6R28 3 
+64 47 . . .  1 1 11 TRP H    1 1 9  PRO HA   . 3.0 . . . 0.0 6.0 1.0 A 11 TRP H    H    A 9  PRO HA   HA   6R28 3 
+65 48 . . .  1 1 11 TRP HE1  1 1 8  ARG HD2  . 3.4 . . . 0.0 6.0 1.0 A 11 TRP HE1  HE1  A 8  ARG HD2  HD2  6R28 3 
+66 49 . . .  1 1 9  PRO HD3  1 1 8  ARG HB2  . 2.8 . . . 0.0 6.0 1.0 A 9  PRO HD3  HD3  A 8  ARG HB2  HB2  6R28 3 
+67 50 . . .  1 1 11 TRP HD1  1 1 8  ARG HB3  . 2.9 . . . 0.0 6.0 1.0 A 11 TRP HD1  HD1  A 8  ARG HB3  HB3  6R28 3 
+68 51 . . .  1 1 11 TRP HZ3  1 1 8  ARG HG2  . 3.2 . . . 0.0 6.0 1.0 A 11 TRP HZ3  HZ3  A 8  ARG HG2  HG2  6R28 3 
+69 52 . . OR 1 1 11 TRP HB2  1 1 6  VAL HG21 . 3.7 . . . 0.0 6.0 1.0 A 11 TRP HB2  HB2  A 6  VAL HG21 HG2% 6R28 3 
+70 52 . . OR 1 1 11 TRP HB2  1 1 6  VAL HG22 . 3.7 . . . 0.0 6.0 1.0 A 11 TRP HB2  HB2  A 6  VAL HG22 HG2% 6R28 3 
+71 52 . . OR 1 1 11 TRP HB2  1 1 6  VAL HG23 . 3.7 . . . 0.0 6.0 1.0 A 11 TRP HB2  HB2  A 6  VAL HG23 HG2% 6R28 3 
+stop_
+save_

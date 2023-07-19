@@ -1,0 +1,288 @@
+data_PRDCC_001126
+# 
+_chem_comp.id                                    PRD_001126 
+_chem_comp.name                                  "Microcin C7 ANALOG" 
+_chem_comp.formula                               "C28 H51 N12 O11 Se" 
+_chem_comp.formula_weight                        810.738 
+_chem_comp.pdbx_release_status                   REF_ONLY 
+_chem_comp.type                                  peptide-like 
+_chem_comp.pdbx_type                             ? 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    ? 
+_chem_comp.pdbx_initial_date                     ? 
+_chem_comp.pdbx_modified_date                    ? 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ? 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   ? 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   ? 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  ? 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_residue_numbering 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_polymer_type 
+_chem_comp_atom.pdbx_ref_id 
+_chem_comp_atom.pdbx_component_id 
+_chem_comp_atom.pdbx_ordinal 
+PRD_001126 N1  N1  N  0 1 N N N 17.314 20.171 32.091 9.644   0.302  -1.576 MSE 1 N    polymer 1 1 1   
+PRD_001126 C1  C1  C  0 1 N N S 18.680 20.351 31.523 8.399   -0.438 -1.329 MSE 1 CA   polymer 1 1 2   
+PRD_001126 C2  C2  C  0 1 N N N 18.672 21.269 30.300 7.469   0.408  -0.498 MSE 1 C    polymer 1 1 3   
+PRD_001126 O1  O1  O  0 1 N N N 19.527 21.158 29.412 7.908   1.332  0.153  MSE 1 O    polymer 1 1 4   
+PRD_001126 C3  C3  C  0 1 N N N 19.216 19.012 31.118 8.717   -1.734 -0.580 MSE 1 CB   polymer 1 1 5   
+PRD_001126 C4  C4  C  0 1 N N N 18.325 18.365 30.154 9.559   -2.646 -1.474 MSE 1 CG   polymer 1 1 6   
+PRD_001126 SE1 SE1 SE 0 0 N N N 19.237 16.751 29.539 9.965   -4.306 -0.515 MSE 1 SE   polymer 1 1 7   
+PRD_001126 C5  C5  C  0 1 N N N 21.159 17.225 29.212 11.026  -5.264 -1.857 MSE 1 CE   polymer 1 1 8   
+PRD_001126 N2  N2  N  0 1 N N N 17.693 22.167 30.263 6.149   0.136  -0.478 ARG 2 N    polymer 1 1 9   
+PRD_001126 C6  C6  C  0 1 N N S 17.546 23.127 29.174 5.244   0.958  0.330  ARG 2 CA   polymer 1 1 10  
+PRD_001126 C7  C7  C  0 1 N N N 18.457 24.336 29.432 4.020   0.155  0.687  ARG 2 C    polymer 1 1 11  
+PRD_001126 O2  O2  O  0 1 N N N 18.780 25.096 28.515 3.913   -0.991 0.304  ARG 2 O    polymer 1 1 12  
+PRD_001126 C8  C8  C  0 1 N N N 16.079 23.552 29.073 4.828   2.195  -0.469 ARG 2 CB   polymer 1 1 13  
+PRD_001126 C9  C9  C  0 1 N N N 15.690 24.368 27.840 6.055   3.073  -0.724 ARG 2 CG   polymer 1 1 14  
+PRD_001126 C10 C10 C  0 1 N N N 14.157 24.392 27.675 5.639   4.310  -1.523 ARG 2 CD   polymer 1 1 15  
+PRD_001126 N3  N3  N  0 1 N N N 13.646 23.180 27.030 6.813   5.152  -1.766 ARG 2 NE   polymer 1 1 16  
+PRD_001126 C11 C11 C  0 1 N N N 12.402 22.719 27.157 6.684   6.319  -2.467 ARG 2 CZ   polymer 1 1 17  
+PRD_001126 N4  N4  N  0 1 N N N 11.512 23.357 27.916 5.491   6.692  -2.927 ARG 2 NH1  polymer 1 1 18  
+PRD_001126 N5  N5  N  1 1 N N N 12.037 21.618 26.511 7.752   7.084  -2.689 ARG 2 NH2  polymer 1 1 19  
+PRD_001126 N6  N6  N  0 1 N N N 18.857 24.507 30.690 3.043   0.710  1.431  THR 3 N    polymer 1 1 20  
+PRD_001126 C12 C12 C  0 1 N N S 19.769 25.578 31.087 1.853   -0.070 1.778  THR 3 CA   polymer 1 1 21  
+PRD_001126 C13 C13 C  0 1 N N N 21.080 24.892 31.463 0.700   0.863  2.042  THR 3 C    polymer 1 1 22  
+PRD_001126 O3  O3  O  0 1 N N N 21.063 23.762 31.959 0.910   2.030  2.296  THR 3 O    polymer 1 1 23  
+PRD_001126 C14 C14 C  0 1 N N R 19.257 26.356 32.330 2.135   -0.901 3.031  THR 3 CB   polymer 1 1 24  
+PRD_001126 O4  O4  O  0 1 N N N 18.698 25.434 33.276 2.484   -0.031 4.110  THR 3 OG1  polymer 1 1 25  
+PRD_001126 C15 C15 C  0 1 N N N 18.213 27.395 31.933 3.292   -1.863 2.756  THR 3 CG2  polymer 1 1 26  
+PRD_001126 N7  N7  N  0 1 N N N 22.213 25.544 31.206 -0.566  0.401  1.996  GLY 4 N    polymer 1 1 27  
+PRD_001126 C16 C16 C  0 1 N N N 23.481 24.941 31.580 -1.690  1.328  2.145  GLY 4 CA   polymer 1 1 28  
+PRD_001126 C17 C17 C  0 1 N N N 23.323 24.691 33.064 -2.986  0.564  2.056  GLY 4 C    polymer 1 1 29  
+PRD_001126 O5  O5  O  0 1 N N N 22.522 25.380 33.693 -2.972  -0.636 1.886  GLY 4 O    polymer 1 1 30  
+PRD_001126 N8  N8  N  0 1 N N N 24.040 23.724 33.631 -4.161  1.215  2.167  ASN 5 N    polymer 1 1 31  
+PRD_001126 C18 C18 C  0 1 N N S 23.898 23.445 35.058 -5.417  0.462  2.183  ASN 5 CA   polymer 1 1 32  
+PRD_001126 C19 C19 C  0 1 N N N 23.668 24.800 35.736 -5.886  0.236  0.769  ASN 5 C    polymer 1 1 33  
+PRD_001126 O6  O6  O  0 1 N N N 24.368 25.763 35.435 -5.235  0.662  -0.161 ASN 5 O    polymer 1 1 34  
+PRD_001126 C20 C20 C  0 1 N N N 25.144 22.708 35.563 -6.477  1.254  2.951  ASN 5 CB   polymer 1 1 35  
+PRD_001126 C21 C21 C  0 1 N N N 25.382 21.405 34.799 -6.053  1.396  4.391  ASN 5 CG   polymer 1 1 36  
+PRD_001126 O7  O7  O  0 1 N N N 24.441 20.805 34.273 -4.977  0.969  4.751  ASN 5 OD1  polymer 1 1 37  
+PRD_001126 N9  N9  N  0 1 N N N 26.632 20.962 34.740 -6.870  1.998  5.278  ASN 5 ND2  polymer 1 1 38  
+PRD_001126 N10 N10 N  0 1 N N N 22.656 24.860 36.606 -7.029  -0.440 0.538  ALA 6 N    polymer 1 1 39  
+PRD_001126 C22 C22 C  0 1 N N S 22.196 26.071 37.312 -7.485  -0.660 -0.837 ALA 6 CA   polymer 1 1 40  
+PRD_001126 C23 C23 C  0 1 N N N 23.117 26.989 38.151 -8.979  -0.854 -0.846 ALA 6 C    polymer 1 1 41  
+PRD_001126 O8  O8  O  0 1 N N N 24.015 26.530 38.855 -9.602  -0.813 0.194  ALA 6 O    polymer 1 1 42  
+PRD_001126 C24 C24 C  0 1 N N N 20.997 25.683 38.160 -6.805  -1.906 -1.407 ALA 6 CB   polymer 1 1 43  
+PRD_001126 N11 N11 N  0 1 N N N 22.832 28.295 38.079 -9.623  -1.074 -2.009 ASN 7 N    polymer 1 1 44  
+PRD_001126 C25 C25 C  0 1 N N S 23.534 29.356 38.818 -11.076 -1.263 -2.018 ASN 7 CA   polymer 1 1 45  
+PRD_001126 C26 C26 C  0 1 N N N 22.851 30.705 38.543 -11.396 -2.708 -1.735 ASN 7 C    polymer 1 1 46  
+PRD_001126 O9  O9  O  0 1 N N N 22.713 31.506 39.501 -10.502 -3.499 -1.545 ASN 7 O    polymer 1 1 47  
+PRD_001126 C27 C27 C  0 1 N N N 25.030 29.431 38.441 -11.632 -0.876 -3.390 ASN 7 CB   polymer 1 1 48  
+PRD_001126 C28 C28 C  0 1 N N N 25.848 30.265 39.437 -11.421 0.598  -3.621 ASN 7 CG   polymer 1 1 49  
+PRD_001126 O10 O10 O  0 1 N N N 26.154 29.816 40.546 -10.879 1.273  -2.771 ASN 7 OD1  polymer 1 1 50  
+PRD_001126 N12 N12 N  0 1 N N N 26.185 31.492 39.044 -11.835 1.166  -4.771 ASN 7 ND2  polymer 1 1 51  
+PRD_001126 O11 O11 O  0 1 N Y N 22.468 30.931 37.370 -12.674 -3.117 -1.693 ASN 7 OXT  polymer 1 1 52  
+PRD_001126 H1  H1  H  0 1 N N N 17.360 19.567 32.886 9.470   1.130  -2.125 MSE 1 H    polymer 1 1 53  
+PRD_001126 H2  H2  H  0 1 N Y N 16.949 21.060 32.368 10.105  0.534  -0.709 MSE 1 H2   polymer 1 1 54  
+PRD_001126 H3  H3  H  0 1 N N N 19.338 20.787 32.289 7.923   -0.675 -2.280 MSE 1 HA   polymer 1 1 55  
+PRD_001126 H4  H4  H  0 1 N N N 20.208 19.144 30.660 9.272   -1.502 0.329  MSE 1 HB2  polymer 1 1 56  
+PRD_001126 H5  H5  H  0 1 N N N 19.306 18.375 32.010 7.787   -2.239 -0.319 MSE 1 HB3  polymer 1 1 57  
+PRD_001126 H6  H6  H  0 1 N N N 17.372 18.101 30.636 9.004   -2.878 -2.383 MSE 1 HG2  polymer 1 1 58  
+PRD_001126 H7  H7  H  0 1 N N N 18.132 19.038 29.305 10.489  -2.141 -1.735 MSE 1 HG3  polymer 1 1 59  
+PRD_001126 H8  H8  H  0 1 N N N 21.703 16.335 28.863 10.425  -5.415 -2.754 MSE 1 HE1  polymer 1 1 60  
+PRD_001126 H9  H9  H  0 1 N N N 21.217 18.013 28.447 11.910  -4.678 -2.106 MSE 1 HE2  polymer 1 1 61  
+PRD_001126 H10 H10 H  0 1 N N N 21.611 17.588 30.147 11.331  -6.230 -1.457 MSE 1 HE3  polymer 1 1 62  
+PRD_001126 H11 H11 H  0 1 N N N 17.030 22.186 31.012 5.798   -0.604 -0.998 ARG 2 H    polymer 1 1 63  
+PRD_001126 H12 H12 H  0 1 N N N 17.844 22.658 28.224 5.753   1.269  1.242  ARG 2 HA   polymer 1 1 64  
+PRD_001126 H13 H13 H  0 1 N N N 15.465 22.639 29.077 4.399   1.884  -1.422 ARG 2 HB2  polymer 1 1 65  
+PRD_001126 H14 H14 H  0 1 N N N 15.844 24.156 29.962 4.087   2.760  0.096  ARG 2 HB3  polymer 1 1 66  
+PRD_001126 H15 H15 H  0 1 N N N 16.059 25.398 27.956 6.484   3.384  0.229  ARG 2 HG2  polymer 1 1 67  
+PRD_001126 H16 H16 H  0 1 N N N 16.144 23.914 26.947 6.796   2.508  -1.289 ARG 2 HG3  polymer 1 1 68  
+PRD_001126 H17 H17 H  0 1 N N N 13.696 24.484 28.669 5.210   4.000  -2.476 ARG 2 HD2  polymer 1 1 69  
+PRD_001126 H18 H18 H  0 1 N N N 13.881 25.262 27.061 4.898   4.875  -0.958 ARG 2 HD3  polymer 1 1 70  
+PRD_001126 H19 H19 H  0 1 N N N 14.276 22.661 26.453 7.682   4.880  -1.431 ARG 2 HE   polymer 1 1 71  
+PRD_001126 H20 H20 H  0 0 N N N 10.579 23.006 27.995 4.713   6.135  -2.766 ARG 2 HH11 polymer 1 1 72  
+PRD_001126 H21 H21 H  0 0 N N N 11.777 24.187 28.407 5.399   7.520  -3.424 ARG 2 HH12 polymer 1 1 73  
+PRD_001126 H22 H22 H  0 0 N N N 11.102 21.275 26.597 8.620   6.813  -2.353 ARG 2 HH21 polymer 1 1 74  
+PRD_001126 H23 H23 H  0 0 N N N 12.697 21.132 25.939 7.660   7.913  -3.185 ARG 2 HH22 polymer 1 1 75  
+PRD_001126 H24 H24 H  0 1 N N N 18.520 23.878 31.391 3.128   1.627  1.737  THR 3 H    polymer 1 1 76  
+PRD_001126 H25 H25 H  0 1 N N N 19.937 26.279 30.256 1.600   -0.734 0.951  THR 3 HA   polymer 1 1 77  
+PRD_001126 H26 H26 H  0 1 N N N 20.113 26.878 32.783 1.244   -1.470 3.298  THR 3 HB   polymer 1 1 78  
+PRD_001126 H27 H27 H  0 1 N N N 18.385 25.910 34.036 1.795   0.607  4.340  THR 3 HG1  polymer 1 1 79  
+PRD_001126 H28 H28 H  0 0 N N N 17.868 27.930 32.830 4.210   -1.294 2.607  THR 3 HG21 polymer 1 1 80  
+PRD_001126 H29 H29 H  0 0 N N N 18.659 28.111 31.227 3.416   -2.535 3.606  THR 3 HG22 polymer 1 1 81  
+PRD_001126 H30 H30 H  0 0 N N N 17.359 26.893 31.455 3.076   -2.445 1.861  THR 3 HG23 polymer 1 1 82  
+PRD_001126 H31 H31 H  0 1 N N N 22.191 26.439 30.760 -0.732  -0.546 1.864  GLY 4 H    polymer 1 1 83  
+PRD_001126 H32 H32 H  0 1 N N N 23.645 23.999 31.037 -1.626  1.824  3.113  GLY 4 HA2  polymer 1 1 84  
+PRD_001126 H33 H33 H  0 1 N N N 24.317 25.628 31.383 -1.653  2.074  1.351  GLY 4 HA3  polymer 1 1 85  
+PRD_001126 H34 H34 H  0 1 N N N 24.678 23.187 33.079 -4.175  2.183  2.236  ASN 5 H    polymer 1 1 86  
+PRD_001126 H35 H35 H  0 1 N N N 23.017 22.809 35.227 -5.258  -0.500 2.671  ASN 5 HA   polymer 1 1 87  
+PRD_001126 H36 H36 H  0 1 N N N 26.020 23.361 35.435 -6.586  2.243  2.506  ASN 5 HB2  polymer 1 1 88  
+PRD_001126 H37 H37 H  0 1 N N N 25.012 22.476 36.630 -7.430  0.728  2.904  ASN 5 HB3  polymer 1 1 89  
+PRD_001126 H38 H38 H  0 0 N N N 26.839 20.112 34.256 -7.731  2.340  4.990  ASN 5 HD21 polymer 1 1 90  
+PRD_001126 H39 H39 H  0 0 N N N 27.367 21.478 35.180 -6.597  2.090  6.204  ASN 5 HD22 polymer 1 1 91  
+PRD_001126 H40 H40 H  0 1 N N N 22.167 24.009 36.795 -7.550  -0.781 1.282  ALA 6 H    polymer 1 1 92  
+PRD_001126 H41 H41 H  0 1 N N N 21.788 26.727 36.529 -7.227  0.206  -1.448 ALA 6 HA   polymer 1 1 93  
+PRD_001126 H42 H42 H  0 1 N N N 20.629 26.567 38.701 -7.062  -2.772 -0.796 ALA 6 HB1  polymer 1 1 94  
+PRD_001126 H43 H43 H  0 1 N N N 20.200 25.292 37.511 -7.144  -2.070 -2.430 ALA 6 HB2  polymer 1 1 95  
+PRD_001126 H44 H44 H  0 1 N N N 21.294 24.908 38.882 -5.724  -1.765 -1.400 ALA 6 HB3  polymer 1 1 96  
+PRD_001126 H45 H45 H  0 1 N N N 22.084 28.571 37.476 -9.125  -1.106 -2.841 ASN 7 H    polymer 1 1 97  
+PRD_001126 H46 H46 H  0 1 N N N 23.463 29.149 39.896 -11.529 -0.634 -1.252 ASN 7 HA   polymer 1 1 98  
+PRD_001126 H47 H47 H  0 1 N N N 25.439 28.410 38.417 -11.116 -1.443 -4.164 ASN 7 HB2  polymer 1 1 99  
+PRD_001126 H48 H48 H  0 1 N N N 25.120 29.886 37.443 -12.698 -1.101 -3.426 ASN 7 HB3  polymer 1 1 100 
+PRD_001126 H49 H49 H  0 0 N N N 26.706 32.088 39.656 -12.269 0.626  -5.450 ASN 7 HD21 polymer 1 1 101 
+PRD_001126 H50 H50 H  0 0 N N N 25.917 31.818 38.137 -11.699 2.115  -4.919 ASN 7 HD22 polymer 1 1 102 
+PRD_001126 H51 H51 H  0 1 N Y N 22.065 31.790 37.328 -12.829 -4.053 -1.508 ASN 7 HXT  polymer 1 1 103 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PRD_001126 N1  C1  SING N N 1   
+PRD_001126 N1  H1  SING N N 2   
+PRD_001126 N1  H2  SING N N 3   
+PRD_001126 C1  C2  SING N N 4   
+PRD_001126 C1  C3  SING N N 5   
+PRD_001126 C1  H3  SING N N 6   
+PRD_001126 C2  O1  DOUB N N 7   
+PRD_001126 C3  C4  SING N N 8   
+PRD_001126 C3  H4  SING N N 9   
+PRD_001126 C3  H5  SING N N 10  
+PRD_001126 C4  SE1 SING N N 11  
+PRD_001126 C4  H6  SING N N 12  
+PRD_001126 C4  H7  SING N N 13  
+PRD_001126 SE1 C5  SING N N 14  
+PRD_001126 C5  H8  SING N N 15  
+PRD_001126 C5  H9  SING N N 16  
+PRD_001126 C5  H10 SING N N 17  
+PRD_001126 N2  C6  SING N N 18  
+PRD_001126 N2  H11 SING N N 19  
+PRD_001126 C6  C7  SING N N 20  
+PRD_001126 C6  C8  SING N N 21  
+PRD_001126 C6  H12 SING N N 22  
+PRD_001126 C7  O2  DOUB N N 23  
+PRD_001126 C8  C9  SING N N 24  
+PRD_001126 C8  H13 SING N N 25  
+PRD_001126 C8  H14 SING N N 26  
+PRD_001126 C9  C10 SING N N 27  
+PRD_001126 C9  H15 SING N N 28  
+PRD_001126 C9  H16 SING N N 29  
+PRD_001126 C10 N3  SING N N 30  
+PRD_001126 C10 H17 SING N N 31  
+PRD_001126 C10 H18 SING N N 32  
+PRD_001126 N3  C11 SING N N 33  
+PRD_001126 N3  H19 SING N N 34  
+PRD_001126 C11 N4  SING N N 35  
+PRD_001126 C11 N5  DOUB N N 36  
+PRD_001126 N4  H20 SING N N 37  
+PRD_001126 N4  H21 SING N N 38  
+PRD_001126 N5  H22 SING N N 39  
+PRD_001126 N5  H23 SING N N 40  
+PRD_001126 N6  C12 SING N N 41  
+PRD_001126 N6  H24 SING N N 42  
+PRD_001126 C12 C13 SING N N 43  
+PRD_001126 C12 C14 SING N N 44  
+PRD_001126 C12 H25 SING N N 45  
+PRD_001126 C13 O3  DOUB N N 46  
+PRD_001126 C14 O4  SING N N 47  
+PRD_001126 C14 C15 SING N N 48  
+PRD_001126 C14 H26 SING N N 49  
+PRD_001126 O4  H27 SING N N 50  
+PRD_001126 C15 H28 SING N N 51  
+PRD_001126 C15 H29 SING N N 52  
+PRD_001126 C15 H30 SING N N 53  
+PRD_001126 N7  C16 SING N N 54  
+PRD_001126 N7  H31 SING N N 55  
+PRD_001126 C16 C17 SING N N 56  
+PRD_001126 C16 H32 SING N N 57  
+PRD_001126 C16 H33 SING N N 58  
+PRD_001126 C17 O5  DOUB N N 59  
+PRD_001126 N8  C18 SING N N 60  
+PRD_001126 N8  H34 SING N N 61  
+PRD_001126 C18 C19 SING N N 62  
+PRD_001126 C18 C20 SING N N 63  
+PRD_001126 C18 H35 SING N N 64  
+PRD_001126 C19 O6  DOUB N N 65  
+PRD_001126 C20 C21 SING N N 66  
+PRD_001126 C20 H36 SING N N 67  
+PRD_001126 C20 H37 SING N N 68  
+PRD_001126 C21 O7  DOUB N N 69  
+PRD_001126 C21 N9  SING N N 70  
+PRD_001126 N9  H38 SING N N 71  
+PRD_001126 N9  H39 SING N N 72  
+PRD_001126 N10 C22 SING N N 73  
+PRD_001126 N10 H40 SING N N 74  
+PRD_001126 C22 C23 SING N N 75  
+PRD_001126 C22 C24 SING N N 76  
+PRD_001126 C22 H41 SING N N 77  
+PRD_001126 C23 O8  DOUB N N 78  
+PRD_001126 C24 H42 SING N N 79  
+PRD_001126 C24 H43 SING N N 80  
+PRD_001126 C24 H44 SING N N 81  
+PRD_001126 N11 C25 SING N N 82  
+PRD_001126 N11 H45 SING N N 83  
+PRD_001126 C25 C26 SING N N 84  
+PRD_001126 C25 C27 SING N N 85  
+PRD_001126 C25 H46 SING N N 86  
+PRD_001126 C26 O9  DOUB N N 87  
+PRD_001126 C26 O11 SING N N 88  
+PRD_001126 C27 C28 SING N N 89  
+PRD_001126 C27 H47 SING N N 90  
+PRD_001126 C27 H48 SING N N 91  
+PRD_001126 C28 O10 DOUB N N 92  
+PRD_001126 C28 N12 SING N N 93  
+PRD_001126 N12 H49 SING N N 94  
+PRD_001126 N12 H50 SING N N 95  
+PRD_001126 O11 H51 SING N N 96  
+PRD_001126 C2  N2  SING N N 97  
+PRD_001126 C7  N6  SING N N 98  
+PRD_001126 C13 N7  SING N N 99  
+PRD_001126 C17 N8  SING N N 100 
+PRD_001126 C19 N10 SING N N 101 
+PRD_001126 C23 N11 SING N N 102 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PRD_001126 SMILES           ACDLabs              12.01 "O=C(NC(C(=O)NC(C(=O)NCC(=O)NC(C(=O)NC(C(=O)NC(C(=O)O)CC(=O)N)C)CC(=O)N)C(O)C)CCCNC(=[NH2+])/N)C(N)CC[Se]C"                                                                                                                                                                                                                                         
+PRD_001126 InChI            InChI                1.03  "InChI=1S/C28H50N12O11Se/c1-12(22(45)39-17(27(50)51)10-19(31)43)36-25(48)16(9-18(30)42)37-20(44)11-35-26(49)21(13(2)41)40-24(47)15(5-4-7-34-28(32)33)38-23(46)14(29)6-8-52-3/h12-17,21,41H,4-11,29H2,1-3H3,(H2,30,42)(H2,31,43)(H,35,49)(H,36,48)(H,37,44)(H,38,46)(H,39,45)(H,40,47)(H,50,51)(H4,32,33,34)/p+1/t12?,13-,14+,15-,16-,17?,21-/m0/s1" 
+PRD_001126 InChIKey         InChI                1.03  PURCVNCIZJKNTN-BCADJKBXSA-O                                                                                                                                                                                                                                                                                                                         
+PRD_001126 SMILES_CANONICAL CACTVS               3.385 "C[Se]CC[C@H](N)C(=O)N[C@@H](CCCNC(N)=[NH2+])C(=O)N[C@@H]([C@@H](C)O)C(=O)NCC(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](C)C(=O)N[C@@H](CC(N)=O)C(O)=O"                                                                                                                                                                                                        
+PRD_001126 SMILES           CACTVS               3.385 "C[Se]CC[CH](N)C(=O)N[CH](CCCNC(N)=[NH2+])C(=O)N[CH]([CH](C)O)C(=O)NCC(=O)N[CH](CC(N)=O)C(=O)N[CH](C)C(=O)N[CH](CC(N)=O)C(O)=O"                                                                                                                                                                                                                     
+PRD_001126 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C[C@H]([C@@H](C(=O)NCC(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](C)C(=O)N[C@@H](CC(=O)N)C(=O)O)NC(=O)[C@H](CCCNC(=[NH2+])N)NC(=O)[C@H](CC[Se]C)N)O"                                                                                                                                                                                                          
+PRD_001126 SMILES           "OpenEye OEToolkits" 1.7.6 "CC(C(C(=O)NCC(=O)NC(CC(=O)N)C(=O)NC(C)C(=O)NC(CC(=O)N)C(=O)O)NC(=O)C(CCCNC(=[NH2+])N)NC(=O)C(CC[Se]C)N)O"                                                                                                                                                                                                                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PRD_001126 "SYSTEMATIC NAME" ACDLabs              12.01 "N~5~-[amino(iminio)methyl]-N~2~-[(2R)-2-amino-4-(methylselanyl)butanoyl]-L-ornithyl-L-threonylglycyl-L-asparaginyl-L-alanyl-L-asparagine"                                                                                                                                                                                                                                               
+PRD_001126 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "[azanyl-[[(4S)-5-[[(2S,3R)-1-[[2-[[(2S)-4-azanyl-1-[[(2S)-1-[[(2S)-4-azanyl-1-oxidanyl-1,4-bis(oxidanylidene)butan-2-yl]amino]-1-oxidanylidene-propan-2-yl]amino]-1,4-bis(oxidanylidene)butan-2-yl]amino]-2-oxidanylidene-ethyl]amino]-3-oxidanyl-1-oxidanylidene-butan-2-yl]amino]-4-[[(2S)-2-azanyl-4-methylselanyl-butanoyl]amino]-5-oxidanylidene-pentyl]amino]methylidene]azanium" 
+# 

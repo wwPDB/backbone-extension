@@ -3,7 +3,9 @@
 The documents in this repository include content extension definitions and data 
 files for the upcoming Backbone Remediation Project at PDB.
 
-- [A description of the project](Backbone.md)
+- [Description](Backbone.md) of the project
+- [Examples](examples/examples.md) of three entries that contain CCDs affected by the 
+remediation
 - The full set of Chemical Component Definition files ([CCDs](data/data.md)) updated in the backbone 
 remediation
 - Datasets summarising 
