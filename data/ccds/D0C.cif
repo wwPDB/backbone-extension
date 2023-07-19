@@ -1,0 +1,135 @@
+data_D0C
+_chem_comp.id                     D0C
+_chem_comp.name                   4-chloro-D-phenylalanine
+_chem_comp.type                   "D-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C9 H10 Cl N O2"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2020-10-29
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         199.634
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      D0C
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7KJN
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   RCSB
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+D0C N   N1  N  0 1 N N Y Y N N 30.067 -22.063 -9.450  -1.952 1.449  0.827  N   D0C 1
+D0C CA  C1  C  0 1 N N Y N N R 29.593 -20.735 -8.906  -2.204 0.058  0.428  CA  D0C 2
+D0C C   C2  C  0 1 N N Y N Y N 29.614 -19.642 -10.087 -3.676 -0.131 0.168  C   D0C 3
+D0C O   O1  O  0 1 N N Y N Y N 30.052 -18.509 -9.842  -4.378 0.827  -0.056 O   D0C 4
+D0C CB  C3  C  0 1 N N N N N N 28.110 -20.786 -8.704  -1.417 -0.257 -0.846 CB  D0C 5
+D0C CG  C4  C  0 1 Y N N N N N 27.708 -19.628 -7.863  0.060  -0.187 -0.553 CG  D0C 6
+D0C CD1 C5  C  0 1 Y N N N N N 27.071 -18.546 -8.408  0.738  1.008  -0.701 CD1 D0C 7
+D0C CD2 C6  C  0 1 Y N N N N N 27.975 -19.668 -6.507  0.735  -1.318 -0.133 CD2 D0C 8
+D0C CE1 C7  C  0 1 Y N N N N N 26.618 -17.461 -7.587  2.092  1.073  -0.433 CE1 D0C 9
+D0C CE2 C8  C  0 1 Y N N N N N 27.552 -18.590 -5.725  2.089  -1.255 0.136  CE2 D0C 10
+D0C CZ  C9  C  0 1 Y N N N N N 26.877 -17.536 -6.296  2.770  -0.059 -0.017 CZ  D0C 11
+D0C CL  CL1 CL 0 0 N N N N N N 26.365 -16.302 -5.341  4.471  0.021  0.319  CL  D0C 12
+D0C OXT O2  O  0 1 N Y Y N Y N 29.018 -19.997 -11.266 -4.208 -1.363 0.184  OXT D0C 13
+D0C H   H1  H  0 1 N N Y Y N N 30.056 -22.746 -8.720  -0.982 1.586  1.069  H   D0C 14
+D0C H2  H2  H  0 1 N Y Y Y N N 29.461 -22.356 -10.189 -2.238 2.091  0.103  H2  D0C 15
+D0C HA  H4  H  0 1 N N Y N N N 30.151 -20.398 -8.020  -1.887 -0.612 1.226  HA  D0C 16
+D0C HB2 H5  H  0 1 N N N N N N 27.601 -20.732 -9.678  -1.672 -1.259 -1.192 HB2 D0C 17
+D0C HB3 H6  H  0 1 N N N N N N 27.836 -21.724 -8.199  -1.669 0.470  -1.618 HB3 D0C 18
+D0C HD1 H7  H  0 1 N N N N N N 26.907 -18.509 -9.475  0.209  1.892  -1.026 HD1 D0C 19
+D0C HD2 H8  H  0 1 N N N N N N 28.494 -20.506 -6.066  0.204  -2.251 -0.014 HD2 D0C 20
+D0C HE1 H9  H  0 1 N N N N N N 26.088 -16.619 -8.008  2.622  2.007  -0.549 HE1 D0C 21
+D0C HE2 H10 H  0 1 N N N N N N 27.756 -18.584 -4.665  2.617  -2.138 0.464  HE2 D0C 22
+D0C HXT H11 H  0 1 N Y Y N Y N 28.998 -19.247 -11.849 -5.157 -1.434 0.012  HXT D0C 23
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+D0C C   O   DOUB N N 1
+D0C C   CA  SING N N 2
+D0C N   CA  SING N N 3
+D0C CA  CB  SING N N 4
+D0C CB  CG  SING N N 5
+D0C CD1 CG  DOUB Y N 6
+D0C CD1 CE1 SING Y N 7
+D0C CG  CD2 SING Y N 8
+D0C CE1 CZ  DOUB Y N 9
+D0C CD2 CE2 DOUB Y N 10
+D0C CZ  CE2 SING Y N 11
+D0C CZ  CL  SING N N 12
+D0C C   OXT SING N N 13
+D0C N   H   SING N N 14
+D0C N   H2  SING N N 15
+D0C CA  HA  SING N N 16
+D0C CB  HB2 SING N N 17
+D0C CB  HB3 SING N N 18
+D0C CD1 HD1 SING N N 19
+D0C CD2 HD2 SING N N 20
+D0C CE1 HE1 SING N N 21
+D0C CE2 HE2 SING N N 22
+D0C OXT HXT SING N N 23
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+D0C SMILES           ACDLabs              12.01 "NC(Cc1ccc(cc1)Cl)C(=O)O"
+D0C InChI            InChI                1.03  "InChI=1S/C9H10ClNO2/c10-7-3-1-6(2-4-7)5-8(11)9(12)13/h1-4,8H,5,11H2,(H,12,13)/t8-/m1/s1"
+D0C InChIKey         InChI                1.03  NIGWMJHCCYYCSF-MRVPVSSYSA-N
+D0C SMILES_CANONICAL CACTVS               3.385 "N[C@H](Cc1ccc(Cl)cc1)C(O)=O"
+D0C SMILES           CACTVS               3.385 "N[CH](Cc1ccc(Cl)cc1)C(O)=O"
+D0C SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "c1cc(ccc1C[C@H](C(=O)O)N)Cl"
+D0C SMILES           "OpenEye OEToolkits" 2.0.7 "c1cc(ccc1CC(C(=O)O)N)Cl"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+D0C "SYSTEMATIC NAME" ACDLabs              12.01 4-chloro-D-phenylalanine
+D0C "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "(2~{R})-2-azanyl-3-(4-chlorophenyl)propanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+D0C "Create component"     2020-10-29 RCSB
+D0C "Initial release"      2021-11-17 RCSB
+D0C "Standardize backbone" 2023-07-18 PDBE

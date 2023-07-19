@@ -1,0 +1,156 @@
+data_L4R
+_chem_comp.id                     L4R
+_chem_comp.name                   Fmoc-(R)-2-(7-octenyl)alanine
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C11 H21 N O2"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-06-16
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         199.290
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      L4R
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag Y
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 6QMS
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+L4R O   O   O 0 1 N N Y N Y N 12.890 12.366 37.108 -3.880 -1.697 0.143  O   L4R 1
+L4R C   C   C 0 1 N N Y N Y N 12.036 13.206 36.822 -3.942 -0.517 -0.112 C   L4R 2
+L4R CA  CA  C 0 1 N N Y N N R 12.078 14.610 37.424 -2.727 0.356  0.064  CA  L4R 3
+L4R CB1 CB1 C 0 1 N N N N N N 10.876 14.738 38.365 -2.773 1.024  1.439  CB1 L4R 4
+L4R N   N   N 0 1 N N Y Y N N 11.977 15.620 36.361 -2.711 1.388  -0.981 N   L4R 5
+L4R CB  CB  C 0 1 N N N N N N 13.389 14.811 38.215 -1.463 -0.499 -0.045 CB  L4R 6
+L4R CG  CG  C 0 1 N N N N N N 13.541 14.061 39.530 -0.229 0.388  0.133  CG  L4R 7
+L4R CD  CD  C 0 1 N N N N N N 14.968 13.759 39.934 1.034  -0.468 0.024  CD  L4R 8
+L4R CE  CE  C 0 1 N N N N N N 15.075 13.184 41.320 2.268  0.419  0.203  CE  L4R 9
+L4R CF  CF  C 0 1 N N N N N N 16.423 12.726 41.799 3.532  -0.437 0.094  CF  L4R 10
+L4R CH  CH  C 0 1 N N N N N N 17.420 12.296 40.756 4.765  0.451  0.272  CH  L4R 11
+L4R OXT OXT O 0 1 N Y Y N Y N 11.030 12.946 35.971 -5.091 0.013  -0.557 OXT L4R 12
+L4R HB1 HB1 H 0 1 N N N N N N 10.951 13.982 39.161 -2.785 0.258  2.215  HB1 L4R 13
+L4R HB2 HB2 H 0 1 N N N N N N 10.867 15.743 38.813 -1.894 1.656  1.567  HB2 L4R 14
+L4R HB3 HB3 H 0 1 N N N N N N 9.947  14.581 37.797 -3.674 1.634  1.517  HB3 L4R 15
+L4R H7  H7  H 0 1 N N N N N N 14.218 14.501 37.562 -1.475 -1.265 0.730  H7  L4R 16
+L4R H8  H8  H 0 1 N N N N N N 13.478 15.885 38.436 -1.430 -0.975 -1.025 H8  L4R 17
+L4R H9  H9  H 0 1 N N N N N N 13.083 14.669 40.324 -0.217 1.154  -0.642 H9  L4R 18
+L4R H10 H10 H 0 1 N N N N N N 13.002 13.106 39.442 -0.262 0.864  1.113  H10 L4R 19
+L4R H11 H11 H 0 1 N N N N N N 15.389 13.036 39.220 1.022  -1.234 0.800  H11 L4R 20
+L4R H12 H12 H 0 1 N N N N N N 15.549 14.692 39.896 1.068  -0.944 -0.956 H12 L4R 21
+L4R H13 H13 H 0 1 N N N N N N 14.726 13.956 42.021 2.280  1.185  -0.573 H13 L4R 22
+L4R H14 H14 H 0 1 N N N N N N 14.401 12.316 41.365 2.235  0.895  1.183  H14 L4R 23
+L4R H15 H15 H 0 1 N N N N N N 16.261 11.872 42.473 3.520  -1.202 0.869  H15 L4R 24
+L4R H16 H16 H 0 1 N N N N N N 16.873 13.557 42.362 3.565  -0.912 -0.886 H16 L4R 25
+L4R H17 H17 H 0 1 N N N N N N 18.112 13.134 40.587 4.777  1.216  -0.503 H17 L4R 26
+L4R H18 H18 H 0 1 N N N N N N 17.976 11.436 41.157 4.732  0.926  1.252  H18 L4R 27
+L4R HXT HXT H 0 1 N Y Y N Y N 11.103 12.052 35.657 -5.843 -0.587 -0.657 HXT L4R 28
+L4R CI  CI  C 0 1 N N N N N N ?      ?      ?      6.010  -0.392 0.165  CI  L4R 29
+L4R CJ  CJ  C 0 1 N N N N N N ?      ?      ?      6.941  -0.078 -0.701 CJ  L4R 30
+L4R H19 H19 H 0 1 N N N N N N ?      ?      ?      6.134  -1.255 0.802  H19 L4R 31
+L4R H21 H21 H 0 1 N N N N N N ?      ?      ?      6.817  0.785  -1.339 H21 L4R 32
+L4R H22 H22 H 0 1 N N N N N N ?      ?      ?      7.833  -0.683 -0.778 H22 L4R 33
+L4R H   H1  H 0 1 N N Y Y N N 12.005 16.534 36.765 -2.680 0.972  -1.900 H1  L4R 34
+L4R H2  H2  H 0 1 N Y Y Y N N 12.742 15.513 35.726 -3.503 2.007  -0.891 H2  L4R 35
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+L4R N   CA  SING N N 1
+L4R C   O   DOUB N N 2
+L4R C   CA  SING N N 3
+L4R CA  CB  SING N N 4
+L4R CA  CB1 SING N N 5
+L4R CB  CG  SING N N 6
+L4R CG  CD  SING N N 7
+L4R CD  CE  SING N N 8
+L4R CH  CF  SING N N 9
+L4R CE  CF  SING N N 10
+L4R C   OXT SING N N 11
+L4R CB1 HB1 SING N N 12
+L4R CB1 HB2 SING N N 13
+L4R CB1 HB3 SING N N 14
+L4R CB  H7  SING N N 15
+L4R CB  H8  SING N N 16
+L4R CG  H9  SING N N 17
+L4R CG  H10 SING N N 18
+L4R CD  H11 SING N N 19
+L4R CD  H12 SING N N 20
+L4R CE  H13 SING N N 21
+L4R CE  H14 SING N N 22
+L4R CF  H15 SING N N 23
+L4R CF  H16 SING N N 24
+L4R CH  H17 SING N N 25
+L4R CH  H18 SING N N 26
+L4R OXT HXT SING N N 27
+L4R CH  CI  SING N N 28
+L4R CI  CJ  DOUB N N 29
+L4R CI  H19 SING N N 30
+L4R CJ  H21 SING N N 31
+L4R CJ  H22 SING N N 32
+L4R N   H   SING N N 33
+L4R N   H2  SING N N 34
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+L4R InChI            InChI                1.06  InChI=1S/C11H21NO2/c1-3-4-5-6-7-8-9-11(2,12)10(13)14/h3H,1,4-9,12H2,2H3,(H,13,14)/t11-/m1/s1
+L4R InChIKey         InChI                1.06  JWZFECWHKQLRGK-LLVKDONJSA-N
+L4R SMILES_CANONICAL CACTVS               3.385 C[C@@](N)(CCCCCCC=C)C(O)=O
+L4R SMILES           CACTVS               3.385 C[C](N)(CCCCCCC=C)C(O)=O
+L4R SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 C[C@@](CCCCCCC=C)(C(=O)O)N
+L4R SMILES           "OpenEye OEToolkits" 2.0.7 CC(CCCCCCC=C)(C(=O)O)N
+
+_pdbx_chem_comp_identifier.comp_id L4R
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 2.0.7
+_pdbx_chem_comp_identifier.identifier "(2~{R})-2-azanyl-2-methyl-dec-9-enoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+L4R "Create component"     2022-06-16 PDBE
+L4R "Modify name"          2022-07-07 PDBE
+L4R "Initial release"      2022-07-20 RCSB
+L4R "Modify descriptor"    2022-08-22 RCSB
+L4R "Standardize backbone" 2023-07-18 PDBE

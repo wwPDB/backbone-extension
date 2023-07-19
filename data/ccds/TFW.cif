@@ -1,0 +1,147 @@
+data_TFW
+_chem_comp.id                     TFW
+_chem_comp.name                   5,6,7-trifluoro-tryptophan
+_chem_comp.type                   non-polymer
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C11 H9 F3 N2 O2"
+_chem_comp.mon_nstd_parent_comp_id TRP
+_chem_comp.pdbx_synonyms          "(2S)-2-azanyl-3-[5,6,7-tris(fluoranyl)-1H-indol-3-yl]propanoic acid"
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-02-10
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         258.197
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      TFW
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7QZ7
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+TFW N   N1  N 0 1 N N Y Y N N 131.228 1.459  -5.487 -2.120 1.081  -1.026 N   TFW 1
+TFW CA  C1  C 0 1 N N Y N N S 130.701 1.864  -6.799 -2.864 -0.056 -0.468 CA  TFW 2
+TFW C   C2  C 0 1 N N Y N Y N 130.324 0.608  -7.541 -4.275 0.372  -0.158 C   TFW 3
+TFW O   O1  O 0 1 N N Y N Y N 131.199 -0.245 -7.769 -4.537 1.544  -0.029 O   TFW 4
+TFW CB  C3  C 0 1 N N N N N N 131.746 2.686  -7.562 -2.181 -0.531 0.816  CB  TFW 5
+TFW CG  C4  C 0 1 Y N N N N N 131.800 4.025  -6.881 -0.814 -1.072 0.487  CG  TFW 6
+TFW CD1 C5  C 0 1 Y N N N N N 132.649 4.352  -5.875 -0.496 -2.357 0.265  CD1 TFW 7
+TFW CD2 C6  C 0 1 Y N N N N N 130.958 5.149  -7.155 0.420  -0.294 0.343  CD2 TFW 8
+TFW NE1 N2  N 0 1 Y N N N N N 132.387 5.655  -5.500 0.841  -2.467 -0.004 NE1 TFW 9
+TFW CE2 C7  C 0 1 Y N N N N N 131.363 6.159  -6.265 1.431  -1.222 0.037  CE2 TFW 10
+TFW CE3 C8  C 0 1 Y N N N N N 129.911 5.386  -8.045 0.727  1.065  0.449  CE3 TFW 11
+TFW CZ2 C9  C 0 1 Y N N N N N 130.729 7.396  -6.281 2.735  -0.774 -0.161 CZ2 TFW 12
+TFW CZ3 C10 C 0 1 Y N N N N N 129.305 6.638  -8.053 2.022  1.489  0.250  CZ3 TFW 13
+TFW CH2 C11 C 0 1 Y N N N N N 129.710 7.634  -7.162 3.023  0.572  -0.055 CH2 TFW 14
+TFW FAC F1  F 0 1 N N N N N N 131.119 8.378  -5.422 3.715  -1.655 -0.456 FAC TFW 15
+TFW FAD F2  F 0 1 N N N N N N 129.109 8.851  -7.144 4.290  1.002  -0.247 FAD TFW 16
+TFW FAE F3  F 0 1 N N N N N N 128.301 6.875  -8.945 2.322  2.803  0.351  FAE TFW 17
+TFW H   H1  H 0 1 N N Y Y N N 130.537 0.924  -5.000 -2.513 1.373  -1.909 H   TFW 18
+TFW H2  H2  H 0 1 N Y Y Y N N 132.050 0.904  -5.615 -2.089 1.849  -0.373 H2  TFW 19
+TFW HA  H4  H 0 1 N N Y N N N 129.801 2.481  -6.659 -2.881 -0.869 -1.193 HA  TFW 20
+TFW HB3 H6  H 0 1 N N N N N N 131.446 2.804  -8.614 -2.084 0.307  1.507  HB3 TFW 21
+TFW H1  H7  H 0 1 N N N N N N 132.728 2.193  -7.514 -2.781 -1.315 1.278  H1  TFW 22
+TFW HD1 H8  H 0 1 N N N N N N 133.399 3.706  -5.443 -1.193 -3.182 0.294  HD1 TFW 23
+TFW HE1 H9  H 0 1 N N N N N N 132.869 6.156  -4.781 1.304  -3.298 -0.197 HE1 TFW 24
+TFW HE3 H10 H 0 1 N N N N N N 129.576 4.610  -8.717 -0.048 1.779  0.684  HE3 TFW 25
+TFW OXT O2  O 0 1 N Y Y N Y N 129.050 0.482  -7.882 -5.242 -0.550 -0.025 OXT TFW 26
+TFW HXT H3  H 0 1 N Y Y N Y N 128.920 -0.351 -8.320 -6.131 -0.228 0.174  HXT TFW 27
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+TFW FAE CZ3 SING N N 1
+TFW CZ3 CE3 DOUB Y N 2
+TFW CZ3 CH2 SING Y N 3
+TFW CE3 CD2 SING Y N 4
+TFW O   C   DOUB N N 5
+TFW CB  CG  SING N N 6
+TFW CB  CA  SING N N 7
+TFW C   CA  SING N N 8
+TFW CH2 FAD SING N N 9
+TFW CH2 CZ2 DOUB Y N 10
+TFW CD2 CG  SING Y N 11
+TFW CD2 CE2 DOUB Y N 12
+TFW CG  CD1 DOUB Y N 13
+TFW CA  N   SING N N 14
+TFW CZ2 CE2 SING Y N 15
+TFW CZ2 FAC SING N N 16
+TFW CE2 NE1 SING Y N 17
+TFW CD1 NE1 SING Y N 18
+TFW N   H   SING N N 19
+TFW N   H2  SING N N 20
+TFW CA  HA  SING N N 21
+TFW CB  HB3 SING N N 22
+TFW CB  H1  SING N N 23
+TFW CD1 HD1 SING N N 24
+TFW NE1 HE1 SING N N 25
+TFW CE3 HE3 SING N N 26
+TFW C   OXT SING N N 27
+TFW OXT HXT SING N N 28
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+TFW InChI            InChI                1.06  "InChI=1S/C11H9F3N2O2/c12-6-2-5-4(1-7(15)11(17)18)3-16-10(5)9(14)8(6)13/h2-3,7,16H,1,15H2,(H,17,18)/t7-/m0/s1"
+TFW InChIKey         InChI                1.06  HXKYSCPIZTWTQH-ZETCQYMHSA-N
+TFW SMILES_CANONICAL CACTVS               3.385 "N[C@@H](Cc1c[nH]c2c(F)c(F)c(F)cc12)C(O)=O"
+TFW SMILES           CACTVS               3.385 "N[CH](Cc1c[nH]c2c(F)c(F)c(F)cc12)C(O)=O"
+TFW SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "c1c2c(c[nH]c2c(c(c1F)F)F)C[C@@H](C(=O)O)N"
+TFW SMILES           "OpenEye OEToolkits" 2.0.7 "c1c2c(c[nH]c2c(c(c1F)F)F)CC(C(=O)O)N"
+
+_pdbx_chem_comp_identifier.comp_id TFW
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 2.0.7
+_pdbx_chem_comp_identifier.identifier "(2~{S})-2-azanyl-3-[5,6,7-tris(fluoranyl)-1~{H}-indol-3-yl]propanoic acid"
+
+_pdbx_chem_comp_synonyms.ordinal  1
+_pdbx_chem_comp_synonyms.comp_id  TFW
+_pdbx_chem_comp_synonyms.name     "(2S)-2-azanyl-3-[5,6,7-tris(fluoranyl)-1H-indol-3-yl]propanoic acid"
+_pdbx_chem_comp_synonyms.provenance PDB
+_pdbx_chem_comp_synonyms.type     ?
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+TFW "Create component"     2022-02-10 PDBE
+TFW "Modify descriptor"    2022-08-22 RCSB
+TFW "Initial release"      2022-11-23 RCSB
+TFW "Standardize backbone" 2023-07-18 PDBE

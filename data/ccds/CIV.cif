@@ -1,0 +1,189 @@
+data_CIV
+_chem_comp.id                     CIV
+_chem_comp.name
+"2-[2-[(1~{S})-1,5-bis(azanyl)pentyl]-4-[(4-hydroxyphenyl)methyl]-5-oxidanylidene-imidazol-1-yl]ethanamide"
+_chem_comp.type                   non-polymer
+_chem_comp.pdbx_type              HETAIN
+_chem_comp.formula                "C17 H24 N5 O3"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     1
+_chem_comp.pdbx_initial_date      2021-11-22
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         346.404
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      CIV
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7SWU
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   RCSB
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+CIV N1   N1   N 0 1 N N Y Y N N 5.767  10.876 39.079 1.177  -0.906 2.439  N1   CIV 1
+CIV CA1  CA1  C 0 1 N N Y N N S 6.006  12.272 39.546 1.648  -0.459 1.121  CA1  CIV 2
+CIV CB1  CB1  C 0 1 N N N N N N 4.708  13.081 39.574 1.501  -1.601 0.113  CB1  CIV 3
+CIV CG1  CG1  C 0 1 N N N N N N 4.199  13.295 38.146 2.431  -2.751 0.506  CG1  CIV 4
+CIV C1   C1   C 0 1 N N Y N N N 6.681  12.188 40.891 0.827  0.720  0.668  C1   CIV 5
+CIV N2   N2   N 0 1 N N Y N N N 6.120  12.526 42.033 -0.502 0.661  0.383  N2   CIV 6
+CIV N3   N3   N 1 1 N N Y N N N 7.967  11.764 41.093 1.302  1.925  0.506  N3   CIV 7
+CIV C2   C2   C 0 1 N N Y N N N 8.276  11.846 42.431 0.281  2.736  0.089  C2   CIV 8
+CIV O2   O2   O 0 1 N N Y N N N 9.385  11.515 42.915 0.335  3.916  -0.164 O2   CIV 9
+CIV CA2  CA2  C 0 1 N N Y N N N 7.076  12.325 43.021 -0.924 1.837  0.020  CA2  CIV 10
+CIV CA3  CA3  C 0 1 N N Y N N N 8.819  11.063 40.150 2.690  2.338  0.731  CA3  CIV 11
+CIV C3   C3   C 0 1 N N Y N Y N 9.690  11.939 39.266 3.310  2.749  -0.580 C3   CIV 12
+CIV O3   O3   O 0 1 N N Y N Y N 10.481 11.388 38.494 2.658  2.701  -1.601 O3   CIV 13
+CIV CB2  CB2  C 0 1 N N N N N N 6.714  12.607 44.448 -2.325 2.220  -0.382 CB2  CIV 14
+CIV CG2  CG2  C 0 1 Y N N N N N 7.481  11.812 45.481 -3.218 1.008  -0.306 CG2  CIV 15
+CIV CD1  CD1  C 0 1 Y N N N N N 7.873  12.399 46.676 -3.883 0.714  0.870  CD1  CIV 16
+CIV CD2  CD2  C 0 1 Y N N N N N 7.835  10.488 45.256 -3.375 0.196  -1.414 CD2  CIV 17
+CIV CE1  CE1  C 0 1 Y N N N N N 8.642  11.710 47.596 -4.702 -0.396 0.942  CE1  CIV 18
+CIV CE2  CE2  C 0 1 Y N N N N N 8.628  9.799  46.152 -4.193 -0.915 -1.347 CE2  CIV 19
+CIV CZ   CZ   C 0 1 Y N N N N N 9.058  10.421 47.316 -4.857 -1.216 -0.167 CZ   CIV 20
+CIV OH   OH   O 0 1 N N N N N N 9.821  9.762  48.228 -5.663 -2.308 -0.098 OH   CIV 21
+CIV CD   CD   C 0 1 N N N N N N 2.907  14.111 38.107 2.284  -3.892 -0.502 CD   CIV 22
+CIV CE   CE   C 0 1 N N N N N N 2.476  14.428 36.684 3.213  -5.043 -0.109 CE   CIV 23
+CIV NZ   NZ   N 0 1 N N N N N N 3.211  15.567 36.114 3.072  -6.138 -1.077 NZ   CIV 24
+CIV H    H1   H 0 1 N N Y Y N N 6.632  10.374 39.072 0.238  -1.273 2.382  H1   CIV 25
+CIV H2   HN11 H 0 0 N Y Y Y N N 5.124  10.423 39.697 1.807  -1.587 2.837  HN11 CIV 26
+CIV HA1  HA1  H 0 1 N N Y N N N 6.697  12.761 38.843 2.696  -0.168 1.190  HA1  CIV 27
+CIV HB11 HB11 H 0 0 N N N N N N 4.896  14.057 40.045 0.470  -1.952 0.109  HB11 CIV 28
+CIV HB12 HB12 H 0 0 N N N N N N 3.950  12.535 40.154 1.767  -1.243 -0.882 HB12 CIV 29
+CIV HG12 HG12 H 0 0 N N N N N N 4.011  12.313 37.686 3.462  -2.400 0.510  HG12 CIV 30
+CIV HG11 HG11 H 0 0 N N N N N N 4.971  13.827 37.571 2.165  -3.109 1.501  HG11 CIV 31
+CIV HA32 HA32 H 0 0 N N Y N N N 8.173  10.460 39.495 2.711  3.180  1.422  HA32 CIV 32
+CIV HA31 HA31 H 0 0 N N Y N N N 9.482  10.398 40.724 3.252  1.506  1.154  HA31 CIV 33
+CIV HB2  HB2  H 0 1 N N N N N N 6.894  13.675 44.639 -2.699 2.990  0.292  HB2  CIV 34
+CIV H5   H5   H 0 1 N N N N N N 5.644  12.387 44.576 -2.318 2.603  -1.403 H5   CIV 35
+CIV HD1  HD1  H 0 1 N N N N N N 7.572  13.413 46.892 -3.762 1.352  1.732  HD1  CIV 36
+CIV HD2  HD2  H 0 1 N N N N N N 7.484  9.989  44.365 -2.857 0.430  -2.332 HD2  CIV 37
+CIV HE1  HE1  H 0 1 N N N N N N 8.917  12.177 48.530 -5.221 -0.626 1.861  HE1  CIV 38
+CIV HE2  HE2  H 0 1 N N N N N N 8.913  8.778  45.947 -4.315 -1.549 -2.213 HE2  CIV 39
+CIV HOH  HOH  H 0 1 N N N N N N 10.018 10.342 48.954 -5.209 -3.115 0.183  HOH  CIV 40
+CIV HD2A HD2A H 0 0 N N N N N N 3.067  15.055 38.648 1.252  -4.244 -0.506 HD2A CIV 41
+CIV HD1A HD1A H 0 0 N N N N N N 2.109  13.536 38.600 2.549  -3.534 -1.497 HD1A CIV 42
+CIV HE2A HE2A H 0 0 N N N N N N 1.402  14.666 36.685 4.245  -4.691 -0.106 HE2A CIV 43
+CIV HE1A HE1A H 0 0 N N N N N N 2.655  13.543 36.056 2.947  -5.400 0.886  HE1A CIV 44
+CIV N4   N4   N 0 1 N N N N N N 9.392  13.252 39.105 4.590  3.169  -0.617 N4   CIV 45
+CIV H1   H2   H 0 1 N N N N N N 9.813  13.773 38.362 5.112  3.207  0.200  H2   CIV 46
+CIV H3   H3   H 0 1 N N N N N N 2.893  15.736 35.181 3.676  -6.911 -0.840 H3   CIV 47
+CIV H4   H4   H 0 1 N N N N N N 3.051  16.380 36.673 2.111  -6.439 -1.147 H4   CIV 48
+CIV H6   H6   H 0 1 N N N N N N 8.752  13.700 39.729 4.990  3.433  -1.460 H6   CIV 49
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+CIV NZ  CE   SING N N 1
+CIV CE  CD   SING N N 2
+CIV CD  CG1  SING N N 3
+CIV CG1 CB1  SING N N 4
+CIV O3  C3   DOUB N N 5
+CIV N1  CA1  SING N N 6
+CIV C3  CA3  SING N N 7
+CIV CA1 CB1  SING N N 8
+CIV CA1 C1   SING N N 9
+CIV CA3 N3   SING N N 10
+CIV C1  N3   DOUB N N 11
+CIV C1  N2   SING N N 12
+CIV N3  C2   SING N N 13
+CIV N2  CA2  DOUB N N 14
+CIV C2  O2   DOUB N N 15
+CIV C2  CA2  SING N N 16
+CIV CA2 CB2  SING N N 17
+CIV CB2 CG2  SING N N 18
+CIV CD2 CG2  DOUB Y N 19
+CIV CD2 CE2  SING Y N 20
+CIV CG2 CD1  SING Y N 21
+CIV CE2 CZ   DOUB Y N 22
+CIV CD1 CE1  DOUB Y N 23
+CIV CZ  CE1  SING Y N 24
+CIV CZ  OH   SING N N 25
+CIV N1  H    SING N N 26
+CIV N1  H2   SING N N 27
+CIV CA1 HA1  SING N N 28
+CIV CB1 HB11 SING N N 29
+CIV CB1 HB12 SING N N 30
+CIV CG1 HG12 SING N N 31
+CIV CG1 HG11 SING N N 32
+CIV CA3 HA32 SING N N 33
+CIV CA3 HA31 SING N N 34
+CIV CB2 HB2  SING N N 35
+CIV CB2 H5   SING N N 36
+CIV CD1 HD1  SING N N 37
+CIV CD2 HD2  SING N N 38
+CIV CE1 HE1  SING N N 39
+CIV CE2 HE2  SING N N 40
+CIV OH  HOH  SING N N 41
+CIV CD  HD2A SING N N 42
+CIV CD  HD1A SING N N 43
+CIV CE  HE2A SING N N 44
+CIV CE  HE1A SING N N 45
+CIV C3  N4   SING N N 46
+CIV N4  H1   SING N N 47
+CIV NZ  H3   SING N N 48
+CIV NZ  H4   SING N N 49
+CIV N4  H6   SING N N 50
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+CIV SMILES           ACDLabs              12.01 "NCCCCC(N)C=1N=C(Cc2ccc(O)cc2)C(=O)[N+]=1CC(N)=O"
+CIV InChI            InChI                1.03  "InChI=1S/C17H23N5O3/c18-8-2-1-3-13(19)16-21-14(17(25)22(16)10-15(20)24)9-11-4-6-12(23)7-5-11/h4-7,13H,1-3,8-10,18-19H2,(H2-,20,23,24)/p+1/t13-/m0/s1"
+CIV InChIKey         InChI                1.03  LAIYSFVKNTVWRU-ZDUSSCGKSA-O
+CIV SMILES_CANONICAL CACTVS               3.385 "NCCCC[C@H](N)C1=[N+](CC(N)=O)C(=O)C(=N1)Cc2ccc(O)cc2"
+CIV SMILES           CACTVS               3.385 "NCCCC[CH](N)C1=[N+](CC(N)=O)C(=O)C(=N1)Cc2ccc(O)cc2"
+CIV SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "c1cc(ccc1CC2=NC(=[N+](C2=O)CC(=O)N)[C@H](CCCCN)N)O"
+CIV SMILES           "OpenEye OEToolkits" 2.0.7 "c1cc(ccc1CC2=NC(=[N+](C2=O)CC(=O)N)C(CCCCN)N)O"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+CIV "SYSTEMATIC NAME" ACDLabs              12.01 "3-(2-amino-2-oxoethyl)-2-[(1S)-1,5-diaminopentyl]-5-[(4-hydroxyphenyl)methyl]-4-oxo-4H-imidazol-3-ium"
+CIV "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "2-[2-[(1~{S})-1,5-bis(azanyl)pentyl]-4-[(4-hydroxyphenyl)methyl]-5-oxidanylidene-imidazol-1-ium-1-yl]ethanamide"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+CIV "Create component"     2021-11-22 RCSB
+CIV "Initial release"      2022-04-20 RCSB
+CIV "Standardize backbone" 2023-07-18 PDBE

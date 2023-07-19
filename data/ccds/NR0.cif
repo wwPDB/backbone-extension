@@ -1,0 +1,174 @@
+data_NR0
+_chem_comp.id                     NR0
+_chem_comp.name                   "N-[(3R,4R)-4-aminooxolan-3-yl]-2-(6-amino-9H-purin-9-yl)-N-(2-oxoethyl)acetamide"
+_chem_comp.type                   peptide-like
+_chem_comp.pdbx_type              HETAIN
+_chem_comp.formula                "C13 H17 N7 O4"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-04-07
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         335.319
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      ?
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7UID
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   RCSB
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+NR0 C10  C10  C 0 1 N N N N N N 39.828 16.309 23.602 3.397  0.060  -1.401 C10  NR0 1
+NR0 C11  C11  C 0 1 N N N N N N 36.464 17.412 24.546 0.440  -0.022 0.565  C11  NR0 2
+NR0 C12  C12  C 0 1 N N N N N N 36.511 16.711 25.983 -0.304 -1.076 -0.215 C12  NR0 3
+NR0 C14  C14  C 0 1 Y N N N N N 34.545 17.351 27.396 -2.339 -1.811 1.084  C14  NR0 4
+NR0 C16  C16  C 0 1 Y N N N N N 34.214 15.562 26.119 -2.678 -0.218 -0.403 C16  NR0 5
+NR0 C17  C17  C 0 1 Y N N N N N 33.046 15.909 26.825 -3.880 -0.531 0.253  C17  NR0 6
+NR0 C18  C18  C 0 1 Y N N N N N 31.969 15.043 26.592 -5.040 0.171  -0.117 C18  NR0 7
+NR0 C21  C21  C 0 1 Y N N N N N 33.309 13.828 25.124 -3.791 1.354  -1.656 C21  NR0 8
+NR0 C    C02  C 0 1 N N Y N Y N 37.121 17.551 21.343 2.634  2.332  0.597  C02  NR0 9
+NR0 C03  C03  C 0 1 N N Y N N N 37.687 18.372 22.532 2.515  1.012  1.315  C03  NR0 10
+NR0 C05  C05  C 0 1 N N Y N N R 39.017 17.280 24.477 2.507  -0.793 -0.469 C05  NR0 11
+NR0 CA   C06  C 0 1 N N Y N N R 40.052 18.396 24.723 3.509  -1.697 0.283  C06  NR0 12
+NR0 C08  C08  C 0 1 N N N N N N 41.357 17.601 24.952 4.886  -1.284 -0.283 C08  NR0 13
+NR0 N04  N04  N 0 1 N N Y N N N 37.680 17.665 23.843 1.781  0.064  0.473  N04  NR0 14
+NR0 N    N07  N 0 1 N N Y Y N N 39.710 19.255 25.851 3.240  -3.112 -0.001 N07  NR0 15
+NR0 N13  N13  N 0 1 Y N N N N N 35.178 16.545 26.494 -1.724 -1.038 0.144  N13  NR0 16
+NR0 N15  N15  N 0 1 Y N N N N N 33.283 17.024 27.685 -3.605 -1.514 1.143  N15  NR0 17
+NR0 N19  N19  N 0 1 N N N N N N 30.722 15.264 27.234 -6.253 -0.094 0.494  N19  NR0 18
+NR0 N20  N20  N 0 1 Y N N N N N 32.109 14.000 25.734 -4.945 1.095  -1.067 N20  NR0 19
+NR0 N22  N22  N 0 1 Y N N N N N 34.434 14.570 25.227 -2.679 0.725  -1.339 N22  NR0 20
+NR0 O    O01  O 0 1 N N Y N Y N 36.993 18.122 20.302 2.156  2.467  -0.504 O01  NR0 21
+NR0 O09  O09  O 0 1 N N N N N N 41.287 16.525 23.891 4.597  -0.723 -1.582 O09  NR0 22
+NR0 O23  O23  O 0 1 N N N N N N 35.396 17.684 24.026 -0.170 0.751  1.274  O23  NR0 23
+NR0 H102 H102 H 0 0 N N N N N N 39.625 16.507 22.539 2.899  0.220  -2.358 H102 NR0 24
+NR0 H101 H101 H 0 0 N N N N N N 39.550 15.272 23.841 3.633  1.014  -0.931 H101 NR0 25
+NR0 H121 H121 H 0 0 N N N N N N 36.991 15.726 25.892 -0.193 -0.884 -1.282 H121 NR0 26
+NR0 H122 H122 H 0 0 N N N N N N 37.091 17.339 26.676 0.105  -2.058 0.022  H122 NR0 27
+NR0 H141 H141 H 0 0 N N N N N N 35.035 18.201 27.848 -1.849 -2.562 1.686  H141 NR0 28
+NR0 H211 H211 H 0 0 N N N N N N 33.374 12.977 24.462 -3.758 2.116  -2.421 H211 NR0 29
+NR0 OXT  O02  O 0 1 N Y Y N Y N 36.855 16.510 21.452 3.272  3.358  1.182  O02  NR0 30
+NR0 H032 H032 H 0 0 N N Y N N N 38.727 18.643 22.296 3.510  0.620  1.522  H032 NR0 31
+NR0 H031 H031 H 0 0 N N Y N N N 37.084 19.286 22.634 1.978  1.156  2.253  H031 NR0 32
+NR0 H051 H051 H 0 0 N N Y N N N 38.813 16.786 25.438 1.811  -1.396 -1.052 H051 NR0 33
+NR0 HA   H061 H 0 0 N N Y N N N 40.155 18.997 23.807 3.465  -1.507 1.356  H061 NR0 34
+NR0 H081 H081 H 0 0 N N N N N N 41.381 17.162 25.960 5.351  -0.535 0.358  H081 NR0 35
+NR0 H082 H082 H 0 0 N N N N N N 42.240 18.241 24.809 5.534  -2.155 -0.380 H082 NR0 36
+NR0 H    H071 H 0 0 N N Y Y N N 40.414 19.957 25.962 3.890  -3.710 0.487  H071 NR0 37
+NR0 H2   H2   H 0 1 N Y Y Y N N 38.827 19.693 25.681 2.287  -3.352 0.228  H2   NR0 38
+NR0 H191 H191 H 0 0 N N N N N N 30.068 14.566 26.942 -6.310 -0.771 1.187  H191 NR0 39
+NR0 H192 H192 H 0 0 N N N N N N 30.844 15.213 28.225 -7.047 0.397  0.230  H192 NR0 40
+NR0 HXT  H1   H 0 1 N Y Y N Y N 36.529 16.178 20.624 3.323  4.185  0.683  H1   NR0 41
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+NR0 O   C    DOUB N N 1
+NR0 C   C03  SING N N 2
+NR0 C03 N04  SING N N 3
+NR0 C10 O09  SING N N 4
+NR0 C10 C05  SING N N 5
+NR0 N04 C05  SING N N 6
+NR0 N04 C11  SING N N 7
+NR0 O09 C08  SING N N 8
+NR0 O23 C11  DOUB N N 9
+NR0 C05 CA   SING N N 10
+NR0 C11 C12  SING N N 11
+NR0 CA  C08  SING N N 12
+NR0 CA  N    SING N N 13
+NR0 C21 N22  DOUB Y N 14
+NR0 C21 N20  SING Y N 15
+NR0 N22 C16  SING Y N 16
+NR0 N20 C18  DOUB Y N 17
+NR0 C12 N13  SING N N 18
+NR0 C16 N13  SING Y N 19
+NR0 C16 C17  DOUB Y N 20
+NR0 N13 C14  SING Y N 21
+NR0 C18 C17  SING Y N 22
+NR0 C18 N19  SING N N 23
+NR0 C17 N15  SING Y N 24
+NR0 C14 N15  DOUB Y N 25
+NR0 C10 H102 SING N N 26
+NR0 C10 H101 SING N N 27
+NR0 C12 H121 SING N N 28
+NR0 C12 H122 SING N N 29
+NR0 C14 H141 SING N N 30
+NR0 C21 H211 SING N N 31
+NR0 C   OXT  SING N N 32
+NR0 C03 H032 SING N N 33
+NR0 C03 H031 SING N N 34
+NR0 C05 H051 SING N N 35
+NR0 CA  HA   SING N N 36
+NR0 C08 H081 SING N N 37
+NR0 C08 H082 SING N N 38
+NR0 N   H    SING N N 39
+NR0 N   H2   SING N N 40
+NR0 N19 H191 SING N N 41
+NR0 N19 H192 SING N N 42
+NR0 OXT HXT  SING N N 43
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+NR0 SMILES           ACDLabs              12.01 "OC(=O)CN(C1COCC1N)C(=O)Cn1cnc2c(N)ncnc21"
+NR0 InChI            InChI                1.03  "InChI=1S/C13H17N7O4/c14-7-3-24-4-8(7)20(2-10(22)23)9(21)1-19-6-18-11-12(15)16-5-17-13(11)19/h5-8H,1-4,14H2,(H,22,23)(H2,15,16,17)/t7-,8-/m0/s1"
+NR0 InChIKey         InChI                1.03  NDSRPVXXSCHUPN-YUMQZZPRSA-N
+NR0 SMILES_CANONICAL CACTVS               3.385 "N[C@H]1COC[C@@H]1N(CC(O)=O)C(=O)Cn2cnc3c(N)ncnc23"
+NR0 SMILES           CACTVS               3.385 "N[CH]1COC[CH]1N(CC(O)=O)C(=O)Cn2cnc3c(N)ncnc23"
+NR0 SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "c1nc(c2c(n1)n(cn2)CC(=O)N(CC(=O)O)[C@H]3COC[C@@H]3N)N"
+NR0 SMILES           "OpenEye OEToolkits" 2.0.7 "c1nc(c2c(n1)n(cn2)CC(=O)N(CC(=O)O)C3COCC3N)N"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+NR0 "SYSTEMATIC NAME" ACDLabs              12.01 "N-[(3R,4R)-4-aminooxolan-3-yl]-N-[(6-amino-9H-purin-9-yl)acetyl]glycine"
+NR0 "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "2-[2-(6-aminopurin-9-yl)ethanoyl-[(3~{R},4~{R})-4-azanyloxolan-3-yl]amino]ethanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+NR0 "Create component"     2022-04-07 RCSB
+NR0 "Modify internal type" 2022-08-15 RCSB
+NR0 "Initial release"      2023-04-05 RCSB
+NR0 "Standardize backbone" 2023-07-18 PDBE

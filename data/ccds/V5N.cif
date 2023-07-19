@@ -1,0 +1,130 @@
+data_V5N
+_chem_comp.id                     V5N
+_chem_comp.name                   "(2S,3S)-2-azanyl-3-(1H-imidazol-5-yl)-3-oxidanyl-propanoic acid"
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C6 H9 N3 O3"
+_chem_comp.mon_nstd_parent_comp_id HIS
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2021-04-19
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         171.154
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      V5N
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7O81
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+V5N N   N1  N 0 1 N N Y Y N N 287.691 303.036 291.357 -0.685 -1.174 1.192  N   V5N 1
+V5N CA  C1  C 0 1 N N Y N N S 287.548 303.175 289.901 -1.004 0.143  0.627  CA  V5N 2
+V5N C   C2  C 0 1 N N Y N Y N 286.422 304.172 289.630 -2.459 0.183  0.235  C   V5N 3
+V5N O   O1  O 0 1 N N Y N Y N 285.415 304.142 290.367 -3.066 -0.847 0.063  O   V5N 4
+V5N CB  C3  C 0 1 N N N N N S 287.240 301.839 289.215 -0.136 0.392  -0.609 CB  V5N 5
+V5N CG  C4  C 0 1 Y N N N N N 288.365 300.830 289.454 1.317  0.231  -0.243 CG  V5N 6
+V5N CD2 C5  C 0 1 Y N N N N N 288.591 300.195 290.596 2.013  -0.921 -0.207 CD2 V5N 7
+V5N ND1 N2  N 0 1 Y N N N N N 289.251 300.456 288.540 2.184  1.229  0.112  ND1 V5N 8
+V5N CE1 C6  C 0 1 Y N N N N N 290.050 299.572 289.130 3.379  0.651  0.357  CE1 V5N 9
+V5N NE2 N3  N 0 1 Y N N N N N 289.646 299.412 290.390 3.270  -0.635 0.164  NE2 V5N 10
+V5N O2  O2  O 0 1 N N N N N N 286.011 301.308 289.717 -0.478 -0.549 -1.628 O2  V5N 11
+V5N H   H1  H 0 1 N N Y Y N N 287.891 303.929 291.760 -0.859 -1.908 0.521  H1  V5N 12
+V5N H2  H2  H 0 1 N Y Y Y N N 286.840 302.679 291.743 0.268  -1.205 1.522  H2  V5N 13
+V5N HA  H4  H 0 1 N N Y N N N 288.481 303.577 289.480 -0.807 0.915  1.371  H4  V5N 14
+V5N HB2 H6  H 0 1 N N N N N N 287.155 302.016 288.133 -0.309 1.404  -0.976 H6  V5N 15
+V5N HD2 H7  H 0 1 N N N N N N 288.029 300.294 291.513 1.627  -1.903 -0.437 H7  V5N 16
+V5N HD1 H8  H 0 1 N N N N N N 289.307 300.776 287.594 1.978  2.175  0.178  H8  V5N 17
+V5N HE1 H9  H 0 1 N N N N N N 290.885 299.069 288.666 4.278  1.168  0.660  H9  V5N 18
+V5N H11 H11 H 0 1 N N N N N N 285.476 302.015 290.059 -0.349 -1.472 -1.370 H11 V5N 19
+V5N OXT O3  O 0 1 N Y Y N Y N 286.573 305.028 288.626 -3.080 1.362  0.078  O1  V5N 20
+V5N HXT H3  H 0 1 N Y Y N Y N 285.809 305.590 288.571 -4.013 1.337  -0.174 H3  V5N 21
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+V5N ND1 CE1 SING Y N 1
+V5N ND1 CG  SING Y N 2
+V5N CE1 NE2 DOUB Y N 3
+V5N CB  CG  SING N N 4
+V5N CB  O2  SING N N 5
+V5N CB  CA  SING N N 6
+V5N CG  CD2 DOUB Y N 7
+V5N C   CA  SING N N 8
+V5N C   O   DOUB N N 9
+V5N CA  N   SING N N 10
+V5N NE2 CD2 SING Y N 11
+V5N N   H   SING N N 12
+V5N N   H2  SING N N 13
+V5N CA  HA  SING N N 14
+V5N CB  HB2 SING N N 15
+V5N CD2 HD2 SING N N 16
+V5N ND1 HD1 SING N N 17
+V5N CE1 HE1 SING N N 18
+V5N O2  H11 SING N N 19
+V5N C   OXT SING N N 20
+V5N OXT HXT SING N N 21
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+V5N InChI            InChI                1.03  "InChI=1S/C6H9N3O3/c7-4(6(11)12)5(10)3-1-8-2-9-3/h1-2,4-5,10H,7H2,(H,8,9)(H,11,12)/t4-,5+/m0/s1"
+V5N InChIKey         InChI                1.03  KQMBIBBJWXGSEI-CRCLSJGQSA-N
+V5N SMILES_CANONICAL CACTVS               3.385 "N[C@@H]([C@H](O)c1[nH]cnc1)C(O)=O"
+V5N SMILES           CACTVS               3.385 "N[CH]([CH](O)c1[nH]cnc1)C(O)=O"
+V5N SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "c1c([nH]cn1)[C@H]([C@@H](C(=O)O)N)O"
+V5N SMILES           "OpenEye OEToolkits" 2.0.7 "c1c([nH]cn1)C(C(C(=O)O)N)O"
+
+_pdbx_chem_comp_identifier.comp_id V5N
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 2.0.7
+_pdbx_chem_comp_identifier.identifier "(2~{S},3~{S})-2-azanyl-3-(1~{H}-imidazol-5-yl)-3-oxidanyl-propanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+V5N "Create component"         2021-04-19 PDBE
+V5N "Initial release"          2021-06-02 RCSB
+V5N "Modify parent residue"    2021-07-10 PDBE
+V5N "Modify linking type"      2021-07-10 PDBE
+V5N "Modify leaving atom flag" 2021-07-11 PDBE
+V5N "Standardize backbone"     2023-07-18 PDBE

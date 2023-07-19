@@ -1,0 +1,148 @@
+data_P1V
+_chem_comp.id                     P1V
+_chem_comp.name                   "(2~{S})-2-azanyl-6-(5-methyl-1~{H}-1,2,4-triazol-3-yl)hexanoic acid"
+_chem_comp.type                   non-polymer
+_chem_comp.pdbx_type              HETAIN
+_chem_comp.formula                "C9 H16 N4 O2"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-09-29
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         212.249
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      P1V
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 8B5C
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+P1V C4  C4  C 0 1 N N N N N N -15.627 10.409 -7.763  1.467  -0.253 1.192  C4  P1V 1
+P1V C5  C5  C 0 1 N N N N N N -15.383 9.939  -6.342  0.352  0.106  0.208  C5  P1V 2
+P1V C6  C6  C 0 1 N N N N N N -16.575 10.223 -5.455  -1.006 -0.211 0.837  C6  P1V 3
+P1V C7  C7  C 0 1 N N N N N N -16.461 9.530  -4.113  -2.121 0.149  -0.147 C7  P1V 4
+P1V N1  N1  N 0 1 Y N N N N N -12.523 10.727 -9.457  4.635  1.058  -0.054 N1  P1V 5
+P1V N2  N2  N 0 1 Y N N N N N -13.551 11.276 -8.763  3.437  1.199  0.665  N2  P1V 6
+P1V C3  C3  C 0 1 N N N N N N -11.799 8.479  -10.272 5.720  -0.811 -1.392 C3  P1V 7
+P1V N3  N3  N 0 1 Y N N N N N -13.852 9.100  -8.973  3.530  -0.779 -0.167 N3  P1V 8
+P1V N   N   N 0 1 N N Y Y N N -16.907 11.625 -2.932  -3.596 -1.618 0.691  N   P1V 9
+P1V CA  CA  C 0 1 N N Y N N S -17.327 10.207 -3.061  -3.479 -0.168 0.483  CA  P1V 10
+P1V C   C   C 0 1 N N Y N Y N -17.199 9.451  -1.740  -4.580 0.298  -0.435 C   P1V 11
+P1V O   O   O 0 1 N N Y N Y N -17.405 8.223  -1.780  -5.146 -0.494 -1.150 O   P1V 12
+P1V C1  C1  C 0 1 Y N N N N N -12.722 9.422  -9.586  4.635  -0.192 -0.548 C1  P1V 13
+P1V C2  C2  C 0 1 Y N N N N N -14.357 10.273 -8.505  2.804  0.060  0.572  C2  P1V 14
+P1V H1  H1  H 0 1 N N N N N N -15.948 11.461 -7.760  1.346  0.328  2.106  H1  P1V 15
+P1V H17 H2  H 0 1 N N N N N N -16.404 9.790  -8.234  1.415  -1.316 1.428  H2  P1V 16
+P1V H3  H3  H 0 1 N N N N N N -15.193 8.855  -6.351  0.404  1.169  -0.028 H3  P1V 17
+P1V H4  H4  H 0 1 N N N N N N -14.504 10.462 -5.938  0.473  -0.475 -0.706 H4  P1V 18
+P1V H5  H5  H 0 1 N N N N N N -16.644 11.308 -5.290  -1.058 -1.273 1.073  H5  P1V 19
+P1V H6  H6  H 0 1 N N N N N N -17.486 9.870  -5.961  -1.127 0.371  1.752  H6  P1V 20
+P1V H7  H7  H 0 1 N N N N N N -16.783 8.484  -4.222  -2.069 1.212  -0.382 H7  P1V 21
+P1V H8  H8  H 0 1 N N N N N N -15.412 9.558  -3.784  -2.000 -0.433 -1.061 H8  P1V 22
+P1V H9  H9  H 0 1 N N N N N N -11.736 11.229 -9.816  5.324  1.731  -0.175 H9  P1V 23
+P1V H10 H10 H 0 1 N N N N N N -12.196 7.456  -10.196 6.452  -1.294 -0.745 H10 P1V 24
+P1V H11 H11 H 0 1 N N N N N N -11.709 8.760  -11.332 5.282  -1.550 -2.062 H11 P1V 25
+P1V H12 H12 H 0 1 N N N N N N -10.809 8.524  -9.796  6.211  -0.034 -1.979 H12 P1V 26
+P1V H   H13 H 0 1 N N Y Y N N -17.471 12.079 -2.242  -4.457 -1.847 1.164  H13 P1V 27
+P1V H2  H14 H 0 1 N Y Y Y N N -15.947 11.664 -2.656  -3.521 -2.116 -0.184 H14 P1V 28
+P1V HA  H16 H 0 1 N N Y N N N -18.376 10.168 -3.389  -3.563 0.344  1.441  H16 P1V 29
+P1V OXT O1  O 0 1 N Y Y N Y N -16.885 10.124 -0.643  -4.930 1.594  -0.458 O1  P1V 30
+P1V HXT H15 H 0 1 N Y Y N Y N -16.844 9.527  0.095   -5.641 1.845  -1.063 H15 P1V 31
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+P1V C3  C1  SING N N 1
+P1V C1  N1  SING Y N 2
+P1V C1  N3  DOUB Y N 3
+P1V N1  N2  SING Y N 4
+P1V N3  C2  SING Y N 5
+P1V N2  C2  DOUB Y N 6
+P1V C2  C4  SING N N 7
+P1V C4  C5  SING N N 8
+P1V C5  C6  SING N N 9
+P1V C6  C7  SING N N 10
+P1V C7  CA  SING N N 11
+P1V CA  N   SING N N 12
+P1V CA  C   SING N N 13
+P1V O   C   DOUB N N 14
+P1V C4  H1  SING N N 15
+P1V C4  H17 SING N N 16
+P1V C5  H3  SING N N 17
+P1V C5  H4  SING N N 18
+P1V C6  H5  SING N N 19
+P1V C6  H6  SING N N 20
+P1V C7  H7  SING N N 21
+P1V C7  H8  SING N N 22
+P1V N1  H9  SING N N 23
+P1V C3  H10 SING N N 24
+P1V C3  H11 SING N N 25
+P1V C3  H12 SING N N 26
+P1V N   H   SING N N 27
+P1V N   H2  SING N N 28
+P1V CA  HA  SING N N 29
+P1V C   OXT SING N N 30
+P1V OXT HXT SING N N 31
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+P1V InChI            InChI                1.06  "InChI=1S/C9H16N4O2/c1-6-11-8(13-12-6)5-3-2-4-7(10)9(14)15/h7H,2-5,10H2,1H3,(H,14,15)(H,11,12,13)/t7-/m0/s1"
+P1V InChIKey         InChI                1.06  BIBVPKMXAKDABB-ZETCQYMHSA-N
+P1V SMILES_CANONICAL CACTVS               3.385 "Cc1[nH]nc(CCCC[C@H](N)C(O)=O)n1"
+P1V SMILES           CACTVS               3.385 "Cc1[nH]nc(CCCC[CH](N)C(O)=O)n1"
+P1V SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "Cc1[nH]nc(n1)CCCC[C@@H](C(=O)O)N"
+P1V SMILES           "OpenEye OEToolkits" 2.0.7 "Cc1[nH]nc(n1)CCCCC(C(=O)O)N"
+
+_pdbx_chem_comp_identifier.comp_id P1V
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 2.0.7
+_pdbx_chem_comp_identifier.identifier "(2~{S})-2-azanyl-6-(5-methyl-1~{H}-1,2,4-triazol-3-yl)hexanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+P1V "Create component"     2022-09-29 PDBE
+P1V "Initial release"      2023-01-11 RCSB
+P1V "Modify formula"       2023-05-15 PDBE
+P1V "Standardize backbone" 2023-07-18 PDBE

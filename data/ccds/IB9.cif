@@ -1,0 +1,145 @@
+data_IB9
+_chem_comp.id                     IB9
+_chem_comp.name                   Beta-tyrosine
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C9 H11 N O3"
+_chem_comp.mon_nstd_parent_comp_id TYR
+_chem_comp.pdbx_synonyms          "(3S)-3-azanyl-3-(4-hydroxyphenyl)propanoic acid; Betatyrosine"
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-03-08
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         181.189
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      IB9
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag Y
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7QQ3
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+IB9 CA  C1  C 0 1 N N Y N N N 140.320 176.187 153.233 1.732  -0.432 0.530  CA  IB9 1
+IB9 CB  C2  C 0 1 N N Y N N S 140.659 175.167 154.326 0.937  0.292  -0.558 CB  IB9 2
+IB9 C   C3  C 0 1 N N Y N Y N 141.484 176.995 152.715 3.203  -0.363 0.206  C   IB9 3
+IB9 CG  C4  C 0 1 Y N N N N N 139.365 174.781 155.023 -0.538 0.119  -0.301 CG  IB9 4
+IB9 CD1 C5  C 0 1 Y N N N N N 138.667 173.637 154.677 -1.173 0.913  0.637  CD1 IB9 5
+IB9 CE1 C6  C 0 1 Y N N N N N 137.472 173.308 155.296 -2.525 0.757  0.874  CE1 IB9 6
+IB9 CZ  C7  C 0 1 Y N N N N N 136.943 174.143 156.263 -3.246 -0.198 0.171  CZ  IB9 7
+IB9 CE2 C8  C 0 1 Y N N N N N 137.613 175.304 156.604 -2.606 -0.993 -0.770 CE2 IB9 8
+IB9 CD2 C9  C 0 1 Y N N N N N 138.808 175.616 155.979 -1.255 -0.829 -1.007 CD2 IB9 9
+IB9 N   N1  N 0 1 N N Y Y N N 141.386 174.024 153.769 1.272  1.722  -0.540 N   IB9 10
+IB9 OH  O1  O 0 1 N N N N N N 135.765 173.821 156.866 -4.576 -0.354 0.403  OH  IB9 11
+IB9 O   O2  O 0 1 N N Y N Y N 142.385 177.345 153.470 3.576  0.206  -0.792 O   IB9 12
+IB9 HA  H1  H 0 1 N N Y N N N 139.577 176.887 153.642 1.549  0.045  1.493  HA  IB9 13
+IB9 HB2 H3  H 0 1 N N Y N N N 141.304 175.668 155.063 1.187  -0.127 -1.532 HB2 IB9 14
+IB9 HD1 H5  H 0 1 N N N N N N 139.062 172.988 153.909 -0.612 1.655  1.185  HD1 IB9 15
+IB9 HE1 H6  H 0 1 N N N N N N 136.954 172.400 155.024 -3.020 1.376  1.607  HE1 IB9 16
+IB9 HE2 H7  H 0 1 N N N N N N 137.205 175.965 157.355 -3.165 -1.736 -1.318 HE2 IB9 17
+IB9 HD2 H8  H 0 1 N N N N N N 139.318 176.531 156.242 -0.758 -1.444 -1.742 HD2 IB9 18
+IB9 H2  H9  H 0 1 N Y Y Y N N 141.596 173.374 154.499 0.809  2.212  -1.290 H2  IB9 19
+IB9 H   H10 H 0 1 N N Y Y N N 140.822 173.576 153.076 1.049  2.135  0.353  H   IB9 20
+IB9 HH  H12 H 0 1 N N N N N N 135.540 174.491 157.501 -5.140 0.198  -0.156 HH  IB9 21
+IB9 OXT O3  O 0 1 N Y Y N Y N ?       ?       ?       4.098  -0.935 1.027  OXT IB9 22
+IB9 HXT H2  H 0 1 N Y Y N Y N ?       ?       ?       5.029  -0.865 0.778  HXT IB9 23
+IB9 HA2 H11 H 0 1 N N Y N N N 139.882 175.641 152.384 1.419  -1.475 0.576  HA2 IB9 24
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+IB9 C   CA  SING N N 1
+IB9 C   O   DOUB N N 2
+IB9 CA  CB  SING N N 3
+IB9 N   CB  SING N N 4
+IB9 CB  CG  SING N N 5
+IB9 CD1 CG  DOUB Y N 6
+IB9 CD1 CE1 SING Y N 7
+IB9 CG  CD2 SING Y N 8
+IB9 CE1 CZ  DOUB Y N 9
+IB9 CD2 CE2 DOUB Y N 10
+IB9 CZ  CE2 SING Y N 11
+IB9 CZ  OH  SING N N 12
+IB9 CA  HA  SING N N 13
+IB9 CB  HB2 SING N N 14
+IB9 CD1 HD1 SING N N 15
+IB9 CE1 HE1 SING N N 16
+IB9 CE2 HE2 SING N N 17
+IB9 CD2 HD2 SING N N 18
+IB9 N   H2  SING N N 19
+IB9 N   H   SING N N 20
+IB9 OH  HH  SING N N 21
+IB9 C   OXT SING N N 22
+IB9 OXT HXT SING N N 23
+IB9 CA  HA2 SING N N 24
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+IB9 InChI            InChI                1.06  "InChI=1S/C9H11NO3/c10-8(5-9(12)13)6-1-3-7(11)4-2-6/h1-4,8,11H,5,10H2,(H,12,13)/t8-/m0/s1"
+IB9 InChIKey         InChI                1.06  JYPHNHPXFNEZBR-QMMMGPOBSA-N
+IB9 SMILES_CANONICAL CACTVS               3.385 "N[C@@H](CC(O)=O)c1ccc(O)cc1"
+IB9 SMILES           CACTVS               3.385 "N[CH](CC(O)=O)c1ccc(O)cc1"
+IB9 SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "c1cc(ccc1[C@H](CC(=O)O)N)O"
+IB9 SMILES           "OpenEye OEToolkits" 2.0.7 "c1cc(ccc1C(CC(=O)O)N)O"
+
+_pdbx_chem_comp_identifier.comp_id IB9
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 2.0.7
+_pdbx_chem_comp_identifier.identifier "(3~{S})-3-azanyl-3-(4-hydroxyphenyl)propanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+IB9 "Create component"         2022-03-08 PDBE
+IB9 "Modify descriptor"        2022-08-22 RCSB
+IB9 "Modify linking type"      2022-12-29 PDBE
+IB9 "Modify leaving atom flag" 2022-12-30 PDBE
+IB9 "Initial release"          2023-01-18 RCSB
+IB9 "Standardize backbone"     2023-07-18 PDBE
+
+loop_
+_pdbx_chem_comp_synonyms.ordinal
+_pdbx_chem_comp_synonyms.comp_id
+_pdbx_chem_comp_synonyms.name
+_pdbx_chem_comp_synonyms.provenance
+_pdbx_chem_comp_synonyms.type
+1 IB9 "(3S)-3-azanyl-3-(4-hydroxyphenyl)propanoic acid" PDB ?
+2 IB9 Betatyrosine                   PDB ?

@@ -1,0 +1,167 @@
+data_NSF
+_chem_comp.id                     NSF
+_chem_comp.name                   "N-[(3R,4R)-4-aminooxolan-3-yl]-N-[(5-iodo-2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)acetyl]glycine"
+_chem_comp.type                   peptide-like
+_chem_comp.pdbx_type              HETAIN
+_chem_comp.formula                "C12 H15 I N4 O6"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-04-07
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         438.175
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      ?
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7UID
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   RCSB
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+NSF C10  C10  C 0 1 N N N N N N 35.848 20.849 26.727 -4.178 -0.956 -1.507 C10  NSF 1
+NSF C12  C12  C 0 1 N N N N N N 39.744 23.700 25.586 -1.059 1.138  0.754  C12  NSF 2
+NSF C11  C11  C 0 1 N N N N N N 38.286 23.572 26.088 -1.909 0.058  0.136  C11  NSF 3
+NSF C16  C16  C 0 1 N N N N N N 40.609 27.476 23.476 2.625  1.313  -1.217 C16  NSF 4
+NSF C14  C14  C 0 1 N N N N N N 39.485 25.179 23.532 0.398  1.985  -0.997 C14  NSF 5
+NSF C17  C17  C 0 1 N N N N N N 41.107 27.156 24.888 2.470  0.470  -0.090 C17  NSF 6
+NSF C18  C18  C 0 1 N N N N N N 40.821 25.982 25.488 1.275  0.424  0.536  C18  NSF 7
+NSF C    C02  C 0 1 N N Y N Y N 39.045 20.377 25.609 -4.380 1.844  1.165  C02  NSF 8
+NSF C03  C03  C 0 1 N N Y N N N 38.848 21.194 26.915 -3.678 0.628  1.712  C03  NSF 9
+NSF C05  C05  C 0 1 N N Y N N R 36.471 22.179 27.208 -3.978 -1.222 0.002  C05  NSF 10
+NSF CA   C06  C 0 1 N N Y N N R 36.402 22.089 28.745 -3.245 -2.581 0.049  C06  NSF 11
+NSF C08  C08  C 0 1 N N N N N N 36.291 20.550 29.021 -3.089 -2.976 -1.436 C08  NSF 12
+NSF O09  O09  O 0 1 N N N N N N 36.264 19.875 27.724 -3.144 -1.726 -2.158 O09  NSF 13
+NSF N04  N04  N 0 1 N N Y N N N 37.893 22.322 26.702 -3.152 -0.172 0.603  N04  NSF 14
+NSF N    N07  N 0 1 N N Y Y N N 35.239 22.843 29.273 -4.053 -3.578 0.765  N07  NSF 15
+NSF N13  N13  N 0 1 N N N N N N 40.021 24.962 24.906 0.238  1.188  0.075  N13  NSF 16
+NSF N15  N15  N 0 1 N N N N N N 39.797 26.417 22.907 1.579  2.051  -1.640 N15  NSF 17
+NSF O    O01  O 0 1 N N Y N Y N 38.645 20.780 24.571 -4.436 2.024  -0.029 O01  NSF 18
+NSF O20  O20  O 0 1 N N N N N N 40.860 28.478 22.871 3.695  1.376  -1.796 O20  NSF 19
+NSF O21  O21  O 0 1 N N N N N N 38.814 24.330 23.003 -0.537 2.656  -1.391 O21  NSF 20
+NSF O22  O22  O 0 1 N N N N N N 37.503 24.466 25.932 -1.474 -0.605 -0.782 O22  NSF 21
+NSF I1   I1   I 0 1 N N N N N N 42.245 28.573 25.815 4.074  -0.691 0.595  I1   NSF 22
+NSF H102 H102 H 0 0 N N N N N N 34.751 20.924 26.689 -5.163 -1.299 -1.825 H102 NSF 23
+NSF H101 H101 H 0 0 N N N N N N 36.231 20.576 25.733 -4.056 0.105  -1.724 H101 NSF 24
+NSF H122 H122 H 0 0 N N N N N N 39.944 22.876 24.885 -1.562 2.099  0.650  H122 NSF 25
+NSF H121 H121 H 0 0 N N N N N N 40.418 23.616 26.451 -0.907 0.920  1.811  H121 NSF 26
+NSF H181 H181 H 0 0 N N N N N N 41.226 25.806 26.474 1.138  -0.214 1.398  H181 NSF 27
+NSF HXT  H1   H 0 1 N Y Y N Y N 39.837 18.780 25.038 -5.383 3.492  1.605  H1   NSF 28
+NSF H031 H031 H 0 0 N N Y N N N 38.452 20.531 27.698 -2.855 0.942  2.355  H031 NSF 29
+NSF H032 H032 H 0 0 N N Y N N N 39.819 21.600 27.235 -4.383 0.031  2.289  H032 NSF 30
+NSF H051 H051 H 0 0 N N Y N N N 35.859 23.023 26.857 -4.940 -1.290 0.509  H051 NSF 31
+NSF HA   H061 H 0 0 N N Y N N N 37.337 22.470 29.180 -2.268 -2.472 0.520  H061 NSF 32
+NSF H082 H082 H 0 0 N N N N N N 35.367 20.333 29.577 -2.129 -3.466 -1.599 H082 NSF 33
+NSF H081 H081 H 0 0 N N N N N N 37.159 20.209 29.605 -3.905 -3.630 -1.743 H081 NSF 34
+NSF H    H071 H 0 0 N N Y Y N N 35.218 22.769 30.270 -3.581 -4.469 0.800  H071 NSF 35
+NSF H2   H2   H 0 1 N N Y Y N N 35.319 23.805 29.012 -4.287 -3.256 1.692  H2   NSF 36
+NSF H151 H151 H 0 0 N N N N N N 39.423 26.572 21.993 1.677  2.631  -2.412 H151 NSF 37
+NSF OXT  O02  O 0 1 N Y Y N Y N 39.710 19.255 25.851 -4.943 2.728  2.003  O02  NSF 38
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+NSF O20 C16  DOUB N N 1
+NSF N15 C16  SING N N 2
+NSF N15 C14  SING N N 3
+NSF O21 C14  DOUB N N 4
+NSF C16 C17  SING N N 5
+NSF C14 N13  SING N N 6
+NSF O   C    DOUB N N 7
+NSF C17 C18  DOUB N N 8
+NSF C17 I1   SING N N 9
+NSF N13 C18  SING N N 10
+NSF N13 C12  SING N N 11
+NSF C12 C11  SING N N 12
+NSF C   C03  SING N N 13
+NSF O22 C11  DOUB N N 14
+NSF C11 N04  SING N N 15
+NSF N04 C03  SING N N 16
+NSF N04 C05  SING N N 17
+NSF C10 C05  SING N N 18
+NSF C10 O09  SING N N 19
+NSF C05 CA   SING N N 20
+NSF O09 C08  SING N N 21
+NSF CA  C08  SING N N 22
+NSF CA  N    SING N N 23
+NSF C10 H102 SING N N 24
+NSF C10 H101 SING N N 25
+NSF C12 H122 SING N N 26
+NSF C12 H121 SING N N 27
+NSF C18 H181 SING N N 28
+NSF C03 H031 SING N N 29
+NSF C03 H032 SING N N 30
+NSF C05 H051 SING N N 31
+NSF CA  HA   SING N N 32
+NSF C08 H082 SING N N 33
+NSF C08 H081 SING N N 34
+NSF N   H    SING N N 35
+NSF N   H2   SING N N 36
+NSF N15 H151 SING N N 37
+NSF C   OXT  SING N N 38
+NSF OXT HXT  SING N N 39
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+NSF SMILES           ACDLabs              12.01 "OC(=O)CN(C1COCC1N)C(=O)CN1C=C(I)C(=O)NC1=O"
+NSF InChI            InChI                1.03  "InChI=1S/C12H15IN4O6/c13-6-1-16(12(22)15-11(6)21)2-9(18)17(3-10(19)20)8-5-23-4-7(8)14/h1,7-8H,2-5,14H2,(H,19,20)(H,15,21,22)/t7-,8-/m0/s1"
+NSF InChIKey         InChI                1.03  ZIWCTTLPOMQDJH-YUMQZZPRSA-N
+NSF SMILES_CANONICAL CACTVS               3.385 "N[C@H]1COC[C@@H]1N(CC(O)=O)C(=O)CN2C=C(I)C(=O)NC2=O"
+NSF SMILES           CACTVS               3.385 "N[CH]1COC[CH]1N(CC(O)=O)C(=O)CN2C=C(I)C(=O)NC2=O"
+NSF SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "C1[C@@H]([C@H](CO1)N(CC(=O)O)C(=O)CN2C=C(C(=O)NC2=O)I)N"
+NSF SMILES           "OpenEye OEToolkits" 2.0.7 "C1C(C(CO1)N(CC(=O)O)C(=O)CN2C=C(C(=O)NC2=O)I)N"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+NSF "SYSTEMATIC NAME" ACDLabs              12.01 "N-[(3R,4R)-4-aminooxolan-3-yl]-N-[(5-iodo-2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)acetyl]glycine"
+NSF "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "2-[[(3~{R},4~{R})-4-azanyloxolan-3-yl]-[2-[5-iodanyl-2,4-bis(oxidanylidene)pyrimidin-1-yl]ethanoyl]amino]ethanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+NSF "Create component"     2022-04-07 RCSB
+NSF "Modify internal type" 2022-08-15 RCSB
+NSF "Initial release"      2023-04-05 RCSB
+NSF "Standardize backbone" 2023-07-18 PDBE

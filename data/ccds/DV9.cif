@@ -1,0 +1,138 @@
+data_DV9
+_chem_comp.id                     DV9
+_chem_comp.name                   "(2S)-2-azanyl-6,6-bis(fluoranyl)-5-oxidanylidene-6-phosphono-hexanoic acid"
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C6 H10 F2 N O6 P"
+_chem_comp.mon_nstd_parent_comp_id GLU
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2019-09-06
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         261.117
+_chem_comp.one_letter_code        E
+_chem_comp.three_letter_code      DV9
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 6KV8
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBJ
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+DV9 CA  CA  C 0 1 N N Y N N S 9.214  -6.026 -33.394 -3.406 -0.525 0.267  CA  DV9 1
+DV9 C   C   C 0 1 N N Y N Y N 7.871  -6.750 -33.335 -4.558 0.423  0.058  C   DV9 2
+DV9 CB  CB  C 0 1 N N N N N N 9.585  -5.449 -32.020 -2.089 0.201  -0.015 CB  DV9 3
+DV9 CG  CG  C 0 1 N N N N N N 9.852  -6.568 -30.994 -0.915 -0.722 0.317  CG  DV9 4
+DV9 CD  CD  C 0 1 N N N N N N 11.344 -6.727 -30.641 0.381  -0.007 0.039  CD  DV9 5
+DV9 C45 C45 C 0 1 N N N N N N 11.870 -6.478 -29.220 1.694  -0.704 0.285  C45 DV9 6
+DV9 F01 F01 F 0 1 N N N N N N 12.495 -5.276 -29.213 1.788  -1.060 1.635  F01 DV9 7
+DV9 F02 F02 F 0 1 N N N N N N 10.844 -6.465 -28.318 1.767  -1.855 -0.506 F02 DV9 8
+DV9 N   N   N 0 1 N N Y Y N N 9.050  -4.987 -34.431 -3.540 -1.668 -0.646 N   DV9 9
+DV9 O   O   O 0 1 N N Y N Y N 7.789  -7.918 -33.549 -5.191 0.387  -0.970 O   DV9 10
+DV9 OE1 OE1 O 0 1 N N N N N N 12.112 -7.051 -31.480 0.368  1.125  -0.381 OE1 DV9 11
+DV9 O14 O14 O 0 1 N N N N N N 13.961 -8.289 -30.041 2.983  1.741  0.768  O14 DV9 12
+DV9 O15 O15 O 0 1 N N N N N N 12.645 -8.787 -27.874 4.357  -0.268 0.099  O15 DV9 13
+DV9 O16 O16 O 0 1 N N N N N N 14.120 -7.076 -27.797 2.960  0.826  -1.697 O16 DV9 14
+DV9 P01 P01 P 0 1 N N N N N N 13.172 -7.712 -28.712 3.067  0.417  -0.143 P01 DV9 15
+DV9 HA  H40 H 0 1 N N Y N N N 9.992  -6.739 -33.703 -3.411 -0.881 1.297  H40 DV9 16
+DV9 H42 H42 H 0 1 N N N N N N 10.491 -4.834 -32.123 -2.046 0.479  -1.068 H42 DV9 17
+DV9 H41 H41 H 0 1 N N N N N N 8.756  -4.823 -31.659 -2.030 1.099  0.601  H41 DV9 18
+DV9 H43 H43 H 0 1 N N N N N N 9.298  -6.336 -30.072 -0.959 -1.001 1.370  H43 DV9 19
+DV9 H44 H44 H 0 1 N N N N N N 9.489  -7.519 -31.411 -0.974 -1.620 -0.299 H44 DV9 20
+DV9 H2  H2  H 0 1 N Y Y Y N N 9.901  -4.470 -34.523 -3.538 -1.364 -1.609 H2  DV9 21
+DV9 H   H3  H 0 1 N N Y Y N N 8.828  -5.420 -35.304 -2.815 -2.350 -0.481 H3  DV9 22
+DV9 H59 H59 H 0 1 N N N N N N 13.938 -9.239 -30.036 2.163  2.241  0.660  H59 DV9 23
+DV9 H4  H4  H 0 1 N N N N N N 14.111 -7.532 -26.964 3.660  1.423  -1.995 H4  DV9 24
+DV9 OXT OXT O 0 1 N Y Y N Y N 6.657  -5.978 -33.086 -4.880 1.309  1.014  OXT DV9 25
+DV9 HXT H1  H 0 1 N Y Y N Y N 5.901  -6.552 -33.131 -5.627 1.896  0.834  H1  DV9 26
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+DV9 N   CA  SING N N 1
+DV9 O   C   DOUB N N 2
+DV9 CA  C   SING N N 3
+DV9 CA  CB  SING N N 4
+DV9 CB  CG  SING N N 5
+DV9 OE1 CD  DOUB N N 6
+DV9 CG  CD  SING N N 7
+DV9 CD  C45 SING N N 8
+DV9 O14 P01 SING N N 9
+DV9 C45 F01 SING N N 10
+DV9 C45 P01 SING N N 11
+DV9 C45 F02 SING N N 12
+DV9 P01 O15 DOUB N N 13
+DV9 P01 O16 SING N N 14
+DV9 CA  HA  SING N N 15
+DV9 CB  H42 SING N N 16
+DV9 CB  H41 SING N N 17
+DV9 CG  H43 SING N N 18
+DV9 CG  H44 SING N N 19
+DV9 N   H2  SING N N 20
+DV9 N   H   SING N N 21
+DV9 O14 H59 SING N N 22
+DV9 O16 H4  SING N N 23
+DV9 C   OXT SING N N 24
+DV9 OXT HXT SING N N 25
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+DV9 InChI            InChI                1.03  "InChI=1S/C6H10F2NO6P/c7-6(8,16(13,14)15)4(10)2-1-3(9)5(11)12/h3H,1-2,9H2,(H,11,12)(H2,13,14,15)/t3-/m0/s1"
+DV9 InChIKey         InChI                1.03  LABOZNZPTQOSFU-VKHMYHEASA-N
+DV9 SMILES_CANONICAL CACTVS               3.385 "N[C@@H](CCC(=O)C(F)(F)[P](O)(O)=O)C(O)=O"
+DV9 SMILES           CACTVS               3.385 "N[CH](CCC(=O)C(F)(F)[P](O)(O)=O)C(O)=O"
+DV9 SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "C(CC(=O)C(F)(F)P(=O)(O)O)[C@@H](C(=O)O)N"
+DV9 SMILES           "OpenEye OEToolkits" 2.0.7 "C(CC(=O)C(F)(F)P(=O)(O)O)C(C(=O)O)N"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+DV9 "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "(2~{S})-2-azanyl-6,6-bis(fluoranyl)-5-oxidanylidene-6-phosphono-hexanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+DV9 "Create component"     2019-09-06 PDBJ
+DV9 "Initial release"      2021-09-08 RCSB
+DV9 "Standardize backbone" 2023-07-18 PDBE

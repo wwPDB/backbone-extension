@@ -1,0 +1,155 @@
+data_Y1Y
+_chem_comp.id                     Y1Y
+_chem_comp.name                   "3-amino-2,3-dideoxy-5-O-(5-methylthiophene-2-carbonyl)-D-erythro-pentonic acid"
+_chem_comp.type                   non-polymer
+_chem_comp.pdbx_type              HETAIN
+_chem_comp.formula                "C11 H15 N O5 S"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2020-06-02
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         273.306
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      Y1Y
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 6X8H
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   RCSB
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+Y1Y C01 C01 C 0 1 N N N N N N 34.609 -35.824 14.438 6.301  1.641  0.328  C01 Y1Y 1
+Y1Y C02 C02 C 0 1 Y N N N N N 35.036 -34.372 14.616 5.166  0.664  0.160  C02 Y1Y 2
+Y1Y C03 C03 C 0 1 Y N N N N N 35.532 -33.489 13.637 5.320  -0.651 -0.035 C03 Y1Y 3
+Y1Y C04 C04 C 0 1 Y N N N N N 35.874 -32.181 14.126 4.151  -1.362 -0.164 C04 Y1Y 4
+Y1Y C05 C05 C 0 1 Y N N N N N 35.591 -32.057 15.499 3.031  -0.583 -0.069 C05 Y1Y 5
+Y1Y C06 C06 C 0 1 N N N N N N 35.797 -30.844 16.358 1.652  -1.063 -0.167 C06 Y1Y 6
+Y1Y C08 C08 C 0 1 N N N N N N 36.438 -28.625 16.423 -0.715 -0.741 -0.164 C08 Y1Y 7
+Y1Y C   C09 C 0 1 N N Y N Y S 36.580 -27.410 15.543 -1.739 0.386  -0.015 C09 Y1Y 8
+Y1Y CA  C10 C 0 1 N N Y N N S 36.477 -26.052 16.224 -3.150 -0.205 -0.004 C10 Y1Y 9
+Y1Y C11 C11 C 0 1 N N N N N N 36.717 -24.847 15.280 -4.174 0.923  0.146  C11 Y1Y 10
+Y1Y C12 C12 C 0 1 N N N N N N 36.000 -23.621 15.863 -5.566 0.356  0.034  C12 Y1Y 11
+Y1Y N   N15 N 0 1 N N Y Y N N 37.399 -26.001 17.327 -3.281 -1.138 1.123  N15 Y1Y 12
+Y1Y O07 O07 O 0 1 N N N N N N 36.177 -29.730 15.670 0.626  -0.195 -0.057 O07 Y1Y 13
+Y1Y O13 O13 O 0 1 N N N N N N 35.021 -23.698 16.706 -6.631 1.166  0.135  O13 Y1Y 14
+Y1Y O14 O14 O 0 1 N N N N N N 36.378 -22.471 15.484 -5.723 -0.829 -0.147 O14 Y1Y 15
+Y1Y O   O16 O 0 1 N N Y N Y N 36.062 -27.390 14.264 -1.611 1.294  -1.111 O16 Y1Y 16
+Y1Y O17 O17 O 0 1 N N N N N N 35.566 -30.846 17.540 1.431  -2.246 -0.349 O17 Y1Y 17
+Y1Y S18 S18 S 0 1 Y N N N N N 35.016 -33.522 16.092 3.514  1.086  0.198  S18 Y1Y 18
+Y1Y H1  H1  H 0 1 N N N N N N 34.288 -36.234 15.407 5.899  2.643  0.476  H1  Y1Y 19
+Y1Y H12 H2  H 0 1 N N N N N N 33.774 -35.876 13.724 6.898  1.357  1.195  H2  Y1Y 20
+Y1Y H3  H3  H 0 1 N N N N N N 35.457 -36.411 14.055 6.927  1.628  -0.564 H3  Y1Y 21
+Y1Y H4  H4  H 0 1 N N N N N N 35.646 -33.772 12.601 6.292  -1.120 -0.087 H4  Y1Y 22
+Y1Y H5  H5  H 0 1 N N N N N N 36.294 -31.394 13.517 4.120  -2.430 -0.325 H5  Y1Y 23
+Y1Y H6  H6  H 0 1 N N N N N N 37.373 -28.779 16.981 -0.871 -1.480 0.622  H6  Y1Y 24
+Y1Y H7  H7  H 0 1 N N N N N N 35.611 -28.465 17.131 -0.837 -1.216 -1.138 H7  Y1Y 25
+Y1Y H8  H8  H 0 1 N Y Y N Y N 37.660 -27.442 15.336 -1.560 0.918  0.920  H8  Y1Y 26
+Y1Y HA  H9  H 0 1 N N Y N N N 35.455 -25.957 16.618 -3.329 -0.736 -0.938 H9  Y1Y 27
+Y1Y H10 H10 H 0 1 N N N N N N 36.315 -25.072 14.281 -4.052 1.397  1.120  H10 Y1Y 28
+Y1Y H11 H11 H 0 1 N N N N N N 37.796 -24.645 15.204 -4.018 1.661  -0.640 H11 Y1Y 29
+Y1Y H   H12 H 0 1 N N Y Y N N 37.239 -26.781 17.932 -2.660 -1.926 1.015  H12 Y1Y 30
+Y1Y H2  H13 H 0 1 N Y Y Y N N 38.336 -26.035 16.980 -3.120 -0.669 2.002  H13 Y1Y 31
+Y1Y H15 H15 H 0 1 N N N N N N 34.720 -22.824 16.923 -7.503 0.756  0.057  H15 Y1Y 32
+Y1Y H16 H16 H 0 1 N N Y N Y N 36.145 -28.253 13.875 -1.758 0.888  -1.977 H16 Y1Y 33
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+Y1Y C03 C04 SING Y N 1
+Y1Y C03 C02 DOUB Y N 2
+Y1Y C04 C05 DOUB Y N 3
+Y1Y O   C   SING N N 4
+Y1Y C01 C02 SING N N 5
+Y1Y C02 S18 SING Y N 6
+Y1Y C11 C12 SING N N 7
+Y1Y C11 CA  SING N N 8
+Y1Y O14 C12 DOUB N N 9
+Y1Y C05 S18 SING Y N 10
+Y1Y C05 C06 SING N N 11
+Y1Y C   CA  SING N N 12
+Y1Y C   C08 SING N N 13
+Y1Y O07 C06 SING N N 14
+Y1Y O07 C08 SING N N 15
+Y1Y C12 O13 SING N N 16
+Y1Y CA  N   SING N N 17
+Y1Y C06 O17 DOUB N N 18
+Y1Y C01 H1  SING N N 19
+Y1Y C01 H12 SING N N 20
+Y1Y C01 H3  SING N N 21
+Y1Y C03 H4  SING N N 22
+Y1Y C04 H5  SING N N 23
+Y1Y C08 H6  SING N N 24
+Y1Y C08 H7  SING N N 25
+Y1Y C   H8  SING N N 26
+Y1Y CA  HA  SING N N 27
+Y1Y C11 H10 SING N N 28
+Y1Y C11 H11 SING N N 29
+Y1Y N   H   SING N N 30
+Y1Y N   H2  SING N N 31
+Y1Y O13 H15 SING N N 32
+Y1Y O   H16 SING N N 33
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+Y1Y SMILES           ACDLabs              12.01 "Cc1sc(cc1)C(=O)OCC(C(N)CC(O)=O)O"
+Y1Y InChI            InChI                1.03  "InChI=1S/C11H15NO5S/c1-6-2-3-9(18-6)11(16)17-5-8(13)7(12)4-10(14)15/h2-3,7-8,13H,4-5,12H2,1H3,(H,14,15)/t7-,8+/m0/s1"
+Y1Y InChIKey         InChI                1.03  KXRRUTLJMZJEOR-JGVFFNPUSA-N
+Y1Y SMILES_CANONICAL CACTVS               3.385 "Cc1sc(cc1)C(=O)OC[C@@H](O)[C@@H](N)CC(O)=O"
+Y1Y SMILES           CACTVS               3.385 "Cc1sc(cc1)C(=O)OC[CH](O)[CH](N)CC(O)=O"
+Y1Y SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "Cc1ccc(s1)C(=O)OC[C@H]([C@H](CC(=O)O)N)O"
+Y1Y SMILES           "OpenEye OEToolkits" 2.0.7 "Cc1ccc(s1)C(=O)OCC(C(CC(=O)O)N)O"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+Y1Y "SYSTEMATIC NAME" ACDLabs              12.01 "3-amino-2,3-dideoxy-5-O-(5-methylthiophene-2-carbonyl)-D-erythro-pentonic acid"
+Y1Y "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "(3~{S},4~{S})-3-azanyl-5-(5-methylthiophen-2-yl)carbonyloxy-4-oxidanyl-pentanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+Y1Y "Create component"     2020-06-02 RCSB
+Y1Y "Initial release"      2021-06-02 RCSB
+Y1Y "Standardize backbone" 2023-07-18 PDBE

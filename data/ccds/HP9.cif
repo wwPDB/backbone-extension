@@ -1,0 +1,159 @@
+data_HP9
+_chem_comp.id                     HP9
+_chem_comp.name                   "(2S)-2-azanyl-3-(7-fluoranyl-9-oxidanylidene-xanthen-2-yl)propanoic acid"
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C16 H12 F N O4"
+_chem_comp.mon_nstd_parent_comp_id PHE
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2021-01-26
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          PHE
+_chem_comp.formula_weight         301.269
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      HP9
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7DZE
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBJ
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+HP9 CA  C1  C 0 1 N N Y N N S -3.891 -10.818 -28.803 -4.171 -0.130 0.418  C21 HP9 1
+HP9 CG  C2  C 0 1 Y N N N N N -4.008 -9.677  -26.501 -1.997 0.587  -0.535 C24 HP9 2
+HP9 CE1 C3  C 0 1 Y N N N N N -4.536 -7.480  -25.656 -0.421 2.320  0.005  C26 HP9 3
+HP9 CE2 C4  C 0 1 Y N N N N N -2.812 -8.799  -24.622 0.296  0.026  -0.131 C28 HP9 4
+HP9 C   C5  C 0 1 N N Y N Y N -4.592 -9.733  -29.594 -5.613 -0.424 0.091  C12 HP9 5
+HP9 CB  C6  C 0 1 N N N N N N -4.389 -10.854 -27.366 -3.407 0.174  -0.872 C23 HP9 6
+HP9 CD1 C7  C 0 1 Y N N N N N -4.790 -8.527  -26.537 -1.702 1.924  -0.313 C25 HP9 7
+HP9 CZ  C8  C 0 1 Y N N N N N -3.598 -7.654  -24.653 0.597  1.377  0.106  C27 HP9 8
+HP9 CD2 C9  C 0 1 Y N N N N N -3.019 -9.825  -25.529 -1.005 -0.365 -0.443 C29 HP9 9
+HP9 C10 C10 C 0 1 Y N N N N N -0.749 -6.829  -20.643 5.136  -0.684 -0.093 C10 HP9 10
+HP9 C11 C11 C 0 1 Y N N N N N -0.804 -7.884  -21.538 3.871  -1.234 -0.144 C11 HP9 11
+HP9 C3  C12 C 0 1 N N N N N N -1.836 -8.955  -23.524 1.387  -0.966 -0.029 C3  HP9 12
+HP9 C6  C13 C 0 1 Y N N N N N -1.687 -7.816  -22.601 2.758  -0.413 0.026  C6  HP9 13
+HP9 C7  C14 C 0 1 Y N N N N N -2.531 -6.733  -22.722 2.914  0.963  0.253  C7  HP9 14
+HP9 C8  C15 C 0 1 Y N N N N N -2.542 -5.723  -21.765 4.199  1.497  0.299  C8  HP9 15
+HP9 C9  C16 C 0 1 Y N N N N N -1.624 -5.752  -20.733 5.294  0.679  0.127  C9  HP9 16
+HP9 F14 F1  F 0 1 N N N N N N 0.095  -6.914  -19.608 6.222  -1.471 -0.256 F14 HP9 17
+HP9 N   N1  N 0 1 N N Y Y N N -2.434 -10.589 -28.846 -3.572 -1.296 1.079  N5  HP9 18
+HP9 O12 O1  O 0 1 N N N N N N -3.417 -6.639  -23.753 1.845  1.765  0.434  O12 HP9 19
+HP9 O13 O2  O 0 1 N N N N N N -1.032 -9.908  -23.485 1.171  -2.163 0.007  O13 HP9 20
+HP9 O   O3  O 0 1 N N Y N Y N -4.073 -8.662  -29.822 -5.998 -1.567 0.035  O14 HP9 21
+HP9 HA  H1  H 0 1 N N Y N N N -4.114 -11.788 -29.271 -4.118 0.732  1.084  H1  HP9 22
+HP9 HE1 H2  H 0 1 N N N N N N -5.064 -6.543  -25.754 -0.207 3.365  0.179  H2  HP9 23
+HP9 OXT O4  O 0 1 N Y Y N Y N -5.544 -9.912  -29.951 -6.468 0.585  -0.139 O1  HP9 24
+HP9 HB2 H4  H 0 1 N N N N N N -5.487 -10.910 -27.392 -3.384 -0.717 -1.499 H4  HP9 25
+HP9 HB3 H5  H 0 1 N N N N N N -3.987 -11.762 -26.894 -3.905 0.983  -1.407 H5  HP9 26
+HP9 HD1 H6  H 0 1 N N N N N N -5.597 -8.446  -27.251 -2.486 2.663  -0.389 H6  HP9 27
+HP9 HD2 H7  H 0 1 N N N N N N -2.424 -10.725 -25.484 -1.233 -1.407 -0.612 H7  HP9 28
+HP9 H8  H8  H 0 1 N N N N N N -0.167 -8.747  -21.408 3.746  -2.293 -0.315 H8  HP9 29
+HP9 H9  H9  H 0 1 N N N N N N -3.263 -4.922  -21.829 4.337  2.554  0.468  H9  HP9 30
+HP9 H10 H10 H 0 1 N N N N N N -1.587 -4.952  -20.009 6.287  1.102  0.163  H10 HP9 31
+HP9 H   H11 H 0 1 N N Y Y N N -1.968 -11.304 -28.325 -3.609 -2.109 0.482  H11 HP9 32
+HP9 H2  H12 H 0 1 N Y Y Y N N -2.121 -10.612 -29.795 -2.624 -1.102 1.367  H12 HP9 33
+HP9 HXT H13 H 0 1 N Y Y N Y N -5.854 -9.149  -30.424 -7.382 0.347  -0.345 H3  HP9 34
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+HP9 O   C   DOUB N N 1
+HP9 C   CA  SING N N 2
+HP9 N   CA  SING N N 3
+HP9 CA  CB  SING N N 4
+HP9 CB  CG  SING N N 5
+HP9 CD1 CG  DOUB Y N 6
+HP9 CD1 CE1 SING Y N 7
+HP9 CG  CD2 SING Y N 8
+HP9 CE1 CZ  DOUB Y N 9
+HP9 CD2 CE2 DOUB Y N 10
+HP9 CZ  CE2 SING Y N 11
+HP9 CZ  O12 SING N N 12
+HP9 CE2 C3  SING N N 13
+HP9 O12 C7  SING N N 14
+HP9 C3  O13 DOUB N N 15
+HP9 C3  C6  SING N N 16
+HP9 C7  C6  DOUB Y N 17
+HP9 C7  C8  SING Y N 18
+HP9 C6  C11 SING Y N 19
+HP9 C8  C9  DOUB Y N 20
+HP9 C11 C10 DOUB Y N 21
+HP9 C9  C10 SING Y N 22
+HP9 C10 F14 SING N N 23
+HP9 CA  HA  SING N N 24
+HP9 CE1 HE1 SING N N 25
+HP9 C   OXT SING N N 26
+HP9 CB  HB2 SING N N 27
+HP9 CB  HB3 SING N N 28
+HP9 CD1 HD1 SING N N 29
+HP9 CD2 HD2 SING N N 30
+HP9 C11 H8  SING N N 31
+HP9 C8  H9  SING N N 32
+HP9 C9  H10 SING N N 33
+HP9 N   H   SING N N 34
+HP9 N   H2  SING N N 35
+HP9 OXT HXT SING N N 36
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+HP9 InChI            InChI                1.03  "InChI=1S/C16H12FNO4/c17-9-2-4-14-11(7-9)15(19)10-5-8(1-3-13(10)22-14)6-12(18)16(20)21/h1-5,7,12H,6,18H2,(H,20,21)/t12-/m0/s1"
+HP9 InChIKey         InChI                1.03  BHLMSYCQBMXWKV-LBPRGKRZSA-N
+HP9 SMILES_CANONICAL CACTVS               3.385 "N[C@@H](Cc1ccc2Oc3ccc(F)cc3C(=O)c2c1)C(O)=O"
+HP9 SMILES           CACTVS               3.385 "N[CH](Cc1ccc2Oc3ccc(F)cc3C(=O)c2c1)C(O)=O"
+HP9 SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "c1cc2c(cc1C[C@@H](C(=O)O)N)C(=O)c3cc(ccc3O2)F"
+HP9 SMILES           "OpenEye OEToolkits" 2.0.7 "c1cc2c(cc1CC(C(=O)O)N)C(=O)c3cc(ccc3O2)F"
+
+_pdbx_chem_comp_identifier.comp_id HP9
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 2.0.7
+_pdbx_chem_comp_identifier.identifier "(2~{S})-2-azanyl-3-(7-fluoranyl-9-oxidanylidene-xanthen-2-yl)propanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+HP9 "Create component"     2021-01-26 PDBJ
+HP9 "Modify formula"       2021-02-02 PDBJ
+HP9 "Modify name"          2021-02-02 PDBJ
+HP9 "Other modification"   2021-02-02 PDBJ
+HP9 "Modify atom id"       2021-11-09 PDBJ
+HP9 "Initial release"      2022-07-27 RCSB
+HP9 "Standardize backbone" 2023-07-18 PDBE

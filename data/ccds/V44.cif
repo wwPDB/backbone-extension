@@ -1,0 +1,170 @@
+data_V44
+_chem_comp.id                     V44
+_chem_comp.name                   "S-[2,2-bis(1-methyl-1H-imidazol-2-yl)ethyl]-L-cysteine"
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C13 H19 N5 O2 S"
+_chem_comp.mon_nstd_parent_comp_id CYS
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2020-06-23
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         309.387
+_chem_comp.one_letter_code        C
+_chem_comp.three_letter_code      V44
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag Y
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 6XJ5
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   RCSB
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+V44 C   C   C 0 1 N N Y N Y N -6.025  5.780  -63.934 -5.196 -0.506 -0.371 C   V44 1
+V44 O   O   O 0 1 N N Y N Y N -4.807  5.777  -63.775 -5.841 -1.296 0.277  O   V44 2
+V44 N   N   N 0 1 N N Y Y N N -6.645  7.523  -62.312 -4.049 0.056  1.696  N   V44 3
+V44 N1  N1  N 0 1 Y N N N N N -8.875  7.723  -70.499 2.876  -1.317 -1.432 N1  V44 4
+V44 C1  C1  C 0 1 Y N N N N N -8.781  8.451  -69.314 2.571  -1.081 -0.185 C1  V44 5
+V44 C2  C2  C 0 1 Y N N N N N -10.183 7.771  -70.985 3.934  -2.141 -1.480 C2  V44 6
+V44 C3  C3  C 0 1 Y N N N N N -10.916 8.551  -70.108 4.297  -2.427 -0.215 C3  V44 7
+V44 C4  C4  C 0 1 N N N N N N -10.460 9.818  -67.955 3.441  -1.765 2.072  C4  V44 8
+V44 C5  C5  C 0 1 Y N N N N N -6.217  8.360  -68.952 1.647  1.199  -0.221 C5  V44 9
+V44 C6  C6  C 0 1 Y N N N N N -4.442  7.536  -70.124 1.898  2.873  -1.560 C6  V44 10
+V44 C7  C7  C 0 1 Y N N N N N -3.938  8.286  -69.073 1.950  3.365  -0.307 C7  V44 11
+V44 C8  C8  C 0 1 N N N N N N -4.907  9.664  -67.176 1.772  2.357  2.006  C8  V44 12
+V44 N2  N2  N 0 1 Y N N N N N -10.045 8.965  -69.084 3.433  -1.755 0.607  N2  V44 13
+V44 C9  C9  C 0 1 N N N N N N -7.594  8.630  -68.401 1.443  -0.203 0.292  C9  V44 14
+V44 C10 C10 C 0 1 N N N N N N -7.703  7.720  -67.149 0.114  -0.750 -0.232 C10 V44 15
+V44 N3  N3  N 0 1 Y N N N N N -5.841  7.599  -70.054 1.710  1.548  -1.477 N3  V44 16
+V44 N4  N4  N 0 1 Y N N N N N -5.038  8.794  -68.359 1.789  2.304  0.542  N4  V44 17
+V44 CA  CA  C 0 1 N N Y N N R -6.829  7.051  -63.676 -3.979 0.147  0.231  CA  V44 18
+V44 CB  CB  C 0 1 N N N N N N -6.479  8.187  -64.617 -2.719 -0.567 -0.264 CB  V44 19
+V44 SG  SG  S 0 1 N N N N N N -7.974  8.625  -65.594 -1.254 0.219  0.461  SG  V44 20
+V44 H2  H2  H 0 1 N Y Y Y N N -6.870  6.789  -61.671 -4.083 -0.906 1.997  H2  V44 21
+V44 H   H3  H 0 1 N N Y Y N N -5.693  7.799  -62.181 -3.277 0.543  2.126  H3  V44 22
+V44 H5  H5  H 0 1 N N N N N N -10.553 7.290  -71.878 4.410  -2.511 -2.376 H5  V44 23
+V44 H6  H6  H 0 1 N N N N N N -11.964 8.797  -70.194 5.113  -3.065 0.092  H6  V44 24
+V44 H7  H7  H 0 1 N N N N N N -9.599  9.998  -67.295 2.812  -2.578 2.433  H7  V44 25
+V44 H8  H8  H 0 1 N N N N N N -10.835 10.778 -68.339 4.461  -1.910 2.428  H8  V44 26
+V44 H9  H9  H 0 1 N N N N N N -11.257 9.314  -67.388 3.058  -0.815 2.444  H9  V44 27
+V44 H10 H10 H 0 1 N N N N N N -3.863  7.001  -70.862 1.989  3.446  -2.471 H10 V44 28
+V44 H11 H11 H 0 1 N N N N N N -2.895  8.450  -68.845 2.092  4.398  -0.027 H11 V44 29
+V44 H12 H12 H 0 1 N N N N N N -5.907  9.925  -66.800 2.786  2.228  2.386  H12 V44 30
+V44 H13 H13 H 0 1 N N N N N N -4.347  9.134  -66.391 1.383  3.322  2.330  H13 V44 31
+V44 H14 H14 H 0 1 N N N N N N -4.368  10.582 -67.454 1.135  1.560  2.391  H14 V44 32
+V44 H15 H15 H 0 1 N N N N N N -7.608  9.670  -68.043 1.427  -0.192 1.382  H15 V44 33
+V44 H16 H16 H 0 1 N N N N N N -8.545  7.028  -67.297 0.095  -0.678 -1.320 H16 V44 34
+V44 H17 H17 H 0 1 N N N N N N -6.769  7.146  -67.057 0.008  -1.793 0.065  H17 V44 35
+V44 HA  H18 H 0 1 N N Y N N N -7.892  6.809  -63.822 -3.944 1.194  -0.067 H18 V44 36
+V44 H19 H19 H 0 1 N N N N N N -5.673  7.871  -65.295 -2.755 -1.615 0.034  H19 V44 37
+V44 H20 H20 H 0 1 N N N N N N -6.148  9.060  -64.036 -2.667 -0.500 -1.351 H20 V44 38
+V44 OXT OXT O 0 1 N Y Y N Y N ?       ?      ?       -5.560 -0.215 -1.630 OXT V44 39
+V44 HXT HXT H 0 1 N Y Y N Y N ?       ?      ?       -6.345 -0.662 -1.974 HXT V44 40
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+V44 C2  N1  SING Y N 1
+V44 C2  C3  DOUB Y N 2
+V44 N1  C1  DOUB Y N 3
+V44 C6  N3  SING Y N 4
+V44 C6  C7  DOUB Y N 5
+V44 C3  N2  SING Y N 6
+V44 N3  C5  DOUB Y N 7
+V44 C1  N2  SING Y N 8
+V44 C1  C9  SING N N 9
+V44 N2  C4  SING N N 10
+V44 C7  N4  SING Y N 11
+V44 C5  C9  SING N N 12
+V44 C5  N4  SING Y N 13
+V44 C9  C10 SING N N 14
+V44 N4  C8  SING N N 15
+V44 C10 SG  SING N N 16
+V44 SG  CB  SING N N 17
+V44 CB  CA  SING N N 18
+V44 C   O   DOUB N N 19
+V44 C   CA  SING N N 20
+V44 CA  N   SING N N 21
+V44 N   H2  SING N N 22
+V44 N   H   SING N N 23
+V44 C2  H5  SING N N 24
+V44 C3  H6  SING N N 25
+V44 C4  H7  SING N N 26
+V44 C4  H8  SING N N 27
+V44 C4  H9  SING N N 28
+V44 C6  H10 SING N N 29
+V44 C7  H11 SING N N 30
+V44 C8  H12 SING N N 31
+V44 C8  H13 SING N N 32
+V44 C8  H14 SING N N 33
+V44 C9  H15 SING N N 34
+V44 C10 H16 SING N N 35
+V44 C10 H17 SING N N 36
+V44 CA  HA  SING N N 37
+V44 CB  H19 SING N N 38
+V44 CB  H20 SING N N 39
+V44 C   OXT SING N N 40
+V44 OXT HXT SING N N 41
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+V44 SMILES           ACDLabs              12.01 "C(=O)(C(N)CSCC(c1nccn1C)c2n(ccn2)C)O"
+V44 InChI            InChI                1.03  "InChI=1S/C13H19N5O2S/c1-17-5-3-15-11(17)9(12-16-4-6-18(12)2)7-21-8-10(14)13(19)20/h3-6,9-10H,7-8,14H2,1-2H3,(H,19,20)/t10-/m0/s1"
+V44 InChIKey         InChI                1.03  JSRXQYXKAMXSOP-JTQLQIEISA-N
+V44 SMILES_CANONICAL CACTVS               3.385 "Cn1ccnc1C(CSC[C@H](N)C(O)=O)c2nccn2C"
+V44 SMILES           CACTVS               3.385 "Cn1ccnc1C(CSC[CH](N)C(O)=O)c2nccn2C"
+V44 SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "Cn1ccnc1C(CSC[C@@H](C(=O)O)N)c2nccn2C"
+V44 SMILES           "OpenEye OEToolkits" 2.0.7 "Cn1ccnc1C(CSCC(C(=O)O)N)c2nccn2C"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+V44 "SYSTEMATIC NAME" ACDLabs              12.01 "S-[2,2-bis(1-methyl-1H-imidazol-2-yl)ethyl]-L-cysteine"
+V44 "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "(2~{R})-2-azanyl-3-[2,2-bis(1-methylimidazol-2-yl)ethylsulfanyl]propanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+V44 "Create component"     2020-06-23 RCSB
+V44 "Initial release"      2021-06-30 RCSB
+V44 "Standardize backbone" 2023-07-18 PDBE

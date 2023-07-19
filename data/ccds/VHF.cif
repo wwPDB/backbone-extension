@@ -1,0 +1,133 @@
+data_VHF
+_chem_comp.id                     VHF
+_chem_comp.name                   "(2~{S})-2-azanyl-5-oxidanylidene-5-phosphonooxy-pentanoic acid"
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C5 H10 N O7 P"
+_chem_comp.mon_nstd_parent_comp_id GLU
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2023-03-06
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         227.109
+_chem_comp.one_letter_code        E
+_chem_comp.three_letter_code      VHF
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7OY3
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+VHF PA  PA  P 0 1 N N N N N N 110.735 114.059 -3.318 3.211  -0.018 0.042  PA  VHF 1
+VHF OA1 OA1 O 0 1 N N N N N N 111.168 114.932 -4.462 3.172  -0.025 1.521  OA1 VHF 2
+VHF OA2 OA2 O 0 1 N N N N N N 111.726 113.598 -2.275 4.482  0.835  -0.457 OA2 VHF 3
+VHF OA3 OA3 O 0 1 N N N N N N 109.721 113.005 -3.725 3.332  -1.529 -0.500 OA3 VHF 4
+VHF OE2 OE2 O 0 1 N N N N N N 109.728 115.272 -2.309 1.860  0.649  -0.527 OE2 VHF 5
+VHF CD  CD  C 0 1 N N N N N N 108.508 115.588 -2.542 0.698  0.117  -0.117 CD  VHF 6
+VHF OE1 OE1 O 0 1 N N N N N N 107.943 115.277 -3.593 0.699  -0.820 0.646  OE1 VHF 7
+VHF CG  CG  C 0 1 N N N N N N 107.729 116.311 -1.457 -0.607 0.689  -0.607 CG  VHF 8
+VHF CB  CB  C 0 1 N N N N N N 106.967 115.250 -0.631 -1.770 -0.094 0.007  CB  VHF 9
+VHF CA  CA  C 0 1 N N Y N N S 105.889 115.878 0.242  -3.095 0.487  -0.491 CA  VHF 10
+VHF C   C   C 0 1 N N Y N Y N 105.001 114.790 0.942  -4.235 -0.359 0.016  C   VHF 11
+VHF O   O   O 0 1 N N Y N Y N 105.131 113.601 0.579  -4.871 -0.001 0.979  O   VHF 12
+VHF OXT OXT O 0 1 N Y Y N Y N 104.187 115.205 1.810  -4.544 -1.508 -0.604 OXT VHF 13
+VHF N   N   N 0 1 N N Y Y N N 106.528 116.735 1.244  -3.245 1.861  0.007  N   VHF 14
+VHF HA2 HA2 H 0 1 N N N N N N 112.587 113.944 -2.480 5.332  0.490  -0.151 HA2 VHF 15
+VHF HA3 HA3 H 0 1 N N N N N N 109.535 113.086 -4.653 3.363  -1.600 -1.464 HA3 VHF 16
+VHF HG2 HG2 H 0 1 N N N N N N 108.421 116.865 -0.806 -0.678 1.736  -0.313 HG2 VHF 17
+VHF HG3 HG3 H 0 1 N N N N N N 107.015 117.012 -1.914 -0.652 0.613  -1.693 HG3 VHF 18
+VHF HB2 HB2 H 0 1 N N N N N N 106.495 114.534 -1.320 -1.698 -1.141 -0.287 HB2 VHF 19
+VHF HB3 HB3 H 0 1 N N N N N N 107.683 114.720 0.014  -1.725 -0.017 1.094  HB3 VHF 20
+VHF HA  HA  H 0 1 N N Y N N N 105.235 116.490 -0.396 -3.102 0.492  -1.581 HA  VHF 21
+VHF HXT HXT H 0 1 N Y Y N Y N 103.684 114.474 2.149  -5.284 -2.016 -0.243 HXT VHF 22
+VHF H2  H   H 0 1 N Y Y Y N N 105.827 117.152 1.822  -4.082 2.289  -0.360 H   VHF 23
+VHF H   H2  H 0 1 N N Y Y N N 107.143 116.185 1.809  -3.241 1.883  1.016  H2  VHF 24
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+VHF OA1 PA  DOUB N N 1
+VHF OA3 PA  SING N N 2
+VHF OE1 CD  DOUB N N 3
+VHF PA  OE2 SING N N 4
+VHF PA  OA2 SING N N 5
+VHF CD  OE2 SING N N 6
+VHF CD  CG  SING N N 7
+VHF CG  CB  SING N N 8
+VHF CB  CA  SING N N 9
+VHF CA  C   SING N N 10
+VHF CA  N   SING N N 11
+VHF O   C   DOUB N N 12
+VHF C   OXT SING N N 13
+VHF OA2 HA2 SING N N 14
+VHF OA3 HA3 SING N N 15
+VHF CG  HG2 SING N N 16
+VHF CG  HG3 SING N N 17
+VHF CB  HB2 SING N N 18
+VHF CB  HB3 SING N N 19
+VHF CA  HA  SING N N 20
+VHF OXT HXT SING N N 21
+VHF N   H2  SING N N 22
+VHF N   H   SING N N 23
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+VHF InChI            InChI                1.06  "InChI=1S/C5H10NO7P/c6-3(5(8)9)1-2-4(7)13-14(10,11)12/h3H,1-2,6H2,(H,8,9)(H2,10,11,12)/t3-/m0/s1"
+VHF InChIKey         InChI                1.06  PJRXVIJAERNUIP-VKHMYHEASA-N
+VHF SMILES_CANONICAL CACTVS               3.385 "N[C@@H](CCC(=O)O[P](O)(O)=O)C(O)=O"
+VHF SMILES           CACTVS               3.385 "N[CH](CCC(=O)O[P](O)(O)=O)C(O)=O"
+VHF SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "C(CC(=O)OP(=O)(O)O)[C@@H](C(=O)O)N"
+VHF SMILES           "OpenEye OEToolkits" 2.0.7 "C(CC(=O)OP(=O)(O)O)C(C(=O)O)N"
+
+_pdbx_chem_comp_identifier.comp_id VHF
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 2.0.7
+_pdbx_chem_comp_identifier.identifier "(2~{S})-2-azanyl-5-oxidanylidene-5-phosphonooxy-pentanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+VHF "Create component"     2023-03-06 PDBE
+VHF "Modify atom id"       2023-03-06 PDBE
+VHF "Initial release"      2023-03-15 RCSB
+VHF "Standardize backbone" 2023-07-18 PDBE

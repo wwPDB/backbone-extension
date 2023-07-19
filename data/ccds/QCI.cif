@@ -1,0 +1,128 @@
+data_QCI
+_chem_comp.id                     QCI
+_chem_comp.name                   L-2-Aminoglutarimide
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C5 H8 N2 O2"
+_chem_comp.mon_nstd_parent_comp_id GLN
+_chem_comp.pdbx_synonyms          "(3S)-3-azanylpiperidine-2,6-dione; (S)-2-Aminoglutarimide"
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-10-25
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         128.129
+_chem_comp.one_letter_code        Q
+_chem_comp.three_letter_code      QCI
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 8BC7
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+QCI NE2  N1 N 0 1 N N N N N N 22.451 12.910 25.928 -0.654 -1.058 -0.052 NE2  QCI 1
+QCI C    C1 C 0 1 N N Y N Y N 22.847 14.041 26.595 0.657  -0.817 0.103  C    QCI 2
+QCI CA   C2 C 0 1 N N Y N N S 24.201 14.003 27.250 1.170  0.573  0.371  CA   QCI 3
+QCI CB   C3 C 0 1 N N N N N N 24.595 12.681 27.677 0.219  1.592  -0.266 CB   QCI 4
+QCI CG   C4 C 0 1 N N N N N N 24.480 11.707 26.550 -1.194 1.343  0.272  CG   QCI 5
+QCI CD   C5 C 0 1 N N N N N N 23.168 11.752 25.859 -1.579 -0.088 0.005  CD   QCI 6
+QCI O    O1 O 0 1 N N Y N Y N 22.219 15.075 26.544 1.443  -1.736 0.026  O    QCI 7
+QCI OE1  O2 O 0 1 N N N N N N 22.782 10.835 25.214 -2.746 -0.370 -0.158 OE1  QCI 8
+QCI N    N2 N 0 1 N N Y Y N N 24.127 14.876 28.421 2.510  0.722  -0.211 N    QCI 9
+QCI HE21 H1 H 0 0 N N N N N N 21.570 12.936 25.456 -0.944 -1.969 -0.214 HE21 QCI 10
+QCI HA   H2 H 0 1 N N Y N N N 24.946 14.401 26.546 1.217  0.743  1.447  HA   QCI 11
+QCI HB3  H3 H 0 1 N N N N N N 23.942 12.358 28.502 0.537  2.602  -0.007 HB3  QCI 12
+QCI HB2  H4 H 0 1 N N N N N N 25.638 12.710 28.025 0.227  1.472  -1.350 HB2  QCI 13
+QCI HG3  H5 H 0 1 N N N N N N 24.628 10.693 26.950 -1.214 1.535  1.345  HG3  QCI 14
+QCI HG2  H6 H 0 1 N N N N N N 25.268 11.930 25.816 -1.898 2.008  -0.230 HG2  QCI 15
+QCI H    H7 H 0 1 N N Y Y N N 25.010 14.881 28.890 3.155  0.057  0.191  H    QCI 16
+QCI H2   H8 H 0 1 N Y Y Y N N 23.899 15.805 28.130 2.480  0.636  -1.215 H2   QCI 17
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+QCI OE1 CD   DOUB N N 1
+QCI CD  NE2  SING N N 2
+QCI CD  CG   SING N N 3
+QCI O   C    DOUB N N 4
+QCI CG  CB   SING N N 5
+QCI C   CA   SING N N 6
+QCI CA  CB   SING N N 7
+QCI CA  N    SING N N 8
+QCI NE2 HE21 SING N N 9
+QCI CA  HA   SING N N 10
+QCI CB  HB3  SING N N 11
+QCI CB  HB2  SING N N 12
+QCI CG  HG3  SING N N 13
+QCI CG  HG2  SING N N 14
+QCI N   H    SING N N 15
+QCI N   H2   SING N N 16
+QCI C   NE2  SING N N 17
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+QCI InChI            InChI                1.06    "InChI=1S/C5H8N2O2/c6-3-1-2-4(8)7-5(3)9/h3H,1-2,6H2,(H,7,8,9)/t3-/m0/s1"
+QCI InChIKey         InChI                1.06    NPWMTBZSRRLQNJ-VKHMYHEASA-N
+QCI SMILES_CANONICAL CACTVS               3.385   "N[C@H]1CCC(=O)NC1=O"
+QCI SMILES           CACTVS               3.385   "N[CH]1CCC(=O)NC1=O"
+QCI SMILES_CANONICAL "OpenEye OEToolkits" 3.1.0.0 "C1CC(=O)NC(=O)[C@H]1N"
+QCI SMILES           "OpenEye OEToolkits" 3.1.0.0 "C1CC(=O)NC(=O)C1N"
+
+_pdbx_chem_comp_identifier.comp_id QCI
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 3.1.0.0
+_pdbx_chem_comp_identifier.identifier "(3~{S})-3-azanylpiperidine-2,6-dione"
+
+loop_
+_pdbx_chem_comp_synonyms.ordinal
+_pdbx_chem_comp_synonyms.comp_id
+_pdbx_chem_comp_synonyms.name
+_pdbx_chem_comp_synonyms.provenance
+_pdbx_chem_comp_synonyms.type
+1 QCI "(3S)-3-azanylpiperidine-2,6-dione" PDB     ?
+2 QCI "(S)-2-Aminoglutarimide"       PUBCHEM ?
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+QCI "Create component"     2022-10-27 PDBE
+QCI "Initial release"      2023-01-11 RCSB
+QCI "Standardize backbone" 2023-07-18 PDBE

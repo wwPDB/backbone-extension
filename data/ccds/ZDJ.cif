@@ -1,0 +1,143 @@
+data_ZDJ
+_chem_comp.id                     ZDJ
+_chem_comp.name                   3-methyl-L-tyrosine
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C10 H13 N O3"
+_chem_comp.mon_nstd_parent_comp_id TYR
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2021-04-15
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         195.215
+_chem_comp.one_letter_code        Y
+_chem_comp.three_letter_code      ZDJ
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7MHA
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   RCSB
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+ZDJ O   O   O 0 1 N N Y N Y N -5.208 -60.928 -28.267 4.201  -0.647 0.023  O   ZDJ 1
+ZDJ C   C   C 0 1 N N Y N Y N -4.400 -60.009 -28.159 3.417  0.264  -0.104 C   ZDJ 2
+ZDJ CA  CA  C 0 1 N N Y N N S -3.544 -59.594 -29.354 1.970  -0.024 -0.411 CA  ZDJ 3
+ZDJ N   N   N 0 1 N N Y Y N N -3.497 -58.143 -29.432 1.848  -1.377 -0.970 N   ZDJ 4
+ZDJ CB  CB  C 0 1 N N N N N N -2.140 -60.211 -29.220 1.147  0.072  0.876  CB  ZDJ 5
+ZDJ CG  CG  C 0 1 Y N N N N N -1.278 -60.137 -30.466 -0.315 -0.094 0.550  CG  ZDJ 6
+ZDJ CD2 CD2 C 0 1 Y N N N N N 0.082  -60.439 -30.361 -0.884 -1.355 0.554  CD2 ZDJ 7
+ZDJ CE2 CE2 C 0 1 Y N N N N N 0.909  -60.386 -31.486 -2.224 -1.510 0.256  CE2 ZDJ 8
+ZDJ CZ  CZ  C 0 1 Y N N N N N 0.376  -60.025 -32.727 -2.999 -0.400 -0.048 CZ  ZDJ 9
+ZDJ OH  OH  O 0 1 N N N N N N 1.216  -59.985 -33.797 -4.317 -0.550 -0.342 OH  ZDJ 10
+ZDJ CE1 CE1 C 0 1 Y N N N N N -0.987 -59.716 -32.831 -2.426 0.863  -0.051 CE1 ZDJ 11
+ZDJ CME CME C 0 1 N N N N N N -1.669 -59.311 -34.114 -3.265 2.071  -0.380 CME ZDJ 12
+ZDJ CD1 CD1 C 0 1 Y N N N N N -1.792 -59.767 -31.704 -1.087 1.014  0.253  CD1 ZDJ 13
+ZDJ OXT OXT O 0 1 N Y Y N Y N -4.218 -59.315 -27.029 3.834  1.533  0.034  O1  ZDJ 14
+ZDJ HA  H1  H 0 1 N N Y N N N -4.009 -59.993 -30.268 1.600  0.703  -1.134 H1  ZDJ 15
+ZDJ H2  H2  H 0 1 N Y Y Y N N -4.426 -57.783 -29.518 2.330  -1.448 -1.853 H2  ZDJ 16
+ZDJ H   H   H 0 1 N N Y Y N N -3.074 -57.778 -28.603 2.184  -2.069 -0.317 H3  ZDJ 17
+ZDJ H5  H5  H 0 1 N N N N N N -2.259 -61.271 -28.951 1.457  -0.712 1.565  H5  ZDJ 18
+ZDJ H6  H6  H 0 1 N N N N N N -1.613 -59.684 -28.411 1.307  1.047  1.337  H6  ZDJ 19
+ZDJ H7  H7  H 0 1 N N N N N N 0.497  -60.715 -29.403 -0.280 -2.218 0.791  H7  ZDJ 20
+ZDJ H8  H8  H 0 1 N N N N N N 1.959  -60.624 -31.397 -2.668 -2.495 0.259  H8  ZDJ 21
+ZDJ H9  H9  H 0 1 N N N N N N 2.093  -60.226 -33.521 -4.900 -0.500 0.428  H9  ZDJ 22
+ZDJ H10 H10 H 0 1 N N N N N N -2.048 -60.207 -34.627 -3.701 2.471  0.535  H10 ZDJ 23
+ZDJ H11 H11 H 0 1 N N N N N N -2.507 -58.636 -33.886 -2.640 2.832  -0.847 H11 ZDJ 24
+ZDJ H12 H12 H 0 1 N N N N N N -0.948 -58.794 -34.765 -4.062 1.784  -1.067 H12 ZDJ 25
+ZDJ H13 H13 H 0 1 N N N N N N -2.839 -59.515 -31.789 -0.640 1.997  0.251  H13 ZDJ 26
+ZDJ HXT HXT H 0 1 N Y Y N Y N -4.800 -59.647 -26.356 4.770  1.667  0.235  H14 ZDJ 27
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+ZDJ CME CE1 SING N N 1
+ZDJ OH  CZ  SING N N 2
+ZDJ CE1 CZ  DOUB Y N 3
+ZDJ CE1 CD1 SING Y N 4
+ZDJ CZ  CE2 SING Y N 5
+ZDJ CD1 CG  DOUB Y N 6
+ZDJ CE2 CD2 DOUB Y N 7
+ZDJ CG  CD2 SING Y N 8
+ZDJ CG  CB  SING N N 9
+ZDJ N   CA  SING N N 10
+ZDJ CA  CB  SING N N 11
+ZDJ CA  C   SING N N 12
+ZDJ O   C   DOUB N N 13
+ZDJ C   OXT SING N N 14
+ZDJ CA  HA  SING N N 15
+ZDJ N   H2  SING N N 16
+ZDJ N   H   SING N N 17
+ZDJ CB  H5  SING N N 18
+ZDJ CB  H6  SING N N 19
+ZDJ CD2 H7  SING N N 20
+ZDJ CE2 H8  SING N N 21
+ZDJ OH  H9  SING N N 22
+ZDJ CME H10 SING N N 23
+ZDJ CME H11 SING N N 24
+ZDJ CME H12 SING N N 25
+ZDJ CD1 H13 SING N N 26
+ZDJ OXT HXT SING N N 27
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+ZDJ SMILES           ACDLabs              12.01 "Cc1cc(CC(N)C(=O)O)ccc1O"
+ZDJ InChI            InChI                1.03  "InChI=1S/C10H13NO3/c1-6-4-7(2-3-9(6)12)5-8(11)10(13)14/h2-4,8,12H,5,11H2,1H3,(H,13,14)/t8-/m0/s1"
+ZDJ InChIKey         InChI                1.03  MQHLULPKDLJASZ-QMMMGPOBSA-N
+ZDJ SMILES_CANONICAL CACTVS               3.385 "Cc1cc(C[C@H](N)C(O)=O)ccc1O"
+ZDJ SMILES           CACTVS               3.385 "Cc1cc(C[CH](N)C(O)=O)ccc1O"
+ZDJ SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "Cc1cc(ccc1O)C[C@@H](C(=O)O)N"
+ZDJ SMILES           "OpenEye OEToolkits" 2.0.7 "Cc1cc(ccc1O)CC(C(=O)O)N"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+ZDJ "SYSTEMATIC NAME" ACDLabs              12.01 3-methyl-L-tyrosine
+ZDJ "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "(2~{S})-2-azanyl-3-(3-methyl-4-oxidanyl-phenyl)propanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+ZDJ "Create component"     2021-04-15 RCSB
+ZDJ "Initial release"      2021-12-29 RCSB
+ZDJ "Standardize backbone" 2023-07-18 PDBE

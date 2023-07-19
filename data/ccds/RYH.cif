@@ -1,0 +1,146 @@
+data_RYH
+_chem_comp.id                     RYH
+_chem_comp.name                   "4-(4-aminocarbonylphenoxy)benzoic acid"
+_chem_comp.type                   non-polymer
+_chem_comp.pdbx_type              HETAIN
+_chem_comp.formula                "C14 H11 N O4"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2023-04-05
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         257.241
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      RYH
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7XJO
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBJ
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+RYH CAM C1  C 0 1 Y N N N N N 58.788 -47.660 25.805 -3.202 -0.676 1.008  CAM RYH 1
+RYH CAS C2  C 0 1 Y N N N N N 52.926 -48.931 23.574 3.553  -1.153 -0.194 CAS RYH 2
+RYH CAO C3  C 0 1 N N N N N N 60.882 -46.349 26.305 -4.821 0.929  0.007  CAO RYH 3
+RYH CAI C4  C 0 1 Y N N N N N 57.158 -46.877 24.180 -1.168 -1.232 -0.133 CAI RYH 4
+RYH CAK C5  C 0 1 Y N N N N N 59.165 -45.586 24.646 -2.698 0.314  -1.140 CAK RYH 5
+RYH OAC O1  O 0 1 N N Y N Y N 50.470 -49.773 24.465 5.845  0.421  -0.003 OAC RYH 6
+RYH OAH O2  O 0 1 N N N N N N 55.982 -47.022 23.463 0.001  -1.921 -0.176 OAH RYH 7
+RYH CAR C6  C 0 1 Y N N N N N 54.061 -48.278 23.102 2.376  -1.864 -0.269 CAR RYH 8
+RYH CAL C7  C 0 1 Y N N N N N 59.566 -46.526 25.572 -3.552 0.176  -0.043 CAL RYH 9
+RYH CAJ C8  C 0 1 Y N N N N N 57.953 -45.735 23.973 -1.515 -0.389 -1.183 CAJ RYH 10
+RYH CAN C9  C 0 1 Y N N N N N 57.589 -47.865 25.103 -2.015 -1.372 0.961  CAN RYH 11
+RYH CAB C10 C 0 1 N N Y N Y N 51.345 -49.688 25.351 4.779  0.987  0.139  CAB RYH 12
+RYH CAF C11 C 0 1 Y N N N N N 54.588 -47.729 25.350 1.122  0.152  0.143  CAF RYH 13
+RYH CAE C12 C 0 1 Y N N N N N 53.454 -48.387 25.837 2.294  0.872  0.215  CAE RYH 14
+RYH CAD C13 C 0 1 Y N N N N N 52.610 -48.965 24.938 3.521  0.222  0.052  CAD RYH 15
+RYH CAG C14 C 0 1 Y N N N N N 54.901 -47.683 23.965 1.158  -1.216 -0.101 CAG RYH 16
+RYH OAQ O3  O 0 1 N N N N N N 61.738 -45.703 25.744 -5.124 1.671  -0.908 OAQ RYH 17
+RYH NAP N1  N 0 1 N N N N N N 61.102 -46.898 27.517 -5.643 0.795  1.066  NAP RYH 18
+RYH H1  H1  H 0 1 N N N N N N 59.111 -48.389 26.534 -3.859 -0.785 1.858  H1  RYH 19
+RYH H2  H2  H 0 1 N N N N N N 52.272 -49.424 22.870 4.499  -1.658 -0.320 H2  RYH 20
+RYH H3  H3  H 0 1 N N N N N N 59.792 -44.731 24.441 -2.966 0.972  -1.954 H3  RYH 21
+RYH H4  H4  H 0 1 N N N N N N 54.266 -48.250 22.042 2.400  -2.927 -0.460 H4  RYH 22
+RYH H5  H5  H 0 1 N N N N N N 57.622 -44.968 23.288 -0.855 -0.283 -2.030 H5  RYH 23
+RYH H6  H6  H 0 1 N N N N N N 57.005 -48.759 25.263 -1.741 -2.027 1.774  H6  RYH 24
+RYH H8  H8  H 0 1 N N N N N N 55.248 -47.239 26.051 0.174  0.653  0.269  H8  RYH 25
+RYH H9  H9  H 0 1 N N N N N N 53.253 -48.435 26.897 2.265  1.936  0.396  H9  RYH 26
+RYH H10 H10 H 0 1 N N N N N N 61.986 -46.775 27.969 -5.401 0.204  1.796  H10 RYH 27
+RYH H11 H11 H 0 1 N N N N N N 60.382 -47.428 27.964 -6.477 1.290  1.099  H11 RYH 28
+RYH OXT OXT O 0 1 N Y Y N Y N 51.277 -50.109 26.641 4.747  2.313  0.377  OXT RYH 29
+RYH H7  H7  H 0 1 N Y Y N Y N 50.428 -50.503 26.802 5.597  2.771  0.425  H7  RYH 30
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+RYH CAR CAS DOUB Y N 1
+RYH CAR CAG SING Y N 2
+RYH OAH CAG SING N N 3
+RYH OAH CAI SING N N 4
+RYH CAS CAD SING Y N 5
+RYH CAG CAF DOUB Y N 6
+RYH CAJ CAI DOUB Y N 7
+RYH CAJ CAK SING Y N 8
+RYH CAI CAN SING Y N 9
+RYH OAC CAB DOUB N N 10
+RYH CAK CAL DOUB Y N 11
+RYH CAD CAB SING N N 12
+RYH CAD CAE DOUB Y N 13
+RYH CAN CAM DOUB Y N 14
+RYH CAF CAE SING Y N 15
+RYH CAL CAM SING Y N 16
+RYH CAL CAO SING N N 17
+RYH OAQ CAO DOUB N N 18
+RYH CAO NAP SING N N 19
+RYH CAM H1  SING N N 20
+RYH CAS H2  SING N N 21
+RYH CAK H3  SING N N 22
+RYH CAR H4  SING N N 23
+RYH CAJ H5  SING N N 24
+RYH CAN H6  SING N N 25
+RYH CAF H8  SING N N 26
+RYH CAE H9  SING N N 27
+RYH NAP H10 SING N N 28
+RYH NAP H11 SING N N 29
+RYH CAB OXT SING N N 30
+RYH OXT H7  SING N N 31
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+RYH InChI            InChI                1.06  "InChI=1S/C14H11NO4/c15-13(16)9-1-5-11(6-2-9)19-12-7-3-10(4-8-12)14(17)18/h1-8H,(H2,15,16)(H,17,18)"
+RYH InChIKey         InChI                1.06  FIHJPVBFFYAION-UHFFFAOYSA-N
+RYH SMILES_CANONICAL CACTVS               3.385 "NC(=O)c1ccc(Oc2ccc(cc2)C(O)=O)cc1"
+RYH SMILES           CACTVS               3.385 "NC(=O)c1ccc(Oc2ccc(cc2)C(O)=O)cc1"
+RYH SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "c1cc(ccc1C(=O)N)Oc2ccc(cc2)C(=O)O"
+RYH SMILES           "OpenEye OEToolkits" 2.0.7 "c1cc(ccc1C(=O)N)Oc2ccc(cc2)C(=O)O"
+
+_pdbx_chem_comp_identifier.comp_id RYH
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 2.0.7
+_pdbx_chem_comp_identifier.identifier "4-(4-aminocarbonylphenoxy)benzoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+RYH "Create component"     2023-04-05 PDBJ
+RYH "Initial release"      2023-04-12 RCSB
+RYH "Standardize backbone" 2023-07-18 PDBE

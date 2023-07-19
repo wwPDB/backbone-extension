@@ -1,0 +1,124 @@
+data_I2J
+_chem_comp.id                     I2J
+_chem_comp.name                   "2-(2-aminoethoxy)ethan-1-ol"
+_chem_comp.type                   non-polymer
+_chem_comp.pdbx_type              HETAIN
+_chem_comp.formula                "C4 H11 N O2"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-01-07
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         105.136
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      I2J
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7TCQ
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   RCSB
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+I2J C4  C1  C 0 1 N N N N N N 56.101 -2.404 15.401 -2.315 0.034  0.594  C4  I2J 1
+I2J C3  C2  C 0 1 N N N N N N 56.618 -3.520 14.467 -1.134 -0.889 0.287  C3  I2J 2
+I2J C2  C3  C 0 1 N N N N N N 57.241 -5.756 14.838 1.188  -0.871 -0.310 C2  I2J 3
+I2J C1  C4  C 0 1 N N N N N N 57.593 -6.533 16.150 2.357  0.071  -0.607 C1  I2J 4
+I2J N   N1  N 0 1 N N Y Y N N 56.442 -7.374 16.533 2.695  0.829  0.605  N   I2J 5
+I2J O2  O1  O 0 1 N N N N N N 56.335 -4.708 15.171 0.022  -0.101 -0.007 O2  I2J 6
+I2J O4  O2  O 0 1 N N N N N N 56.753 -1.224 14.992 -2.654 0.779  -0.577 O4  I2J 7
+I2J H1  H1  H 0 1 N N N N N N 55.011 -2.294 15.299 -3.172 -0.564 0.905  H1  I2J 8
+I2J H2  H2  H 0 1 N N N N N N 56.350 -2.635 16.447 -2.041 0.720  1.395  H2  I2J 9
+I2J H3  H3  H 0 1 N N N N N N 57.699 -3.416 14.294 -0.932 -1.521 1.152  H3  I2J 10
+I2J H4  H4  H 0 1 N N N N N N 56.088 -3.500 13.503 -1.375 -1.515 -0.572 H4  I2J 11
+I2J H5  H5  H 0 1 N N N N N N 56.771 -6.439 14.115 0.994  -1.496 -1.181 H5  I2J 12
+I2J H6  H6  H 0 1 N N N N N N 58.156 -5.332 14.400 1.438  -1.502 0.543  H6  I2J 13
+I2J H7  H7  H 0 1 N N N N N N 58.473 -7.169 15.977 3.221  -0.512 -0.924 H7  I2J 14
+I2J H8  H8  H 0 1 N N N N N N 57.811 -5.817 16.956 2.074  0.762  -1.401 H8  I2J 15
+I2J H9  H9  H 0 1 N N Y Y N N 56.659 -7.875 17.371 2.899  0.209  1.374  H9  I2J 16
+I2J H11 H10 H 0 1 N Y Y Y N N 55.642 -6.794 16.688 3.465  1.459  0.434  H11 I2J 17
+I2J H10 H12 H 0 1 N N N N N N 56.470 -0.500 15.537 -3.396 1.387  -0.455 H10 I2J 18
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+I2J C3 O2  SING N N 1
+I2J C3 C4  SING N N 2
+I2J C2 O2  SING N N 3
+I2J C2 C1  SING N N 4
+I2J O4 C4  SING N N 5
+I2J C1 N   SING N N 6
+I2J C4 H1  SING N N 7
+I2J C4 H2  SING N N 8
+I2J C3 H3  SING N N 9
+I2J C3 H4  SING N N 10
+I2J C2 H5  SING N N 11
+I2J C2 H6  SING N N 12
+I2J C1 H7  SING N N 13
+I2J C1 H8  SING N N 14
+I2J N  H9  SING N N 15
+I2J N  H11 SING N N 16
+I2J O4 H10 SING N N 17
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+I2J SMILES           ACDLabs              12.01 NCCOCCO
+I2J InChI            InChI                1.03  InChI=1S/C4H11NO2/c5-1-3-7-4-2-6/h6H,1-5H2
+I2J InChIKey         InChI                1.03  GIAFURWZWWWBQT-UHFFFAOYSA-N
+I2J SMILES_CANONICAL CACTVS               3.385 NCCOCCO
+I2J SMILES           CACTVS               3.385 NCCOCCO
+I2J SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "C(COCCO)N"
+I2J SMILES           "OpenEye OEToolkits" 2.0.7 "C(COCCO)N"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+I2J "SYSTEMATIC NAME" ACDLabs              12.01 "2-(2-aminoethoxy)ethan-1-ol"
+I2J "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "2-(2-azanylethoxy)ethanol"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+I2J "Create component"     2022-01-07 RCSB
+I2J "Initial release"      2022-08-03 RCSB
+I2J "Standardize backbone" 2023-07-18 PDBE

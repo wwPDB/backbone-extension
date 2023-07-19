@@ -1,0 +1,175 @@
+data_JMX
+_chem_comp.id                     JMX
+_chem_comp.name                   "(2S)-3-[1-[(4-bromophenyl)methyl]indol-3-yl]-2-(methylamino)propanoic acid"
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C19 H19 Br N2 O2"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          SC45647
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-05-05
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         387.270
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      JMX
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag Y
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7ZL3
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+JMX CA  C1  C  0 1 N N Y N N S 445.989 367.787 296.268 -4.615 -0.996 -0.101 CA  JMX 1
+JMX C1  C2  C  0 1 N N N N N N 445.913 367.414 298.909 -5.967 0.807  -0.985 C1  JMX 2
+JMX C   C3  C  0 1 N N Y N Y N 445.858 369.393 296.424 -5.639 -1.980 0.401  C   JMX 3
+JMX CB  C4  C  0 1 N N N N N N 444.513 367.228 296.016 -3.300 -1.199 0.655  CB  JMX 4
+JMX CG  C5  C  0 1 Y N N N N N 444.631 365.639 295.603 -2.241 -0.300 0.069  CG  JMX 5
+JMX CD1 C6  C  0 1 Y N N N N N 444.796 365.300 294.408 -1.344 -0.632 -0.872 CD1 JMX 6
+JMX CD2 C7  C  0 1 Y N N N N N 444.551 364.626 296.610 -1.999 1.102  0.416  CD2 JMX 7
+JMX CE3 C8  C  0 1 Y N N N N N 444.387 364.420 297.990 -2.594 1.999  1.306  CE3 JMX 8
+JMX CE2 C9  C  0 1 Y N N N N N 444.719 363.219 295.746 -0.918 1.519  -0.381 CE2 JMX 9
+JMX CZ3 C10 C  0 1 Y N N N N N 444.365 363.152 298.611 -2.123 3.278  1.398  CZ3 JMX 10
+JMX C2  C11 C  0 1 N N N N N N 445.074 363.151 292.915 0.548  0.446  -2.131 C2  JMX 11
+JMX CZ2 C12 C  0 1 Y N N N N N 444.692 361.860 296.409 -0.454 2.826  -0.271 CZ2 JMX 12
+JMX CH2 C13 C  0 1 Y N N N N N 444.505 361.855 297.925 -1.056 3.694  0.613  CH2 JMX 13
+JMX C3  C14 C  0 1 Y N N N N N 443.743 362.263 292.639 1.850  0.155  -1.431 C3  JMX 14
+JMX C4  C15 C  0 1 Y N N N N N 442.482 362.842 292.796 2.285  -1.151 -1.297 C4  JMX 15
+JMX C5  C16 C  0 1 Y N N N N N 441.162 361.964 292.523 3.480  -1.419 -0.656 C5  JMX 16
+JMX C6  C17 C  0 1 Y N N N N N 441.281 360.634 292.133 4.241  -0.381 -0.149 C6  JMX 17
+JMX C7  C18 C  0 1 Y N N N N N 442.739 359.971 291.957 3.805  0.925  -0.284 C7  JMX 18
+JMX C8  C19 C  0 1 Y N N N N N 443.885 360.725 292.190 2.613  1.193  -0.930 C8  JMX 19
+JMX N   N1  N  0 1 N N Y Y N N 446.576 367.152 297.537 -5.101 0.372  0.119  N   JMX 20
+JMX NE1 N2  N  0 1 Y N N N N N 444.877 363.912 294.248 -0.543 0.442  -1.153 NE1 JMX 21
+JMX O   O1  O  0 1 N N Y N Y N 444.796 369.890 296.854 -6.669 -1.583 0.892  O   JMX 22
+JMX BR1 BR1 BR 0 0 N N N N N N 439.609 359.519 291.783 5.875  -0.747 0.729  BR1 JMX 23
+JMX HA  H1  H  0 1 N N Y N N N 446.622 367.558 295.398 -4.449 -1.156 -1.167 HA  JMX 24
+JMX H2  H2  H  0 1 N N Y Y N N 446.469 366.880 299.694 -5.406 0.782  -1.919 H2  JMX 25
+JMX H3  H3  H  0 1 N N N N N N 445.924 368.493 299.121 -6.825 0.139  -1.058 H3  JMX 26
+JMX H4  H4  H  0 1 N N N N N N 444.873 367.055 298.888 -6.313 1.824  -0.796 H4  JMX 27
+JMX HB1 H6  H  0 1 N N N N N N 444.036 367.791 295.200 -3.444 -0.953 1.707  HB1 JMX 28
+JMX HB2 H7  H  0 1 N N N N N N 443.914 367.331 296.933 -2.985 -2.238 0.564  HB2 JMX 29
+JMX H8  H8  H  0 1 N N N N N N 444.868 366.002 293.591 -1.265 -1.602 -1.339 H8  JMX 30
+JMX H9  H9  H  0 1 N N N N N N 444.270 365.290 298.618 -3.425 1.682  1.920  H9  JMX 31
+JMX H10 H10 H  0 1 N N N N N N 444.234 363.131 299.683 -2.584 3.970  2.087  H10 JMX 32
+JMX H11 H11 H  0 1 N N N N N N 445.953 362.493 292.988 0.603  1.424  -2.609 H11 JMX 33
+JMX H12 H12 H  0 1 N N N N N N 445.220 363.869 292.094 0.361  -0.317 -2.886 H12 JMX 34
+JMX H13 H13 H  0 1 N N N N N N 444.799 360.946 295.843 0.375  3.160  -0.877 H13 JMX 35
+JMX H14 H14 H  0 1 N N N N N N 444.476 360.928 298.478 -0.695 4.708  0.697  H14 JMX 36
+JMX H15 H15 H  0 1 N N N N N N 442.393 363.875 293.099 1.691  -1.961 -1.692 H15 JMX 37
+JMX H16 H16 H  0 1 N N N N N N 440.184 362.407 292.642 3.819  -2.438 -0.550 H16 JMX 38
+JMX H17 H17 H  0 1 N N N N N N 442.827 358.937 291.657 4.399  1.736  0.112  H17 JMX 39
+JMX H18 H18 H  0 1 N N N N N N 444.862 360.281 292.070 2.273  2.213  -1.035 H18 JMX 40
+JMX H   H19 H  0 1 N Y Y Y N N 446.566 366.162 297.396 -5.578 0.448  1.005  H   JMX 41
+JMX OXT O2  O  0 1 N Y Y N Y N ?       ?       ?       -5.408 -3.299 0.303  OXT JMX 42
+JMX HXT H5  H  0 1 N Y Y N Y N ?       ?       ?       -6.095 -3.891 0.638  HXT JMX 43
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+JMX BR1 C6  SING N N 1
+JMX C7  C6  DOUB Y N 2
+JMX C7  C8  SING Y N 3
+JMX C6  C5  SING Y N 4
+JMX C8  C3  DOUB Y N 5
+JMX C5  C4  DOUB Y N 6
+JMX C3  C4  SING Y N 7
+JMX C3  C2  SING N N 8
+JMX C2  NE1 SING N N 9
+JMX NE1 CD1 SING Y N 10
+JMX NE1 CE2 SING Y N 11
+JMX CD1 CG  DOUB Y N 12
+JMX CG  CB  SING N N 13
+JMX CG  CD2 SING Y N 14
+JMX CE2 CZ2 SING Y N 15
+JMX CE2 CD2 DOUB Y N 16
+JMX CB  CA  SING N N 17
+JMX CA  C   SING N N 18
+JMX CA  N   SING N N 19
+JMX CZ2 CH2 DOUB Y N 20
+JMX C   O   DOUB N N 21
+JMX CD2 CE3 SING Y N 22
+JMX N   C1  SING N N 23
+JMX CH2 CZ3 SING Y N 24
+JMX CE3 CZ3 DOUB Y N 25
+JMX CA  HA  SING N N 26
+JMX C1  H2  SING N N 27
+JMX C1  H3  SING N N 28
+JMX C1  H4  SING N N 29
+JMX CB  HB1 SING N N 30
+JMX CB  HB2 SING N N 31
+JMX CD1 H8  SING N N 32
+JMX CE3 H9  SING N N 33
+JMX CZ3 H10 SING N N 34
+JMX C2  H11 SING N N 35
+JMX C2  H12 SING N N 36
+JMX CZ2 H13 SING N N 37
+JMX CH2 H14 SING N N 38
+JMX C4  H15 SING N N 39
+JMX C5  H16 SING N N 40
+JMX C7  H17 SING N N 41
+JMX C8  H18 SING N N 42
+JMX N   H   SING N N 43
+JMX C   OXT SING N N 44
+JMX OXT HXT SING N N 45
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+JMX InChI            InChI                1.06  "InChI=1S/C19H19BrN2O2/c1-21-17(19(23)24)10-14-12-22(18-5-3-2-4-16(14)18)11-13-6-8-15(20)9-7-13/h2-9,12,17,21H,10-11H2,1H3,(H,23,24)/t17-/m0/s1"
+JMX InChIKey         InChI                1.06  GEVMMIKHVGIGMB-KRWDZBQOSA-N
+JMX SMILES_CANONICAL CACTVS               3.385 "CN[C@@H](Cc1cn(Cc2ccc(Br)cc2)c3ccccc13)C(O)=O"
+JMX SMILES           CACTVS               3.385 "CN[CH](Cc1cn(Cc2ccc(Br)cc2)c3ccccc13)C(O)=O"
+JMX SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "CN[C@@H](Cc1cn(c2c1cccc2)Cc3ccc(cc3)Br)C(=O)O"
+JMX SMILES           "OpenEye OEToolkits" 2.0.7 "CNC(Cc1cn(c2c1cccc2)Cc3ccc(cc3)Br)C(=O)O"
+
+_pdbx_chem_comp_identifier.comp_id JMX
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 2.0.7
+_pdbx_chem_comp_identifier.identifier "(2~{S})-3-[1-[(4-bromophenyl)methyl]indol-3-yl]-2-(methylamino)propanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+JMX "Create component"     2022-06-20 PDBE
+JMX "Modify descriptor"    2022-08-22 RCSB
+JMX "Modify internal type" 2023-01-13 PDBE
+JMX "Initial release"      2023-03-22 RCSB
+JMX "Standardize backbone" 2023-07-18 PDBE

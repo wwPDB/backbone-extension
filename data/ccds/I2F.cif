@@ -1,0 +1,177 @@
+data_I2F
+_chem_comp.id                     I2F
+_chem_comp.name                   "(2~{S},4~{R},5~{E})-5-[(5~{S})-5-azanyl-6-oxidanyl-hexyl]iminohexane-1,2,4-triol"
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              HETAIN
+_chem_comp.formula                "C12 H26 N2 O5"
+_chem_comp.mon_nstd_parent_comp_id LYS
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-02-08
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         278.345
+_chem_comp.one_letter_code        K
+_chem_comp.three_letter_code      I2F
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag Y
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7QXF
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+I2F N   N   N 0 1 N N Y Y N N 31.900 26.664 -13.968 5.721  1.240  -0.618 N   I2F 1
+I2F CA  CA  C 0 1 N N Y N N S 32.476 26.713 -12.606 5.226  0.054  0.095  CA  I2F 2
+I2F CB  CB  C 0 1 N N N N N N 33.646 25.738 -12.469 3.822  -0.292 -0.405 CB  I2F 3
+I2F CG  CG  C 0 1 N N N N N N 33.506 24.350 -13.124 2.856  0.835  -0.036 CG  I2F 4
+I2F CD  CD  C 0 1 N N N N N N 34.798 23.513 -13.020 1.452  0.489  -0.536 CD  I2F 5
+I2F CE  CE  C 0 1 N N N N N N 35.160 23.259 -11.568 0.486  1.616  -0.166 CE  I2F 6
+I2F NZ  NZ  N 0 1 N N N N N N 36.379 22.488 -11.441 -0.858 1.284  -0.645 NZ  I2F 7
+I2F CH  CH  C 0 1 N N N N N N 36.548 21.495 -10.683 -1.804 1.082  0.192  CH  I2F 8
+I2F C1  C1  C 0 1 N N N N N N 35.417 20.950 -9.866  -1.507 1.043  1.669  C1  I2F 9
+I2F C2  C2  C 0 1 N N N N N R 37.890 20.850 -10.666 -3.214 0.881  -0.298 C2  I2F 10
+I2F O4  O4  O 0 1 N N N N N N 37.782 19.884 -11.700 -4.034 1.960  0.155  O4  I2F 11
+I2F C   C   C 0 1 N N Y N Y N 32.937 28.134 -12.264 6.165  -1.126 -0.164 C   I2F 12
+I2F O   O   O 0 1 N N Y N Y N 33.763 28.648 -13.102 5.683  -2.279 0.530  O   I2F 13
+I2F C3  C3  C 0 1 N N N N N N 38.287 20.189 -9.337  -3.761 -0.439 0.249  C3  I2F 14
+I2F C5  C5  C 0 1 N N N N N S 39.785 20.319 -9.027  -5.145 -0.704 -0.348 C5  I2F 15
+I2F C6  C6  C 0 1 N N N N N N 40.092 19.778 -7.627  -5.639 -2.081 0.100  C6  I2F 16
+I2F O6  O6  O 0 1 N N N N N N 40.578 19.599 -9.975  -6.058 0.299  0.103  O6  I2F 17
+I2F O1  O1  O 0 1 N N N N N N 41.385 19.155 -7.524  -6.877 -2.378 -0.549 O1  I2F 18
+I2F H   H1  H 0 1 N N Y Y N N 31.138 27.309 -14.032 5.764  1.072  -1.612 H1  I2F 19
+I2F H2  H2  H 0 1 N Y Y Y N N 32.602 26.911 -14.636 5.154  2.048  -0.412 H2  I2F 20
+I2F HA  H4  H 0 1 N N Y N N N 31.700 26.422 -11.883 5.189  0.262  1.164  H4  I2F 21
+I2F H5  H5  H 0 1 N N N N N N 33.815 25.578 -11.394 3.841  -0.413 -1.488 H5  I2F 22
+I2F H6  H6  H 0 1 N N N N N N 34.529 26.222 -12.911 3.490  -1.221 0.058  H6  I2F 23
+I2F H7  H7  H 0 1 N N N N N N 33.258 24.485 -14.187 2.836  0.956  1.047  H7  I2F 24
+I2F H8  H8  H 0 1 N N N N N N 32.692 23.805 -12.624 3.188  1.764  -0.499 H8  I2F 25
+I2F H9  H9  H 0 1 N N N N N N 34.645 22.549 -13.528 1.472  0.368  -1.619 H9  I2F 26
+I2F H10 H10 H 0 1 N N N N N N 35.621 24.057 -13.507 1.120  -0.440 -0.072 H10 I2F 27
+I2F H11 H11 H 0 1 N N N N N N 35.297 24.226 -11.061 0.466  1.737  0.917  H11 I2F 28
+I2F H12 H12 H 0 1 N N N N N N 34.339 22.707 -11.088 0.818  2.545  -0.630 H12 I2F 29
+I2F H13 H13 H 0 1 N N N N N N 35.770 20.090 -9.278  -1.515 2.058  2.068  H13 I2F 30
+I2F H14 H14 H 0 1 N N N N N N 35.046 21.731 -9.187  -2.265 0.447  2.177  H14 I2F 31
+I2F H15 H15 H 0 1 N N N N N N 34.604 20.628 -10.534 -0.525 0.597  1.831  H15 I2F 32
+I2F H16 H16 H 0 1 N N N N N N 38.653 21.598 -10.926 -3.220 0.853  -1.388 H16 I2F 33
+I2F H17 H17 H 0 1 N N N N N N 38.600 19.407 -11.775 -4.076 2.045  1.117  H17 I2F 34
+I2F H18 H18 H 0 1 N N Y N Y N 33.338 28.130 -11.240 6.201  -1.334 -1.233 H18 I2F 35
+I2F H20 H20 H 0 1 N N Y N Y N 33.998 29.524 -12.819 5.624  -2.165 1.488  H20 I2F 36
+I2F H21 H21 H 0 1 N N N N N N 37.718 20.665 -8.525  -3.087 -1.252 -0.022 H21 I2F 37
+I2F H22 H22 H 0 1 N N N N N N 38.031 19.120 -9.386  -3.839 -0.379 1.334  H22 I2F 38
+I2F H23 H23 H 0 1 N N N N N N 40.052 21.386 -9.053  -5.083 -0.677 -1.436 H23 I2F 39
+I2F H24 H24 H 0 1 N N N N N N 40.050 20.614 -6.914  -4.899 -2.837 -0.166 H24 I2F 40
+I2F H25 H25 H 0 1 N N N N N N 39.325 19.034 -7.365  -5.786 -2.081 1.180  H25 I2F 41
+I2F H26 H26 H 0 1 N N N N N N 41.498 19.697 -9.759  -6.163 0.332  1.064  H26 I2F 42
+I2F H27 H27 H 0 1 N N N N N N 41.516 18.841 -6.637  -7.249 -3.238 -0.311 H27 I2F 43
+I2F OXT OXT O 0 1 N Y Y N Y N ?      ?      ?       7.476  -0.802 0.303  OXT I2F 44
+I2F HXT H3  H 0 1 N Y Y N Y N ?      ?      ?       8.125  -1.506 0.172  H3  I2F 45
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+I2F N   CA  SING N N 1
+I2F CG  CD  SING N N 2
+I2F CG  CB  SING N N 3
+I2F O   C   SING N N 4
+I2F CD  CE  SING N N 5
+I2F CA  CB  SING N N 6
+I2F CA  C   SING N N 7
+I2F O4  C2  SING N N 8
+I2F CE  NZ  SING N N 9
+I2F NZ  CH  DOUB N N 10
+I2F CH  C2  SING N N 11
+I2F CH  C1  SING N N 12
+I2F C2  C3  SING N N 13
+I2F O6  C5  SING N N 14
+I2F C3  C5  SING N N 15
+I2F C5  C6  SING N N 16
+I2F C6  O1  SING N N 17
+I2F N   H   SING N N 18
+I2F N   H2  SING N N 19
+I2F CA  HA  SING N N 20
+I2F CB  H5  SING N N 21
+I2F CB  H6  SING N N 22
+I2F CG  H7  SING N N 23
+I2F CG  H8  SING N N 24
+I2F CD  H9  SING N N 25
+I2F CD  H10 SING N N 26
+I2F CE  H11 SING N N 27
+I2F CE  H12 SING N N 28
+I2F C1  H13 SING N N 29
+I2F C1  H14 SING N N 30
+I2F C1  H15 SING N N 31
+I2F C2  H16 SING N N 32
+I2F O4  H17 SING N N 33
+I2F C   H18 SING N N 34
+I2F O   H20 SING N N 35
+I2F C3  H21 SING N N 36
+I2F C3  H22 SING N N 37
+I2F C5  H23 SING N N 38
+I2F C6  H24 SING N N 39
+I2F C6  H25 SING N N 40
+I2F O6  H26 SING N N 41
+I2F O1  H27 SING N N 42
+I2F C   OXT SING N N 43
+I2F OXT HXT SING N N 44
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+I2F InChI            InChI                1.06  "InChI=1S/C12H26N2O5/c1-8(11(17)6-9(16)7-15)14-5-3-2-4-10(13)12(18)19/h9-12,15-19H,2-7,13H2,1H3/b14-8+/t9-,10-,11+/m0/s1"
+I2F InChIKey         InChI                1.06  NOGRJEXZOQDSRE-WDLDIGNLSA-N
+I2F SMILES_CANONICAL CACTVS               3.385 "CC(=NCCCC[C@H](N)C(O)O)[C@H](O)C[C@H](O)CO"
+I2F SMILES           CACTVS               3.385 "CC(=NCCCC[CH](N)C(O)O)[CH](O)C[CH](O)CO"
+I2F SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "C/C(=N\CCCC[C@@H](C(O)O)N)/[C@@H](C[C@@H](CO)O)O"
+I2F SMILES           "OpenEye OEToolkits" 2.0.7 "CC(=NCCCCC(C(O)O)N)C(CC(CO)O)O"
+
+_pdbx_chem_comp_identifier.comp_id I2F
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 2.0.7
+_pdbx_chem_comp_identifier.identifier
+"(2~{S},4~{R},5~{E})-5-[(5~{S})-5-azanyl-6,6-bis(oxidanyl)hexyl]iminohexane-1,2,4-triol"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+I2F "Create component"     2022-02-08 PDBE
+I2F "Modify linking type"  2022-06-15 PDBE
+I2F "Modify descriptor"    2022-08-22 RCSB
+I2F "Initial release"      2023-02-08 RCSB
+I2F "Standardize backbone" 2023-07-18 PDBE

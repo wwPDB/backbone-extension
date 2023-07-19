@@ -1,0 +1,140 @@
+data_2IQ
+_chem_comp.id                     2IQ
+_chem_comp.name                   "2-(hexylamino)ethanoic acid"
+_chem_comp.type                   non-polymer
+_chem_comp.pdbx_type              HETAIN
+_chem_comp.formula                "C8 H17 N O2"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-01-28
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         159.226
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      2IQ
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7WMC
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBJ
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+2IQ O   O   O 0 1 N N Y N Y N -4.492 27.915 38.440 3.767  -1.327 -0.021 O   2IQ 1
+2IQ C   C   C 0 1 N N Y N Y N -5.177 27.696 37.459 3.858  -0.122 -0.010 C   2IQ 2
+2IQ C1  CA  C 0 1 N N Y N N N -4.525 27.476 36.098 2.614  0.728  -0.001 CA  2IQ 3
+2IQ N   N   N 0 1 N N Y Y N N -5.444 27.878 35.034 1.428  -0.140 -0.008 N   2IQ 4
+2IQ CG  CG  C 0 1 N N N N N N -5.696 29.337 34.832 0.193  0.655  0.000  CG  2IQ 5
+2IQ CD  CD  C 0 1 N N N N N N -4.424 30.074 34.389 -1.017 -0.281 -0.007 CD  2IQ 6
+2IQ CE  CE  C 0 1 N N N N N N -4.763 31.245 33.518 -2.303 0.547  0.001  CE  2IQ 7
+2IQ CZ  CZ  C 0 1 N N N N N N -4.457 32.566 34.178 -3.513 -0.389 -0.006 CZ  2IQ 8
+2IQ CH  CH  C 0 1 N N N N N N -3.908 33.471 33.106 -4.799 0.440  0.002  CH  2IQ 9
+2IQ CT  CT  C 0 1 N N N N N N -3.646 34.779 33.784 -6.009 -0.497 -0.005 CT  2IQ 10
+2IQ OXT O1  O 0 1 N Y Y N Y N -6.502 27.565 37.525 5.068  0.459  0.000  O1  2IQ 11
+2IQ H1  H1  H 0 1 N N Y N N N -4.276 26.411 35.981 2.604  1.349  0.895  H1  2IQ 12
+2IQ H4  H2  H 0 1 N N Y N N N -3.606 28.077 36.033 2.602  1.365  -0.885 H2  2IQ 13
+2IQ H   H3  H 0 1 N Y Y Y N N -6.326 27.449 35.227 1.448  -0.786 0.767  H3  2IQ 14
+2IQ H5  H5  H 0 1 N N N N N N -6.050 29.773 35.778 0.167  1.276  0.896  H5  2IQ 15
+2IQ H6  H6  H 0 1 N N N N N N -6.469 29.462 34.059 0.166  1.292  -0.884 H6  2IQ 16
+2IQ H7  H7  H 0 1 N N N N N N -3.783 29.380 33.826 -0.990 -0.902 -0.903 H7  2IQ 17
+2IQ H8  H8  H 0 1 N N N N N N -3.885 30.431 35.279 -0.989 -0.918 0.877  H8  2IQ 18
+2IQ H9  H9  H 0 1 N N N N N N -5.837 31.209 33.282 -2.329 1.168  0.897  H9  2IQ 19
+2IQ H10 H10 H 0 1 N N N N N N -4.180 31.173 32.588 -2.331 1.184  -0.883 H10 2IQ 20
+2IQ H11 H11 H 0 1 N N N N N N -3.712 32.427 34.975 -3.486 -1.010 -0.902 H11 2IQ 21
+2IQ H12 H12 H 0 1 N N N N N N -5.374 32.998 34.605 -3.485 -1.026 0.878  H12 2IQ 22
+2IQ H13 H13 H 0 1 N N N N N N -4.642 33.598 32.297 -4.825 1.060  0.898  H13 2IQ 23
+2IQ H14 H14 H 0 1 N N N N N N -2.976 33.058 32.694 -4.827 1.077  -0.882 H14 2IQ 24
+2IQ H15 H15 H 0 1 N N N N N N -3.240 35.496 33.055 -5.983 -1.117 -0.901 H15 2IQ 25
+2IQ H16 H16 H 0 1 N N N N N N -4.586 35.171 34.199 -5.981 -1.134 0.879  H16 2IQ 26
+2IQ H17 H17 H 0 1 N N N N N N -2.920 34.632 34.597 -6.925 0.094  0.001  H17 2IQ 27
+2IQ HXT H18 H 0 1 N Y Y N Y N -6.786 27.669 38.425 5.837  -0.127 -0.002 H18 2IQ 28
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+2IQ CH  CT  SING N N 1
+2IQ CH  CZ  SING N N 2
+2IQ CE  CZ  SING N N 3
+2IQ CE  CD  SING N N 4
+2IQ CD  CG  SING N N 5
+2IQ CG  N   SING N N 6
+2IQ N   C1  SING N N 7
+2IQ C1  C   SING N N 8
+2IQ C   O   DOUB N N 9
+2IQ C   OXT SING N N 10
+2IQ C1  H1  SING N N 11
+2IQ C1  H4  SING N N 12
+2IQ N   H   SING N N 13
+2IQ CG  H5  SING N N 14
+2IQ CG  H6  SING N N 15
+2IQ CD  H7  SING N N 16
+2IQ CD  H8  SING N N 17
+2IQ CE  H9  SING N N 18
+2IQ CE  H10 SING N N 19
+2IQ CZ  H11 SING N N 20
+2IQ CZ  H12 SING N N 21
+2IQ CH  H13 SING N N 22
+2IQ CH  H14 SING N N 23
+2IQ CT  H15 SING N N 24
+2IQ CT  H16 SING N N 25
+2IQ CT  H17 SING N N 26
+2IQ OXT HXT SING N N 27
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+2IQ InChI            InChI                1.03  "InChI=1S/C8H17NO2/c1-2-3-4-5-6-9-7-8(10)11/h9H,2-7H2,1H3,(H,10,11)"
+2IQ InChIKey         InChI                1.03  DAQPDSNNUNDKNX-UHFFFAOYSA-N
+2IQ SMILES_CANONICAL CACTVS               3.385 "CCCCCCNCC(O)=O"
+2IQ SMILES           CACTVS               3.385 "CCCCCCNCC(O)=O"
+2IQ SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "CCCCCCNCC(=O)O"
+2IQ SMILES           "OpenEye OEToolkits" 2.0.7 "CCCCCCNCC(=O)O"
+
+_pdbx_chem_comp_identifier.comp_id 2IQ
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 2.0.7
+_pdbx_chem_comp_identifier.identifier "2-(hexylamino)ethanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+2IQ "Create component"     2022-01-28 PDBJ
+2IQ "Initial release"      2022-08-31 RCSB
+2IQ "Standardize backbone" 2023-07-18 PDBE

@@ -1,0 +1,150 @@
+data_D8R
+_chem_comp.id                     D8R
+_chem_comp.name                   "(2~{S})-2-azanyl-6-[[(2~{R})-2-oxidanylpropanoyl]amino]hexanoic acid"
+_chem_comp.type                   non-polymer
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C9 H18 N2 O4"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-04-11
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         218.250
+_chem_comp.one_letter_code        K
+_chem_comp.three_letter_code      D8R
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7XF4
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBJ
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+D8R N   N   N 0 1 N N Y Y N N 37.517 45.661 24.932 3.829  1.745  -0.199 N   D8R 1
+D8R CA  CA  C 0 1 N N Y N N S 38.195 46.092 26.152 3.730  0.399  0.382  CA  D8R 2
+D8R CB  CB  C 0 1 N N N N N N 39.031 47.363 25.956 2.483  -0.301 -0.163 CB  D8R 3
+D8R CG  CG  C 0 1 N N N N N N 40.026 47.347 24.799 1.232  0.440  0.315  CG  D8R 4
+D8R CD  CD  C 0 1 N N N N N N 40.792 48.651 24.615 -0.014 -0.259 -0.230 CD  D8R 5
+D8R CE  CE  C 0 1 N N N N N N 41.553 48.750 23.295 -1.265 0.481  0.248  CE  D8R 6
+D8R NZ  NZ  N 0 1 N N N N N N 42.468 49.942 23.134 -2.459 -0.189 -0.274 NZ  D8R 7
+D8R C   C   C 0 1 N N Y N Y N 37.132 46.409 27.208 4.954  -0.398 0.015  C   D8R 8
+D8R O   OXT O 0 1 N N Y N Y N 36.499 47.451 26.954 5.634  -0.063 -0.926 OXT D8R 9
+D8R C1  C1  C 0 1 N N N N N N 42.512 50.454 21.794 -3.683 0.291  0.020  C1  D8R 10
+D8R C2  C2  C 0 1 N N N N N R 42.938 51.891 21.525 -4.911 -0.398 -0.517 C2  D8R 11
+D8R C3  C3  C 0 1 N N N N N N 44.146 51.960 20.619 -5.015 -1.799 0.088  C3  D8R 12
+D8R O1  O1  O 0 1 N N N N N N 42.165 49.735 20.893 -3.797 1.278  0.716  O1  D8R 13
+D8R O2  O2  O 0 1 N N N N N N 41.872 52.629 20.947 -6.073 0.358  -0.169 O2  D8R 14
+D8R OXT O3  O 0 1 N Y Y N Y N 37.144 45.433 28.242 5.290  -1.482 0.733  O3  D8R 15
+D8R H   H1  H 0 1 N N Y Y N N 36.990 44.832 25.118 4.609  2.251  0.194  H1  D8R 16
+D8R H2  H2  H 0 1 N Y Y Y N N 36.901 46.384 24.620 3.897  1.700  -1.204 H2  D8R 17
+D8R HA  H4  H 0 1 N N Y N N N 38.846 45.288 26.526 3.658  0.476  1.467  H4  D8R 18
+D8R H5  H5  H 0 1 N N N N N N 39.597 47.538 26.883 2.512  -0.299 -1.252 H5  D8R 19
+D8R H6  H6  H 0 1 N N N N N N 38.336 48.199 25.788 2.456  -1.329 0.198  H6  D8R 20
+D8R H7  H7  H 0 1 N N N N N N 39.473 47.138 23.871 1.203  0.438  1.405  H7  D8R 21
+D8R H8  H8  H 0 1 N N N N N N 40.754 46.542 24.981 1.259  1.468  -0.046 H8  D8R 22
+D8R H9  H9  H 0 1 N N N N N N 41.516 48.745 25.438 0.015  -0.258 -1.319 H9  D8R 23
+D8R H10 H10 H 0 1 N N N N N N 40.073 49.483 24.662 -0.041 -1.288 0.131  H10 D8R 24
+D8R H11 H11 H 0 1 N N N N N N 40.812 48.785 22.483 -1.294 0.479  1.338  H11 D8R 25
+D8R H12 H12 H 0 1 N N N N N N 42.165 47.842 23.193 -1.238 1.510  -0.113 H12 D8R 26
+D8R H13 H13 H 0 1 N N N N N N 42.992 50.336 23.889 -2.368 -0.978 -0.831 H13 D8R 27
+D8R H14 H14 H 0 1 N N N N N N 43.211 52.346 22.488 -4.840 -0.475 -1.602 H14 D8R 28
+D8R H15 H15 H 0 1 N N N N N N 44.973 51.389 21.066 -5.087 -1.722 1.173  H15 D8R 29
+D8R H16 H16 H 0 1 N N N N N N 43.893 51.532 19.638 -5.903 -2.298 -0.300 H16 D8R 30
+D8R H17 H17 H 0 1 N N N N N N 44.451 53.009 20.494 -4.129 -2.376 -0.177 H17 D8R 31
+D8R H18 H18 H 0 1 N N N N N N 41.260 52.031 20.534 -6.902 -0.027 -0.483 H18 D8R 32
+D8R HXT H19 H 0 1 N Y Y N Y N 36.492 45.656 28.896 6.084  -1.961 0.459  H19 D8R 33
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+D8R C3  C2  SING N N 1
+D8R O1  C1  DOUB N N 2
+D8R O2  C2  SING N N 3
+D8R C2  C1  SING N N 4
+D8R C1  NZ  SING N N 5
+D8R NZ  CE  SING N N 6
+D8R CE  CD  SING N N 7
+D8R CD  CG  SING N N 8
+D8R CG  CB  SING N N 9
+D8R N   CA  SING N N 10
+D8R CB  CA  SING N N 11
+D8R CA  C   SING N N 12
+D8R O   C   DOUB N N 13
+D8R C   OXT SING N N 14
+D8R N   H   SING N N 15
+D8R N   H2  SING N N 16
+D8R CA  HA  SING N N 17
+D8R CB  H5  SING N N 18
+D8R CB  H6  SING N N 19
+D8R CG  H7  SING N N 20
+D8R CG  H8  SING N N 21
+D8R CD  H9  SING N N 22
+D8R CD  H10 SING N N 23
+D8R CE  H11 SING N N 24
+D8R CE  H12 SING N N 25
+D8R NZ  H13 SING N N 26
+D8R C2  H14 SING N N 27
+D8R C3  H15 SING N N 28
+D8R C3  H16 SING N N 29
+D8R C3  H17 SING N N 30
+D8R O2  H18 SING N N 31
+D8R OXT HXT SING N N 32
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+D8R InChI            InChI                1.03  "InChI=1S/C9H18N2O4/c1-6(12)8(13)11-5-3-2-4-7(10)9(14)15/h6-7,12H,2-5,10H2,1H3,(H,11,13)(H,14,15)/t6-,7+/m1/s1"
+D8R InChIKey         InChI                1.03  TVFTZQHBUQYHFH-RQJHMYQMSA-N
+D8R SMILES_CANONICAL CACTVS               3.385 "C[C@@H](O)C(=O)NCCCC[C@H](N)C(O)=O"
+D8R SMILES           CACTVS               3.385 "C[CH](O)C(=O)NCCCC[CH](N)C(O)=O"
+D8R SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "C[C@H](C(=O)NCCCC[C@@H](C(=O)O)N)O"
+D8R SMILES           "OpenEye OEToolkits" 2.0.7 "CC(C(=O)NCCCCC(C(=O)O)N)O"
+
+_pdbx_chem_comp_identifier.comp_id D8R
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 2.0.7
+_pdbx_chem_comp_identifier.identifier "(2~{S})-2-azanyl-6-[[(2~{R})-2-oxidanylpropanoyl]amino]hexanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+D8R "Create component"     2022-04-11 PDBJ
+D8R "Initial release"      2023-05-10 RCSB
+D8R "Standardize backbone" 2023-07-18 PDBE

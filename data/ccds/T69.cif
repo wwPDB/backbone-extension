@@ -1,0 +1,210 @@
+data_T69
+_chem_comp.id                     T69
+_chem_comp.name
+"(2E)-3-{(2R,4S)-2-[(2S,3S,5S,7S)-3,7-dihydroxy-5,8,8-trimethylnonan-2-yl]-1,3-thiazolidin-4-yl}-2-methylprop-2-enoic acid"
+_chem_comp.type                   non-polymer
+_chem_comp.pdbx_type              HETAIN
+_chem_comp.formula                "C19 H35 N O4 S"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-07-18
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         373.551
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      T69
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 8DNZ
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   RCSB
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+T69 C15  C1  C 0 1 N N N N N S 143.176 160.053 112.952 -5.117 0.597  0.373  C15  T69 1
+T69 C16  C2  C 0 1 N N N N N N 143.853 161.324 113.559 -6.324 1.447  -0.028 C16  T69 2
+T69 C17  C3  C 0 1 N N N N N S 141.186 158.255 113.398 -3.472 -1.110 -0.416 C17  T69 3
+T69 C18  C4  C 0 1 N N N N N N 142.081 159.424 113.935 -4.713 -0.302 -0.798 C18  T69 4
+T69 C19  C5  C 0 1 N N N N N N 141.427 157.956 111.888 -2.283 -0.164 -0.237 C19  T69 5
+T69 C20  C6  C 0 1 N N N N N S 140.614 156.762 111.338 -1.073 -0.954 0.265  C20  T69 6
+T69 C21  C7  C 0 1 N N N N N N 142.857 162.503 113.385 -6.727 2.345  1.143  C21  T69 7
+T69 C22  C8  C 0 1 N N N N N N 145.172 161.566 112.764 -5.958 2.315  -1.234 C22  T69 8
+T69 C23  C9  C 0 1 N N N N N N 144.155 161.167 115.056 -7.493 0.531  -0.395 C23  T69 9
+T69 C24  C10 C 0 1 N N N N N N 139.687 158.561 113.643 -3.159 -2.118 -1.524 C24  T69 10
+T69 C25  C11 C 0 1 N N N N N S 141.034 156.286 109.931 0.148  -0.035 0.325  C25  T69 11
+T69 C26  C12 C 0 1 N N N N N R 140.416 154.895 109.533 1.358  -0.825 0.827  C26  T69 12
+T69 C28  C13 C 0 1 N N N N N N 140.663 157.431 108.944 0.442  0.515  -1.072 C28  T69 13
+T69 C33  C14 C 0 1 N N N N N S 139.849 152.738 108.595 3.611  -0.395 -0.110 C33  T69 14
+T69 C34  C15 C 0 1 N N N N N N 138.438 153.190 108.942 3.568  -1.939 -0.277 C34  T69 15
+T69 C41  C16 C 0 1 N N N N N N 140.362 151.753 109.629 4.958  0.015  0.428  C41  T69 16
+T69 C44  C17 C 0 1 N N N N N N 141.156 150.651 109.428 5.751  0.803  -0.294 C44  T69 17
+T69 C48  C18 C 0 1 N N Y N Y N 141.543 149.824 110.653 7.003  1.312  0.284  C48  T69 18
+T69 C51  C19 C 0 1 N N N N N N 141.671 150.251 108.070 5.366  1.172  -1.703 C51  T69 19
+T69 N12  N1  N 0 1 N N N N N N 140.734 153.977 108.595 2.563  0.025  0.825  N12  T69 20
+T69 O02  O1  O 0 1 N N N N N N 144.175 159.045 112.586 -5.459 -0.214 1.500  O02  T69 21
+T69 O03  O2  O 0 1 N N N N N N 140.680 155.660 112.200 -1.347 -1.468 1.570  O03  T69 22
+T69 O08  O3  O 0 1 N N Y N Y N 140.785 149.887 111.607 7.314  1.014  1.420  O08  T69 23
+T69 S01  S1  S 0 1 N N N N N N 138.683 154.657 109.988 1.745  -2.200 -0.327 S01  T69 24
+T69 H151 H1  H 0 0 N N N N N N 142.646 160.367 112.041 -4.284 1.249  0.635  H151 T69 25
+T69 H171 H2  H 0 0 N N N N N N 141.443 157.349 113.966 -3.657 -1.641 0.517  H171 T69 26
+T69 H181 H3  H 0 0 N N N N N N 142.616 159.046 114.819 -5.532 -0.982 -1.032 H181 T69 27
+T69 H182 H4  H 0 0 N N N N N N 141.406 160.239 114.236 -4.492 0.315  -1.669 H182 T69 28
+T69 H192 H5  H 0 0 N N N N N N 142.496 157.739 111.746 -2.041 0.302  -1.193 H192 T69 29
+T69 H191 H6  H 0 0 N N N N N N 141.155 158.853 111.312 -2.539 0.608  0.488  H191 T69 30
+T69 H201 H7  H 0 0 N N N N N N 139.567 157.093 111.266 -0.871 -1.782 -0.416 H201 T69 31
+T69 H212 H8  H 0 0 N N N N N N 141.941 162.298 113.958 -5.894 2.998  1.404  H212 T69 32
+T69 H213 H9  H 0 0 N N N N N N 143.319 163.431 113.753 -7.587 2.951  0.857  H213 T69 33
+T69 H211 H10 H 0 0 N N N N N N 142.605 162.616 112.320 -6.988 1.727  2.002  H211 T69 34
+T69 H223 H11 H 0 0 N N N N N N 145.682 162.456 113.161 -5.670 1.674  -2.068 H223 T69 35
+T69 H222 H12 H 0 0 N N N N N N 145.829 160.690 112.868 -6.818 2.920  -1.520 H222 T69 36
+T69 H221 H13 H 0 0 N N N N N N 144.936 161.723 111.701 -5.124 2.967  -0.973 H221 T69 37
+T69 H233 H14 H 0 0 N N N N N N 143.217 160.997 115.604 -7.754 -0.087 0.464  H233 T69 38
+T69 H231 H15 H 0 0 N N N N N N 144.828 160.310 115.206 -8.353 1.137  -0.681 H231 T69 39
+T69 H232 H16 H 0 0 N N N N N N 144.638 162.082 115.430 -7.206 -0.109 -1.229 H232 T69 40
+T69 H242 H17 H 0 0 N N N N N N 139.525 158.771 114.711 -2.340 -2.763 -1.207 H242 T69 41
+T69 H243 H18 H 0 0 N N N N N N 139.390 159.437 113.048 -4.043 -2.724 -1.723 H243 T69 42
+T69 H241 H19 H 0 0 N N N N N N 139.082 157.692 113.344 -2.872 -1.585 -2.430 H241 T69 43
+T69 H251 H20 H 0 0 N N N N N N 142.129 156.178 109.923 -0.053 0.793  1.006  H251 T69 44
+T69 H1   H21 H 0 1 N N N N N N 140.819 154.344 110.395 1.168  -1.213 1.828  H1   T69 45
+T69 H281 H22 H 0 0 N N N N N N 141.126 158.370 109.281 -0.420 1.078  -1.430 H281 T69 46
+T69 H282 H23 H 0 0 N N N N N N 141.031 157.181 107.938 1.312  1.170  -1.030 H282 T69 47
+T69 H283 H24 H 0 0 N N N N N N 139.570 157.551 108.916 0.644  -0.312 -1.753 H283 T69 48
+T69 H331 H25 H 0 0 N N N N N N 139.858 152.273 107.598 3.447  0.080  -1.077 H331 T69 49
+T69 H342 H26 H 0 0 N N N N N N 137.877 153.449 108.032 4.039  -2.250 -1.210 H342 T69 50
+T69 H341 H27 H 0 0 N N N N N N 137.901 152.404 109.493 4.018  -2.443 0.578  H341 T69 51
+T69 H411 H28 H 0 0 N N N N N N 140.066 151.942 110.650 5.279  -0.331 1.400  H411 T69 52
+T69 H511 H30 H 0 0 N N N N N N 142.281 149.341 108.162 4.705  2.039  -1.683 H511 T69 53
+T69 H512 H31 H 0 0 N N N N N N 140.822 150.056 107.399 6.263  1.412  -2.274 H512 T69 54
+T69 H513 H32 H 0 0 N N N N N N 142.286 151.064 107.657 4.851  0.333  -2.171 H513 T69 55
+T69 H3   H33 H 0 1 N N N N N N 141.678 153.686 108.751 2.932  0.132  1.758  H3   T69 56
+T69 H5   H35 H 0 1 N Y N N N N 143.739 158.284 112.220 -6.194 -0.820 1.339  H5   T69 57
+T69 H031 H36 H 0 0 N N N N N N 140.425 155.927 113.076 -1.536 -0.786 2.229  H031 T69 58
+T69 O1   O4  O 0 1 N Y Y N Y N 142.688 149.010 110.809 7.807  2.110  -0.448 O1   T69 59
+T69 H2   H37 H 0 1 N Y Y N Y N 142.685 148.622 111.676 8.620  2.420  -0.025 H2   T69 60
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+T69 C51 C44  SING N N 1
+T69 N12 C33  SING N N 2
+T69 N12 C26  SING N N 3
+T69 C33 C34  SING N N 4
+T69 C33 C41  SING N N 5
+T69 C34 S01  SING N N 6
+T69 C28 C25  SING N N 7
+T69 C44 C41  DOUB N E 8
+T69 C44 C48  SING N N 9
+T69 C26 C25  SING N N 10
+T69 C26 S01  SING N N 11
+T69 C25 C20  SING N N 12
+T69 C48 O08  DOUB N N 13
+T69 C20 C19  SING N N 14
+T69 C20 O03  SING N N 15
+T69 C19 C17  SING N N 16
+T69 O02 C15  SING N N 17
+T69 C22 C16  SING N N 18
+T69 C15 C16  SING N N 19
+T69 C15 C18  SING N N 20
+T69 C21 C16  SING N N 21
+T69 C17 C24  SING N N 22
+T69 C17 C18  SING N N 23
+T69 C16 C23  SING N N 24
+T69 C15 H151 SING N N 25
+T69 C17 H171 SING N N 26
+T69 C18 H181 SING N N 27
+T69 C18 H182 SING N N 28
+T69 C19 H192 SING N N 29
+T69 C19 H191 SING N N 30
+T69 C20 H201 SING N N 31
+T69 C21 H212 SING N N 32
+T69 C21 H213 SING N N 33
+T69 C21 H211 SING N N 34
+T69 C22 H223 SING N N 35
+T69 C22 H222 SING N N 36
+T69 C22 H221 SING N N 37
+T69 C23 H233 SING N N 38
+T69 C23 H231 SING N N 39
+T69 C23 H232 SING N N 40
+T69 C24 H242 SING N N 41
+T69 C24 H243 SING N N 42
+T69 C24 H241 SING N N 43
+T69 C25 H251 SING N N 44
+T69 C26 H1   SING N N 45
+T69 C28 H281 SING N N 46
+T69 C28 H282 SING N N 47
+T69 C28 H283 SING N N 48
+T69 C33 H331 SING N N 49
+T69 C34 H342 SING N N 50
+T69 C34 H341 SING N N 51
+T69 C41 H411 SING N N 52
+T69 C51 H511 SING N N 53
+T69 C51 H512 SING N N 54
+T69 C51 H513 SING N N 55
+T69 N12 H3   SING N N 56
+T69 O02 H5   SING N N 57
+T69 O03 H031 SING N N 58
+T69 C48 O1   SING N N 59
+T69 O1  H2   SING N N 60
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+T69 SMILES           ACDLabs              12.01 "C\C(=C/C1NC(SC1)C(C)C(O)CC(C)CC(O)C(C)(C)C)C(=O)O"
+T69 InChI            InChI                1.06  "InChI=1S/C19H35NO4S/c1-11(8-16(22)19(4,5)6)7-15(21)13(3)17-20-14(10-25-17)9-12(2)18(23)24/h9,11,13-17,20-22H,7-8,10H2,1-6H3,(H,23,24)/b12-9+/t11-,13-,14-,15-,16-,17+/m0/s1"
+T69 InChIKey         InChI                1.06  WVXLBCZSXMEAME-XOAMCSGCSA-N
+T69 SMILES_CANONICAL CACTVS               3.385 "C[C@@H](C[C@H](O)[C@H](C)[C@@H]1N[C@H](CS1)/C=C(C)/C(O)=O)C[C@H](O)C(C)(C)C"
+T69 SMILES           CACTVS               3.385 "C[CH](C[CH](O)[CH](C)[CH]1N[CH](CS1)C=C(C)C(O)=O)C[CH](O)C(C)(C)C"
+T69 SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "C[C@@H](C[C@@H]([C@H](C)[C@@H]1N[C@H](CS1)/C=C(\C)/C(=O)O)O)C[C@@H](C(C)(C)C)O"
+T69 SMILES           "OpenEye OEToolkits" 2.0.7 "CC(CC(C(C)C1NC(CS1)C=C(C)C(=O)O)O)CC(C(C)(C)C)O"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+T69 "SYSTEMATIC NAME" ACDLabs              12.01 "(2E)-3-{(2R,4S)-2-[(2S,3S,5S,7S)-3,7-dihydroxy-5,8,8-trimethylnonan-2-yl]-1,3-thiazolidin-4-yl}-2-methylprop-2-enoic acid"
+T69 "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "(~{E})-2-methyl-3-[(2~{R},4~{S})-2-[(2~{S},3~{S},5~{S},7~{S})-5,8,8-trimethyl-3,7-bis(oxidanyl)nonan-2-yl]-1,3-thiazolidin-4-yl]prop-2-enoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+T69 "Create component"     2022-07-18 RCSB
+T69 "Initial release"      2023-05-24 RCSB
+T69 "Standardize backbone" 2023-07-18 PDBE

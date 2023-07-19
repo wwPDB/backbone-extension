@@ -1,0 +1,173 @@
+data_NSU
+_chem_comp.id                     NSU
+_chem_comp.name                   "N-[(3R,4R)-4-aminooxolan-3-yl]-N-[(5-methyl-2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)acetyl]glycine"
+_chem_comp.type                   peptide-like
+_chem_comp.pdbx_type              HETAIN
+_chem_comp.formula                "C13 H18 N4 O6"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-04-07
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         326.305
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      ?
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7UID
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   RCSB
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+NSU C10  C10  C 0 1 N N N N N N 35.642 13.542 19.419 2.500  -1.996 1.252  C10  NSU 1
+NSU C    C02  C 0 1 N N Y N Y N 33.512 16.348 17.516 2.513  2.518  -0.037 C02  NSU 2
+NSU C03  C03  C 0 1 N N Y N N N 34.669 16.400 18.511 2.228  1.614  1.134  C03  NSU 3
+NSU C05  C05  C 0 1 N N Y N N R 35.455 14.789 20.237 2.802  -0.745 0.397  C05  NSU 4
+NSU CA   C06  C 0 1 N N Y N N R 36.918 15.345 20.344 2.703  -1.252 -1.059 C06  NSU 5
+NSU C08  C08  C 0 1 N N N N N N 37.707 14.004 20.435 2.353  -2.750 -0.912 C08  NSU 6
+NSU O09  O09  O 0 1 N N N N N N 36.898 13.014 19.831 2.834  -3.114 0.401  O09  NSU 7
+NSU C11  C11  C 0 1 N N N N N N 33.400 16.191 20.732 0.499  0.051  0.425  C11  NSU 8
+NSU C12  C12  C 0 1 N N N N N N 33.286 15.567 22.130 -0.526 1.125  0.680  C12  NSU 9
+NSU C14  C14  C 0 1 N N N N N N 30.919 15.325 22.719 -2.584 0.004  1.326  C14  NSU 10
+NSU C16  C16  C 0 1 N N N N N N 29.843 16.854 24.344 -4.342 -0.359 -0.170 C16  NSU 11
+NSU C17  C17  C 0 1 N N N N N N 31.100 17.575 24.422 -3.592 0.277  -1.188 C17  NSU 12
+NSU C18  C18  C 0 1 N N N N N N 32.163 17.151 23.732 -2.362 0.752  -0.899 C18  NSU 13
+NSU C19  C19  C 0 1 N N N N N N 31.115 18.713 25.375 -4.160 0.423  -2.577 C19  NSU 14
+NSU N04  N04  N 0 1 N N Y N N N 34.411 15.812 19.824 1.805  0.300  0.646  N04  NSU 15
+NSU N    N07  N 0 1 N N Y Y N N 37.020 16.210 21.528 3.990  -1.090 -1.749 N07  NSU 16
+NSU N13  N13  N 0 1 N N N N N N 32.100 16.046 22.886 -1.861 0.610  0.367  N13  NSU 17
+NSU N15  N15  N 0 1 N N N N N N 29.808 15.730 23.486 -3.813 -0.478 1.065  N15  NSU 18
+NSU O    O01  O 0 1 N N Y N Y N 33.708 16.849 16.431 2.378  2.106  -1.165 O01  NSU 19
+NSU O20  O20  O 0 1 N N N N N N 28.842 17.124 24.954 -5.454 -0.796 -0.407 O20  NSU 20
+NSU O21  O21  O 0 1 N N N N N N 30.895 14.368 21.950 -2.118 -0.115 2.442  O21  NSU 21
+NSU O22  O22  O 0 1 N N N N N N 32.547 16.993 20.419 0.149  -1.038 0.020  O22  NSU 22
+NSU H102 H102 H 0 0 N N N N N N 35.657 13.783 18.346 3.122  -2.002 2.148  H102 NSU 23
+NSU H101 H101 H 0 0 N N N N N N 34.835 12.822 19.622 1.445  -2.026 1.521  H101 NSU 24
+NSU HXT  H1   H 0 1 N Y Y N Y N 32.868 14.759 16.655 3.089  4.322  -0.611 H1   NSU 25
+NSU H031 H031 H 0 0 N N Y N N N 35.521 15.866 18.065 3.130  1.505  1.737  H031 NSU 26
+NSU H032 H032 H 0 0 N N Y N N N 34.936 17.456 18.662 1.435  2.048  1.743  H032 NSU 27
+NSU H051 H051 H 0 0 N N Y N N N 35.184 14.461 21.251 3.806  -0.373 0.605  H051 NSU 28
+NSU HA   H061 H 0 0 N N Y N N N 37.187 15.885 19.424 1.913  -0.726 -1.594 H061 NSU 29
+NSU H082 H082 H 0 0 N N N N N N 37.898 13.747 21.487 1.275  -2.895 -0.974 H082 NSU 30
+NSU H081 H081 H 0 0 N N N N N N 38.664 14.090 19.899 2.860  -3.335 -1.679 H081 NSU 31
+NSU H121 H121 H 0 0 N N N N N N 33.214 14.475 22.021 -0.488 1.422  1.729  H121 NSU 32
+NSU H122 H122 H 0 0 N N N N N N 34.191 15.820 22.701 -0.312 1.989  0.051  H122 NSU 33
+NSU H181 H181 H 0 0 N N N N N N 33.099 17.681 23.833 -1.775 1.240  -1.663 H181 NSU 34
+NSU H192 H192 H 0 0 N N N N N N 30.110 18.847 25.803 -5.156 -0.020 -2.610 H192 NSU 35
+NSU H193 H193 H 0 0 N N N N N N 31.832 18.505 26.183 -4.223 1.480  -2.834 H193 NSU 36
+NSU H191 H191 H 0 0 N N N N N N 31.414 19.630 24.846 -3.512 -0.087 -3.290 H191 NSU 37
+NSU H    H071 H 0 0 N N Y Y N N 37.951 16.567 21.601 3.933  -1.419 -2.701 H071 NSU 38
+NSU H2   H2   H 0 1 N Y Y Y N N 36.377 16.971 21.441 4.299  -0.130 -1.717 H2   NSU 39
+NSU H151 H151 H 0 0 N N N N N N 28.961 15.202 23.421 -4.321 -0.913 1.768  H151 NSU 40
+NSU OXT  O02  O 0 1 N Y Y N Y N 32.997 15.068 17.544 2.919  3.780  0.172  O02  NSU 41
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+NSU O   C    DOUB N N 1
+NSU C   C03  SING N N 2
+NSU C03 N04  SING N N 3
+NSU C10 O09  SING N N 4
+NSU C10 C05  SING N N 5
+NSU N04 C05  SING N N 6
+NSU N04 C11  SING N N 7
+NSU O09 C08  SING N N 8
+NSU C05 CA   SING N N 9
+NSU CA  C08  SING N N 10
+NSU CA  N    SING N N 11
+NSU O22 C11  DOUB N N 12
+NSU C11 C12  SING N N 13
+NSU O21 C14  DOUB N N 14
+NSU C12 N13  SING N N 15
+NSU C14 N13  SING N N 16
+NSU C14 N15  SING N N 17
+NSU N13 C18  SING N N 18
+NSU N15 C16  SING N N 19
+NSU C18 C17  DOUB N N 20
+NSU C16 C17  SING N N 21
+NSU C16 O20  DOUB N N 22
+NSU C17 C19  SING N N 23
+NSU C10 H102 SING N N 24
+NSU C10 H101 SING N N 25
+NSU C03 H031 SING N N 26
+NSU C03 H032 SING N N 27
+NSU C05 H051 SING N N 28
+NSU CA  HA   SING N N 29
+NSU C08 H082 SING N N 30
+NSU C08 H081 SING N N 31
+NSU C12 H121 SING N N 32
+NSU C12 H122 SING N N 33
+NSU C18 H181 SING N N 34
+NSU C19 H192 SING N N 35
+NSU C19 H193 SING N N 36
+NSU C19 H191 SING N N 37
+NSU N   H    SING N N 38
+NSU N   H2   SING N N 39
+NSU N15 H151 SING N N 40
+NSU C   OXT  SING N N 41
+NSU OXT HXT  SING N N 42
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+NSU SMILES           ACDLabs              12.01 "OC(=O)CN(C1COCC1N)C(=O)CN1C=C(C)C(=O)NC1=O"
+NSU InChI            InChI                1.03  "InChI=1S/C13H18N4O6/c1-7-2-16(13(22)15-12(7)21)3-10(18)17(4-11(19)20)9-6-23-5-8(9)14/h2,8-9H,3-6,14H2,1H3,(H,19,20)(H,15,21,22)/t8-,9-/m0/s1"
+NSU InChIKey         InChI                1.03  VRGRCASITUVCPS-IUCAKERBSA-N
+NSU SMILES_CANONICAL CACTVS               3.385 "CC1=CN(CC(=O)N(CC(O)=O)[C@H]2COC[C@@H]2N)C(=O)NC1=O"
+NSU SMILES           CACTVS               3.385 "CC1=CN(CC(=O)N(CC(O)=O)[CH]2COC[CH]2N)C(=O)NC1=O"
+NSU SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "CC1=CN(C(=O)NC1=O)CC(=O)N(CC(=O)O)[C@H]2COC[C@@H]2N"
+NSU SMILES           "OpenEye OEToolkits" 2.0.7 "CC1=CN(C(=O)NC1=O)CC(=O)N(CC(=O)O)C2COCC2N"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+NSU "SYSTEMATIC NAME" ACDLabs              12.01 "N-[(3R,4R)-4-aminooxolan-3-yl]-N-[(5-methyl-2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)acetyl]glycine"
+NSU "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "2-[[(3~{R},4~{R})-4-azanyloxolan-3-yl]-[2-[5-methyl-2,4-bis(oxidanylidene)pyrimidin-1-yl]ethanoyl]amino]ethanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+NSU "Create component"     2022-04-07 RCSB
+NSU "Modify internal type" 2022-08-15 RCSB
+NSU "Initial release"      2023-04-05 RCSB
+NSU "Standardize backbone" 2023-07-18 PDBE

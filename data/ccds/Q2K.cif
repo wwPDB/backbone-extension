@@ -1,0 +1,148 @@
+data_Q2K
+_chem_comp.id                     Q2K
+_chem_comp.name                   "2-[2-(3-methylsulfanylpropanimidoyl)-4,5-bis(oxidanylidene)imidazol-1-yl]ethanoic acid"
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C9 H11 N3 O4 S"
+_chem_comp.mon_nstd_parent_comp_id "MET, TYR, GLY"
+_chem_comp.pdbx_synonyms          "CHROMOPHORE (MET-TYR-GLY)"
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-10-11
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         257.266
+_chem_comp.one_letter_code        MYG
+_chem_comp.three_letter_code      Q2K
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 8B65
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+Q2K CB1  CB1 C 0 1 N N N N N N -10.275 -19.180 23.013 -1.383 0.400  0.265  CB1 Q2K 1
+Q2K OB2  OB2 O 0 1 N N N N N N -5.371  -21.119 23.252 4.419  1.552  -0.122 OB2 Q2K 2
+Q2K CG1  CG1 C 0 1 N N N N N N -11.367 -20.148 23.431 -2.747 1.008  -0.071 CG1 Q2K 3
+Q2K SD   SD  S 0 1 N N N N N N -12.504 -20.606 22.097 -4.060 -0.135 0.438  SD  Q2K 4
+Q2K CE   CE  C 0 1 N N N N N N -14.091 -20.431 22.941 -5.574 0.746  -0.034 CE  Q2K 5
+Q2K C1   C1  C 0 1 N N Y N N N -7.989  -19.274 24.244 1.125  0.966  0.003  C1  Q2K 6
+Q2K C2   C2  C 0 1 N N Y N N N -5.871  -19.424 24.954 2.899  -0.259 0.463  C2  Q2K 7
+Q2K C3   C   C 0 1 N N Y N Y N -8.108  -18.065 27.381 0.311  -2.167 -0.422 C   Q2K 8
+Q2K CA1  CA1 C 0 1 N N Y N N N -9.388  -18.791 24.164 -0.292 1.350  -0.159 CA1 Q2K 9
+Q2K CA2  CA2 C 0 1 N N Y N N N -6.183  -20.360 23.780 3.292  1.116  0.004  CA2 Q2K 10
+Q2K CA3  CA  C 0 1 N N Y N N N -7.195  -17.737 26.228 0.684  -1.387 0.812  CA  Q2K 11
+Q2K N1   N1  N 0 1 N N Y Y N N -9.943  -17.932 24.972 -0.596 2.499  -0.663 N1  Q2K 12
+Q2K N2   N2  N 0 1 N N Y N N N -7.483  -20.197 23.422 2.140  1.760  -0.247 N2  Q2K 13
+Q2K N3   N   N 0 1 N N Y N N N -7.059  -18.781 25.195 1.548  -0.264 0.438  N   Q2K 14
+Q2K O2   O2  O 0 1 N N Y N N N -4.837  -19.269 25.540 3.635  -1.165 0.792  O2  Q2K 15
+Q2K O3   O   O 0 1 N N Y N Y N -8.545  -17.136 28.111 0.724  -1.819 -1.503 O   Q2K 16
+Q2K H1   H1  H 0 1 N N N N N N -9.659  -19.656 22.236 -1.317 0.227  1.339  H1  Q2K 17
+Q2K H11  H2  H 0 1 N N N N N N -10.744 -18.272 22.605 -1.267 -0.546 -0.264 H2  Q2K 18
+Q2K H3   H3  H 0 1 N N N N N N -11.952 -19.681 24.237 -2.863 1.954  0.457  H3  Q2K 19
+Q2K H4   H4  H 0 1 N N N N N N -10.890 -21.065 23.807 -2.813 1.181  -1.145 H4  Q2K 20
+Q2K H5   H5  H 0 1 N N N N N N -14.906 -20.681 22.246 -5.620 1.698  0.493  H5  Q2K 21
+Q2K H6   H6  H 0 1 N N N N N N -14.124 -21.112 23.804 -5.569 0.925  -1.109 H6  Q2K 22
+Q2K H7   H7  H 0 1 N N N N N N -14.210 -19.394 23.287 -6.442 0.142  0.229  H7  Q2K 23
+Q2K HA31 HA2 H 0 1 N N Y N N N -6.194  -17.536 26.638 -0.219 -1.008 1.290  HA2 Q2K 24
+Q2K HA32 HA3 H 0 1 N N Y N N N -7.581  -16.829 25.741 1.216  -2.038 1.507  HA3 Q2K 25
+Q2K H    H11 H 0 1 N Y Y Y N N -9.309  -17.618 25.679 0.102  3.080  -1.003 H11 Q2K 26
+Q2K OXT  OXT O 0 1 N Y Y N Y N -8.377  -19.347 27.573 -0.479 -3.247 -0.320 OXT Q2K 27
+Q2K HXT  HXT H 0 1 N Y Y N Y N -8.939  -19.443 28.333 -0.691 -3.714 -1.140 HXT Q2K 28
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+Q2K SD  CE   SING N N 1
+Q2K SD  CG1  SING N N 2
+Q2K CB1 CG1  SING N N 3
+Q2K CB1 CA1  SING N N 4
+Q2K OB2 CA2  DOUB N N 5
+Q2K N2  CA2  SING N N 6
+Q2K N2  C1   DOUB N N 7
+Q2K CA2 C2   SING N N 8
+Q2K CA1 C1   SING N N 9
+Q2K CA1 N1   DOUB N N 10
+Q2K C1  N3   SING N N 11
+Q2K C2  N3   SING N N 12
+Q2K C2  O2   DOUB N N 13
+Q2K N3  CA3  SING N N 14
+Q2K CA3 C3   SING N N 15
+Q2K C3  O3   DOUB N N 16
+Q2K CB1 H1   SING N N 17
+Q2K CB1 H11  SING N N 18
+Q2K CG1 H3   SING N N 19
+Q2K CG1 H4   SING N N 20
+Q2K CE  H5   SING N N 21
+Q2K CE  H6   SING N N 22
+Q2K CE  H7   SING N N 23
+Q2K CA3 HA31 SING N N 24
+Q2K CA3 HA32 SING N N 25
+Q2K N1  H    SING N N 26
+Q2K C3  OXT  SING N N 27
+Q2K OXT HXT  SING N N 28
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+Q2K InChI            InChI                1.06    "InChI=1S/C9H11N3O4S/c1-17-3-2-5(10)7-11-8(15)9(16)12(7)4-6(13)14/h10H,2-4H2,1H3,(H,13,14)/b10-5-"
+Q2K InChIKey         InChI                1.06    ALPGQXTYHUGCAA-YHYXMXQVSA-N
+Q2K SMILES_CANONICAL CACTVS               3.385   "CSCCC(=N)C1=NC(=O)C(=O)N1CC(O)=O"
+Q2K SMILES           CACTVS               3.385   "CSCCC(=N)C1=NC(=O)C(=O)N1CC(O)=O"
+Q2K SMILES_CANONICAL "OpenEye OEToolkits" 3.1.0.0 "[H]/N=C(/CCSC)\C1=NC(=O)C(=O)N1CC(=O)O"
+Q2K SMILES           "OpenEye OEToolkits" 3.1.0.0 "CSCCC(=N)C1=NC(=O)C(=O)N1CC(=O)O"
+
+_pdbx_chem_comp_identifier.comp_id Q2K
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 3.1.0.0
+_pdbx_chem_comp_identifier.identifier
+"2-[2-(3-methylsulfanylpropanimidoyl)-4,5-bis(oxidanylidene)imidazol-1-yl]ethanoic acid"
+
+_pdbx_chem_comp_synonyms.ordinal  1
+_pdbx_chem_comp_synonyms.comp_id  Q2K
+_pdbx_chem_comp_synonyms.name     "CHROMOPHORE (MET-TYR-GLY)"
+_pdbx_chem_comp_synonyms.provenance PDB
+_pdbx_chem_comp_synonyms.type     ?
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+Q2K "Create component"     2022-10-11 PDBE
+Q2K "Initial release"      2023-02-15 RCSB
+Q2K "Standardize backbone" 2023-07-18 PDBE

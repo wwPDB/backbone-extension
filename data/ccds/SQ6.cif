@@ -1,0 +1,124 @@
+data_SQ6
+_chem_comp.id                     SQ6
+_chem_comp.name
+;2,2'-azanediyldiacetic acid
+;
+_chem_comp.type                   peptide-like
+_chem_comp.pdbx_type              HETAIN
+_chem_comp.formula                "C4 H7 N O4"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-07-07
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         133.103
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      SQ6
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 8DL7
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   RCSB
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+SQ6 N   N   N 0 1 N N Y Y N N 114.745 114.472 124.523 -0.000 -0.006 -0.006 N   SQ6 1
+SQ6 CA  CA  C 0 1 N N Y N N N 115.021 113.244 123.781 1.211  -0.838 -0.001 CA  SQ6 2
+SQ6 C   C   C 0 1 N N Y N Y N 115.032 111.997 124.663 2.429  0.048  -0.006 C   SQ6 3
+SQ6 O   O   O 0 1 N N Y N Y N 114.337 111.023 124.313 2.303  1.250  -0.014 O   SQ6 4
+SQ6 C1  C1  C 0 1 N N N N N N 114.886 115.659 123.682 -1.211 -0.838 -0.001 C1  SQ6 5
+SQ6 C2  C2  C 0 1 N N N N N N 116.271 115.713 123.042 -2.429 0.048  -0.006 C2  SQ6 6
+SQ6 O3  O3  O 0 1 N N N N N N 116.329 115.602 121.802 -2.303 1.250  -0.014 O3  SQ6 7
+SQ6 O4  O4  O 0 1 N N N N N N 117.246 115.863 123.806 -3.656 -0.497 -0.003 O4  SQ6 8
+SQ6 H   H1  H 0 1 N N Y Y N N 115.386 114.539 125.287 0.000  0.637  0.771  H1  SQ6 9
+SQ6 HA2 H3  H 0 1 N N Y N N N 114.246 113.120 123.010 1.219  -1.462 0.893  H3  SQ6 10
+SQ6 HA3 H4  H 0 1 N N Y N N N 116.005 113.340 123.300 1.219  -1.473 -0.887 H4  SQ6 11
+SQ6 H6  H6  H 0 1 N N N N N N 114.740 116.557 124.300 -1.219 -1.473 -0.887 H6  SQ6 12
+SQ6 H7  H7  H 0 1 N N N N N N 114.124 115.631 122.889 -1.219 -1.462 0.893  H7  SQ6 13
+SQ6 H8  H8  H 0 1 N N N N N N 118.048 115.880 123.297 -4.407 0.112  -0.007 H8  SQ6 14
+SQ6 OXT OXT O 0 1 N Y Y N Y N 115.778 112.034 125.764 3.656  -0.497 -0.003 OXT SQ6 15
+SQ6 HXT H2  H 0 1 N Y Y N Y N 115.695 111.211 126.231 4.407  0.112  -0.007 H2  SQ6 16
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+SQ6 O3  C2  DOUB N N 1
+SQ6 C2  C1  SING N N 2
+SQ6 C2  O4  SING N N 3
+SQ6 C1  N   SING N N 4
+SQ6 CA  N   SING N N 5
+SQ6 CA  C   SING N N 6
+SQ6 O   C   DOUB N N 7
+SQ6 N   H   SING N N 8
+SQ6 CA  HA2 SING N N 9
+SQ6 CA  HA3 SING N N 10
+SQ6 C1  H6  SING N N 11
+SQ6 C1  H7  SING N N 12
+SQ6 O4  H8  SING N N 13
+SQ6 C   OXT SING N N 14
+SQ6 OXT HXT SING N N 15
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+SQ6 SMILES           ACDLabs              12.01 "O=C(O)CNCC(=O)O"
+SQ6 InChI            InChI                1.06  "InChI=1S/C4H7NO4/c6-3(7)1-5-2-4(8)9/h5H,1-2H2,(H,6,7)(H,8,9)"
+SQ6 InChIKey         InChI                1.06  NBZBKCUXIYYUSX-UHFFFAOYSA-N
+SQ6 SMILES_CANONICAL CACTVS               3.385 "OC(=O)CNCC(O)=O"
+SQ6 SMILES           CACTVS               3.385 "OC(=O)CNCC(O)=O"
+SQ6 SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "C(C(=O)O)NCC(=O)O"
+SQ6 SMILES           "OpenEye OEToolkits" 2.0.7 "C(C(=O)O)NCC(=O)O"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+SQ6 "SYSTEMATIC NAME" ACDLabs              12.01
+;2,2'-azanediyldiacetic acid
+;
+SQ6 "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "2-(2-hydroxy-2-oxoethylamino)ethanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+SQ6 "Create component"     2022-07-07 RCSB
+SQ6 "Initial release"      2022-12-07 RCSB
+SQ6 "Standardize backbone" 2023-07-18 PDBE

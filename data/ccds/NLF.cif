@@ -1,0 +1,148 @@
+data_NLF
+_chem_comp.id                     NLF
+_chem_comp.name                   N-formyl-L-tryptophan
+_chem_comp.type                   non-polymer
+_chem_comp.pdbx_type              HETAIN
+_chem_comp.formula                "C12 H12 N2 O3"
+_chem_comp.mon_nstd_parent_comp_id TRP
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-04-05
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         232.235
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      NLF
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7UGW
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   RCSB
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+NLF CE3  C1  C 0 1 Y N N N N N 63.116 28.519 33.286 -1.730 0.954  -1.129 CE3  NLF 1
+NLF CZ3  C2  C 0 1 Y N N N N N 62.426 27.875 34.436 -2.903 1.654  -1.117 CZ3  NLF 2
+NLF CH2  C3  C 0 1 Y N N N N N 61.061 28.301 34.785 -3.984 1.206  -0.369 CH2  NLF 3
+NLF CZ2  C4  C 0 1 Y N N N N N 60.361 29.370 34.002 -3.893 0.049  0.373  CZ2  NLF 4
+NLF CE2  C5  C 0 1 Y N N N N N 61.101 30.041 32.802 -2.707 -0.680 0.375  CE2  NLF 5
+NLF CD1  C6  C 0 1 Y N N N N N 61.757 31.234 31.061 -1.017 -2.134 0.656  CD1  NLF 6
+NLF CB   C7  C 0 1 N N N N N N 64.195 30.271 30.670 0.839  -1.150 -0.782 CB   NLF 7
+NLF CA   C8  C 0 1 N N Y N N S 65.283 30.798 31.673 1.743  -0.265 0.078  CA   NLF 8
+NLF C22  C9  C 0 1 N N N N N N 65.463 32.587 33.402 1.533  1.959  1.051  C22  NLF 9
+NLF C    C10 C 0 1 N N Y N Y N 66.695 30.771 31.034 3.151  -0.317 -0.455 C    NLF 10
+NLF CG   C11 C 0 1 Y N N N N N 62.788 30.374 31.392 -0.541 -1.196 -0.178 CG   NLF 11
+NLF CD2  C12 C 0 1 Y N N N N N 62.390 29.639 32.469 -1.618 -0.225 -0.389 CD2  NLF 12
+NLF N    N1  N 0 1 N N Y Y N N 65.015 32.104 32.117 1.256  1.117  0.037  N    NLF 13
+NLF NE1  N2  N 0 1 Y N N N N N 60.720 31.017 31.939 -2.311 -1.843 0.995  NE1  NLF 14
+NLF O    O1  O 0 1 N N Y N Y N 67.275 29.761 31.057 3.693  0.696  -0.831 O    NLF 15
+NLF O23  O2  O 0 1 N N N N N N 66.052 31.904 34.153 2.186  1.575  1.998  O23  NLF 16
+NLF OXT  O3  O 0 1 N Y Y N Y N 67.313 32.020 30.425 3.804  -1.488 -0.512 OXT  NLF 17
+NLF HE3  H1  H 0 1 N N N N N N 64.116 28.214 33.015 -0.893 1.309  -1.713 HE3  NLF 18
+NLF HZ3  H2  H 0 1 N N N N N N 62.921 27.104 35.008 -2.991 2.563  -1.692 HZ3  NLF 19
+NLF HH2  H3  H 0 1 N N N N N N 60.556 27.836 35.619 -4.904 1.770  -0.369 HH2  NLF 20
+NLF HZ2  H4  H 0 1 N N N N N N 59.358 29.672 34.264 -4.738 -0.291 0.952  HZ2  NLF 21
+NLF HD1  H5  H 0 1 N N N N N N 61.764 31.951 30.254 -0.462 -2.991 1.008  HD1  NLF 22
+NLF HB2  H6  H 0 1 N N N N N N 64.405 29.224 30.405 0.781  -0.740 -1.790 HB2  NLF 23
+NLF HB3  H7  H 0 1 N N N N N N 64.195 30.887 29.759 1.251  -2.158 -0.823 HB3  NLF 24
+NLF HA   H8  H 0 1 N N Y N N N 65.295 30.113 32.534 1.730  -0.624 1.107  HA   NLF 25
+NLF H221 H9  H 0 0 N N N N N N 65.249 33.608 33.681 1.174  2.978  1.021  H221 NLF 26
+NLF H    H10 H 0 1 N N Y Y N N 64.497 32.719 31.523 0.734  1.424  -0.720 H    NLF 27
+NLF HE1  H11 H 0 1 N N N N N N 59.841 31.494 31.941 -2.865 -2.376 1.587  HE1  NLF 28
+NLF HXT  H12 H 0 1 N Y Y N Y N 68.183 31.818 30.102 4.706  -1.472 -0.862 HXT  NLF 29
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+NLF CB  CG   SING N N 1
+NLF CB  CA   SING N N 2
+NLF C   O    DOUB N N 3
+NLF C   CA   SING N N 4
+NLF CD1 CG   DOUB Y N 5
+NLF CD1 NE1  SING Y N 6
+NLF CG  CD2  SING Y N 7
+NLF CA  N    SING N N 8
+NLF NE1 CE2  SING Y N 9
+NLF N   C22  SING N N 10
+NLF CD2 CE2  DOUB Y N 11
+NLF CD2 CE3  SING Y N 12
+NLF CE2 CZ2  SING Y N 13
+NLF CE3 CZ3  DOUB Y N 14
+NLF C22 O23  DOUB N N 15
+NLF CZ2 CH2  DOUB Y N 16
+NLF CZ3 CH2  SING Y N 17
+NLF C   OXT  SING N N 18
+NLF CE3 HE3  SING N N 19
+NLF CZ3 HZ3  SING N N 20
+NLF CH2 HH2  SING N N 21
+NLF CZ2 HZ2  SING N N 22
+NLF CD1 HD1  SING N N 23
+NLF CB  HB2  SING N N 24
+NLF CB  HB3  SING N N 25
+NLF CA  HA   SING N N 26
+NLF C22 H221 SING N N 27
+NLF N   H    SING N N 28
+NLF NE1 HE1  SING N N 29
+NLF OXT HXT  SING N N 30
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+NLF SMILES           ACDLabs              12.01 "O=C(O)C(NC=O)Cc1c[NH]c2ccccc21"
+NLF InChI            InChI                1.03  "InChI=1S/C12H12N2O3/c15-7-14-11(12(16)17)5-8-6-13-10-4-2-1-3-9(8)10/h1-4,6-7,11,13H,5H2,(H,14,15)(H,16,17)/t11-/m0/s1"
+NLF InChIKey         InChI                1.03  RNEMLJPSSOJRHX-NSHDSACASA-N
+NLF SMILES_CANONICAL CACTVS               3.385 "OC(=O)[C@H](Cc1c[nH]c2ccccc12)NC=O"
+NLF SMILES           CACTVS               3.385 "OC(=O)[CH](Cc1c[nH]c2ccccc12)NC=O"
+NLF SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)NC=O"
+NLF SMILES           "OpenEye OEToolkits" 2.0.7 "c1ccc2c(c1)c(c[nH]2)CC(C(=O)O)NC=O"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+NLF "SYSTEMATIC NAME" ACDLabs              12.01 N-formyl-L-tryptophan
+NLF "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "(2~{S})-2-formamido-3-(1~{H}-indol-3-yl)propanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+NLF "Create component"     2022-04-05 RCSB
+NLF "Initial release"      2022-08-17 RCSB
+NLF "Standardize backbone" 2023-07-18 PDBE

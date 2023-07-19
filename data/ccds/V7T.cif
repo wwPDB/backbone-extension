@@ -1,0 +1,147 @@
+data_V7T
+_chem_comp.id                     V7T
+_chem_comp.name                   "(2R)-6-azanyl-2-carbamimidamido-hexanoic acid"
+_chem_comp.type                   peptide-like
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C7 H16 N4 O2"
+_chem_comp.mon_nstd_parent_comp_id LYS
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2021-04-23
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         188.228
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      V7T
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7OBV
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+V7T N1  N1  N 0 1 N N N N N N 6.240  -9.972  4.880 2.573  -1.359 1.255  N1  V7T 1
+V7T N2  N2  N 0 1 N N N N N N 4.685  -10.195 3.111 2.341  -2.810 -0.540 N2  V7T 2
+V7T CA  CA  C 0 1 N N Y N N R 3.503  -12.375 4.534 0.770  0.473  0.243  C1  V7T 3
+V7T CD  CD  C 0 1 N N N N N N 0.827  -14.459 6.421 -3.057 0.376  -0.174 C5  V7T 4
+V7T CE  CE  C 0 1 N N N N N N -0.320 -15.344 5.964 -4.101 -0.644 0.287  C6  V7T 5
+V7T NZ  NZ  N 0 1 N N N N N N -1.246 -14.640 5.087 -5.436 -0.201 -0.134 N3  V7T 6
+V7T CG  CG  C 0 1 N N N N N N 1.647  -13.958 5.253 -1.665 -0.085 0.265  C4  V7T 7
+V7T CB  CB  C 0 1 N N N N N N 2.779  -13.056 5.694 -0.622 0.934  -0.195 C3  V7T 8
+V7T C2  C2  C 0 1 N N N N N N 5.138  -10.524 4.289 2.019  -1.642 0.110  C2  V7T 9
+V7T N   N   N 0 1 N N Y Y N N 4.544  -11.517 5.068 1.112  -0.772 -0.449 N   V7T 10
+V7T C   C   C 0 1 N N Y N Y N 4.145  -13.411 3.612 1.783  1.535  -0.101 C   V7T 11
+V7T O   O   O 0 1 N N Y N Y N 5.094  -14.079 4.013 2.697  1.278  -0.848 O   V7T 12
+V7T H1  H1  H 0 1 N N N N N N 6.429  -10.379 5.774 2.346  -0.535 1.713  H1  V7T 13
+V7T H4  H2  H 0 1 N N N N N N 3.883  -10.660 2.736 2.980  -3.424 -0.146 H2  V7T 14
+V7T H3  H3  H 0 1 N N N N N N 5.139  -9.477  2.583 1.928  -3.020 -1.392 H3  V7T 15
+V7T HA  HA  H 0 1 N N Y N N N 2.779  -11.780 3.958 0.774  0.303  1.320  H4  V7T 16
+V7T HD2 HD2 H 0 1 N N N N N N 0.416  -13.595 6.965 -3.086 0.460  -1.260 H5  V7T 17
+V7T HD3 HD3 H 0 1 N N N N N N 1.479  -15.038 7.092 -3.275 1.346  0.272  H6  V7T 18
+V7T HE2 HE2 H 0 1 N N N N N N 0.094  -16.207 5.422 -3.882 -1.614 -0.159 H7  V7T 19
+V7T HE3 HE3 H 0 1 N N N N N N -0.870 -15.696 6.849 -4.071 -0.728 1.373  H8  V7T 20
+V7T HZ1 HZ1 H 0 1 N N N N N N -1.982 -15.259 4.812 -5.470 -0.053 -1.132 H9  V7T 21
+V7T HZ2 HZ2 H 0 1 N Y N N N N -1.634 -13.856 5.572 -6.144 -0.859 0.158  H10 V7T 22
+V7T HG2 HG2 H 0 1 N N N N N N 2.070  -14.823 4.720 -1.636 -0.170 1.351  H12 V7T 23
+V7T HG3 HG3 H 0 1 N N N N N N 0.989  -13.395 4.574 -1.447 -1.056 -0.181 H13 V7T 24
+V7T HB2 HB2 H 0 1 N N N N N N 3.508  -13.661 6.253 -0.840 1.905  0.251  H14 V7T 25
+V7T HB3 HB3 H 0 1 N N N N N N 2.367  -12.277 6.353 -0.651 1.019  -1.282 H15 V7T 26
+V7T H   H   H 0 1 N Y Y Y N N 4.842  -11.640 6.015 0.700  -0.982 -1.301 H16 V7T 27
+V7T OXT OXT O 0 1 N Y Y N Y N 3.629  -13.547 2.388 1.669  2.766  0.422  O1  V7T 28
+V7T HXT HXT H 0 1 N Y Y N Y N 4.107  -14.218 1.915 2.342  3.413  0.172  H11 V7T 29
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+V7T N1  C2  DOUB N N 1
+V7T N2  C2  SING N N 2
+V7T CA  CB  SING N N 3
+V7T CA  N   SING N N 4
+V7T CA  C   SING N N 5
+V7T CD  CE  SING N N 6
+V7T CD  CG  SING N N 7
+V7T CE  NZ  SING N N 8
+V7T CG  CB  SING N N 9
+V7T C2  N   SING N N 10
+V7T C   O   DOUB N N 11
+V7T N1  H1  SING N N 12
+V7T N2  H4  SING N N 13
+V7T N2  H3  SING N N 14
+V7T CA  HA  SING N N 15
+V7T CD  HD2 SING N N 16
+V7T CD  HD3 SING N N 17
+V7T CE  HE2 SING N N 18
+V7T CE  HE3 SING N N 19
+V7T NZ  HZ1 SING N N 20
+V7T NZ  HZ2 SING N N 21
+V7T CG  HG2 SING N N 22
+V7T CG  HG3 SING N N 23
+V7T CB  HB2 SING N N 24
+V7T CB  HB3 SING N N 25
+V7T N   H   SING N N 26
+V7T C   OXT SING N N 27
+V7T OXT HXT SING N N 28
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+V7T InChI            InChI                1.03  "InChI=1S/C7H16N4O2/c8-4-2-1-3-5(6(12)13)11-7(9)10/h5H,1-4,8H2,(H,12,13)(H4,9,10,11)/t5-/m1/s1"
+V7T InChIKey         InChI                1.03  FCYNCKFWUCHGHB-RXMQYKEDSA-N
+V7T SMILES_CANONICAL CACTVS               3.385 "NCCCC[C@@H](NC(N)=N)C(O)=O"
+V7T SMILES           CACTVS               3.385 "NCCCC[CH](NC(N)=N)C(O)=O"
+V7T SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "[H]/N=C(\N)/N[C@H](CCCCN)C(=O)O"
+V7T SMILES           "OpenEye OEToolkits" 2.0.7 "C(CCN)CC(C(=O)O)NC(=N)N"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+V7T "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "(2~{R})-6-azanyl-2-carbamimidamido-hexanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+V7T "Create component"     2021-04-23 PDBE
+V7T "Modify coordinates"   2021-04-23 PDBE
+V7T "Modify linking type"  2021-04-28 PDBE
+V7T "Modify internal type" 2021-04-29 PDBE
+V7T "Initial release"      2022-04-06 RCSB
+V7T "Standardize backbone" 2023-07-18 PDBE

@@ -1,0 +1,129 @@
+data_T79
+_chem_comp.id                     T79
+_chem_comp.name                   "(2S)-2-azanylhex-4-ynoic acid"
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C6 H9 N O2"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          "(S)-2-Aminohex-4-ynoic acid; peptide staple"
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-12-21
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         127.141
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      T79
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 8C17
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+T79 N   N1  N 0 1 N N Y Y N N -14.884 30.022 -15.656 -0.323 -1.607 0.305  N   T79 1
+T79 O   O1  O 0 1 N N Y N Y N -15.348 31.435 -18.734 -2.691 -0.697 -0.484 O   T79 2
+T79 C   C1  C 0 1 N N Y N Y N -14.617 31.061 -17.841 -2.012 0.126  0.083  C   T79 3
+T79 CA  C2  C 0 1 N N Y N N S -15.188 31.212 -16.441 -0.559 -0.158 0.363  CA  T79 4
+T79 CB  C3  C 0 1 N N N N N N -14.720 32.542 -15.787 0.309  0.541  -0.686 CB  T79 5
+T79 CG  C4  C 0 1 N N N N N N -15.510 33.641 -16.335 1.730  0.364  -0.345 CG  T79 6
+T79 CD1 C5  C 0 1 N N N N N N -16.200 34.533 -16.768 2.863  0.222  -0.073 CD1 T79 7
+T79 CE1 C6  C 0 1 N N N N N N -17.079 35.599 -17.228 4.284  0.044  0.267  CE1 T79 8
+T79 OXT O2  O 0 1 N Y Y N Y N -13.411 30.470 -18.099 -2.552 1.294  0.465  OXT T79 9
+T79 H   H1  H 0 1 N N Y Y N N -15.261 30.124 -14.735 -0.836 -2.086 1.030  H   T79 10
+T79 H2  H2  H 0 1 N Y Y Y N N -15.290 29.220 -16.095 -0.556 -1.975 -0.606 H2  T79 11
+T79 HA  H4  H 0 1 N N Y N N N -16.281 31.278 -16.543 -0.300 0.212  1.354  HA  T79 12
+T79 HB3 H5  H 0 1 N N N N N N -14.866 32.489 -14.698 0.113  0.108  -1.667 HB3 T79 13
+T79 HB2 H6  H 0 1 N N N N N N -13.655 32.707 -16.007 0.070  1.605  -0.704 HB2 T79 14
+T79 HE1 H7  H 0 1 N N N N N N -16.693 36.011 -18.172 4.902  0.543  -0.480 HE1 T79 15
+T79 HE2 H8  H 0 1 N N N N N N -18.090 35.196 -17.390 4.479  0.477  1.248  HE2 T79 16
+T79 HE3 H9  H 0 1 N N N N N N -17.118 36.395 -16.470 4.523  -1.019 0.285  HE3 T79 17
+T79 HXT H10 H 0 1 N Y Y N Y N -13.278 30.418 -19.038 -3.488 1.431  0.264  HXT T79 18
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+T79 O   C   DOUB N N 1
+T79 C   CA  SING N N 2
+T79 CE1 CD1 SING N N 3
+T79 CD1 CG  TRIP N N 4
+T79 CA  CB  SING N N 5
+T79 CA  N   SING N N 6
+T79 CG  CB  SING N N 7
+T79 C   OXT SING N N 8
+T79 N   H   SING N N 9
+T79 N   H2  SING N N 10
+T79 CA  HA  SING N N 11
+T79 CB  HB3 SING N N 12
+T79 CB  HB2 SING N N 13
+T79 CE1 HE1 SING N N 14
+T79 CE1 HE2 SING N N 15
+T79 CE1 HE3 SING N N 16
+T79 OXT HXT SING N N 17
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+T79 InChI            InChI                1.06  "InChI=1S/C6H9NO2/c1-2-3-4-5(7)6(8)9/h5H,4,7H2,1H3,(H,8,9)/t5-/m0/s1"
+T79 InChIKey         InChI                1.06  VDWGCMRALYSYJV-YFKPBYRVSA-N
+T79 SMILES_CANONICAL CACTVS               3.385 "CC#CC[C@H](N)C(O)=O"
+T79 SMILES           CACTVS               3.385 "CC#CC[CH](N)C(O)=O"
+T79 SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "CC#CC[C@@H](C(=O)O)N"
+T79 SMILES           "OpenEye OEToolkits" 2.0.7 "CC#CCC(C(=O)O)N"
+
+_pdbx_chem_comp_identifier.comp_id T79
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 2.0.7
+_pdbx_chem_comp_identifier.identifier "(2~{S})-2-azanylhex-4-ynoic acid"
+
+loop_
+_pdbx_chem_comp_synonyms.ordinal
+_pdbx_chem_comp_synonyms.comp_id
+_pdbx_chem_comp_synonyms.name
+_pdbx_chem_comp_synonyms.provenance
+_pdbx_chem_comp_synonyms.type
+1 T79 "(S)-2-Aminohex-4-ynoic acid" PUBCHEM ?
+2 T79 "peptide staple"              PDB     ?
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+T79 "Create component"     2022-12-31 PDBE
+T79 "Initial release"      2023-03-15 RCSB
+T79 "Standardize backbone" 2023-07-18 PDBE

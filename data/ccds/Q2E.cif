@@ -1,0 +1,148 @@
+data_Q2E
+_chem_comp.id                     Q2E
+_chem_comp.name                   "(2~{S})-2-azanyl-3-(2-methylsulfanyl-1~{H}-indol-3-yl)propanal"
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C12 H14 N2 O S"
+_chem_comp.mon_nstd_parent_comp_id TRP
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2020-05-07
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         234.317
+_chem_comp.one_letter_code        W
+_chem_comp.three_letter_code      Q2E
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 6YZH
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+Q2E C1  C1  C 0 1 Y N N N N N -3.638 -35.696 -3.138 -0.449 -1.329 -0.137 C1  Q2E 1
+Q2E C2  C2  C 0 1 Y N N N N N -3.750 -35.551 -5.362 -2.143 0.132  0.123  C2  Q2E 2
+Q2E C3  C3  C 0 1 Y N N N N N -3.484 -35.387 -6.713 -3.338 0.801  0.357  C3  Q2E 3
+Q2E C4  C4  C 0 1 Y N N N N N -4.498 -35.648 -7.617 -3.409 2.166  0.174  C4  Q2E 4
+Q2E C5  C5  C 0 1 Y N N N N N -5.743 -36.057 -7.180 -2.297 2.883  -0.244 C5  Q2E 5
+Q2E C6  C6  C 0 1 Y N N N N N -6.015 -36.231 -5.825 -1.103 2.240  -0.483 C6  Q2E 6
+Q2E C7  C7  C 0 1 Y N N N N N -5.007 -35.968 -4.895 -1.015 0.858  -0.301 C7  Q2E 7
+Q2E C8  C8  C 0 1 Y N N N N N -4.924 -36.060 -3.461 0.064  -0.118 -0.457 C8  Q2E 8
+Q2E C   C9  C 0 1 N N Y N Y N -8.315 -35.956 -1.728 3.776  0.636  -0.083 C9  Q2E 9
+Q2E N   N1  N 0 1 N N Y Y N N -6.406 -34.557 -1.077 1.868  1.706  0.975  N1  Q2E 10
+Q2E CA  CA  C 0 1 N N Y N N S -6.966 -35.385 -2.162 2.339  0.469  0.338  CA  Q2E 11
+Q2E O   O   O 0 1 N N Y N Y N -8.425 -36.428 -0.561 4.349  1.678  0.126  O   Q2E 12
+Q2E CB  CB  C 0 1 N N N N N N -5.987 -36.490 -2.528 1.478  0.170  -0.892 CB  Q2E 13
+Q2E S   S   S 0 1 N N N N N N -2.792 -35.474 -1.611 0.445  -2.847 -0.161 S   Q2E 14
+Q2E C9  C   C 0 1 N N N N N N -2.228 -37.143 -1.174 -0.799 -4.060 0.363  C   Q2E 15
+Q2E N1  N   N 0 1 Y N N N N N -2.931 -35.404 -4.256 -1.767 -1.194 0.215  N   Q2E 16
+Q2E H1  H1  H 0 1 N N N N N N -2.510 -35.064 -7.051 -4.209 0.253  0.682  H1  Q2E 17
+Q2E H8  H2  H 0 1 N N N N N N -4.315 -35.531 -8.675 -4.340 2.682  0.357  H2  Q2E 18
+Q2E H3  H3  H 0 1 N N N N N N -6.522 -36.246 -7.904 -2.369 3.952  -0.384 H3  Q2E 19
+Q2E H4  H4  H 0 1 N N N N N N -6.989 -36.564 -5.499 -0.240 2.802  -0.808 H4  Q2E 20
+Q2E H5  H5  H 0 1 N N Y N Y N -9.157 -35.956 -2.404 4.293  -0.176 -0.572 H5  Q2E 21
+Q2E H   H6  H 0 1 N N Y Y N N -7.054 -33.833 -0.841 2.378  1.891  1.826  H6  Q2E 22
+Q2E H2  H7  H 0 1 N Y Y Y N N -6.239 -35.129 -0.274 1.930  2.487  0.339  H7  Q2E 23
+Q2E HA  H9  H 0 1 N N Y N N N -7.126 -34.754 -3.049 2.261  -0.357 1.045  H9  Q2E 24
+Q2E H10 H10 H 0 1 N N N N N N -6.550 -37.310 -2.998 1.882  -0.697 -1.415 H10 Q2E 25
+Q2E H11 H11 H 0 1 N N N N N N -5.512 -36.853 -1.604 1.485  1.032  -1.558 H11 Q2E 26
+Q2E H12 H12 H 0 1 N N N N N N -1.681 -37.108 -0.221 -1.161 -3.803 1.358  H12 Q2E 27
+Q2E H13 H13 H 0 1 N N N N N N -3.098 -37.809 -1.073 -1.632 -4.053 -0.341 H13 Q2E 28
+Q2E H14 H14 H 0 1 N Y N N N N -1.564 -37.524 -1.964 -0.350 -5.053 0.385  H14 Q2E 29
+Q2E H15 H15 H 0 1 N N N N N N -1.971 -35.126 -4.279 -2.349 -1.921 0.485  H15 Q2E 30
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+Q2E C4 C5  DOUB Y N 1
+Q2E C4 C3  SING Y N 2
+Q2E C5 C6  SING Y N 3
+Q2E C3 C2  DOUB Y N 4
+Q2E C6 C7  DOUB Y N 5
+Q2E C2 C7  SING Y N 6
+Q2E C2 N1  SING Y N 7
+Q2E C7 C8  SING Y N 8
+Q2E N1 C1  SING Y N 9
+Q2E C8 C1  DOUB Y N 10
+Q2E C8 CB  SING N N 11
+Q2E C1 S   SING N N 12
+Q2E CB CA  SING N N 13
+Q2E CA C   SING N N 14
+Q2E CA N   SING N N 15
+Q2E C  O   DOUB N N 16
+Q2E S  C9  SING N N 17
+Q2E C3 H1  SING N N 18
+Q2E C4 H8  SING N N 19
+Q2E C5 H3  SING N N 20
+Q2E C6 H4  SING N N 21
+Q2E C  H5  SING N N 22
+Q2E N  H   SING N N 23
+Q2E N  H2  SING N N 24
+Q2E CA HA  SING N N 25
+Q2E CB H10 SING N N 26
+Q2E CB H11 SING N N 27
+Q2E C9 H12 SING N N 28
+Q2E C9 H13 SING N N 29
+Q2E C9 H14 SING N N 30
+Q2E N1 H15 SING N N 31
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+Q2E InChI            InChI                1.03  "InChI=1S/C12H14N2OS/c1-16-12-10(6-8(13)7-15)9-4-2-3-5-11(9)14-12/h2-5,7-8,14H,6,13H2,1H3/t8-/m0/s1"
+Q2E InChIKey         InChI                1.03  IAKINSWMXVDWST-QMMMGPOBSA-N
+Q2E SMILES_CANONICAL CACTVS               3.385 "CSc1[nH]c2ccccc2c1C[C@H](N)C=O"
+Q2E SMILES           CACTVS               3.385 "CSc1[nH]c2ccccc2c1C[CH](N)C=O"
+Q2E SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "CSc1c(c2ccccc2[nH]1)C[C@@H](C=O)N"
+Q2E SMILES           "OpenEye OEToolkits" 2.0.7 "CSc1c(c2ccccc2[nH]1)CC(C=O)N"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+Q2E "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "(2~{S})-2-azanyl-3-(2-methylsulfanyl-1~{H}-indol-3-yl)propanal"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+Q2E "Create component"     2020-05-07 PDBE
+Q2E "Initial release"      2021-05-19 RCSB
+Q2E "Standardize backbone" 2023-07-18 PDBE

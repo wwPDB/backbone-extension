@@ -1,0 +1,141 @@
+data_IC0
+_chem_comp.id                     IC0
+_chem_comp.name                   Fmoc-(S)-2-(4-pentenyl)-glycine
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C7 H13 N O2"
+_chem_comp.mon_nstd_parent_comp_id GLY
+_chem_comp.pdbx_synonyms          "(2S)-2-azanylhept-6-enoic acid"
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-03-08
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         143.184
+_chem_comp.one_letter_code        X
+_chem_comp.three_letter_code      IC0
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag Y
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 6QMQ
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+IC0 CA  CA  C 0 1 N N Y N N S -10.725 14.621 -36.726 1.215  -0.291 -0.520 CA  IC0 1
+IC0 C3  C3  C 0 1 N N N N N N -11.162 15.877 -37.498 0.064  0.371  0.239  C3  IC0 2
+IC0 C4  C4  C 0 1 N N N N N N -12.537 15.808 -38.167 -1.265 -0.004 -0.421 C4  IC0 3
+IC0 C5  C5  C 0 1 N N N N N N -12.463 15.091 -39.492 -2.416 0.658  0.338  C5  IC0 4
+IC0 C   C   C 0 1 N N Y N Y N -10.783 13.405 -37.644 2.529  0.176  0.053  C   IC0 5
+IC0 N   N   N 0 1 N N Y Y N N -9.398  14.790 -36.145 1.114  -1.751 -0.387 N   IC0 6
+IC0 O   O   O 0 1 N N Y N Y N -11.679 12.567 -37.524 3.132  -0.526 0.830  O   IC0 7
+IC0 OXT OXT O 0 1 N Y Y N Y N -9.799  13.337 -38.550 3.028  1.371  -0.299 OXT IC0 8
+IC0 HA  HA2 H 0 1 N N Y N N N -11.447 14.462 -35.912 1.161  -0.018 -1.574 HA2 IC0 9
+IC0 H2  H2  H 0 1 N Y Y Y N N -9.394  15.594 -35.550 1.162  -2.030 0.582  H2  IC0 10
+IC0 H   H   H 0 1 N N Y Y N N -9.163  13.978 -35.610 0.271  -2.096 -0.821 H   IC0 11
+IC0 HXT HXT H 0 1 N Y Y N Y N -9.904  12.552 -39.074 3.873  1.627  0.094  HXT IC0 12
+IC0 C6  C6  C 0 1 N y N N N N ?       ?      ?       -3.725 0.288  -0.313 C6  IC0 13
+IC0 C7  C7  C 0 1 N y N N N N ?       ?      ?       -4.677 -0.262 0.399  C7  IC0 14
+IC0 H1  H1  H 0 1 N N N N N N -10.415 16.067 -38.283 0.065  0.028  1.273  H1  IC0 15
+IC0 H3  H3  H 0 1 N N N N N N -11.173 16.720 -36.791 0.188  1.454  0.215  H3  IC0 16
+IC0 H4  H4  H 0 1 N N N N N N -12.907 16.830 -38.332 -1.266 0.339  -1.456 H4  IC0 17
+IC0 H5  H5  H 0 1 N N N N N N -13.231 15.269 -37.506 -1.389 -1.087 -0.397 H5  IC0 18
+IC0 H6  H6  H 0 1 N N N N N N -13.370 14.712 -39.987 -2.415 0.315  1.372  H6  IC0 19
+IC0 H7  H7  H 0 1 N N N N N N -11.722 15.375 -40.253 -2.292 1.741  0.314  H7  IC0 20
+IC0 H8  H8  H 0 1 N y N N N N ?       ?      ?       -3.877 0.476  -1.365 H8  IC0 21
+IC0 H9  H9  H 0 1 N y N N N N ?       ?      ?       -4.525 -0.450 1.452  H9  IC0 22
+IC0 H10 H10 H 0 1 N Y N N N N ?       ?      ?       -5.615 -0.527 -0.067 H10 IC0 23
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+IC0 C5  C4  SING N N 1
+IC0 C4  C3  SING N N 2
+IC0 C   O   DOUB N N 3
+IC0 C   CA  SING N N 4
+IC0 C3  CA  SING N N 5
+IC0 CA  N   SING N N 6
+IC0 C   OXT SING N N 7
+IC0 CA  HA  SING N N 8
+IC0 N   H2  SING N N 9
+IC0 N   H   SING N N 10
+IC0 OXT HXT SING N N 11
+IC0 C5  C6  SING N N 12
+IC0 C6  C7  DOUB N N 13
+IC0 C3  H1  SING N N 14
+IC0 C3  H3  SING N N 15
+IC0 C4  H4  SING N N 16
+IC0 C4  H5  SING N N 17
+IC0 C5  H6  SING N N 18
+IC0 C5  H7  SING N N 19
+IC0 C6  H8  SING N N 20
+IC0 C7  H9  SING N N 21
+IC0 C7  H10 SING N N 22
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+IC0 InChI            InChI                1.06  InChI=1S/C7H13NO2/c1-2-3-4-5-6(8)7(9)10/h2,6H,1,3-5,8H2,(H,9,10)/t6-/m0/s1
+IC0 InChIKey         InChI                1.06  OOOVDVSHGOKTNT-LURJTMIESA-N
+IC0 SMILES_CANONICAL CACTVS               3.385 N[C@@H](CCCC=C)C(O)=O
+IC0 SMILES           CACTVS               3.385 N[CH](CCCC=C)C(O)=O
+IC0 SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 C=CCCC[C@@H](C(=O)O)N
+IC0 SMILES           "OpenEye OEToolkits" 2.0.7 C=CCCCC(C(=O)O)N
+
+_pdbx_chem_comp_identifier.comp_id IC0
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 2.0.7
+_pdbx_chem_comp_identifier.identifier "(2~{S})-2-azanylhept-6-enoic acid"
+
+_pdbx_chem_comp_synonyms.ordinal  1
+_pdbx_chem_comp_synonyms.comp_id  IC0
+_pdbx_chem_comp_synonyms.name     "(2S)-2-azanylhept-6-enoic acid"
+_pdbx_chem_comp_synonyms.provenance PDB
+_pdbx_chem_comp_synonyms.type     ?
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+IC0 "Create component"         2022-03-08 PDBE
+IC0 "Modify leaving atom flag" 2022-04-25 PDBE
+IC0 "Modify name"              2022-04-25 PDBE
+IC0 "Modify atom id"           2022-04-25 PDBE
+IC0 "Initial release"          2022-05-18 RCSB
+IC0 "Modify parent residue"    2022-07-07 PDBE
+IC0 "Modify descriptor"        2022-08-22 RCSB
+IC0 "Standardize backbone"     2023-07-18 PDBE

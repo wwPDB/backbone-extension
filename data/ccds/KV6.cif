@@ -1,0 +1,202 @@
+data_KV6
+_chem_comp.id                     KV6
+_chem_comp.name                   "(3R)-3-aminoheptadecanoic acid"
+_chem_comp.type                   non-polymer
+_chem_comp.pdbx_type              HETAIN
+_chem_comp.formula                "C17 H35 N O2"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms
+;N-[(2S,3R,4R,5S,6R)-5-[(2S,3R,4R,5S,6R)-3-acetamido-5-[(2S,3S,4S,5R,6R)-4-[(2S,4S,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl
+)-3-oxo-oxan-2-yl]oxy-3,5-dihydroxy-6-[[(2S,3S,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]oxan-2-yl
+]oxy-4-hydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-2,4-dihydroxy-6-(hydroxymethyl)oxan-3-yl]ethanamide
+;
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-02-16
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         285.465
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      KV6
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7TZ3
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   RCSB
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+KV6 N   N   N 0 1 N N Y Y N N 1.515  -2.073 -3.465  6.073   1.162  0.997  N   KV6 1
+KV6 CA  CB  C 0 1 N N Y N N R 2.182  -0.891 -4.009  5.995   0.130  -0.045 CB  KV6 2
+KV6 CG  CG  C 0 1 N N N N N N 2.377  -1.041 -5.517  4.726   -0.701 0.155  CG  KV6 3
+KV6 C   C   C 0 1 N N Y N Y N 3.344  -0.148 -1.870  8.462   0.013  -0.271 C   KV6 4
+KV6 O   O   O 0 1 N N Y N Y N 4.056  -0.573 -0.958  8.374   1.187  -0.543 O   KV6 5
+KV6 CD  CD  C 0 1 N N N N N N 3.208  -2.248 -5.915  3.497   0.184  -0.060 CD  KV6 6
+KV6 CE  CE  C 0 1 N N N N N N 3.344  -2.348 -7.427  2.228   -0.647 0.139  CE  KV6 7
+KV6 CZ  CZ  C 0 1 N N N N N N 4.162  -3.560 -7.845  0.999   0.239  -0.076 CZ  KV6 8
+KV6 CH  CH  C 0 1 N N N N N N 3.515  -4.858 -7.388  -0.270  -0.592 0.124  CH  KV6 9
+KV6 CQ  CQ  C 0 1 N N N N N N 4.289  -6.079 -7.869  -1.499  0.294  -0.091 CQ  KV6 10
+KV6 CI  CI  C 0 1 N N N N N N 4.335  -6.169 -9.391  -2.768  -0.537 0.109  CI  KV6 11
+KV6 CK  CK  C 0 1 N N N N N N 2.940  -6.246 -9.997  -3.996  0.349  -0.106 CK  KV6 12
+KV6 CL  CL  C 0 1 N N N N N N 2.984  -6.354 -11.513 -5.265  -0.482 0.094  CL  KV6 13
+KV6 CM  CM  C 0 1 N N N N N N 3.652  -7.644 -11.969 -6.494  0.403  -0.121 CM  KV6 14
+KV6 CP  CP  C 0 1 N N N N N N 0.093  -8.995 -14.240 -11.490 0.513  -0.152 CP  KV6 15
+KV6 CB  CA  C 0 1 N N Y N N N 3.518  -0.649 -3.294  7.221   -0.781 0.047  CA  KV6 16
+KV6 CN  CN  C 0 1 N N N N N N 3.683  -7.759 -13.489 -7.763  -0.428 0.078  CN  KV6 17
+KV6 CC  CC  C 0 1 N N N N N N 2.283  -7.773 -14.097 -8.992  0.458  -0.137 CC  KV6 18
+KV6 CO  CO  C 0 1 N N N N N N 1.463  -8.957 -13.607 -10.261 -0.373 0.063  CO  KV6 19
+KV6 H   H1  H 0 1 N N Y Y N N 1.393  -1.963 -2.479  5.308   1.815  0.917  H1  KV6 20
+KV6 H2  H2  H 0 1 N Y Y Y N N 0.622  -2.182 -3.901  6.100   0.747  1.916  H2  KV6 21
+KV6 HA  HB  H 0 1 N N Y N N N 1.543  -0.013 -3.836  5.968   0.604  -1.026 HB  KV6 22
+KV6 HG1 HG1 H 0 1 N N N N N N 2.878  -0.137 -5.893  4.712   -1.522 -0.563 HG1 KV6 23
+KV6 HG2 HG2 H 0 1 N N N N N N 1.386  -1.133 -5.986  4.711   -1.104 1.168  HG2 KV6 24
+KV6 HD1 HD1 H 0 1 N N N N N N 2.721  -3.159 -5.538  3.511   1.005  0.657  HD1 KV6 25
+KV6 HD2 HD2 H 0 1 N N N N N N 4.210  -2.156 -5.470  3.512   0.587  -1.073 HD2 KV6 26
+KV6 HE1 HE1 H 0 1 N N N N N N 3.839  -1.439 -7.800  2.214   -1.467 -0.578 HE1 KV6 27
+KV6 HE2 HE2 H 0 1 N N N N N N 2.340  -2.427 -7.870  2.213   -1.049 1.152  HE2 KV6 28
+KV6 HZ2 HZ2 H 0 1 N N N N N N 4.248  -3.571 -8.942  1.013   1.060  0.642  HZ2 KV6 29
+KV6 HZ1 HZ1 H 0 1 N N N N N N 5.165  -3.485 -7.399  1.014   0.642  -1.089 HZ1 KV6 30
+KV6 HH1 HH1 H 0 1 N N N N N N 2.492  -4.905 -7.788  -0.283  -1.413 -0.593 HH1 KV6 31
+KV6 HH2 HH2 H 0 1 N N N N N N 3.480  -4.870 -6.289  -0.285  -0.994 1.137  HH2 KV6 32
+KV6 HQ2 HQ2 H 0 1 N N N N N N 3.803  -6.984 -7.475  -1.485  1.115  0.626  HQ2 KV6 33
+KV6 HQ1 HQ1 H 0 1 N N N N N N 5.319  -6.019 -7.486  -1.484  0.696  -1.104 HQ1 KV6 34
+KV6 HI1 HI1 H 0 1 N N N N N N 4.897  -7.070 -9.677  -2.781  -1.358 -0.608 HI1 KV6 35
+KV6 HI2 HI2 H 0 1 N N N N N N 4.845  -5.278 -9.785  -2.783  -0.940 1.122  HI2 KV6 36
+KV6 HK1 HK1 H 0 1 N N N N N N 2.382  -5.339 -9.721  -3.983  1.169  0.611  HK1 KV6 37
+KV6 HK2 HK2 H 0 1 N N N N N N 2.425  -7.130 -9.593  -3.981  0.751  -1.119 HK2 KV6 38
+KV6 HL2 HL2 H 0 1 N N N N N N 3.548  -5.500 -11.915 -5.279  -1.303 -0.624 HL2 KV6 39
+KV6 HL1 HL1 H 0 1 N N N N N N 1.955  -6.329 -11.902 -5.280  -0.885 1.107  HL1 KV6 40
+KV6 HM2 HM2 H 0 1 N N N N N N 3.094  -8.498 -11.559 -6.481  1.224  0.596  HM2 KV6 41
+KV6 HM1 HM1 H 0 1 N N N N N N 4.684  -7.664 -11.589 -6.479  0.806  -1.134 HM1 KV6 42
+KV6 HP2 HP2 H 0 1 N N N N N N -0.464 -9.864 -13.859 -11.476 1.334  0.566  HP2 KV6 43
+KV6 HP1 HP1 H 0 1 N N N N N N -0.452 -8.072 -13.991 -11.475 0.915  -1.165 HP1 KV6 44
+KV6 HP3 HP3 H 0 1 N N N N N N 0.196  -9.076 -15.332 -12.394 -0.079 -0.009 HP3 KV6 45
+KV6 HB1 HA1 H 0 1 N N Y N N N 4.078  -1.595 -3.267  7.298   -1.187 1.056  HA1 KV6 46
+KV6 HB2 HA2 H 0 1 N N Y N N N 4.090  0.100  -3.862  7.120   -1.599 -0.667 HA2 KV6 47
+KV6 HN2 HN2 H 0 1 N N N N N N 4.197  -8.692 -13.763 -7.777  -1.248 -0.639 HN2 KV6 48
+KV6 HN1 HN1 H 0 1 N N N N N N 4.238  -6.901 -13.898 -7.778  -0.830 1.091  HN1 KV6 49
+KV6 HC2 HC2 H 0 1 N N N N N N 2.371  -7.831 -15.192 -8.979  1.279  0.581  HC2 KV6 50
+KV6 HC1 HC1 H 0 1 N N N N N N 1.766  -6.843 -13.819 -8.977  0.861  -1.150 HC1 KV6 51
+KV6 HO1 HO1 H 0 1 N N N N N N 1.348  -8.882 -12.516 -10.276 -0.775 1.076  HO1 KV6 52
+KV6 HO2 HO2 H 0 1 N N N N N N 1.996  -9.886 -13.857 -10.275 -1.193 -0.654 HO2 KV6 53
+KV6 OXT OXT O 0 1 N Y Y N Y N 2.421  0.783  -1.687  9.664   -0.584 -0.252 OXT KV6 54
+KV6 HXT HXT H 0 1 N Y Y N Y N 2.412  1.046  -0.774  10.430  -0.034 -0.463 HXT KV6 55
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+KV6 CP  CO  SING N N 1
+KV6 CC  CO  SING N N 2
+KV6 CC  CN  SING N N 3
+KV6 CN  CM  SING N N 4
+KV6 CM  CL  SING N N 5
+KV6 CL  CK  SING N N 6
+KV6 CK  CI  SING N N 7
+KV6 CI  CQ  SING N N 8
+KV6 CQ  CH  SING N N 9
+KV6 CZ  CE  SING N N 10
+KV6 CZ  CH  SING N N 11
+KV6 CE  CD  SING N N 12
+KV6 CD  CG  SING N N 13
+KV6 CG  CA  SING N N 14
+KV6 CA  N   SING N N 15
+KV6 CA  CB  SING N N 16
+KV6 CB  C   SING N N 17
+KV6 C   O   DOUB N N 18
+KV6 N   H   SING N N 19
+KV6 N   H2  SING N N 20
+KV6 CA  HA  SING N N 21
+KV6 CG  HG1 SING N N 22
+KV6 CG  HG2 SING N N 23
+KV6 CD  HD1 SING N N 24
+KV6 CD  HD2 SING N N 25
+KV6 CE  HE1 SING N N 26
+KV6 CE  HE2 SING N N 27
+KV6 CZ  HZ2 SING N N 28
+KV6 CZ  HZ1 SING N N 29
+KV6 CH  HH1 SING N N 30
+KV6 CH  HH2 SING N N 31
+KV6 CQ  HQ2 SING N N 32
+KV6 CQ  HQ1 SING N N 33
+KV6 CI  HI1 SING N N 34
+KV6 CI  HI2 SING N N 35
+KV6 CK  HK1 SING N N 36
+KV6 CK  HK2 SING N N 37
+KV6 CL  HL2 SING N N 38
+KV6 CL  HL1 SING N N 39
+KV6 CM  HM2 SING N N 40
+KV6 CM  HM1 SING N N 41
+KV6 CP  HP2 SING N N 42
+KV6 CP  HP1 SING N N 43
+KV6 CP  HP3 SING N N 44
+KV6 CB  HB1 SING N N 45
+KV6 CB  HB2 SING N N 46
+KV6 CN  HN2 SING N N 47
+KV6 CN  HN1 SING N N 48
+KV6 CC  HC2 SING N N 49
+KV6 CC  HC1 SING N N 50
+KV6 CO  HO1 SING N N 51
+KV6 CO  HO2 SING N N 52
+KV6 C   OXT SING N N 53
+KV6 OXT HXT SING N N 54
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+KV6 SMILES           ACDLabs              12.01 "NC(CCCCCCCCCCCCCC)CC(=O)O"
+KV6 InChI            InChI                1.03  "InChI=1S/C17H35NO2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-16(18)15-17(19)20/h16H,2-15,18H2,1H3,(H,19,20)/t16-/m1/s1"
+KV6 InChIKey         InChI                1.03  DDQVUIVECUEYEG-MRXNPFEDSA-N
+KV6 SMILES_CANONICAL CACTVS               3.385 "CCCCCCCCCCCCCC[C@@H](N)CC(O)=O"
+KV6 SMILES           CACTVS               3.385 "CCCCCCCCCCCCCC[CH](N)CC(O)=O"
+KV6 SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "CCCCCCCCCCCCCC[C@H](CC(=O)O)N"
+KV6 SMILES           "OpenEye OEToolkits" 2.0.7 "CCCCCCCCCCCCCCC(CC(=O)O)N"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+KV6 "SYSTEMATIC NAME" ACDLabs              12.01 "(3R)-3-aminoheptadecanoic acid"
+KV6 "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "(3~{R})-3-azanylheptadecanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+KV6 "Create component"     2022-02-16 RCSB
+KV6 "Initial release"      2023-03-01 RCSB
+KV6 "Standardize backbone" 2023-07-18 PDBE

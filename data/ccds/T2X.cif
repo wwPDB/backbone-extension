@@ -1,0 +1,137 @@
+data_T2X
+_chem_comp.id                     T2X
+_chem_comp.name                   "(2R)-2-hydroxy-5-methylhexanoic acid"
+_chem_comp.type                   non-polymer
+_chem_comp.pdbx_type              HETAIN
+_chem_comp.formula                "C7 H14 O3"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-07-15
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         146.184
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      T2X
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 8DNY
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   RCSB
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+T2X CA   C29  C 0 1 N N Y N N R 116.972 125.412 106.097 -1.089 0.379  0.548  C29  T2X 1
+T2X C30  C30  C 0 1 N N N N N N 116.410 126.359 105.040 0.125  -0.339 -0.045 C30  T2X 2
+T2X C31  C31  C 0 1 N N N N N N 117.435 126.576 103.886 1.404  0.218  0.585  C31  T2X 3
+T2X C32  C32  C 0 1 N N N N N N 116.908 126.174 102.482 2.618  -0.499 -0.008 C32  T2X 4
+T2X C33  C33  C 0 1 N N N N N N 115.495 126.726 102.201 2.726  -0.173 -1.499 C33  T2X 5
+T2X C34  C34  C 0 1 N N N N N N 116.962 124.628 102.325 3.886  -0.032 0.709  C34  T2X 6
+T2X C    C35  C 0 1 N N Y N Y N 117.971 126.193 106.992 -2.352 -0.252 0.020  C35  T2X 7
+T2X O28  O28  O 0 1 N N Y Y N N 117.619 124.394 105.385 -1.055 1.758  0.177  O28  T2X 8
+T2X O    O77  O 0 1 N N Y N Y N 119.104 126.269 106.663 -3.098 0.387  -0.684 O77  T2X 9
+T2X OXT  O1   O 0 1 N Y Y N Y N 117.524 126.880 108.265 -2.649 -1.523 0.332  O1   T2X 10
+T2X HA   H291 H 0 0 N N Y N N N 116.154 125.018 106.718 -1.067 0.293  1.634  H291 T2X 11
+T2X H302 H302 H 0 0 N N N N N N 116.185 127.328 105.508 0.053  -1.406 0.162  H302 T2X 12
+T2X H301 H301 H 0 0 N N N N N N 115.487 125.929 104.625 0.152  -0.178 -1.123 H301 T2X 13
+T2X H311 H311 H 0 0 N N N N N N 118.331 125.976 104.103 1.476  1.286  0.378  H311 T2X 14
+T2X H312 H312 H 0 0 N N N N N N 117.705 127.642 103.861 1.378  0.058  1.662  H312 T2X 15
+T2X H321 H321 H 0 0 N N N N N N 117.590 126.607 101.735 2.503  -1.576 0.120  H321 T2X 16
+T2X H331 H331 H 0 0 N N N N N N 115.497 127.819 102.322 2.841  0.904  -1.628 H331 T2X 17
+T2X H333 H333 H 0 0 N N N N N N 115.200 126.471 101.172 3.591  -0.684 -1.921 H333 T2X 18
+T2X H332 H332 H 0 0 N N N N N N 114.780 126.281 102.908 1.822  -0.505 -2.010 H332 T2X 19
+T2X H341 H341 H 0 0 N N N N N N 117.982 124.273 102.533 3.810  -0.265 1.771  H341 T2X 20
+T2X H342 H342 H 0 0 N N N N N N 116.261 124.163 103.034 4.752  -0.543 0.287  H342 T2X 21
+T2X H343 H343 H 0 0 N N N N N N 116.681 124.354 101.298 4.002  1.044  0.580  H343 T2X 22
+T2X H    H1   H 0 1 N Y Y Y N N 118.560 124.508 105.452 -1.072 1.910  -0.777 H1   T2X 23
+T2X HXT  H2   H 0 1 N Y Y N Y N 118.266 127.317 108.667 -3.470 -1.884 -0.030 H2   T2X 24
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+T2X C33 C32  SING N N 1
+T2X C34 C32  SING N N 2
+T2X C32 C31  SING N N 3
+T2X C31 C30  SING N N 4
+T2X C30 CA   SING N N 5
+T2X O28 CA   SING N N 6
+T2X CA  C    SING N N 7
+T2X O   C    DOUB N N 8
+T2X C   OXT  SING N N 9
+T2X CA  HA   SING N N 10
+T2X C30 H302 SING N N 11
+T2X C30 H301 SING N N 12
+T2X C31 H311 SING N N 13
+T2X C31 H312 SING N N 14
+T2X C32 H321 SING N N 15
+T2X C33 H331 SING N N 16
+T2X C33 H333 SING N N 17
+T2X C33 H332 SING N N 18
+T2X C34 H341 SING N N 19
+T2X C34 H342 SING N N 20
+T2X C34 H343 SING N N 21
+T2X O28 H    SING N N 22
+T2X OXT HXT  SING N N 23
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+T2X SMILES           ACDLabs              12.01 "CC(C)CCC(O)C(O)=O"
+T2X InChI            InChI                1.06  "InChI=1S/C7H14O3/c1-5(2)3-4-6(8)7(9)10/h5-6,8H,3-4H2,1-2H3,(H,9,10)/t6-/m1/s1"
+T2X InChIKey         InChI                1.06  PFEZQIWIVSFGSC-ZCFIWIBFSA-N
+T2X SMILES_CANONICAL CACTVS               3.385 "CC(C)CC[C@@H](O)C(O)=O"
+T2X SMILES           CACTVS               3.385 "CC(C)CC[CH](O)C(O)=O"
+T2X SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "CC(C)CC[C@H](C(=O)O)O"
+T2X SMILES           "OpenEye OEToolkits" 2.0.7 "CC(C)CCC(C(=O)O)O"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+T2X "SYSTEMATIC NAME" ACDLabs              12.01 "(2R)-2-hydroxy-5-methylhexanoic acid"
+T2X "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "(2~{R})-5-methyl-2-oxidanyl-hexanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+T2X "Create component"     2022-07-15 RCSB
+T2X "Other modification"   2023-03-22 RCSB
+T2X "Initial release"      2023-05-24 RCSB
+T2X "Standardize backbone" 2023-07-18 PDBE

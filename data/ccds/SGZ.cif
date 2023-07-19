@@ -1,0 +1,134 @@
+data_SGZ
+_chem_comp.id                     SGZ
+_chem_comp.name                   2-naphthalen-1-ylethanal
+_chem_comp.type                   non-polymer
+_chem_comp.pdbx_type              HETAIN
+_chem_comp.formula                "C12 H10 O"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2020-11-16
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         170.207
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      SGZ
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7AZD
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+SGZ C1  C1  C 0 1 Y N N N N N -7.977  -8.415  27.339 -0.841 -0.448 0.430  C1  SGZ 1
+SGZ C2  C2  C 0 1 Y N N N N N -8.390  -8.870  26.108 -0.955 -1.797 0.294  C2  SGZ 2
+SGZ C3  C3  C 0 1 Y N N N N N -9.365  -9.823  25.979 0.146  -2.580 -0.047 C3  SGZ 3
+SGZ C4  C4  C 0 1 Y N N N N N -9.978  -10.387 27.063 1.368  -2.017 -0.256 C4  SGZ 4
+SGZ C5  C5  C 0 1 Y N N N N N -9.637  -10.026 28.328 1.525  -0.627 -0.125 C5  SGZ 5
+SGZ C6  C6  C 0 1 Y N N N N N -8.619  -9.011  28.532 0.403  0.169  0.217  C6  SGZ 6
+SGZ C13 C7  C 0 1 Y N N N N N -8.312  -8.654  29.816 0.559  1.561  0.341  C13 SGZ 7
+SGZ C14 C8  C 0 1 Y N N N N N -8.952  -9.266  30.858 1.779  2.124  0.126  C14 SGZ 8
+SGZ C15 C9  C 0 1 Y N N N N N -9.897  -10.226 30.646 2.881  1.341  -0.216 C15 SGZ 9
+SGZ C16 C10 C 0 1 Y N N N N N -10.247 -10.600 29.387 2.771  -0.010 -0.332 C16 SGZ 10
+SGZ CA  C11 C 0 1 N N Y N Y N -5.673  -7.969  28.095 -2.689 0.918  -0.451 CA  SGZ 11
+SGZ C   C12 C 0 1 N N N N N N -6.903  -7.361  27.404 -2.044 0.381  0.800  C   SGZ 12
+SGZ OB  O1  O 0 1 N N Y N Y N -5.239  -9.087  27.928 -3.859 0.709  -0.665 OB  SGZ 13
+SGZ H1  H1  H 0 1 N N N N N N -7.932  -8.464  25.218 -1.913 -2.269 0.455  H1  SGZ 14
+SGZ H2  H2  H 0 1 N N N N N N -9.659  -10.139 24.989 0.029  -3.649 -0.149 H2  SGZ 15
+SGZ H3  H3  H 0 1 N N N N N N -10.746 -11.131 26.912 2.213  -2.636 -0.520 H3  SGZ 16
+SGZ H4  H4  H 0 1 N N N N N N -7.569  -7.894  30.006 -0.286 2.180  0.605  H4  SGZ 17
+SGZ H5  H5  H 0 1 N N N N N N -8.704  -8.983  31.870 1.896  3.193  0.223  H5  SGZ 18
+SGZ H6  H6  H 0 1 N N N N N N -10.375 -10.697 31.492 3.838  1.813  -0.381 H6  SGZ 19
+SGZ H7  H7  H 0 1 N N N N N N -11.008 -11.351 29.235 3.633  -0.604 -0.597 H7  SGZ 20
+SGZ H8  H8  H 0 1 N Y Y N Y N -5.145  -7.340  28.796 -2.105 1.489  -1.158 H8  SGZ 21
+SGZ H9  H9  H 0 1 N N N N N N -6.637  -7.038  26.387 -2.759 -0.239 1.341  H9  SGZ 22
+SGZ H10 H10 H 0 1 N N N N N N -7.264  -6.497  27.980 -1.732 1.212  1.433  H10 SGZ 23
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+SGZ C3  C2  DOUB Y N 1
+SGZ C3  C4  SING Y N 2
+SGZ C2  C1  SING Y N 3
+SGZ C4  C5  DOUB Y N 4
+SGZ C1  C   SING N N 5
+SGZ C1  C6  DOUB Y N 6
+SGZ C   CA  SING N N 7
+SGZ OB  CA  DOUB N N 8
+SGZ C5  C6  SING Y N 9
+SGZ C5  C16 SING Y N 10
+SGZ C6  C13 SING Y N 11
+SGZ C16 C15 DOUB Y N 12
+SGZ C13 C14 DOUB Y N 13
+SGZ C15 C14 SING Y N 14
+SGZ C2  H1  SING N N 15
+SGZ C3  H2  SING N N 16
+SGZ C4  H3  SING N N 17
+SGZ C13 H4  SING N N 18
+SGZ C14 H5  SING N N 19
+SGZ C15 H6  SING N N 20
+SGZ C16 H7  SING N N 21
+SGZ CA  H8  SING N N 22
+SGZ C   H9  SING N N 23
+SGZ C   H10 SING N N 24
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+SGZ InChI            InChI                1.03  "InChI=1S/C12H10O/c13-9-8-11-6-3-5-10-4-1-2-7-12(10)11/h1-7,9H,8H2"
+SGZ InChIKey         InChI                1.03  CCHAJZURXPPHJU-UHFFFAOYSA-N
+SGZ SMILES_CANONICAL CACTVS               3.385 O=CCc1cccc2ccccc12
+SGZ SMILES           CACTVS               3.385 O=CCc1cccc2ccccc12
+SGZ SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "c1ccc2c(c1)cccc2CC=O"
+SGZ SMILES           "OpenEye OEToolkits" 2.0.7 "c1ccc2c(c1)cccc2CC=O"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+SGZ "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 2-naphthalen-1-ylethanal
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+SGZ "Create component"     2020-11-16 PDBE
+SGZ "Initial release"      2021-12-01 RCSB
+SGZ "Standardize backbone" 2023-07-18 PDBE

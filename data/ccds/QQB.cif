@@ -1,0 +1,154 @@
+data_QQB
+_chem_comp.id                     QQB
+_chem_comp.name                   "~{N}-[(2~{S})-2-azanyl-3-naphthalen-1-yl-propyl]methanamide"
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              HETAIN
+_chem_comp.formula                "C14 H16 N2 O"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2020-07-23
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         228.290
+_chem_comp.one_letter_code        X
+_chem_comp.three_letter_code      QQB
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 6ZUF
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+QQB CB  CB  C 0 1 N N N N N N -0.983 -19.561 -12.420 -0.591 -0.755 0.993  CB  QQB 1
+QQB O   OCA O 0 1 N N Y N Y N 1.335  -17.812 -8.855  -5.603 0.154  0.536  OCA QQB 2
+QQB C   CAO C 0 1 N N Y N Y N 2.144  -17.526 -9.736  -5.128 0.370  -0.559 CAO QQB 3
+QQB NM  NM  N 0 1 N N Y N N N 2.189  -18.095 -10.940 -3.809 0.188  -0.770 NM  QQB 4
+QQB CM  CM  C 0 1 N N Y N N N 1.256  -19.134 -11.361 -2.950 -0.272 0.324  CM  QQB 5
+QQB CA  CAA C 0 1 N N Y N N S -0.042 -18.483 -11.881 -1.510 -0.396 -0.177 CAA QQB 6
+QQB N   NA  N 0 1 N N Y Y N N 0.198  -17.484 -12.927 -1.082 0.883  -0.761 NA  QQB 7
+QQB CG1 CG1 C 0 1 Y N N N N N -2.342 -18.998 -12.757 0.805  -0.998 0.479  CG1 QQB 8
+QQB CD2 CD2 C 0 1 Y N N N N N -3.361 -18.898 -11.686 1.687  0.080  0.295  CD2 QQB 9
+QQB CG2 CG2 C 0 1 Y N N N N N -3.110 -19.276 -10.382 1.297  1.400  0.582  CG2 QQB 10
+QQB CD3 CD3 C 0 1 Y N N N N N -4.113 -19.126 -9.418  2.179  2.419  0.391  CD3 QQB 11
+QQB CE3 CE3 C 0 1 Y N N N N N -5.377 -18.650 -9.758  3.466  2.175  -0.085 CE3 QQB 12
+QQB CZ2 CZ2 C 0 1 Y N N N N N -5.645 -18.246 -11.049 3.878  0.911  -0.373 CZ2 QQB 13
+QQB CE2 CE2 C 0 1 Y N N N N N -4.669 -18.323 -12.032 2.996  -0.168 -0.189 CE2 QQB 14
+QQB CZ1 CZ1 C 0 1 Y N N N N N -4.916 -17.938 -13.341 3.386  -1.487 -0.475 CZ1 QQB 15
+QQB CE1 CE1 C 0 1 Y N N N N N -3.919 -18.018 -14.309 2.504  -2.506 -0.284 CE1 QQB 16
+QQB CD1 CD1 C 0 1 Y N N N N N -2.658 -18.539 -14.027 1.220  -2.263 0.197  CD1 QQB 17
+QQB H1  H1  H 0 1 N N N N N N -1.101 -20.345 -11.657 -0.577 0.067  1.709  H1  QQB 18
+QQB H8  H2  H 0 1 N N N N N N -0.542 -19.997 -13.329 -0.961 -1.656 1.481  H2  QQB 19
+QQB H3  H3  H 0 1 N N Y N Y N 2.871  -16.758 -9.518  -5.762 0.709  -1.365 H3  QQB 20
+QQB H4  H4  H 0 1 N N Y N N N 2.894  -17.796 -11.584 -3.430 0.361  -1.645 H4  QQB 21
+QQB H5  H5  H 0 1 N N Y N N N 1.022  -19.785 -10.505 -2.988 0.447  1.143  H5  QQB 22
+QQB H6  H6  H 0 1 N N Y N N N 1.712  -19.733 -12.163 -3.297 -1.243 0.676  H6  QQB 23
+QQB HA  H7  H 0 1 N N Y N N N -0.538 -17.993 -11.030 -1.455 -1.178 -0.935 H7  QQB 24
+QQB H   H8  H 0 1 N N Y Y N N 0.813  -16.777 -12.578 -1.124 1.624  -0.078 H8  QQB 25
+QQB H2  H9  H 0 1 N Y Y Y N N 0.615  -17.926 -13.721 -0.157 0.808  -1.158 H9  QQB 26
+QQB H11 H11 H 0 1 N N N N N N -2.148 -19.684 -10.109 0.303  1.604  0.951  H11 QQB 27
+QQB H12 H12 H 0 1 N N N N N N -3.903 -19.384 -8.391  1.877  3.432  0.613  H12 QQB 28
+QQB H13 H13 H 0 1 N N N N N N -6.151 -18.597 -9.007  4.146  3.002  -0.227 H13 QQB 29
+QQB H14 H14 H 0 1 N N N N N N -6.625 -17.866 -11.297 4.879  0.737  -0.741 H14 QQB 30
+QQB H15 H15 H 0 1 N N N N N N -5.895 -17.571 -13.613 4.380  -1.691 -0.844 H15 QQB 31
+QQB H16 H16 H 0 1 N N N N N N -4.129 -17.666 -15.308 2.808  -3.520 -0.500 H16 QQB 32
+QQB H17 H17 H 0 1 N N N N N N -1.915 -18.586 -14.809 0.539  -3.090 0.340  H17 QQB 33
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+QQB CE1 CD1 DOUB Y N 1
+QQB CE1 CZ1 SING Y N 2
+QQB CD1 CG1 SING Y N 3
+QQB CZ1 CE2 DOUB Y N 4
+QQB N   CA  SING N N 5
+QQB CG1 CB  SING N N 6
+QQB CG1 CD2 DOUB Y N 7
+QQB CB  CA  SING N N 8
+QQB CE2 CD2 SING Y N 9
+QQB CE2 CZ2 SING Y N 10
+QQB CA  CM  SING N N 11
+QQB CD2 CG2 SING Y N 12
+QQB CM  NM  SING N N 13
+QQB CZ2 CE3 DOUB Y N 14
+QQB NM  C   SING N N 15
+QQB CG2 CD3 DOUB Y N 16
+QQB CE3 CD3 SING Y N 17
+QQB C   O   DOUB N N 18
+QQB CB  H1  SING N N 19
+QQB CB  H8  SING N N 20
+QQB C   H3  SING N N 21
+QQB NM  H4  SING N N 22
+QQB CM  H5  SING N N 23
+QQB CM  H6  SING N N 24
+QQB CA  HA  SING N N 25
+QQB N   H   SING N N 26
+QQB N   H2  SING N N 27
+QQB CG2 H11 SING N N 28
+QQB CD3 H12 SING N N 29
+QQB CE3 H13 SING N N 30
+QQB CZ2 H14 SING N N 31
+QQB CZ1 H15 SING N N 32
+QQB CE1 H16 SING N N 33
+QQB CD1 H17 SING N N 34
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+QQB InChI            InChI                1.03  "InChI=1S/C14H16N2O/c15-13(9-16-10-17)8-12-6-3-5-11-4-1-2-7-14(11)12/h1-7,10,13H,8-9,15H2,(H,16,17)/t13-/m0/s1"
+QQB InChIKey         InChI                1.03  PEGZNJDSRGUFQW-ZDUSSCGKSA-N
+QQB SMILES_CANONICAL CACTVS               3.385 "N[C@H](CNC=O)Cc1cccc2ccccc12"
+QQB SMILES           CACTVS               3.385 "N[CH](CNC=O)Cc1cccc2ccccc12"
+QQB SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "c1ccc2c(c1)cccc2C[C@@H](CNC=O)N"
+QQB SMILES           "OpenEye OEToolkits" 2.0.7 "c1ccc2c(c1)cccc2CC(CNC=O)N"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+QQB "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "~{N}-[(2~{S})-2-azanyl-3-naphthalen-1-yl-propyl]methanamide"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+QQB "Create component"     2020-07-23 PDBE
+QQB "Initial release"      2021-06-09 RCSB
+QQB "Standardize backbone" 2023-07-18 PDBE

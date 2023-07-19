@@ -1,0 +1,135 @@
+data_VDK
+_chem_comp.id                     VDK
+_chem_comp.name                   "[(1S,3S)-3-carboxycyclohexyl]azanium"
+_chem_comp.type                   "peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C7 H14 N O2"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     1
+_chem_comp.pdbx_initial_date      2021-05-07
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         144.192
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      VDK
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7OFV
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+VDK C2  C1  C 0 1 N N N N N S 17.841 -32.654 -0.309 1.809  0.853  -0.279 C2  VDK 1
+VDK C4  C2  C 0 1 N N N N N N 16.957 -31.832 0.651  2.226  -0.537 -0.764 C4  VDK 2
+VDK C5  C3  C 0 1 N N N N N N 15.517 -32.347 0.685  1.453  -1.602 0.016  C5  VDK 3
+VDK C6  C4  C 0 1 N N N N N N 14.980 -32.307 -0.748 -0.048 -1.413 -0.210 C6  VDK 4
+VDK C7  C5  C 0 1 N N N N N S 15.781 -33.209 -1.728 -0.465 -0.023 0.275  C7  VDK 5
+VDK N1  N1  N 1 1 N N N N N N 19.170 -32.017 -0.463 2.108  0.982  1.154  N1  VDK 6
+VDK C9  C6  C 0 1 N N N N N N 17.226 -32.723 -1.718 0.307  1.043  -0.505 C9  VDK 7
+VDK C10 C7  C 0 1 N N Y N Y N 15.651 -34.661 -1.337 -1.944 0.164  0.052  C10 VDK 8
+VDK O11 O1  O 0 1 N N Y N Y N 16.614 -35.332 -1.023 -2.339 1.058  -0.659 O11 VDK 9
+VDK H1  H1  H 0 1 N N N N N N 17.955 -33.674 0.087  2.359  1.612  -0.835 H1  VDK 10
+VDK H2  H2  H 0 1 N N N N N N 17.380 -31.894 1.664  2.004  -0.633 -1.827 H2  VDK 11
+VDK H3  H3  H 0 1 N N N N N N 16.952 -30.783 0.319  3.295  -0.672 -0.602 H3  VDK 12
+VDK H4  H4  H 0 1 N N N N N N 14.904 -31.705 1.334  1.750  -2.593 -0.329 H4  VDK 13
+VDK H5  H5  H 0 1 N N N N N N 15.496 -33.379 1.065  1.675  -1.507 1.079  H5  VDK 14
+VDK H6  H6  H 0 1 N N N N N N 15.027 -31.269 -1.110 -0.270 -1.508 -1.273 H6  VDK 15
+VDK H7  H7  H 0 1 N N N N N N 13.933 -32.645 -0.739 -0.598 -2.172 0.346  H7  VDK 16
+VDK H8  H8  H 0 1 N N N N N N 15.369 -33.073 -2.739 -0.243 0.073  1.338  H8  VDK 17
+VDK H9  H9  H 0 1 N N N N N N 19.613 -31.949 0.431  3.098  0.857  1.303  H9  VDK 18
+VDK H10 H10 H 0 1 N N N N N N 19.736 -32.570 -1.074 1.833  1.898  1.474  H10 VDK 19
+VDK H12 H12 H 0 1 N N N N N N 17.829 -33.412 -2.328 0.010  2.033  -0.160 H12 VDK 20
+VDK H13 H13 H 0 1 N N N N N N 17.258 -31.717 -2.161 0.085  0.947  -1.568 H13 VDK 21
+VDK OXY OXY O 0 1 N Y Y N Y N 14.414 -35.165 -1.344 -2.821 -0.662 0.642  OXY VDK 22
+VDK HXY HXY H 0 1 N Y Y N Y N 14.441 -36.076 -1.076 -3.759 -0.503 0.469  HXY VDK 23
+VDK H11 H11 H 0 1 N N N N N N 19.058 -31.102 -0.850 1.598  0.279  1.668  H11 VDK 24
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+VDK C7  C9  SING N N 1
+VDK C7  C10 SING N N 2
+VDK C7  C6  SING N N 3
+VDK C9  C2  SING N N 4
+VDK C10 O11 DOUB N N 5
+VDK C6  C5  SING N N 6
+VDK N1  C2  SING N N 7
+VDK C2  C4  SING N N 8
+VDK C4  C5  SING N N 9
+VDK C2  H1  SING N N 10
+VDK C4  H2  SING N N 11
+VDK C4  H3  SING N N 12
+VDK C5  H4  SING N N 13
+VDK C5  H5  SING N N 14
+VDK C6  H6  SING N N 15
+VDK C6  H7  SING N N 16
+VDK C7  H8  SING N N 17
+VDK N1  H9  SING N N 18
+VDK N1  H10 SING N N 19
+VDK C9  H12 SING N N 20
+VDK C9  H13 SING N N 21
+VDK C10 OXY SING N N 22
+VDK OXY HXY SING N N 23
+VDK N1  H11 SING N N 24
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+VDK InChI            InChI                1.03  "InChI=1S/C7H13NO2/c8-6-3-1-2-5(4-6)7(9)10/h5-6H,1-4,8H2,(H,9,10)/p+1/t5-,6-/m0/s1"
+VDK InChIKey         InChI                1.03  CKTUXQBZPWBFDX-WDSKDSINSA-O
+VDK SMILES_CANONICAL CACTVS               3.385 "[NH3+][C@H]1CCC[C@@H](C1)C(O)=O"
+VDK SMILES           CACTVS               3.385 "[NH3+][CH]1CCC[CH](C1)C(O)=O"
+VDK SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "C1C[C@@H](C[C@H](C1)[NH3+])C(=O)O"
+VDK SMILES           "OpenEye OEToolkits" 2.0.7 "C1CC(CC(C1)[NH3+])C(=O)O"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+VDK "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "[(1~{S},3~{S})-3-carboxycyclohexyl]azanium"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+VDK "Create component"     2021-05-07 PDBE
+VDK "Initial release"      2021-08-11 RCSB
+VDK "Standardize backbone" 2023-07-18 PDBE

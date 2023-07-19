@@ -1,0 +1,134 @@
+data_EI4
+_chem_comp.id                     EI4
+_chem_comp.name                   Enduracididine
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C6 H12 N4 O2"
+_chem_comp.mon_nstd_parent_comp_id ARG
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-01-05
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         172.185
+_chem_comp.one_letter_code        R
+_chem_comp.three_letter_code      EI4
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7QGV
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+EI4 N    N    N 0 1 N N Y Y N N -11.612 -2.278 7.009  -1.784 1.251  -1.308 N    EI4 1
+EI4 CA   CA   C 0 1 N N Y N N S -12.490 -2.238 8.177  -1.452 0.070  -0.500 CA   EI4 2
+EI4 CB   CB   C 0 1 N N N N N N -13.147 -3.588 8.402  -0.423 0.454  0.565  CB   EI4 3
+EI4 CG   CG   C 0 1 N N N N N S -14.091 -3.632 9.581  0.887  0.859  -0.114 CG   EI4 4
+EI4 CD2  CD2  C 0 1 N N N N N N -15.163 -2.463 9.415  1.912  1.330  0.933  CD2  EI4 5
+EI4 NE2  NE2  N 0 1 N N N N N N -16.454 -3.210 9.229  3.034  0.390  0.800  NE2  EI4 6
+EI4 CE1  CE1  C 0 1 N N N N N N -16.299 -4.581 9.323  2.741  -0.518 -0.181 CE1  EI4 7
+EI4 ND1  ND1  N 0 1 N N N N N N -14.951 -4.860 9.533  1.515  -0.305 -0.753 ND1  EI4 8
+EI4 NT   NT   N 0 1 N N N N N N -17.249 -5.468 9.219  3.544  -1.482 -0.534 NT   EI4 9
+EI4 C    C    C 0 1 N N Y N Y N -11.716 -1.842 9.416  -2.700 -0.446 0.170  C    EI4 10
+EI4 O    O    O 0 1 N N Y N Y N -12.267 -1.275 10.362 -3.658 0.277  0.301  O    EI4 11
+EI4 OXT  O1   O 0 1 N Y Y N Y N -10.448 -2.201 9.409  -2.745 -1.710 0.621  O1   EI4 12
+EI4 H2   H1   H 0 1 N Y Y Y N N -11.190 -1.381 6.878  -2.413 1.010  -2.059 H1   EI4 13
+EI4 H    H    H 0 1 N N Y Y N N -10.899 -2.964 7.151  -2.170 1.985  -0.734 H    EI4 14
+EI4 HA   HA   H 0 1 N N Y N N N -13.280 -1.492 8.008  -1.038 -0.706 -1.143 HA   EI4 15
+EI4 HB   HB   H 0 1 N N N N N N -13.714 -3.850 7.497  -0.802 1.290  1.152  HB   EI4 16
+EI4 HBA  HBA  H 0 1 N N N N N N -12.355 -4.333 8.567  -0.243 -0.399 1.220  HBA  EI4 17
+EI4 HG1  HG1  H 0 1 N N N N N N -13.557 -3.538 10.538 0.706  1.645  -0.848 HG1  EI4 18
+EI4 HD2  HD2  H 0 1 N N N N N N -14.936 -1.841 8.537  2.239  2.346  0.716  HD2  EI4 19
+EI4 HE   HE   H 0 1 N N N N N N -17.332 -2.763 9.056  3.850  0.411  1.323  HE   EI4 20
+EI4 HND1 HND1 H 0 0 N N N N N N -14.592 -5.787 9.641  1.125  -0.838 -1.464 HND1 EI4 21
+EI4 HXT  H8   H 0 1 N Y Y N Y N -10.044 -1.955 10.233 -3.567 -1.995 1.044  H8   EI4 22
+EI4 HD1  HD1  H 0 1 N N N N N N -15.199 -1.829 10.314 1.485  1.275  1.935  HD1  EI4 23
+EI4 H1   H2   H 0 1 N N N N N N -16.901 -6.401 9.308  3.284  -2.097 -1.237 H2   EI4 24
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+EI4 N   CA   SING N N 1
+EI4 CA  CB   SING N N 2
+EI4 CA  C    SING N N 3
+EI4 CB  CG   SING N N 4
+EI4 NT  CE1  DOUB N N 5
+EI4 NE2 CE1  SING N N 6
+EI4 NE2 CD2  SING N N 7
+EI4 CE1 ND1  SING N N 8
+EI4 CD2 CG   SING N N 9
+EI4 C   O    DOUB N N 10
+EI4 ND1 CG   SING N N 11
+EI4 C   OXT  SING N N 12
+EI4 N   H2   SING N N 13
+EI4 N   H    SING N N 14
+EI4 CA  HA   SING N N 15
+EI4 CB  HB   SING N N 16
+EI4 CB  HBA  SING N N 17
+EI4 CG  HG1  SING N N 18
+EI4 CD2 HD2  SING N N 19
+EI4 NE2 HE   SING N N 20
+EI4 ND1 HND1 SING N N 21
+EI4 OXT HXT  SING N N 22
+EI4 HD1 CD2  SING N N 23
+EI4 H1  NT   SING N N 24
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+EI4 InChI            InChI                1.06  InChI=1S/C6H12N4O2/c7-4(5(11)12)1-3-2-9-6(8)10-3/h3-4H,1-2,7H2,(H,11,12)(H3,8,9,10)/t3-,4-/m0/s1
+EI4 InChIKey         InChI                1.06  VFXRPXBQCNHQRQ-IMJSIDKUSA-N
+EI4 SMILES_CANONICAL CACTVS               3.385 N[C@@H](C[C@H]1CNC(=N)N1)C(O)=O
+EI4 SMILES           CACTVS               3.385 N[CH](C[CH]1CNC(=N)N1)C(O)=O
+EI4 SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "[H]/N=C\1/NC[C@@H](N1)C[C@@H](C(=O)O)N"
+EI4 SMILES           "OpenEye OEToolkits" 2.0.7 C1C(NC(=N)N1)CC(C(=O)O)N
+
+_pdbx_chem_comp_identifier.comp_id EI4
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 2.0.7
+_pdbx_chem_comp_identifier.identifier "(2~{S})-2-azanyl-3-[(4~{S})-2-azanylideneimidazolidin-4-yl]propanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+EI4 "Create component"     2022-01-06 PDBE
+EI4 "Initial release"      2022-08-03 RCSB
+EI4 "Modify descriptor"    2022-08-22 RCSB
+EI4 "Standardize backbone" 2023-07-18 PDBE

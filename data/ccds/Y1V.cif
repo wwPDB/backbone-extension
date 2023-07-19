@@ -1,0 +1,136 @@
+data_Y1V
+_chem_comp.id                     Y1V
+_chem_comp.name                   "(4R)-5-amino-L-leucine"
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C6 H14 N2 O2"
+_chem_comp.mon_nstd_parent_comp_id LEU
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2021-01-27
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         146.188
+_chem_comp.one_letter_code        L
+_chem_comp.three_letter_code      Y1V
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7LIB
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   RCSB
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+Y1V C    C    C 0 1 N N Y N Y N 5.971 17.082 -4.981 -2.200 -0.252 0.033  C    Y1V 1
+Y1V O    O    O 0 1 N N Y N Y N 6.993 17.690 -5.323 -3.028 0.628  0.058  O    Y1V 2
+Y1V CB   CB   C 0 1 N N Y N N N 5.398 14.766 -5.669 0.119  0.235  0.764  CB   Y1V 3
+Y1V CG   CG   C 0 1 N N Y N N R 4.288 13.823 -6.213 1.558  0.430  0.283  CG   Y1V 4
+Y1V CD   CD   C 0 1 N N Y N N N 2.998 13.875 -5.393 2.054  -0.858 -0.377 CD   Y1V 5
+Y1V N    NE   N 0 1 N N Y Y N N 3.138 13.355 -4.020 3.390  -0.634 -0.945 NE   Y1V 6
+Y1V CM   CM   C 0 1 N N N N N N 4.806 12.369 -6.262 2.453  0.770  1.476  CM   Y1V 7
+Y1V CA   CQ   C 0 1 N N Y N N S 5.067 16.206 -5.946 -0.801 0.043  -0.443 CQ   Y1V 8
+Y1V NA   NA   N 0 1 N N N N N N 5.466 16.606 -7.333 -0.808 1.268  -1.254 NA   Y1V 9
+Y1V OXT  O1   O 0 1 N Y Y N Y N 5.486 17.117 -3.727 -2.525 -1.490 0.436  O1   Y1V 10
+Y1V HB3  HB3  H 0 1 N N Y N N N 5.492 14.621 -4.583 0.066  -0.645 1.405  HB3  Y1V 11
+Y1V HB2  HB2  H 0 1 N N Y N N N 6.352 14.516 -6.156 -0.198 1.113  1.327  HB2  Y1V 12
+Y1V HG2  HG2  H 0 1 N N Y N N N 4.054 14.135 -7.241 1.592  1.245  -0.441 HG2  Y1V 13
+Y1V HD2  HD2  H 0 1 N N Y N N N 2.668 14.923 -5.334 2.105  -1.652 0.369  HD2  Y1V 14
+Y1V HD3  HD3  H 0 1 N N Y N N N 2.234 13.278 -5.912 1.366  -1.148 -1.170 HD3  Y1V 15
+Y1V H    H    H 0 1 N N Y Y N N 2.259 13.421 -3.547 4.032  -0.302 -0.240 H    Y1V 16
+Y1V H2   H1   H 0 1 N Y Y Y N N 3.428 12.398 -4.054 3.740  -1.471 -1.386 H1   Y1V 17
+Y1V HM11 HM11 H 0 0 N N N N N N 4.014 11.710 -6.648 2.042  1.629  2.006  HM11 Y1V 18
+Y1V HM1  HM1  H 0 1 N N N N N N 5.683 12.314 -6.924 2.500  -0.085 2.151  HM1  Y1V 19
+Y1V HM2  HM2  H 0 1 N N N N N N 5.090 12.047 -5.249 3.456  1.008  1.122  HM2  Y1V 20
+Y1V HA   HA   H 0 1 N N Y N N N 4.003 16.414 -5.760 -0.440 -0.790 -1.046 HA   Y1V 21
+Y1V HN1  HN1  H 0 1 N N N N N N 5.232 17.567 -7.484 -1.357 1.145  -2.091 HN1  Y1V 22
+Y1V HN3  HN3  H 0 1 N N N N N N 6.452 16.481 -7.445 -1.139 2.056  -0.716 HN3  Y1V 23
+Y1V HXT  H3   H 0 1 N Y Y N Y N 6.044 17.664 -3.186 -3.434 -1.630 0.737  H3   Y1V 24
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+Y1V NA  CA   SING N N 1
+Y1V CM  CG   SING N N 2
+Y1V CG  CB   SING N N 3
+Y1V CG  CD   SING N N 4
+Y1V CA  CB   SING N N 5
+Y1V CA  C    SING N N 6
+Y1V CD  N    SING N N 7
+Y1V O   C    DOUB N N 8
+Y1V C   OXT  SING N N 9
+Y1V CB  HB3  SING N N 10
+Y1V CB  HB2  SING N N 11
+Y1V CG  HG2  SING N N 12
+Y1V CD  HD2  SING N N 13
+Y1V CD  HD3  SING N N 14
+Y1V N   H    SING N N 15
+Y1V N   H2   SING N N 16
+Y1V CM  HM11 SING N N 17
+Y1V CM  HM1  SING N N 18
+Y1V CM  HM2  SING N N 19
+Y1V CA  HA   SING N N 20
+Y1V NA  HN1  SING N N 21
+Y1V NA  HN3  SING N N 22
+Y1V OXT HXT  SING N N 23
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+Y1V SMILES           ACDLabs              12.01 "C(O)(=O)C(CC(CN)C)N"
+Y1V InChI            InChI                1.03  "InChI=1S/C6H14N2O2/c1-4(3-7)2-5(8)6(9)10/h4-5H,2-3,7-8H2,1H3,(H,9,10)/t4-,5+/m1/s1"
+Y1V InChIKey         InChI                1.03  SKMVYVWGMUZLIX-UHNVWZDZSA-N
+Y1V SMILES_CANONICAL CACTVS               3.385 "C[C@@H](CN)C[C@H](N)C(O)=O"
+Y1V SMILES           CACTVS               3.385 "C[CH](CN)C[CH](N)C(O)=O"
+Y1V SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "C[C@H](C[C@@H](C(=O)O)N)CN"
+Y1V SMILES           "OpenEye OEToolkits" 2.0.7 "CC(CC(C(=O)O)N)CN"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+Y1V "SYSTEMATIC NAME" ACDLabs              12.01 "(4R)-5-amino-L-leucine"
+Y1V "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "(2~{S},4~{R})-2,5-bis(azanyl)-4-methyl-pentanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+Y1V "Create component"     2021-01-27 RCSB
+Y1V "Initial release"      2021-08-11 RCSB
+Y1V "Standardize backbone" 2023-07-18 PDBE

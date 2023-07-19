@@ -1,0 +1,181 @@
+data_IEY
+_chem_comp.id                     IEY
+_chem_comp.name                   "{5-hydroxy-4-(4-hydroxybenzyl)-2-[(E)-2-(1H-imidazol-4-yl)ethenyl]-1H-imidazol-1-yl}acetic acid"
+_chem_comp.type                   "L-peptide NH3 amino terminus"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C17 H16 N4 O4"
+_chem_comp.mon_nstd_parent_comp_id "HIS, TYR, GLY"
+_chem_comp.pdbx_synonyms          "CHROMOPHORE (HIS-TYR-GLY)"
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2005-06-01
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         340.333
+_chem_comp.one_letter_code        HYG
+_chem_comp.three_letter_code      IEY
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag Y
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code ?
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   EBI
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+IEY CA1  CA1  C 0 1 N N Y N N N -21.420 0.362  -6.923  -1.880 -0.441 -0.193 CA1  IEY 1
+IEY CB1  CB1  C 0 1 N N N N N N -20.788 -0.527 -7.733  -1.609 -1.732 0.087  CB1  IEY 2
+IEY CG1  CG1  C 0 1 Y N N N N N -20.189 -1.729 -7.147  -2.679 -2.738 0.026  CG1  IEY 3
+IEY C1   C1   C 0 1 N N Y N N N -21.989 1.623  -7.436  -0.813 0.562  -0.132 C1   IEY 4
+IEY N2   N2   N 0 1 N N Y N N N -21.943 2.015  -8.689  0.420  0.286  0.184  N2   IEY 5
+IEY N3   N3   N 0 1 N N Y N N N -22.626 2.572  -6.646  -1.003 1.899  -0.408 N3   IEY 6
+IEY C2   C2   C 0 1 N N Y N N N -22.963 3.621  -7.444  0.153  2.581  -0.271 C2   IEY 7
+IEY O2   O2   O 0 1 N N Y N N N -23.530 4.651  -7.124  0.331  3.769  -0.439 O2   IEY 8
+IEY CA2  CA2  C 0 1 N N Y N N S -22.544 3.232  -8.800  1.181  1.544  0.135  CA2  IEY 9
+IEY CA3  CA3  C 0 1 N N Y N N N -22.878 2.430  -5.186  -2.283 2.497  -0.796 CA3  IEY 10
+IEY CB2  CB2  C 0 1 N N N N N N -22.808 3.949  -9.957  2.293  1.458  -0.913 CB2  IEY 11
+IEY CG2  CG2  C 0 1 Y N N N N N -22.557 3.688  -11.382 3.316  0.440  -0.479 CG2  IEY 12
+IEY CD1  CD1  C 0 1 Y N N N N N -23.057 4.623  -12.341 3.175  -0.883 -0.854 CD1  IEY 13
+IEY CD2  CD2  C 0 1 Y N N N N N -21.859 2.509  -11.831 4.396  0.832  0.291  CD2  IEY 14
+IEY CE1  CE1  C 0 1 Y N N N N N -22.871 4.396  -13.699 4.111  -1.818 -0.457 CE1  IEY 15
+IEY CE2  CE2  C 0 1 Y N N N N N -21.680 2.294  -13.209 5.335  -0.099 0.690  CE2  IEY 16
+IEY CZ   CZ   C 0 1 Y N N N N N -22.191 3.238  -14.144 5.193  -1.428 0.320  CZ   IEY 17
+IEY OH   OH   O 0 1 N N N N N N -22.026 3.039  -15.478 6.115  -2.346 0.712  OH   IEY 18
+IEY C3   C    C 0 1 N N Y N Y N -22.242 3.405  -4.260  -3.025 2.941  0.438  C    IEY 19
+IEY O3   O    O 0 1 N N Y N Y N -22.841 3.797  -3.253  -2.535 2.776  1.530  O    IEY 20
+IEY CD3  CD3  C 0 1 Y N N N N N -19.347 -2.594 -7.789  -2.548 -4.073 0.283  CD3  IEY 21
+IEY NE1  NE1  N 0 1 Y N N N N N -19.013 -3.568 -6.890  -3.780 -4.628 0.109  NE1  IEY 22
+IEY N21  N21  N 0 1 Y N N N N N -20.356 -2.162 -5.906  -3.979 -2.508 -0.291 N21  IEY 23
+IEY C22  C22  C 0 1 Y N N N N N -19.649 -3.280 -5.731  -4.633 -3.633 -0.247 C22  IEY 24
+IEY OXT  OXT  O 0 1 N Y Y N Y N ?       ?      ?       -4.230 3.521  0.325  OXT  IEY 25
+IEY HA1  HA1  H 0 1 N N Y N N N -21.509 0.139  -5.870  -2.883 -0.147 -0.467 HA1  IEY 26
+IEY HB1  HB1  H 0 1 N N N N N N -20.728 -0.350 -8.797  -0.606 -2.027 0.356  HB1  IEY 27
+IEY HA31 HA31 H 0 0 N N Y N N N -23.965 2.500  -5.035  -2.102 3.357  -1.441 HA31 IEY 28
+IEY HA32 HA32 H 0 0 N N Y N N N -22.531 1.428  -4.892  -2.880 1.760  -1.333 HA32 IEY 29
+IEY HB21 HB21 H 0 0 N N N N N N -23.897 4.101  -9.916  1.867  1.159  -1.871 HB21 IEY 30
+IEY HB22 HB22 H 0 0 N N N N N N -22.297 4.907  -9.782  2.771  2.432  -1.017 HB22 IEY 31
+IEY HD1  HD1  H 0 1 N N N N N N -23.580 5.508  -12.009 2.333  -1.186 -1.458 HD1  IEY 32
+IEY HD2  HD2  H 0 1 N N N N N N -21.477 1.797  -11.115 4.505  1.867  0.579  HD2  IEY 33
+IEY HE1  HE1  H 0 1 N N N N N N -23.248 5.108  -14.419 4.001  -2.851 -0.750 HE1  IEY 34
+IEY HE2  HE2  H 0 1 N N N N N N -21.157 1.416  -13.557 6.179  0.208  1.290  HE2  IEY 35
+IEY HO1  HO1  H 0 1 N N N N N N -21.555 2.226  -15.622 6.851  -2.454 0.094  HO1  IEY 36
+IEY HD3  HD3  H 0 1 N N N N N N -19.010 -2.521 -8.812  -1.643 -4.588 0.568  HD3  IEY 37
+IEY HA   HA   H 0 1 N N N N N N -18.411 -4.348 -7.058  -4.007 -5.565 0.219  HA   IEY 38
+IEY H22  H22  H 0 1 N N N N N N -19.594 -3.857 -4.820  -5.685 -3.755 -0.456 H22  IEY 39
+IEY HXT  HXT  H 0 1 N Y Y N Y N 0.000   0.000  0.000   -4.667 3.789  1.144  HXT  IEY 40
+IEY HA20 H1   H 0 1 N N Y N N N -21.580 3.746  -8.673  1.597  1.778  1.115  H1   IEY 41
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+IEY CA1 CB1  DOUB N E 1
+IEY CA1 C1   SING N N 2
+IEY CA1 HA1  SING N N 3
+IEY CB1 CG1  SING N N 4
+IEY CB1 HB1  SING N N 5
+IEY CG1 CD3  DOUB Y N 6
+IEY CG1 N21  SING Y N 7
+IEY C1  N2   DOUB N N 8
+IEY C1  N3   SING N N 9
+IEY N2  CA2  SING N N 10
+IEY N3  C2   SING N N 11
+IEY N3  CA3  SING N N 12
+IEY C2  O2   DOUB N N 13
+IEY C2  CA2  SING N N 14
+IEY CA2 CB2  SING N N 15
+IEY CA3 C3   SING N N 16
+IEY CA3 HA31 SING N N 17
+IEY CA3 HA32 SING N N 18
+IEY CB2 CG2  SING N N 19
+IEY CB2 HB21 SING N N 20
+IEY CB2 HB22 SING N N 21
+IEY CG2 CD1  DOUB Y N 22
+IEY CG2 CD2  SING Y N 23
+IEY CD1 CE1  SING Y N 24
+IEY CD1 HD1  SING N N 25
+IEY CD2 CE2  DOUB Y N 26
+IEY CD2 HD2  SING N N 27
+IEY CE1 CZ   DOUB Y N 28
+IEY CE1 HE1  SING N N 29
+IEY CE2 CZ   SING Y N 30
+IEY CE2 HE2  SING N N 31
+IEY CZ  OH   SING N N 32
+IEY OH  HO1  SING N N 33
+IEY C3  O3   DOUB N N 34
+IEY C3  OXT  SING N N 35
+IEY CD3 NE1  SING Y N 36
+IEY CD3 HD3  SING N N 37
+IEY NE1 C22  SING Y N 38
+IEY NE1 HA   SING N N 39
+IEY N21 C22  DOUB Y N 40
+IEY C22 H22  SING N N 41
+IEY OXT HXT  SING N N 42
+IEY CA2 HA20 SING N N 43
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+IEY SMILES           ACDLabs              10.04 O=C(O)Cn2c(O)c(nc2\C=C\c1ncnc1)Cc3ccc(O)cc3
+IEY InChI            InChI                1.03  InChI=1S/C17H16N4O4/c22-13-4-1-11(2-5-13)7-14-17(25)21(9-16(23)24)15(20-14)6-3-12-8-18-10-19-12/h1-6,8,10,14,22H,7,9H2,(H,18,19)(H,23,24)/b6-3+/t14-/m0/s1
+IEY InChIKey         InChI                1.03  SKHDCKUWLQWJON-ZRFDWSJLSA-N
+IEY SMILES_CANONICAL CACTVS               3.385 OC(=O)CN1C(=O)[C@H](Cc2ccc(O)cc2)N=C1\C=C\c3c[nH]cn3
+IEY SMILES           CACTVS               3.385 OC(=O)CN1C(=O)[CH](Cc2ccc(O)cc2)N=C1C=Cc3c[nH]cn3
+IEY SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 c1cc(ccc1CC2C(=O)N(C(=N2)/C=C/c3c[nH]cn3)CC(=O)O)O
+IEY SMILES           "OpenEye OEToolkits" 2.0.7 c1cc(ccc1CC2C(=O)N(C(=N2)C=Cc3c[nH]cn3)CC(=O)O)O
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+IEY "SYSTEMATIC NAME" ACDLabs              10.04 "{5-hydroxy-4-(4-hydroxybenzyl)-2-[(E)-2-(1H-imidazol-4-yl)ethenyl]-1H-imidazol-1-yl}acetic acid"
+IEY "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "2-[4-[(4-hydroxyphenyl)methyl]-2-[(~{E})-2-(1~{H}-imidazol-4-yl)ethenyl]-5-oxidanylidene-4~{H}-imidazol-1-yl]ethanoic acid"
+
+_pdbx_chem_comp_synonyms.ordinal  1
+_pdbx_chem_comp_synonyms.comp_id  IEY
+_pdbx_chem_comp_synonyms.name     "CHROMOPHORE (HIS-TYR-GLY)"
+_pdbx_chem_comp_synonyms.provenance PDB
+_pdbx_chem_comp_synonyms.type     ?
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+IEY "Create component"     2005-06-01 EBI
+IEY "Modify descriptor"    2011-06-04 RCSB
+IEY "Modify coordinates"   2021-08-21 PDBE
+IEY "Modify linking type"  2021-08-21 PDBE
+IEY "Standardize backbone" 2023-07-18 PDBE

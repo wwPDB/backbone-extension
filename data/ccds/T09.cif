@@ -1,0 +1,150 @@
+data_T09
+_chem_comp.id                     T09
+_chem_comp.name                   "(2S,4R)-2-amino-4-methyloctanoic acid"
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C9 H19 N O2"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-07-13
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         173.253
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      T09
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 8DNX
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   RCSB
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+T09 C01  C01  C 0 1 N N N N N N 132.729 110.582 112.758 5.543  0.211  0.093  C01  T09 1
+T09 C02  C02  C 0 1 N N N N N N 132.714 110.537 111.208 4.240  -0.172 0.797  C02  T09 2
+T09 C03  C03  C 0 1 N N N N N N 131.806 111.683 110.684 3.055  0.139  -0.120 C03  T09 3
+T09 C04  C04  C 0 1 N N N N N N 132.338 112.254 109.332 1.751  -0.244 0.584  C04  T09 4
+T09 C05  C05  C 0 1 N N N N N R 131.823 113.691 109.158 0.566  0.066  -0.332 C05  T09 5
+T09 C06  C06  C 0 1 N N N N N N 130.297 113.681 108.873 -0.741 -0.199 0.417  C06  T09 6
+T09 CA   C07  C 0 1 N N Y N N S 129.715 115.102 108.975 -1.924 0.228  -0.454 C07  T09 7
+T09 C    C08  C 0 1 N N Y N Y N 128.181 115.074 108.792 -3.213 -0.145 0.231  C08  T09 8
+T09 C67  C67  C 0 1 N N N N N N 132.560 114.357 108.005 0.633  -0.827 -1.573 C67  T09 9
+T09 N    N    N 0 1 N N Y Y N N 129.955 115.637 110.300 -1.881 1.683  -0.658 N    T09 10
+T09 O    O66  O 0 1 N N Y N Y N 127.598 114.087 109.101 -3.839 0.692  0.837  O66  T09 11
+T09 OXT  OXT  O 0 1 N Y Y N Y N 127.384 116.249 108.278 -3.666 -1.407 0.167  OXT  T09 12
+T09 H011 H011 H 0 0 N N N N N N 133.369 109.774 113.143 5.639  -0.360 -0.831 H011 T09 13
+T09 H012 H012 H 0 0 N N N N N N 133.123 111.553 113.093 5.532  1.276  -0.139 H012 T09 14
+T09 H013 H013 H 0 0 N N N N N N 131.705 110.451 113.138 6.387  -0.010 0.746  H013 T09 15
+T09 H021 H021 H 0 0 N N N N N N 132.319 109.568 110.870 4.251  -1.237 1.028  H021 T09 16
+T09 H022 H022 H 0 0 N N N N N N 133.736 110.670 110.824 4.144  0.399  1.720  H022 T09 17
+T09 H031 H031 H 0 0 N N N N N N 131.782 112.491 111.430 3.043  1.204  -0.351 H031 T09 18
+T09 H032 H032 H 0 0 N N N N N N 130.788 111.294 110.533 3.150  -0.433 -1.043 H032 T09 19
+T09 H042 H042 H 0 0 N N N N N N 131.978 111.630 108.501 1.763  -1.309 0.816  H042 T09 20
+T09 H041 H041 H 0 0 N N N N N N 133.438 112.255 109.340 1.656  0.327  1.508  H041 T09 21
+T09 H051 H051 H 0 0 N N N N N N 132.009 114.255 110.084 0.606  1.112  -0.635 H051 T09 22
+T09 H062 H062 H 0 0 N N N N N N 129.797 113.032 109.607 -0.821 -1.263 0.642  H062 T09 23
+T09 H061 H061 H 0 0 N N N N N N 130.122 113.291 107.860 -0.749 0.370  1.346  H061 T09 24
+T09 HA   H071 H 0 0 N N Y N N N 130.167 115.743 108.204 -1.866 -0.276 -1.419 H071 T09 25
+T09 H672 H672 H 0 0 N N N N N N 133.640 114.361 108.213 -0.211 -0.606 -2.226 H672 T09 26
+T09 H671 H671 H 0 0 N N N N N N 132.368 113.800 107.076 1.565  -0.638 -2.106 H671 T09 27
+T09 H673 H673 H 0 0 N N N N N N 132.205 115.392 107.892 0.594  -1.873 -1.270 H673 T09 28
+T09 H2   H2   H 0 1 N Y Y Y N N 130.940 115.677 110.471 -1.934 2.173  0.222  H2   T09 29
+T09 H    H    H 0 1 N N Y Y N N 129.569 116.557 110.363 -1.056 1.951  -1.173 H    T09 30
+T09 HXT  HXT  H 0 1 N Y Y N Y N 126.460 116.027 108.270 -4.497 -1.599 0.622  HXT  T09 31
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+T09 C67 C05  SING N N 1
+T09 C   CA   SING N N 2
+T09 C   O    DOUB N N 3
+T09 C06 CA   SING N N 4
+T09 C06 C05  SING N N 5
+T09 CA  N    SING N N 6
+T09 C05 C04  SING N N 7
+T09 C04 C03  SING N N 8
+T09 C03 C02  SING N N 9
+T09 C02 C01  SING N N 10
+T09 C   OXT  SING N N 11
+T09 C01 H011 SING N N 12
+T09 C01 H012 SING N N 13
+T09 C01 H013 SING N N 14
+T09 C02 H021 SING N N 15
+T09 C02 H022 SING N N 16
+T09 C03 H031 SING N N 17
+T09 C03 H032 SING N N 18
+T09 C04 H042 SING N N 19
+T09 C04 H041 SING N N 20
+T09 C05 H051 SING N N 21
+T09 C06 H062 SING N N 22
+T09 C06 H061 SING N N 23
+T09 CA  HA   SING N N 24
+T09 C67 H672 SING N N 25
+T09 C67 H671 SING N N 26
+T09 C67 H673 SING N N 27
+T09 N   H2   SING N N 28
+T09 N   H    SING N N 29
+T09 OXT HXT  SING N N 30
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+T09 SMILES           ACDLabs              12.01 "NC(CC(C)CCCC)C(=O)O"
+T09 InChI            InChI                1.06  "InChI=1S/C9H19NO2/c1-3-4-5-7(2)6-8(10)9(11)12/h7-8H,3-6,10H2,1-2H3,(H,11,12)/t7-,8+/m1/s1"
+T09 InChIKey         InChI                1.06  YPMMOCARISFQBS-SFYZADRCSA-N
+T09 SMILES_CANONICAL CACTVS               3.385 "CCCC[C@@H](C)C[C@H](N)C(O)=O"
+T09 SMILES           CACTVS               3.385 "CCCC[CH](C)C[CH](N)C(O)=O"
+T09 SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "CCCC[C@@H](C)C[C@@H](C(=O)O)N"
+T09 SMILES           "OpenEye OEToolkits" 2.0.7 "CCCCC(C)CC(C(=O)O)N"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+T09 "SYSTEMATIC NAME" ACDLabs              12.01 "(2S,4R)-2-amino-4-methyloctanoic acid"
+T09 "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "(2~{S},4~{R})-2-azanyl-4-methyl-octanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+T09 "Create component"     2022-07-13 RCSB
+T09 "Initial release"      2023-05-24 RCSB
+T09 "Standardize backbone" 2023-07-18 PDBE

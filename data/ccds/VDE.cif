@@ -1,0 +1,167 @@
+data_VDE
+_chem_comp.id                     VDE
+_chem_comp.name                   "(2S)-2-azanyl-6-[4-[(2S)-2,3-bis(azanyl)-3-oxidanylidene-propyl]-1,2,3-triazol-1-yl]hexanoic acid"
+_chem_comp.type                   "peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C11 H20 N6 O3"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2021-05-06
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         284.315
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      VDE
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7OFJ
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+VDE CA   C15  C 0 1 N N Y N N S -43.862 23.759 -22.098 5.583  -0.336 -0.385 C15  VDE 1
+VDE C17  C17  C 0 1 N N N N N N -44.757 24.827 -21.434 4.231  0.248  0.029  C17  VDE 2
+VDE C20  C20  C 0 1 N N N N N N -46.961 25.352 -22.767 0.640  -1.066 -0.420 C20  VDE 3
+VDE C24  C24  C 0 1 Y N N N N N -46.936 29.180 -22.787 -2.685 0.240  -0.069 C24  VDE 4
+VDE C    C14  C 0 1 N N Y N Y N -42.493 24.036 -21.440 6.676  0.653  -0.071 C14  VDE 5
+VDE C18  C18  C 0 1 N N N N N N -46.066 24.258 -20.710 3.112  -0.701 -0.403 C18  VDE 6
+VDE C19  C19  C 0 1 N N N N N N -47.330 25.105 -21.198 1.760  -0.117 0.012  C19  VDE 7
+VDE C25  C25  C 0 1 Y N N N N N -46.516 27.798 -22.308 -1.704 -0.276 -0.846 C25  VDE 8
+VDE C70  C70  C 0 1 N N N N N S -45.921 30.530 -20.675 -5.116 -0.062 0.320  C70  VDE 9
+VDE C71  C71  C 0 1 N N N N N N -46.468 30.602 -22.170 -4.060 0.664  -0.517 C71  VDE 10
+VDE C72  C72  C 0 1 N N N N N N -45.011 29.293 -20.784 -6.485 0.453  -0.043 C72  VDE 11
+VDE N    N1   N 0 1 N N Y Y N N -44.266 22.429 -21.782 5.825  -1.583 0.353  N1   VDE 12
+VDE N21  N21  N 0 1 Y N N N N N -47.100 26.853 -23.069 -0.655 -0.507 -0.023 N21  VDE 13
+VDE N22  N22  N 0 1 Y N N N N N -47.917 27.552 -23.980 -0.989 -0.150 1.167  N22  VDE 14
+VDE N23  N23  N 0 1 Y N N N N N -47.821 28.919 -23.832 -2.196 0.294  1.175  N23  VDE 15
+VDE N2   N2   N 0 1 N N N N N N -44.982 31.622 -20.556 -5.047 -1.504 0.050  N2   VDE 16
+VDE N3   N3   N 0 1 N N N N N N -44.945 28.204 -19.797 -6.926 1.617  0.473  N3   VDE 17
+VDE O    O1   O 0 1 N N Y N Y N -42.292 23.876 -20.276 7.344  0.518  0.926  O1   VDE 18
+VDE O2   O2   O 0 1 N N N N N N -44.447 29.060 -21.843 -7.190 -0.181 -0.799 O2   VDE 19
+VDE HA   H151 H 0 0 N N Y N N N -43.806 23.928 -23.183 5.577  -0.543 -1.456 H151 VDE 20
+VDE H172 H172 H 0 0 N N N N N N -44.154 25.357 -20.682 4.205  0.372  1.112  H172 VDE 21
+VDE H171 H171 H 0 0 N N N N N N -45.078 25.535 -22.212 4.091  1.217  -0.451 H171 VDE 22
+VDE H202 H202 H 0 0 N N N N N N -47.650 24.780 -23.405 0.666  -1.190 -1.503 H202 VDE 23
+VDE H201 H201 H 0 0 N N N N N N -45.928 25.028 -22.961 0.780  -2.035 0.060  H201 VDE 24
+VDE H182 H182 H 0 0 N N N N N N -46.205 23.199 -20.975 3.138  -0.825 -1.485 H182 VDE 25
+VDE H181 H181 H 0 0 N N N N N N -45.956 24.352 -19.620 3.251  -1.670 0.077  H181 VDE 26
+VDE H192 H192 H 0 0 N N N N N N -47.415 26.055 -20.650 1.620  0.852  -0.468 H192 VDE 27
+VDE H191 H191 H 0 0 N N N N N N -48.264 24.534 -21.089 1.734  0.007  1.094  H191 VDE 28
+VDE H251 H251 H 0 0 N N N N N N -45.849 27.604 -21.481 -1.750 -0.467 -1.908 H251 VDE 29
+VDE H701 H701 H 0 0 N N N N N N -46.708 30.465 -19.909 -4.928 0.119  1.378  H701 VDE 30
+VDE H711 H711 H 0 0 N N N N N N -45.669 31.006 -22.808 -4.169 1.741  -0.385 H711 VDE 31
+VDE H712 H712 H 0 0 N N N N N N -47.331 31.284 -22.187 -4.194 0.412  -1.569 H712 VDE 32
+VDE H    H161 H 0 0 N N Y Y N N -45.153 22.240 -22.204 5.835  -1.418 1.348  H161 VDE 33
+VDE H2   H162 H 0 0 N N Y Y N N -43.587 21.783 -22.130 5.142  -2.285 0.110  H162 VDE 34
+VDE H21  H21  H 0 1 N N N N N N -44.599 31.633 -19.633 -5.690 -2.013 0.638  H21  VDE 35
+VDE H22  H22  H 0 1 N Y N N N N -44.245 31.502 -21.221 -5.218 -1.698 -0.925 H22  VDE 36
+VDE H32  H32  H 0 1 N N N N N N -44.464 27.356 -20.020 -6.362 2.124  1.078  H32  VDE 37
+VDE H31  H31  H 0 1 N N N N N N -45.381 28.312 -18.903 -7.807 1.948  0.240  H31  VDE 38
+VDE OXT  OXT  O 0 1 N Y Y N Y N -41.364 24.538 -22.184 6.905  1.685  -0.898 OXT  VDE 39
+VDE HXT  HXT  H 0 1 N Y Y N Y N -40.627 24.660 -21.598 7.617  2.293  -0.655 HXT  VDE 40
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+VDE N22 N23  DOUB Y N 1
+VDE N22 N21  SING Y N 2
+VDE N23 C24  SING Y N 3
+VDE N21 C20  SING N N 4
+VDE N21 C25  SING Y N 5
+VDE C24 C25  DOUB Y N 6
+VDE C24 C71  SING N N 7
+VDE C20 C19  SING N N 8
+VDE C71 C70  SING N N 9
+VDE CA  N    SING N N 10
+VDE CA  C    SING N N 11
+VDE CA  C17  SING N N 12
+VDE O2  C72  DOUB N N 13
+VDE C   O    DOUB N N 14
+VDE C17 C18  SING N N 15
+VDE C19 C18  SING N N 16
+VDE C72 C70  SING N N 17
+VDE C72 N3   SING N N 18
+VDE C70 N2   SING N N 19
+VDE CA  HA   SING N N 20
+VDE C17 H172 SING N N 21
+VDE C17 H171 SING N N 22
+VDE C20 H202 SING N N 23
+VDE C20 H201 SING N N 24
+VDE C18 H182 SING N N 25
+VDE C18 H181 SING N N 26
+VDE C19 H192 SING N N 27
+VDE C19 H191 SING N N 28
+VDE C25 H251 SING N N 29
+VDE C70 H701 SING N N 30
+VDE C71 H711 SING N N 31
+VDE C71 H712 SING N N 32
+VDE N   H    SING N N 33
+VDE N   H2   SING N N 34
+VDE N2  H21  SING N N 35
+VDE N2  H22  SING N N 36
+VDE N3  H32  SING N N 37
+VDE N3  H31  SING N N 38
+VDE C   OXT  SING N N 39
+VDE OXT HXT  SING N N 40
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+VDE InChI            InChI                1.06  "InChI=1S/C11H20N6O3/c12-8(11(19)20)3-1-2-4-17-6-7(15-16-17)5-9(13)10(14)18/h6,8-9H,1-5,12-13H2,(H2,14,18)(H,19,20)/t8-,9-/m0/s1"
+VDE InChIKey         InChI                1.06  OXPRPPLOGXKLGL-IUCAKERBSA-N
+VDE SMILES_CANONICAL CACTVS               3.385 "N[C@@H](CCCCn1cc(C[C@H](N)C(N)=O)nn1)C(O)=O"
+VDE SMILES           CACTVS               3.385 "N[CH](CCCCn1cc(C[CH](N)C(N)=O)nn1)C(O)=O"
+VDE SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "c1c(nnn1CCCC[C@@H](C(=O)O)N)C[C@@H](C(=O)N)N"
+VDE SMILES           "OpenEye OEToolkits" 2.0.7 "c1c(nnn1CCCCC(C(=O)O)N)CC(C(=O)N)N"
+
+_pdbx_chem_comp_identifier.comp_id VDE
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 2.0.7
+_pdbx_chem_comp_identifier.identifier
+"(2~{S})-2-azanyl-6-[4-[(2~{S})-2,3-bis(azanyl)-3-oxidanylidene-propyl]-1,2,3-triazol-1-yl]hexanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+VDE "Create component"         2021-05-06 PDBE
+VDE "Modify leaving atom flag" 2023-04-19 PDBE
+VDE "Initial release"          2023-04-26 RCSB
+VDE "Standardize backbone"     2023-07-18 PDBE

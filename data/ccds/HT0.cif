@@ -1,0 +1,140 @@
+data_HT0
+_chem_comp.id                     HT0
+_chem_comp.name                   "(4R,5R)-5-(4-hydroxyphenyl)-2-oxo-1,3-oxazolidine-4-carboxylic acid"
+_chem_comp.type                   non-polymer
+_chem_comp.pdbx_type              HETAIN
+_chem_comp.formula                "C10 H9 N O5"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2021-03-10
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         223.182
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      HT0
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7LTB
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   RCSB
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+HT0 N   N   N 0 1 N N Y Y N N 4.602 1.569  -0.212 2.762  0.392  -0.202 N   HT0 1
+HT0 CA  CA  C 0 1 N N Y N N R 4.939 0.614  0.822  1.643  0.973  0.557  CA  HT0 2
+HT0 C   C   C 0 1 N N Y N Y N 3.984 -0.565 0.939  0.708  1.713  -0.363 C   HT0 3
+HT0 O   O   O 0 1 N N Y N Y N 4.020 -1.278 1.947  0.731  1.496  -1.552 O   HT0 4
+HT0 CB  CB  C 0 1 N N N N N R 6.445 0.363  0.594  0.941  -0.254 1.170  CB  HT0 5
+HT0 OB  OB  O 0 1 N N N N N N 6.870 1.546  -0.091 1.729  -1.385 0.698  OB  HT0 6
+HT0 CG  CG  C 0 1 Y N N N N N 6.675 -0.848 -0.222 -0.479 -0.352 0.675  CG  HT0 7
+HT0 CD1 CD1 C 0 1 Y N N N N N 6.595 -0.790 -1.610 -0.749 -0.985 -0.524 CD1 HT0 8
+HT0 CD2 CD2 C 0 1 Y N N N N N 6.915 -2.076 0.387  -1.510 0.186  1.423  CD2 HT0 9
+HT0 CE1 CE1 C 0 1 Y N N N N N 6.743 -1.933 -2.376 -2.051 -1.081 -0.977 CE1 HT0 10
+HT0 CE2 CE2 C 0 1 Y N N N N N 7.075 -3.222 -0.387 -2.812 0.097  0.972  CE2 HT0 11
+HT0 CZ  CZ  C 0 1 Y N N N N N 6.989 -3.150 -1.760 -3.087 -0.542 -0.228 CZ  HT0 12
+HT0 OH  OH  O 0 1 N N N N N N 7.083 -4.286 -2.519 -4.368 -0.636 -0.672 OH  HT0 13
+HT0 C1  C1  C 0 1 N N N N N N 5.706 2.161  -0.650 2.730  -0.941 -0.071 C1  HT0 14
+HT0 O2  O2  O 0 1 N N N N N N 5.817 3.107  -1.417 3.540  -1.679 -0.595 O2  HT0 15
+HT0 H   H   H 0 1 N N Y Y N N 3.678 1.755  -0.546 3.414  0.892  -0.717 H   HT0 16
+HT0 HA  HA  H 0 1 N N Y N N N 4.871 1.150  1.780  2.014  1.635  1.339  HA  HT0 17
+HT0 HXT H1  H 0 1 N Y Y N Y N 2.578 -1.530 0.163  -0.733 3.064  -0.492 H1  HT0 18
+HT0 HB  HB  H 0 1 N N N N N N 6.950 0.269  1.566  0.962  -0.201 2.259  HB  HT0 19
+HT0 HD1 HD1 H 0 1 N N N N N N 6.415 0.158  -2.095 0.057  -1.404 -1.107 HD1 HT0 20
+HT0 HD2 HD2 H 0 1 N N N N N N 6.977 -2.140 1.463  -1.296 0.676  2.362  HD2 HT0 21
+HT0 HE1 HE1 H 0 1 N N N N N N 6.667 -1.877 -3.452 -2.262 -1.579 -1.912 HE1 HT0 22
+HT0 HE2 HE2 H 0 1 N N N N N N 7.267 -4.171 0.091  -3.617 0.517  1.557  HE2 HT0 23
+HT0 H1  H2  H 0 1 N Y N N N N 7.253 -5.031 -1.955 -4.830 -1.431 -0.375 H2  HT0 24
+HT0 OXT O1  O 0 1 N Y Y N Y N 3.120 -0.778 -0.047 -0.152 2.614  0.137  O1  HT0 25
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+HT0 OH  CZ  SING N N 1
+HT0 CE1 CZ  DOUB Y N 2
+HT0 CE1 CD1 SING Y N 3
+HT0 CZ  CE2 SING Y N 4
+HT0 CD1 CG  DOUB Y N 5
+HT0 O2  C1  DOUB N N 6
+HT0 C1  N   SING N N 7
+HT0 C1  OB  SING N N 8
+HT0 CE2 CD2 DOUB Y N 9
+HT0 CG  CD2 SING Y N 10
+HT0 CG  CB  SING N N 11
+HT0 N   CA  SING N N 12
+HT0 OB  CB  SING N N 13
+HT0 CB  CA  SING N N 14
+HT0 CA  C   SING N N 15
+HT0 C   O   DOUB N N 16
+HT0 N   H   SING N N 17
+HT0 CA  HA  SING N N 18
+HT0 CB  HB  SING N N 19
+HT0 CD1 HD1 SING N N 20
+HT0 CD2 HD2 SING N N 21
+HT0 CE1 HE1 SING N N 22
+HT0 CE2 HE2 SING N N 23
+HT0 OH  H1  SING N N 24
+HT0 C   OXT SING N N 25
+HT0 OXT HXT SING N N 26
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+HT0 SMILES           ACDLabs              12.01 "O=C(O)C1NC(=O)OC1c1ccc(O)cc1"
+HT0 InChI            InChI                1.03  "InChI=1S/C10H9NO5/c12-6-3-1-5(2-4-6)8-7(9(13)14)11-10(15)16-8/h1-4,7-8,12H,(H,11,15)(H,13,14)/t7-,8-/m1/s1"
+HT0 InChIKey         InChI                1.03  KNMHHKNPRPEAIG-HTQZYQBOSA-N
+HT0 SMILES_CANONICAL CACTVS               3.385 "OC(=O)[C@@H]1NC(=O)O[C@@H]1c2ccc(O)cc2"
+HT0 SMILES           CACTVS               3.385 "OC(=O)[CH]1NC(=O)O[CH]1c2ccc(O)cc2"
+HT0 SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "c1cc(ccc1[C@@H]2[C@@H](NC(=O)O2)C(=O)O)O"
+HT0 SMILES           "OpenEye OEToolkits" 2.0.7 "c1cc(ccc1C2C(NC(=O)O2)C(=O)O)O"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+HT0 "SYSTEMATIC NAME" ACDLabs              12.01 "(4R,5R)-5-(4-hydroxyphenyl)-2-oxo-1,3-oxazolidine-4-carboxylic acid"
+HT0 "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "(4~{R},5~{R})-5-(4-hydroxyphenyl)-2-oxidanylidene-1,3-oxazolidine-4-carboxylic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+HT0 "Create component"     2021-03-10 RCSB
+HT0 "Initial release"      2022-12-07 RCSB
+HT0 "Standardize backbone" 2023-07-18 PDBE

@@ -1,0 +1,142 @@
+data_3U0
+_chem_comp.id                     3U0
+_chem_comp.name                   "2-[4-(carbamimidamidomethyl)phenyl]ethanoic acid"
+_chem_comp.type                   "L-peptide NH3 amino terminus"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C10 H13 N3 O2"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          "2-[4-[(diaminomethylideneamino)methyl]phenyl]acetic acid"
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2014-10-24
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         207.229
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      3U0
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 6YD4
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+3U0 CA  C1  C 0 1 N N N N N N 53.686 -35.183 -4.191 3.456  0.759  0.002  CA  3U0 1
+3U0 N1  N1  N 0 1 N N N N N N 53.827 -30.562 0.471  -2.843 -0.469 0.001  N1  3U0 2
+3U0 O   O1  O 0 1 N N Y N Y N 51.539 -35.998 -3.493 3.116  -1.572 -0.003 O   3U0 3
+3U0 C   C2  C 0 1 N N Y N Y N 52.153 -35.278 -4.274 3.923  -0.673 -0.000 C   3U0 4
+3U0 N2  N2  N 0 1 N N N N N N 51.817 -30.288 1.616  -5.068 0.380  -0.002 N2  3U0 5
+3U0 C3  C3  C 0 1 Y N N N N N 53.964 -34.000 -3.258 1.949  0.796  0.001  C3  3U0 6
+3U0 N3  N3  N 0 1 N N N N N N 51.855 -30.120 -0.698 -4.666 -1.905 0.003  N3  3U0 7
+3U0 C4  C4  C 0 1 Y N N N N N 54.278 -32.765 -3.809 1.259  0.809  -1.196 C4  3U0 8
+3U0 C5  C5  C 0 1 Y N N N N N 53.858 -34.143 -1.882 1.257  0.810  1.198  C5  3U0 9
+3U0 C6  C6  C 0 1 Y N N N N N 54.516 -31.679 -2.989 -0.123 0.843  -1.197 C6  3U0 10
+3U0 C7  C7  C 0 1 Y N N N N N 54.409 -31.818 -1.604 -0.815 0.863  -0.001 C7  3U0 11
+3U0 C8  C8  C 0 1 Y N N N N N 54.089 -33.050 -1.045 -0.125 0.844  1.197  C8  3U0 12
+3U0 C9  C9  C 0 1 N N N N N N 54.693 -30.593 -0.719 -2.321 0.900  -0.002 C9  3U0 13
+3U0 C10 C10 C 0 1 N N N N N N 52.501 -30.321 0.459  -4.201 -0.687 0.001  C10 3U0 14
+3U0 HA2 H1  H 0 1 N N N N N N 54.108 -36.110 -3.775 3.831  1.262  0.893  HA2 3U0 15
+3U0 HA1 H2  H 0 1 N N N N N N 54.116 -34.999 -5.187 3.832  1.266  -0.886 HA1 3U0 16
+3U0 H3  H3  H 0 1 N N N N N N 54.256 -30.733 1.358  -2.231 -1.222 0.003  H3  3U0 17
+3U0 H5  H5  H 0 1 N N N N N N 52.292 -30.442 2.482  -6.026 0.226  -0.003 H5  3U0 18
+3U0 H6  H6  H 0 1 N N N N N N 50.833 -30.109 1.610  -4.723 1.286  -0.004 H6  3U0 19
+3U0 H7  H7  H 0 1 N N N N N N 50.878 -29.959 -0.558 -5.623 -2.058 0.003  H7  3U0 20
+3U0 H8  H8  H 0 1 N N N N N N 54.336 -32.653 -4.882 1.799  0.794  -2.131 H8  3U0 21
+3U0 H9  H9  H 0 1 N N N N N N 53.596 -35.101 -1.458 1.796  0.795  2.134  H9  3U0 22
+3U0 H10 H10 H 0 1 N N N N N N 54.784 -30.725 -3.418 -0.662 0.854  -2.133 H10 3U0 23
+3U0 H11 H11 H 0 1 N N N N N N 54.020 -33.160 0.027  -0.665 0.855  2.132  H11 3U0 24
+3U0 H12 H12 H 0 1 N N N N N N 55.743 -30.625 -0.394 -2.671 1.421  -0.893 H12 3U0 25
+3U0 H13 H13 H 0 1 N N N N N N 54.520 -29.681 -1.309 -2.672 1.424  0.887  H13 3U0 26
+3U0 OXT O2  O 0 1 N Y Y N Y N 51.558 -34.477 -5.163 5.237  -0.951 0.000  OXT 3U0 27
+3U0 HXT H4  H 0 1 N Y Y N Y N 50.615 -34.562 -5.085 5.488  -1.884 -0.002 HXT 3U0 28
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+3U0 C   CA  SING N N 1
+3U0 C   O   DOUB N N 2
+3U0 CA  C3  SING N N 3
+3U0 C4  C3  DOUB Y N 4
+3U0 C4  C6  SING Y N 5
+3U0 C3  C5  SING Y N 6
+3U0 C6  C7  DOUB Y N 7
+3U0 C5  C8  DOUB Y N 8
+3U0 C7  C8  SING Y N 9
+3U0 C7  C9  SING N N 10
+3U0 C9  N1  SING N N 11
+3U0 N3  C10 DOUB N N 12
+3U0 C10 N1  SING N N 13
+3U0 C10 N2  SING N N 14
+3U0 CA  HA2 SING N N 15
+3U0 CA  HA1 SING N N 16
+3U0 N1  H3  SING N N 17
+3U0 N2  H5  SING N N 18
+3U0 N2  H6  SING N N 19
+3U0 N3  H7  SING N N 20
+3U0 C4  H8  SING N N 21
+3U0 C5  H9  SING N N 22
+3U0 C6  H10 SING N N 23
+3U0 C8  H11 SING N N 24
+3U0 C9  H12 SING N N 25
+3U0 C9  H13 SING N N 26
+3U0 C   OXT SING N N 27
+3U0 OXT HXT SING N N 28
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+3U0 InChI            InChI                1.06    "InChI=1S/C10H13N3O2/c11-10(12)13-6-8-3-1-7(2-4-8)5-9(14)15/h1-4H,5-6H2,(H,14,15)(H4,11,12,13)"
+3U0 InChIKey         InChI                1.06    VRFIQGHKZCJHDG-UHFFFAOYSA-N
+3U0 SMILES_CANONICAL CACTVS               3.385   "NC(=N)NCc1ccc(CC(O)=O)cc1"
+3U0 SMILES           CACTVS               3.385   "NC(=N)NCc1ccc(CC(O)=O)cc1"
+3U0 SMILES_CANONICAL "OpenEye OEToolkits" 3.1.0.0 "[H]/N=C(\N)/NCc1ccc(cc1)CC(=O)O"
+3U0 SMILES           "OpenEye OEToolkits" 3.1.0.0 "c1cc(ccc1CC(=O)O)CNC(=N)N"
+
+_pdbx_chem_comp_identifier.comp_id 3U0
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 3.1.0.0
+_pdbx_chem_comp_identifier.identifier "2-[4-(carbamimidamidomethyl)phenyl]ethanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+3U0 "Create component"         2022-10-06 PDBE
+3U0 "Modify leaving atom flag" 2022-10-10 PDBE
+3U0 "Initial release"          2022-10-19 RCSB
+3U0 "Standardize backbone"     2023-07-18 PDBE

@@ -1,0 +1,117 @@
+data_VI3
+_chem_comp.id                     VI3
+_chem_comp.name                   "(2~{R})-2-azanyl-3-[bis(oxidanylidene)-$l^{5}-sulfanyl]propanoic acid"
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C3 H6 N O4 S"
+_chem_comp.mon_nstd_parent_comp_id CYS
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     -1
+_chem_comp.pdbx_initial_date      2023-03-07
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         152.149
+_chem_comp.one_letter_code        C
+_chem_comp.three_letter_code      VI3
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7ONM
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+VI3 O2  O  O 0  1 N N N N N N 4.474 -1.791 20.177 2.319  1.260  0.008  O  VI3 1
+VI3 O1  O1 O 0  1 N N N N N N 3.200 0.222  19.249 2.777  -1.309 -0.165 O1 VI3 2
+VI3 N   N  N 0  1 N N Y Y N N 6.999 1.870  21.333 -0.605 1.584  -0.467 N  VI3 3
+VI3 CA  CA C 0  1 N N Y N N R 6.107 0.899  20.646 -0.826 0.132  -0.431 CA VI3 4
+VI3 C   C  C 0  1 N N Y N Y N 5.965 1.257  19.172 -2.254 -0.149 -0.038 C  VI3 5
+VI3 O   O2 O 0  1 N N Y N Y N 6.106 0.356  18.336 -2.902 0.698  0.530  O2 VI3 6
+VI3 CB  CB C 0  1 N N N N N N 4.735 0.807  21.289 0.119  -0.502 0.591  CB VI3 7
+VI3 SG  SG S -1 1 N N N N N N 3.722 -0.492 20.528 1.833  -0.165 0.119  SG VI3 8
+VI3 OXT O3 O 0  1 N Y Y N Y N 5.683 2.515  18.842 -2.805 -1.340 -0.318 O3 VI3 9
+VI3 H2  H3 H 0  1 N Y Y Y N N 7.082 1.622  22.298 -0.779 1.999  0.436  H3 VI3 10
+VI3 H   H4 H 0  1 N N Y Y N N 7.903 1.852  20.905 0.326  1.800  -0.790 H4 VI3 11
+VI3 HA  H6 H 0  1 N N Y N N N 6.573 -0.096 20.705 -0.631 -0.289 -1.417 H6 VI3 12
+VI3 H7  H7 H 0  1 N N N N N N 4.222 1.773  21.173 -0.076 -0.081 1.577  H7 VI3 13
+VI3 H8  H8 H 0  1 N N N N N N 4.857 0.583  22.359 -0.045 -1.580 0.618  H8 VI3 14
+VI3 HXT H9 H 0  1 N Y Y N Y N 5.614 2.587  17.897 -3.723 -1.474 -0.046 H9 VI3 15
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+VI3 O   C   DOUB N N 1
+VI3 C   CA  SING N N 2
+VI3 O1  SG  DOUB N N 3
+VI3 O2  SG  DOUB N N 4
+VI3 SG  CB  SING N N 5
+VI3 CA  CB  SING N N 6
+VI3 CA  N   SING N N 7
+VI3 C   OXT SING N N 8
+VI3 N   H2  SING N N 9
+VI3 N   H   SING N N 10
+VI3 CA  HA  SING N N 11
+VI3 CB  H7  SING N N 12
+VI3 CB  H8  SING N N 13
+VI3 OXT HXT SING N N 14
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+VI3 InChI            InChI                1.06  "InChI=1S/C3H6NO4S/c4-2(3(5)6)1-9(7)8/h2H,1,4H2,(H,5,6)/q-1/t2-/m0/s1"
+VI3 InChIKey         InChI                1.06  RRLRIWQWKHHDRA-REOHCLBHSA-N
+VI3 SMILES_CANONICAL CACTVS               3.385 "N[C@@H](C[S-](=O)=O)C(O)=O"
+VI3 SMILES           CACTVS               3.385 "N[CH](C[S-](=O)=O)C(O)=O"
+VI3 SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "C([C@@H](C(=O)O)N)[S-](=O)=O"
+VI3 SMILES           "OpenEye OEToolkits" 2.0.7 "C(C(C(=O)O)N)[S-](=O)=O"
+
+_pdbx_chem_comp_identifier.comp_id VI3
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 2.0.7
+_pdbx_chem_comp_identifier.identifier "(2~{R})-2-azanyl-3-sulfinato-propanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+VI3 "Create component"         2023-03-07 PDBE
+VI3 "Modify linking type"      2023-03-07 PDBE
+VI3 "Modify leaving atom flag" 2023-03-08 PDBE
+VI3 "Initial release"          2023-03-15 RCSB
+VI3 "Modify formula"           2023-05-12 PDBE
+VI3 "Standardize backbone"     2023-07-18 PDBE

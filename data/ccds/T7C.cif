@@ -1,0 +1,143 @@
+data_T7C
+_chem_comp.id                     T7C
+_chem_comp.name                   "3-({2-[(2-amino-2-oxoethyl)amino]ethyl}sulfanyl)propanoic acid"
+_chem_comp.type                   non-polymer
+_chem_comp.pdbx_type              HETAIN
+_chem_comp.formula                "C7 H14 N2 O3 S"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-07-19
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         206.263
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      T7C
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 8DPY
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   RCSB
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+T7C C12 C12 C 0 1 N N N N N N -15.245 8.977  -8.960 -5.179 -0.318 -0.007 C12 T7C 1
+T7C CA  C14 C 0 1 N N Y N N N -18.420 10.306 -8.269 -1.583 0.733  -0.002 C14 T7C 2
+T7C C13 C13 C 0 1 N N N N N N -16.031 10.273 -8.970 -4.002 0.623  -0.003 C13 T7C 3
+T7C C1  C1  C 0 1 N N Y N N N -18.900 8.876  -8.309 -0.306 -0.110 -0.004 C1  T7C 4
+T7C C2  C2  C 0 1 N N Y N N N -21.399 8.988  -6.319 3.849  0.601  0.001  C2  T7C 5
+T7C C   C3  C 0 1 N N Y N Y N -21.870 7.583  -6.315 5.005  -0.365 -0.002 C3  T7C 6
+T7C C4  C4  C 0 1 N N Y N N N -21.563 9.624  -7.682 2.532  -0.179 -0.003 C4  T7C 7
+T7C N1  N1  N 0 1 N N N N N N -15.756 7.875  -8.250 -6.434 0.173  -0.006 N1  T7C 8
+T7C N   N2  N 0 1 N N Y Y N N -17.011 10.361 -7.904 -2.755 -0.153 -0.005 N2  T7C 9
+T7C O   O1  O 0 1 N N Y N Y N -23.027 7.208  -6.846 4.798  -1.556 -0.007 O1  T7C 10
+T7C O5  O5  O 0 1 N N N N N N -14.232 8.886  -9.608 -4.997 -1.517 -0.017 O5  T7C 11
+T7C S1  S1  S 0 1 N N Y N N N -20.600 8.806  -8.959 1.140  0.985  0.001  S1  T7C 12
+T7C HA2 H1  H 0 1 N N Y N N N -18.555 10.761 -9.261 -1.604 1.359  0.891  H1  T7C 13
+T7C HA3 H2  H 0 1 N N Y N N N -19.008 10.865 -7.526 -1.603 1.365  -0.889 H2  T7C 14
+T7C H3  H3  H 0 1 N N N N N N -15.325 11.110 -8.864 -4.038 1.254  -0.891 H3  T7C 15
+T7C H4  H4  H 0 1 N N N N N N -16.555 10.355 -9.933 -4.039 1.247  0.889  H4  T7C 16
+T7C H5  H5  H 0 1 N N Y N N N -18.882 8.457  -7.292 -0.286 -0.742 0.884  H5  T7C 17
+T7C H6  H6  H 0 1 N N Y N N N -18.237 8.287  -8.960 -0.285 -0.735 -0.896 H6  T7C 18
+T7C H7  H7  H 0 1 N N Y N N N -20.335 9.009  -6.040 3.899  1.225  0.893  H7  T7C 19
+T7C H8  H8  H 0 1 N N Y N N N -21.982 9.562  -5.584 3.900  1.232  -0.887 H8  T7C 20
+T7C H11 H11 H 0 1 N N Y N N N -21.242 10.674 -7.620 2.482  -0.803 -0.895 H11 T7C 21
+T7C H12 H12 H 0 1 N N Y N N N -22.626 9.581  -7.963 2.481  -0.809 0.885  H12 T7C 22
+T7C H13 H13 H 0 1 N N N N N N -15.278 6.997  -8.277 -6.580 1.132  -0.002 H13 T7C 23
+T7C H14 H14 H 0 1 N N N N N N -16.597 7.970  -7.718 -7.192 -0.433 -0.009 H14 T7C 24
+T7C H   H15 H 0 1 N Y Y Y N N -16.836 9.603  -7.275 -2.726 -0.794 0.774  H15 T7C 25
+T7C OXT O2  O 0 1 N Y Y N Y N -20.998 6.560  -5.778 6.266  0.096  0.000  O2  T7C 26
+T7C HXT H9  H 0 1 N Y Y N Y N -21.403 5.708  -5.888 6.974  -0.562 -0.002 H9  T7C 27
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+T7C O5  C12 DOUB N N 1
+T7C C13 C12 SING N N 2
+T7C C13 N   SING N N 3
+T7C C12 N1  SING N N 4
+T7C S1  C1  SING N N 5
+T7C S1  C4  SING N N 6
+T7C C1  CA  SING N N 7
+T7C CA  N   SING N N 8
+T7C C4  C2  SING N N 9
+T7C O   C   DOUB N N 10
+T7C C2  C   SING N N 11
+T7C CA  HA2 SING N N 12
+T7C CA  HA3 SING N N 13
+T7C C13 H3  SING N N 14
+T7C C13 H4  SING N N 15
+T7C C1  H5  SING N N 16
+T7C C1  H6  SING N N 17
+T7C C2  H7  SING N N 18
+T7C C2  H8  SING N N 19
+T7C C4  H11 SING N N 20
+T7C C4  H12 SING N N 21
+T7C N1  H13 SING N N 22
+T7C N1  H14 SING N N 23
+T7C N   H   SING N N 24
+T7C C   OXT SING N N 25
+T7C OXT HXT SING N N 26
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+T7C SMILES           ACDLabs              12.01 "O=C(N)CNCCSCCC(=O)O"
+T7C InChI            InChI                1.06  "InChI=1S/C7H14N2O3S/c8-6(10)5-9-2-4-13-3-1-7(11)12/h9H,1-5H2,(H2,8,10)(H,11,12)"
+T7C InChIKey         InChI                1.06  MUBXWBWLTBTNGS-UHFFFAOYSA-N
+T7C SMILES_CANONICAL CACTVS               3.385 "NC(=O)CNCCSCCC(O)=O"
+T7C SMILES           CACTVS               3.385 "NC(=O)CNCCSCCC(O)=O"
+T7C SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "C(CSCCNCC(=O)N)C(=O)O"
+T7C SMILES           "OpenEye OEToolkits" 2.0.7 "C(CSCCNCC(=O)N)C(=O)O"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+T7C "SYSTEMATIC NAME" ACDLabs              12.01 "3-({2-[(2-amino-2-oxoethyl)amino]ethyl}sulfanyl)propanoic acid"
+T7C "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "3-[2-[(2-azanyl-2-oxidanylidene-ethyl)amino]ethylsulfanyl]propanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+T7C "Create component"     2022-07-19 RCSB
+T7C "Other modification"   2022-07-19 RCSB
+T7C "Initial release"      2023-05-24 RCSB
+T7C "Standardize backbone" 2023-07-18 PDBE

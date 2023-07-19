@@ -1,0 +1,123 @@
+data_I7F
+_chem_comp.id                     I7F
+_chem_comp.name                   O-hydroxy-L-serine
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C3 H7 N O4"
+_chem_comp.mon_nstd_parent_comp_id SER
+_chem_comp.pdbx_synonyms          "(2S)-2-amino-3-hydroperoxypropanoic acid"
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-02-17
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         121.092
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      I7F
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag Y
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7QZR
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+I7F N   N   N 0 1 N N Y Y N N 18.526 -26.062 42.638 -0.258 1.770  -0.313 N   I7F 1
+I7F CA  CA  C 0 1 N N Y N N S 17.757 -24.828 42.277 -0.324 0.315  -0.504 CA  I7F 2
+I7F C   C   C 0 1 N N Y N Y N 16.636 -24.428 43.306 -1.643 -0.200 0.010  C   I7F 3
+I7F O   O   O 0 1 N N Y N Y N 15.996 -25.335 43.839 -2.284 0.458  0.794  O   I7F 4
+I7F CB  CB  C 0 1 N N N N N N 17.087 -25.005 40.901 0.819  -0.352 0.264  CB  I7F 5
+I7F OG  OG  O 0 1 N N N N N N 17.745 -24.142 39.997 2.070  0.048  -0.300 OG  I7F 6
+I7F O1  O1  O 0 1 N N N N N N 17.653 -24.579 38.652 3.240  -0.539 0.366  O1  I7F 7
+I7F H   H   H 0 1 N N Y Y N N 18.957 -25.937 43.532 -0.341 2.011  0.664  H   I7F 8
+I7F H2  HN2 H 0 1 N Y Y Y N N 17.904 -26.844 42.674 0.590  2.149  -0.708 HN2 I7F 9
+I7F HA  HA  H 0 1 N N Y N N N 18.461 -23.985 42.207 -0.232 0.084  -1.565 HA  I7F 10
+I7F HB3 HB3 H 0 1 N N N N N N 16.021 -24.741 40.965 0.779  -0.049 1.310  HB3 I7F 11
+I7F HB2 HB2 H 0 1 N N N N N N 17.187 -26.048 40.566 0.719  -1.435 0.196  HB2 I7F 12
+I7F HO1 HO1 H 0 1 N N N N N N 18.110 -23.966 38.088 4.087  -0.268 -0.016 HO1 I7F 13
+I7F OXT OXT O 0 1 N Y Y N Y N ?      ?       ?      -2.105 -1.391 -0.403 OXT I7F 14
+I7F HXT HXT H 0 1 N Y Y N Y N ?      ?       ?      -2.956 -1.679 -0.045 HXT I7F 15
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+I7F O1  OG  SING N N 1
+I7F OG  CB  SING N N 2
+I7F CB  CA  SING N N 3
+I7F CA  N   SING N N 4
+I7F CA  C   SING N N 5
+I7F C   O   DOUB N N 6
+I7F N   H   SING N N 7
+I7F N   H2  SING N N 8
+I7F CA  HA  SING N N 9
+I7F CB  HB3 SING N N 10
+I7F CB  HB2 SING N N 11
+I7F O1  HO1 SING N N 12
+I7F C   OXT SING N N 13
+I7F OXT HXT SING N N 14
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+I7F InChI            InChI                1.06  "InChI=1S/C3H7NO4/c4-2(1-8-7)3(5)6/h2,7H,1,4H2,(H,5,6)/t2-/m0/s1"
+I7F InChIKey         InChI                1.06  DDEVLGCTAOXXGJ-REOHCLBHSA-N
+I7F SMILES_CANONICAL CACTVS               3.385 "N[C@@H](COO)C(O)=O"
+I7F SMILES           CACTVS               3.385 "N[CH](COO)C(O)=O"
+I7F SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "C([C@@H](C(=O)O)N)OO"
+I7F SMILES           "OpenEye OEToolkits" 2.0.7 "C(C(C(=O)O)N)OO"
+
+_pdbx_chem_comp_identifier.comp_id I7F
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 2.0.7
+_pdbx_chem_comp_identifier.identifier "(2~{S})-2-azanyl-3-(dioxidanyl)propanoic acid"
+
+_pdbx_chem_comp_synonyms.ordinal  1
+_pdbx_chem_comp_synonyms.comp_id  I7F
+_pdbx_chem_comp_synonyms.name     "(2S)-2-amino-3-hydroperoxypropanoic acid"
+_pdbx_chem_comp_synonyms.provenance PUBCHEM
+_pdbx_chem_comp_synonyms.type     ?
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+I7F "Create component"         2022-02-17 PDBE
+I7F "Modify descriptor"        2022-04-21 PDBE
+I7F "Modify leaving atom flag" 2022-04-22 PDBE
+I7F "Modify descriptor"        2022-08-22 RCSB
+I7F "Initial release"          2022-10-26 RCSB
+I7F "Standardize backbone"     2023-07-18 PDBE

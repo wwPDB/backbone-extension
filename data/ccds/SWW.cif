@@ -1,0 +1,135 @@
+data_SWW
+_chem_comp.id                     SWW
+_chem_comp.name                   "(2~{S})-2-azanyl-3-(2-hydroxyethylsulfanyl)propanoic acid"
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              HETAIN
+_chem_comp.formula                "C5 H11 N O3 S"
+_chem_comp.mon_nstd_parent_comp_id SER
+_chem_comp.pdbx_synonyms          "S-(2-hydroxyethyl)-D-cysteine"
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2020-12-02
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         165.211
+_chem_comp.one_letter_code        S
+_chem_comp.three_letter_code      SWW
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7B3U
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+SWW N    N    N 0 1 N N Y Y N N -17.268 14.156 -1.863 -1.728 1.766  -0.064 N    SWW 1
+SWW CA   CA   C 0 1 N N Y N N S -16.985 13.701 -0.516 -1.670 0.373  0.401  CA   SWW 2
+SWW C    C    C 0 1 N N Y N Y N -15.864 12.634 -0.470 -2.905 -0.360 -0.055 C    SWW 3
+SWW O    O    O 0 1 N N Y N Y N -15.326 12.398 0.586  -3.559 0.071  -0.975 O    SWW 4
+SWW C05  C05  C 0 1 N N N N N N -16.598 14.876 0.406  -0.429 -0.307 -0.181 C05  SWW 5
+SWW C07  C07  C 0 1 N N N N N N -19.115 16.393 0.440  2.404  -0.444 -0.307 C07  SWW 6
+SWW C08  C08  C 0 1 N N N N N N -20.047 15.974 -0.702 3.752  0.111  0.159  C08  SWW 7
+SWW O09  O09  O 0 1 N N N N N N -19.914 14.622 -1.056 4.809  -0.621 -0.465 O09  SWW 8
+SWW S06  S06  S 0 1 N N N N N N -17.373 16.480 -0.035 1.062  0.484  0.485  S06  SWW 9
+SWW OXT  O1   O 0 1 N Y Y N Y N -15.554 12.006 -1.601 -3.278 -1.493 0.561  O1   SWW 10
+SWW H    H1   H 0 1 N N Y Y N N -17.996 14.841 -1.838 -0.943 2.296  0.283  H1   SWW 11
+SWW H2   H041 H 0 0 N Y Y Y N N -16.443 14.560 -2.258 -1.777 1.809  -1.071 H041 SWW 12
+SWW HA   H031 H 0 0 N N Y N N N -17.894 13.241 -0.102 -1.618 0.355  1.489  H031 SWW 13
+SWW H052 H052 H 0 0 N N N N N N -16.899 14.620 1.433  -0.433 -1.362 0.091  H052 SWW 14
+SWW H051 H051 H 0 0 N N N N N N -15.506 15.000 0.364  -0.437 -0.211 -1.267 H051 SWW 15
+SWW H072 H072 H 0 0 N N N N N N -19.427 17.386 0.796  2.325  -0.345 -1.390 H072 SWW 16
+SWW H071 H071 H 0 0 N N N N N N -19.216 15.662 1.256  2.330  -1.496 -0.033 H071 SWW 17
+SWW H081 H081 H 0 0 N N N N N N -19.819 16.591 -1.584 3.826  1.163  -0.116 H081 SWW 18
+SWW H082 H082 H 0 0 N N N N N N -21.086 16.153 -0.389 3.831  0.011  1.241  H082 SWW 19
+SWW H091 H091 H 0 0 N N N N N N -20.513 14.420 -1.765 5.694  -0.322 -0.215 H091 SWW 20
+SWW HXT  H2   H 0 1 N Y Y N Y N -14.867 11.371 -1.433 -4.077 -1.928 0.233  H2   SWW 21
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+SWW N   CA   SING N N 1
+SWW O09 C08  SING N N 2
+SWW C08 C07  SING N N 3
+SWW CA  C    SING N N 4
+SWW CA  C05  SING N N 5
+SWW C   O    DOUB N N 6
+SWW S06 C05  SING N N 7
+SWW S06 C07  SING N N 8
+SWW C   OXT  SING N N 9
+SWW N   H    SING N N 10
+SWW N   H2   SING N N 11
+SWW CA  HA   SING N N 12
+SWW C05 H052 SING N N 13
+SWW C05 H051 SING N N 14
+SWW C07 H072 SING N N 15
+SWW C07 H071 SING N N 16
+SWW C08 H081 SING N N 17
+SWW C08 H082 SING N N 18
+SWW O09 H091 SING N N 19
+SWW OXT HXT  SING N N 20
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+SWW InChI            InChI                1.03  "InChI=1S/C5H11NO3S/c6-4(5(8)9)3-10-2-1-7/h4,7H,1-3,6H2,(H,8,9)/t4-/m1/s1"
+SWW InChIKey         InChI                1.03  MWFRVMDVLYIXJF-SCSAIBSYSA-N
+SWW SMILES_CANONICAL CACTVS               3.385 "N[C@H](CSCCO)C(O)=O"
+SWW SMILES           CACTVS               3.385 "N[CH](CSCCO)C(O)=O"
+SWW SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "C(CSC[C@H](C(=O)O)N)O"
+SWW SMILES           "OpenEye OEToolkits" 2.0.7 "C(CSCC(C(=O)O)N)O"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+SWW "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "(2~{S})-2-azanyl-3-(2-hydroxyethylsulfanyl)propanoic acid"
+
+_pdbx_chem_comp_synonyms.ordinal  1
+_pdbx_chem_comp_synonyms.comp_id  SWW
+_pdbx_chem_comp_synonyms.name     "S-(2-hydroxyethyl)-D-cysteine"
+_pdbx_chem_comp_synonyms.provenance ?
+_pdbx_chem_comp_synonyms.type     ?
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+SWW "Create component"     2020-12-02 PDBE
+SWW "Modify linking type"  2020-12-02 PDBE
+SWW "Initial release"      2022-01-12 RCSB
+SWW "Standardize backbone" 2023-07-18 PDBE

@@ -1,0 +1,131 @@
+data_RX9
+_chem_comp.id                     RX9
+_chem_comp.name                   Dehydroisoleucine
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C6 H11 N O2"
+_chem_comp.mon_nstd_parent_comp_id ILE
+_chem_comp.pdbx_synonyms          "(E)-2-azanyl-3-methyl-pent-2-enoic acid"
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-12-09
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         129.157
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      RX9
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7QQ3
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+RX9 N    N1  N 0 1 N N Y Y N N 139.933 182.086 153.839 0.799  2.006  0.210  N    RX9 1
+RX9 CA   C1  C 0 1 N N Y N N N 139.039 182.538 152.832 0.325  0.708  -0.012 CA   RX9 2
+RX9 C    C2  C 0 1 N N Y N Y N 139.583 182.689 151.533 1.267  -0.427 -0.034 C    RX9 3
+RX9 O    O1  O 0 1 N N Y N Y N 139.092 182.076 150.576 0.846  -1.564 -0.105 O    RX9 4
+RX9 CB   C3  C 0 1 N N N N N N 137.715 182.779 153.207 -0.980 0.496  -0.203 CB   RX9 5
+RX9 CG1  C4  C 0 1 N N N N N N 136.628 183.267 152.278 -1.470 -0.869 -0.610 CG1  RX9 6
+RX9 CG2  C5  C 0 1 N N N N N N 137.242 182.533 154.614 -1.962 1.623  -0.011 CG2  RX9 7
+RX9 CD1  C6  C 0 1 N N N N N N 136.726 184.697 151.854 -1.831 -1.675 0.639  CD1  RX9 8
+RX9 OXT  O2  O 0 1 N Y Y N Y N 140.640 183.509 151.410 2.594  -0.202 0.025  OXT  RX9 9
+RX9 H    H1  H 0 1 N N Y Y N N 139.447 182.016 154.710 0.179  2.752  0.224  H    RX9 10
+RX9 H2   HN2 H 0 1 N Y Y Y N N 140.294 181.189 153.586 1.746  2.159  0.352  H2   RX9 11
+RX9 HG12 H3  H 0 0 N N N N N N 135.663 183.132 152.788 -2.352 -0.765 -1.242 HG12 RX9 12
+RX9 HG13 H4  H 0 0 N N N N N N 136.654 182.644 151.372 -0.686 -1.387 -1.163 HG13 RX9 13
+RX9 HG21 H5  H 0 0 N N N N N N 138.084 182.182 155.228 -2.095 2.153  -0.954 HG21 RX9 14
+RX9 HG22 H6  H 0 0 N N N N N N 136.845 183.468 155.036 -2.919 1.219  0.317  HG22 RX9 15
+RX9 HG23 H7  H 0 0 N N N N N N 136.450 181.769 154.606 -1.581 2.313  0.742  HG23 RX9 16
+RX9 HD11 H8  H 0 0 N N N N N N 135.888 184.940 151.184 -0.949 -1.780 1.271  HD11 RX9 17
+RX9 HD12 H9  H 0 0 N N N N N N 136.685 185.346 152.741 -2.615 -1.158 1.192  HD12 RX9 18
+RX9 HD13 H10 H 0 0 N N N N N N 137.677 184.858 151.325 -2.185 -2.663 0.345  HD13 RX9 19
+RX9 HXT  H11 H 0 1 N Y Y N Y N 140.923 183.528 150.503 3.172  -0.977 0.008  HXT  RX9 20
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+RX9 O   C    DOUB N N 1
+RX9 C   CA   SING N N 2
+RX9 CD1 CG1  SING N N 3
+RX9 CG1 CB   SING N N 4
+RX9 CA  CB   DOUB N E 5
+RX9 CA  N    SING N N 6
+RX9 CB  CG2  SING N N 7
+RX9 C   OXT  SING N N 8
+RX9 N   H    SING N N 9
+RX9 N   H2   SING N N 10
+RX9 CG1 HG12 SING N N 11
+RX9 CG1 HG13 SING N N 12
+RX9 CG2 HG21 SING N N 13
+RX9 CG2 HG22 SING N N 14
+RX9 CG2 HG23 SING N N 15
+RX9 CD1 HD11 SING N N 16
+RX9 CD1 HD12 SING N N 17
+RX9 CD1 HD13 SING N N 18
+RX9 OXT HXT  SING N N 19
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+RX9 InChI            InChI                1.06  "InChI=1S/C6H11NO2/c1-3-4(2)5(7)6(8)9/h3,7H2,1-2H3,(H,8,9)/b5-4+"
+RX9 InChIKey         InChI                1.06  XORZEQZOEIWCJH-SNAWJCMRSA-N
+RX9 SMILES_CANONICAL CACTVS               3.385 "CC/C(C)=C(/N)C(O)=O"
+RX9 SMILES           CACTVS               3.385 "CCC(C)=C(N)C(O)=O"
+RX9 SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "CC/C(=C(\C(=O)O)/N)/C"
+RX9 SMILES           "OpenEye OEToolkits" 2.0.7 "CCC(=C(C(=O)O)N)C"
+
+_pdbx_chem_comp_identifier.comp_id RX9
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 2.0.7
+_pdbx_chem_comp_identifier.identifier "(~{E})-2-azanyl-3-methyl-pent-2-enoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+RX9 "Create component"     2022-12-09 PDBE
+RX9 "Modify linking type"  2022-12-30 PDBE
+RX9 "Initial release"      2023-01-18 RCSB
+RX9 "Standardize backbone" 2023-07-18 PDBE
+
+_pdbx_chem_comp_synonyms.ordinal  1
+_pdbx_chem_comp_synonyms.comp_id  RX9
+_pdbx_chem_comp_synonyms.name     "(E)-2-azanyl-3-methyl-pent-2-enoic acid"
+_pdbx_chem_comp_synonyms.provenance PDB
+_pdbx_chem_comp_synonyms.type     ?

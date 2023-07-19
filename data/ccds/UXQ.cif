@@ -1,0 +1,154 @@
+data_UXQ
+_chem_comp.id                     UXQ
+_chem_comp.name                   "(2S)-2-azanyl-3-[4-[(2-chloranylethanoylamino)methyl]phenyl]propanoic acid"
+_chem_comp.type                   "peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C12 H15 Cl N2 O3"
+_chem_comp.mon_nstd_parent_comp_id PHE
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2021-03-26
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         270.712
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      UXQ
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7O07
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+UXQ CA  CA  C  0 1 N N Y N N S -22.188 -18.766 1.346  4.424  0.098  0.305  CA  UXQ 1
+UXQ CB  CB  C  0 1 N N N N N N -22.799 -18.180 2.627  3.464  -0.453 -0.752 CB  UXQ 2
+UXQ CG  CG  C  0 1 Y N N N N N -22.862 -19.177 3.759  2.043  -0.215 -0.313 CG  UXQ 3
+UXQ CD1 CD1 C  0 1 Y N N N N N -23.851 -20.149 3.808  1.396  0.954  -0.667 CD1 UXQ 4
+UXQ CE1 CE1 C  0 1 Y N N N N N -23.901 -21.073 4.839  0.091  1.171  -0.264 CE1 UXQ 5
+UXQ O1  O1  O  0 1 N N N N N N -22.174 -24.313 5.581  -4.675 0.560  1.103  O1  UXQ 6
+UXQ O   O   O  0 1 N N Y N Y N -24.206 -19.619 0.361  6.544  0.580  -0.604 O   UXQ 7
+UXQ C10 C10 C  0 1 N N N N N N -20.159 -24.599 6.754  -5.183 -0.508 -0.939 C10 UXQ 8
+UXQ CE2 CE2 C  0 1 Y N N N N N -21.974 -20.075 5.815  0.080  -0.951 0.844  CE2 UXQ 9
+UXQ CD2 CD2 C  0 1 Y N N N N N -21.927 -19.155 4.781  1.384  -1.169 0.440  CD2 UXQ 10
+UXQ C   C   C  0 1 N N Y N Y N -23.081 -19.874 0.785  5.841  -0.248 -0.074 C   UXQ 11
+UXQ CZ  CZ  C  0 1 Y N N N N N -22.958 -21.052 5.856  -0.566 0.220  0.493  CZ  UXQ 12
+UXQ C8  C8  C  0 1 N N N N N N -23.011 -22.048 6.990  -1.987 0.458  0.933  C8  UXQ 13
+UXQ C9  C9  C  0 1 N N N N N N -21.452 -23.866 6.474  -4.238 0.033  0.102  C9  UXQ 14
+UXQ N   N   N  0 1 N N Y Y N N -21.994 -17.700 0.366  4.280  1.558  0.384  N   UXQ 15
+UXQ N2  N2  N  0 1 N N N N N N -21.765 -22.791 7.188  -2.906 -0.068 -0.079 N2  UXQ 16
+UXQ HA  HA  H  0 1 N N Y N N N -21.212 -19.205 1.600  4.189  -0.344 1.273  HA  UXQ 17
+UXQ HB3 HB3 H  0 1 N N N N N N -22.187 -17.324 2.947  3.641  0.054  -1.702 HB3 UXQ 18
+UXQ H1  H1  H  0 1 N N N N N N -23.820 -17.838 2.404  3.633  -1.523 -0.874 H1  UXQ 19
+UXQ HD1 HD1 H  0 1 N N N N N N -24.596 -20.186 3.027  1.909  1.697  -1.259 HD1 UXQ 20
+UXQ HE1 HE1 H  0 1 N N N N N N -24.683 -21.818 4.851  -0.414 2.085  -0.541 HE1 UXQ 21
+UXQ HE2 HE2 H  0 1 N N N N N N -21.234 -20.031 6.601  -0.434 -1.694 1.436  HE2 UXQ 22
+UXQ HD2 HD2 H  0 1 N N N N N N -21.148 -18.407 4.771  1.888  -2.084 0.713  HD2 UXQ 23
+UXQ H2  H   H  0 1 N Y Y Y N N -21.408 -16.990 0.757  4.493  1.990  -0.502 H   UXQ 24
+UXQ H   H2  H  0 1 N N Y Y N N -21.561 -18.076 -0.454 3.356  1.813  0.699  H2  UXQ 25
+UXQ CL1 CL1 CL 0 0 N Y N N N N -19.523 -25.707 5.530  -6.884 -0.224 -0.413 CL1 UXQ 26
+UXQ OXT OXT O  0 1 N Y Y N Y N -22.456 -21.155 0.799  6.322  -1.475 0.176  OXT UXQ 27
+UXQ HXT HXT H  0 1 N Y Y N Y N -23.046 -21.800 0.425  7.237  -1.650 -0.085 HXT UXQ 28
+UXQ H3  H3  H  0 1 N N N N N N -19.387 -23.836 6.931  -5.007 -0.001 -1.888 H3  UXQ 29
+UXQ H4  H4  H  0 1 N N N N N N -20.312 -25.185 7.672  -5.015 -1.578 -1.062 H4  UXQ 30
+UXQ H5  H5  H  0 1 N N N N N N -23.241 -21.504 7.918  -2.163 -0.049 1.882  H5  UXQ 31
+UXQ H6  H6  H  0 1 N N N N N N -23.814 -22.769 6.780  -2.156 1.528  1.056  H6  UXQ 32
+UXQ H7  H7  H  0 1 N N N N N N -21.124 -22.477 7.889  -2.556 -0.490 -0.879 H7  UXQ 33
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+UXQ O   C   DOUB N N 1
+UXQ N   CA  SING N N 2
+UXQ C   CA  SING N N 3
+UXQ CA  CB  SING N N 4
+UXQ CB  CG  SING N N 5
+UXQ CG  CD1 DOUB Y N 6
+UXQ CG  CD2 SING Y N 7
+UXQ CD1 CE1 SING Y N 8
+UXQ CD2 CE2 DOUB Y N 9
+UXQ CE1 CZ  DOUB Y N 10
+UXQ O1  C9  DOUB N N 11
+UXQ CE2 CZ  SING Y N 12
+UXQ CZ  C8  SING N N 13
+UXQ C9  C10 SING N N 14
+UXQ C9  N2  SING N N 15
+UXQ C8  N2  SING N N 16
+UXQ CA  HA  SING N N 17
+UXQ CB  HB3 SING N N 18
+UXQ CB  H1  SING N N 19
+UXQ CD1 HD1 SING N N 20
+UXQ CE1 HE1 SING N N 21
+UXQ CE2 HE2 SING N N 22
+UXQ CD2 HD2 SING N N 23
+UXQ N   H2  SING N N 24
+UXQ N   H   SING N N 25
+UXQ C10 CL1 SING N N 26
+UXQ C   OXT SING N N 27
+UXQ OXT HXT SING N N 28
+UXQ C10 H3  SING N N 29
+UXQ C10 H4  SING N N 30
+UXQ C8  H5  SING N N 31
+UXQ C8  H6  SING N N 32
+UXQ N2  H7  SING N N 33
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+UXQ InChI            InChI                1.03    "InChI=1S/C12H15ClN2O3/c13-6-11(16)15-7-9-3-1-8(2-4-9)5-10(14)12(17)18/h1-4,10H,5-7,14H2,(H,15,16)(H,17,18)/t10-/m0/s1"
+UXQ InChIKey         InChI                1.03    RWUOHIWHSADJQS-JTQLQIEISA-N
+UXQ SMILES_CANONICAL CACTVS               3.385   "N[C@@H](Cc1ccc(CNC(=O)CCl)cc1)C(O)=O"
+UXQ SMILES           CACTVS               3.385   "N[CH](Cc1ccc(CNC(=O)CCl)cc1)C(O)=O"
+UXQ SMILES_CANONICAL "OpenEye OEToolkits" 3.1.0.0 "c1cc(ccc1C[C@@H](C(=O)O)N)CNC(=O)CCl"
+UXQ SMILES           "OpenEye OEToolkits" 3.1.0.0 "c1cc(ccc1CC(C(=O)O)N)CNC(=O)CCl"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+UXQ "SYSTEMATIC NAME" "OpenEye OEToolkits" 3.1.0.0 "(2~{S})-2-azanyl-3-[4-[(2-chloranylethanoylamino)methyl]phenyl]propanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+UXQ "Create component"     2021-03-26 PDBE
+UXQ "Modify linking type"  2021-10-07 PDBE
+UXQ "Initial release"      2021-10-13 RCSB
+UXQ "Standardize backbone" 2023-07-18 PDBE

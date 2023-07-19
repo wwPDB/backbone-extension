@@ -1,0 +1,136 @@
+data_X5H
+_chem_comp.id                     X5H
+_chem_comp.name                   "(~{E})-6-(2-hydroxy-2-oxoethylamino)hex-4-enoic acid"
+_chem_comp.type                   "peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C8 H13 N O4"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2023-05-31
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         187.193
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      X5H
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 4MZL
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   RCSB
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+X5H C1  C1  C 0 1 N N N N N N 29.776 -7.613 19.055 -1.117 1.153  0.396  C1  X5H 1
+X5H C2  C2  C 0 1 N N N N N N 29.445 -8.956 19.628 -2.487 0.882  -0.171 C2  X5H 2
+X5H C3  C3  C 0 1 N N N N N N 29.290 -8.908 21.076 -3.133 -0.278 0.588  C3  X5H 3
+X5H C4  C4  C 0 1 N N N N N N 28.316 -7.833 21.412 -4.503 -0.549 0.022  C4  X5H 4
+X5H C11 C11 C 0 1 N N N N N N 28.963 -7.025 18.179 -0.071 1.156  -0.393 C11 X5H 5
+X5H O2  O2  O 0 1 N N N N N N 27.071 -7.978 21.114 -4.919 0.118  -0.896 O2  X5H 6
+X5H N   N   N 0 1 N N Y Y N N 28.148 -4.815 17.676 2.203  0.325  -0.182 N   X5H 7
+X5H CA  CA  C 0 1 N N Y N N N 27.321 -5.252 16.566 3.551  0.555  0.355  CA  X5H 8
+X5H C   C   C 0 1 N N Y N Y N 25.837 -5.124 16.853 4.447  -0.594 -0.030 C   X5H 9
+X5H O   O   O 0 1 N N Y N Y N 25.046 -4.750 15.972 4.009  -1.510 -0.684 O   X5H 10
+X5H C31 C31 C 0 1 N N N N N N 29.310 -5.693 17.616 1.299  1.427  0.174  C31 X5H 11
+X5H OXT O1  O 0 1 N Y Y N Y N 25.448 -5.433 18.087 5.733  -0.599 0.354  O1  X5H 12
+X5H O3  O3  O 0 1 N Y N N N N 28.730 -6.625 21.971 -5.260 -1.531 0.536  O3  X5H 13
+X5H H1  H1  H 0 1 N N N N N N 30.686 -7.115 19.356 -0.998 1.348  1.451  H1  X5H 14
+X5H H7  H2  H 0 1 N N N N N N 28.504 -9.311 19.182 -3.105 1.773  -0.068 H2  X5H 15
+X5H H3  H3  H 0 1 N N N N N N 30.256 -9.657 19.381 -2.399 0.622  -1.226 H3  X5H 16
+X5H H4  H4  H 0 1 N N N N N N 28.915 -9.876 21.441 -2.514 -1.170 0.484  H4  X5H 17
+X5H H5  H5  H 0 1 N N N N N N 30.260 -8.690 21.546 -3.221 -0.018 1.643  H5  X5H 18
+X5H H6  H6  H 0 1 N N N N N N 28.050 -7.517 17.877 -0.190 0.966  -1.449 H6  X5H 19
+X5H H   H7  H 0 1 N Y Y Y N N 28.419 -3.859 17.563 2.230  0.188  -1.182 H7  X5H 20
+X5H HA2 H9  H 0 1 N N Y N N N 27.548 -6.307 16.352 3.952  1.482  -0.055 H9  X5H 21
+X5H HA3 H10 H 0 1 N N Y N N N 27.563 -4.639 15.685 3.501  0.629  1.441  H10 X5H 22
+X5H H11 H11 H 0 1 N N N N N N 29.626 -5.810 16.569 1.684  2.360  -0.237 H11 X5H 23
+X5H H12 H12 H 0 1 N N N N N N 30.132 -5.252 18.200 1.234  1.507  1.259  H12 X5H 24
+X5H HXT H13 H 0 1 N Y Y N Y N 24.508 -5.320 18.161 6.269  -1.357 0.084  H13 X5H 25
+X5H H14 H14 H 0 1 N Y N N N N 27.984 -6.043 22.058 -6.131 -1.667 0.139  H14 X5H 26
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+X5H O   C   DOUB N N 1
+X5H CA  C   SING N N 2
+X5H CA  N   SING N N 3
+X5H C31 N   SING N N 4
+X5H C31 C11 SING N N 5
+X5H C11 C1  DOUB N E 6
+X5H C1  C2  SING N N 7
+X5H C2  C3  SING N N 8
+X5H C3  C4  SING N N 9
+X5H O2  C4  DOUB N N 10
+X5H C   OXT SING N N 11
+X5H C4  O3  SING N N 12
+X5H C1  H1  SING N N 13
+X5H C2  H7  SING N N 14
+X5H C2  H3  SING N N 15
+X5H C3  H4  SING N N 16
+X5H C3  H5  SING N N 17
+X5H C11 H6  SING N N 18
+X5H N   H   SING N N 19
+X5H CA  HA2 SING N N 20
+X5H CA  HA3 SING N N 21
+X5H C31 H11 SING N N 22
+X5H C31 H12 SING N N 23
+X5H OXT HXT SING N N 24
+X5H O3  H14 SING N N 25
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+X5H InChI            InChI                1.06  "InChI=1S/C8H13NO4/c10-7(11)4-2-1-3-5-9-6-8(12)13/h1,3,9H,2,4-6H2,(H,10,11)(H,12,13)/b3-1+"
+X5H InChIKey         InChI                1.06  NGHLUBBLFARTJA-HNQUOIGGSA-N
+X5H SMILES_CANONICAL CACTVS               3.385 "OC(=O)CC/C=C/CNCC(O)=O"
+X5H SMILES           CACTVS               3.385 "OC(=O)CCC=CCNCC(O)=O"
+X5H SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "C(CC(=O)O)/C=C/CNCC(=O)O"
+X5H SMILES           "OpenEye OEToolkits" 2.0.7 "C(CC(=O)O)C=CCNCC(=O)O"
+
+_pdbx_chem_comp_identifier.comp_id X5H
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 2.0.7
+_pdbx_chem_comp_identifier.identifier "(~{E})-6-(2-hydroxy-2-oxoethylamino)hex-4-enoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+X5H "Create component"     2023-05-31 RCSB
+X5H "Initial release"      2023-06-07 RCSB
+X5H "Standardize backbone" 2023-07-18 PDBE

@@ -1,0 +1,125 @@
+data_RXL
+_chem_comp.id                     RXL
+_chem_comp.name                   Dehydrovaline
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C5 H9 N O2"
+_chem_comp.mon_nstd_parent_comp_id VAL
+_chem_comp.pdbx_synonyms          "2-azanyl-3-methyl-but-2-enoic acid"
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-12-09
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         115.130
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      RXL
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7QQ3
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+RXL C    C1  C 0 1 N N Y N Y N 145.880 176.119 152.354 1.209  -0.169 -0.031 C    RXL 1
+RXL CG1  C2  C 0 1 N N N N N N 144.646 174.138 149.235 -2.563 0.455  -0.104 CG1  RXL 2
+RXL N    N1  N 0 1 N N Y Y N N 143.989 176.300 150.842 -0.174 1.899  0.030  N    RXL 3
+RXL CA   C3  C 0 1 N N Y N N N 145.185 175.635 151.209 -0.103 0.502  0.008  CA   RXL 4
+RXL O    O1  O 0 1 N N Y N Y N 147.111 176.020 152.432 1.271  -1.376 -0.162 O    RXL 5
+RXL CB   C4  C 0 1 N N N N N N 145.539 174.558 150.370 -1.224 -0.224 0.022  CB   RXL 6
+RXL CG2  C5  C 0 1 N N N N N N 146.780 173.718 150.501 -1.150 -1.723 0.163  CG2  RXL 7
+RXL OXT  O2  O 0 1 N Y Y N Y N 145.157 176.657 153.347 2.341  0.556  0.073  OXT  RXL 8
+RXL HG11 H1  H 0 0 N N N N N N 143.763 174.793 149.201 -2.934 0.713  0.888  HG11 RXL 9
+RXL HG12 H2  H 0 0 N N N N N N 145.198 174.216 148.286 -2.456 1.362  -0.699 HG12 RXL 10
+RXL HG13 H3  H 0 0 N N N N N N 144.324 173.097 149.388 -3.268 -0.218 -0.592 HG13 RXL 11
+RXL H    H4  H 0 1 N N Y Y N N 143.811 177.046 151.484 0.640  2.426  0.019  H    RXL 12
+RXL H2   HN2 H 0 1 N Y Y Y N N 144.084 176.671 149.918 -1.037 2.341  0.055  H2   RXL 13
+RXL HG21 H6  H 0 0 N N N N N N 147.382 174.081 151.347 -0.985 -2.173 -0.816 HG21 RXL 14
+RXL HG22 H7  H 0 0 N N N N N N 146.496 172.670 150.676 -0.326 -1.985 0.827  HG22 RXL 15
+RXL HG23 H8  H 0 0 N N N N N N 147.370 173.788 149.575 -2.085 -2.095 0.581  HG23 RXL 16
+RXL HXT  H9  H 0 1 N Y Y N Y N 145.735 176.920 154.054 3.177  0.072  0.039  HXT  RXL 17
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+RXL CG1 CB   SING N N 1
+RXL CB  CG2  SING N N 2
+RXL CB  CA   DOUB N N 3
+RXL N   CA   SING N N 4
+RXL CA  C    SING N N 5
+RXL C   O    DOUB N N 6
+RXL C   OXT  SING N N 7
+RXL CG1 HG11 SING N N 8
+RXL CG1 HG12 SING N N 9
+RXL CG1 HG13 SING N N 10
+RXL N   H    SING N N 11
+RXL N   H2   SING N N 12
+RXL CG2 HG21 SING N N 13
+RXL CG2 HG22 SING N N 14
+RXL CG2 HG23 SING N N 15
+RXL OXT HXT  SING N N 16
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+RXL InChI            InChI                1.06  "InChI=1S/C5H9NO2/c1-3(2)4(6)5(7)8/h6H2,1-2H3,(H,7,8)"
+RXL InChIKey         InChI                1.06  MNDXTFKURVNNSY-UHFFFAOYSA-N
+RXL SMILES_CANONICAL CACTVS               3.385 "CC(C)=C(N)C(O)=O"
+RXL SMILES           CACTVS               3.385 "CC(C)=C(N)C(O)=O"
+RXL SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "CC(=C(C(=O)O)N)C"
+RXL SMILES           "OpenEye OEToolkits" 2.0.7 "CC(=C(C(=O)O)N)C"
+
+_pdbx_chem_comp_identifier.comp_id RXL
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 2.0.7
+_pdbx_chem_comp_identifier.identifier "2-azanyl-3-methyl-but-2-enoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+RXL "Create component"     2022-12-09 PDBE
+RXL "Modify linking type"  2022-12-29 PDBE
+RXL "Initial release"      2023-01-18 RCSB
+RXL "Standardize backbone" 2023-07-18 PDBE
+
+_pdbx_chem_comp_synonyms.ordinal  1
+_pdbx_chem_comp_synonyms.comp_id  RXL
+_pdbx_chem_comp_synonyms.name     "2-azanyl-3-methyl-but-2-enoic acid"
+_pdbx_chem_comp_synonyms.provenance PDB
+_pdbx_chem_comp_synonyms.type     ?

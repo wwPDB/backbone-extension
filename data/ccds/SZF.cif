@@ -1,0 +1,158 @@
+data_SZF
+_chem_comp.id                     SZF
+_chem_comp.name                   1-methoxy-N-methyl-L-tryptophan
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C13 H16 N2 O3"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-07-13
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         248.278
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      SZF
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 8DNX
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   RCSB
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+SZF CA   C26  C 0 1 N N Y N N S 125.876 118.421 113.804 -2.184 -0.258 -0.177 C26  SZF 1
+SZF C25  C25  C 0 1 N N N N N N 124.794 118.592 111.479 -2.399 1.125  -2.152 C25  SZF 2
+SZF C27  C27  C 0 1 N N N N N N 124.733 119.062 114.572 -1.290 -0.439 1.052  C27  SZF 3
+SZF C28  C28  C 0 1 Y N N N N N 124.994 120.604 114.660 0.155  -0.442 0.625  C28  SZF 4
+SZF C29  C29  C 0 1 Y N N N N N 126.193 121.214 115.046 0.894  -1.519 0.315  C29  SZF 5
+SZF C32  C32  C 0 1 N N N N N N 126.920 123.961 116.650 2.830  -3.391 -0.410 C32  SZF 6
+SZF C33  C33  C 0 1 Y N N N N N 124.714 122.832 114.571 2.272  0.236  0.055  C33  SZF 7
+SZF C34  C34  C 0 1 Y N N N N N 123.925 124.180 114.314 3.313  1.129  -0.177 C34  SZF 8
+SZF C35  C35  C 0 1 Y N N N N N 122.484 124.137 113.850 3.107  2.480  -0.005 C35  SZF 9
+SZF C36  C36  C 0 1 Y N N N N N 121.815 122.820 113.631 1.870  2.962  0.400  C36  SZF 10
+SZF C37  C37  C 0 1 Y N N N N N 122.582 121.540 113.879 0.832  2.103  0.630  C37  SZF 11
+SZF C38  C38  C 0 1 Y N N N N N 124.085 121.598 114.365 1.019  0.730  0.465  C38  SZF 12
+SZF C    C39  C 0 1 N N Y N Y N 125.771 116.882 113.855 -3.628 -0.400 0.227  C39  SZF 13
+SZF N    N24  N 0 1 N N Y Y N N 125.891 118.916 112.412 -1.965 1.077  -0.750 N24  SZF 14
+SZF N30  N30  N 0 1 Y N N N N N 126.009 122.585 114.998 2.161  -1.134 -0.026 N30  SZF 15
+SZF O31  O31  O 0 1 N N N N N N 126.988 123.563 115.298 3.205  -2.012 -0.406 O31  SZF 16
+SZF O    O63  O 0 1 N N Y N Y N 125.123 116.350 114.689 -4.280 0.581  0.496  O63  SZF 17
+SZF HA   H261 H 0 0 N N Y N N N 126.819 118.710 114.290 -1.938 -1.017 -0.920 H261 SZF 18
+SZF H253 H253 H 0 0 N N N N N N 124.996 119.053 110.501 -3.439 0.805  -2.222 H253 SZF 19
+SZF H252 H252 H 0 0 N N N N N N 124.723 117.501 111.362 -2.308 2.145  -2.526 H252 SZF 20
+SZF H251 H251 H 0 0 N N N N N N 123.846 118.981 111.879 -1.774 0.462  -2.750 H251 SZF 21
+SZF H271 H271 H 0 0 N N N N N N 123.784 118.876 114.048 -1.461 0.381  1.749  H271 SZF 22
+SZF H272 H272 H 0 0 N N N N N N 124.682 118.636 115.585 -1.528 -1.385 1.538  H272 SZF 23
+SZF H291 H291 H 0 0 N N N N N N 127.102 120.705 115.331 0.540  -2.540 0.333  H291 SZF 24
+SZF H323 H323 H 0 0 N N N N N N 127.692 124.719 116.849 2.010  -3.543 -1.111 H323 SZF 25
+SZF H321 H321 H 0 0 N N N N N N 125.927 124.386 116.858 3.684  -3.999 -0.711 H321 SZF 26
+SZF H322 H322 H 0 0 N N N N N N 127.088 123.088 117.298 2.512  -3.684 0.591  H322 SZF 27
+SZF H341 H341 H 0 0 N N N N N N 124.414 125.130 114.470 4.279  0.764  -0.491 H341 SZF 28
+SZF H351 H351 H 0 0 N N N N N N 121.942 125.055 113.678 3.917  3.172  -0.185 H351 SZF 29
+SZF H361 H361 H 0 0 N N N N N N 120.789 122.782 113.297 1.725  4.024  0.530  H361 SZF 30
+SZF H371 H371 H 0 0 N N N N N N 122.102 120.585 113.724 -0.128 2.485  0.945  H371 SZF 31
+SZF H    H2   H 0 1 N Y Y Y N N 126.731 118.568 111.995 -0.999 1.354  -0.661 H2   SZF 32
+SZF OXT  OXT  O 0 1 N Y Y N Y N 126.527 116.081 112.838 -4.192 -1.617 0.288  OXT  SZF 33
+SZF HXT  HXT  H 0 1 N Y Y N Y N 126.386 115.155 112.995 -5.121 -1.658 0.552  HXT  SZF 34
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+SZF C25 N    SING N N 1
+SZF N   CA   SING N N 2
+SZF C36 C35  DOUB Y N 3
+SZF C36 C37  SING Y N 4
+SZF CA  C    SING N N 5
+SZF CA  C27  SING N N 6
+SZF C35 C34  SING Y N 7
+SZF C   O    DOUB N N 8
+SZF C37 C38  DOUB Y N 9
+SZF C34 C33  DOUB Y N 10
+SZF C38 C33  SING Y N 11
+SZF C38 C28  SING Y N 12
+SZF C33 N30  SING Y N 13
+SZF C27 C28  SING N N 14
+SZF C28 C29  DOUB Y N 15
+SZF N30 C29  SING Y N 16
+SZF N30 O31  SING N N 17
+SZF O31 C32  SING N N 18
+SZF CA  HA   SING N N 19
+SZF C25 H253 SING N N 20
+SZF C25 H252 SING N N 21
+SZF C25 H251 SING N N 22
+SZF C27 H271 SING N N 23
+SZF C27 H272 SING N N 24
+SZF C29 H291 SING N N 25
+SZF C32 H323 SING N N 26
+SZF C32 H321 SING N N 27
+SZF C32 H322 SING N N 28
+SZF C34 H341 SING N N 29
+SZF C35 H351 SING N N 30
+SZF C36 H361 SING N N 31
+SZF C37 H371 SING N N 32
+SZF N   H    SING N N 33
+SZF C   OXT  SING N N 34
+SZF OXT HXT  SING N N 35
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+SZF SMILES           ACDLabs              12.01 "O=C(O)C(NC)Cc1cn(OC)c2ccccc21"
+SZF InChI            InChI                1.06  "InChI=1S/C13H16N2O3/c1-14-11(13(16)17)7-9-8-15(18-2)12-6-4-3-5-10(9)12/h3-6,8,11,14H,7H2,1-2H3,(H,16,17)/t11-/m0/s1"
+SZF InChIKey         InChI                1.06  WVNHXKXDYLJPPY-NSHDSACASA-N
+SZF SMILES_CANONICAL CACTVS               3.385 "CN[C@@H](Cc1cn(OC)c2ccccc12)C(O)=O"
+SZF SMILES           CACTVS               3.385 "CN[CH](Cc1cn(OC)c2ccccc12)C(O)=O"
+SZF SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "CN[C@@H](Cc1cn(c2c1cccc2)OC)C(=O)O"
+SZF SMILES           "OpenEye OEToolkits" 2.0.7 "CNC(Cc1cn(c2c1cccc2)OC)C(=O)O"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+SZF "SYSTEMATIC NAME" ACDLabs              12.01 1-methoxy-N-methyl-L-tryptophan
+SZF "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "(2~{S})-3-(1-methoxyindol-3-yl)-2-(methylamino)propanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+SZF "Create component"     2022-07-13 RCSB
+SZF "Initial release"      2023-05-24 RCSB
+SZF "Standardize backbone" 2023-07-18 PDBE

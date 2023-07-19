@@ -1,0 +1,137 @@
+data_ZNY
+_chem_comp.id                     ZNY
+_chem_comp.name                   "(4R)-4-ethoxy-L-proline"
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C7 H13 N O3"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2021-05-12
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         159.183
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      ZNY
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7MSO
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   RCSB
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+ZNY CB  CB  C 0 1 N N N N N N 2.721 12.281 50.589 -0.227 0.856  0.288  CB  ZNY 1
+ZNY CD  CD  C 0 1 N N N N N N 1.812 12.157 48.407 0.574  -1.424 0.437  CD  ZNY 2
+ZNY C   C   C 0 1 N N Y N Y N 2.085 9.864  51.157 -2.604 0.220  -0.121 C   ZNY 3
+ZNY O   O   O 0 1 N N Y N Y N 0.932 9.625  51.033 -2.886 -0.451 -1.086 O   ZNY 4
+ZNY CA  CA  C 0 1 N N Y N N S 2.748 10.783 50.198 -1.370 -0.097 0.683  CA  ZNY 5
+ZNY CG  CG  C 0 1 N N N N N R 2.745 13.051 49.227 0.909  -0.061 -0.220 CG  ZNY 6
+ZNY N   N   N 0 1 N N Y Y N N 2.239 10.839 48.840 -0.912 -1.472 0.383  N   ZNY 7
+ZNY O48 O48 O 0 1 N N N N N N 4.046 13.004 48.709 2.182  0.414  0.224  O48 ZNY 8
+ZNY C49 C49 C 0 1 N N N N N N 4.997 13.875 49.306 3.274  0.014  -0.607 C49 ZNY 9
+ZNY C50 C50 C 0 1 N N N N N N 6.361 13.595 48.634 4.579  0.577  -0.040 C50 ZNY 10
+ZNY OXT OXT O 0 1 N Y Y N Y N 2.949 9.426  52.102 -3.391 1.248  0.235  OXT ZNY 11
+ZNY H1  H1  H 0 1 N N N N N N 3.602 12.539 51.195 -0.553 1.529  -0.504 H1  ZNY 12
+ZNY H5  H2  H 0 1 N N N N N N 1.806 12.518 51.152 0.106  1.426  1.155  H2  ZNY 13
+ZNY H3  H3  H 0 1 N N N N N N 1.965 12.297 47.327 1.006  -2.245 -0.136 H3  ZNY 14
+ZNY H4  H4  H 0 1 N N N N N N 0.756 12.341 48.654 0.923  -1.449 1.469  H4  ZNY 15
+ZNY HA  H5  H 0 1 N N Y N N N 3.808 10.492 50.146 -1.585 0.001  1.747  H5  ZNY 16
+ZNY H6  H6  H 0 1 N N N N N N 2.344 14.070 49.336 0.883  -0.140 -1.306 H6  ZNY 17
+ZNY H   H7  H 0 1 N Y Y Y N N 1.456 10.221 48.775 -1.232 -1.767 -0.527 H7  ZNY 18
+ZNY H9  H9  H 0 1 N N N N N N 5.062 13.678 50.386 3.329  -1.074 -0.636 H9  ZNY 19
+ZNY H10 H10 H 0 1 N N N N N N 4.704 14.922 49.141 3.121  0.397  -1.616 H10 ZNY 20
+ZNY H11 H11 H 0 1 N N N N N N 7.127 14.252 49.071 4.523  1.665  -0.011 H11 ZNY 21
+ZNY H12 H12 H 0 1 N N N N N N 6.642 12.544 48.799 4.731  0.194  0.969  H12 ZNY 22
+ZNY H13 H13 H 0 1 N Y N N N N 6.284 13.789 47.554 5.411  0.272  -0.674 H13 ZNY 23
+ZNY HXT HXT H 0 1 N Y Y N Y N 2.492 8.856  52.709 -4.171 1.413  -0.312 HXT ZNY 24
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+ZNY CD  N   SING N N 1
+ZNY CD  CG  SING N N 2
+ZNY C50 C49 SING N N 3
+ZNY O48 CG  SING N N 4
+ZNY O48 C49 SING N N 5
+ZNY N   CA  SING N N 6
+ZNY CG  CB  SING N N 7
+ZNY CA  CB  SING N N 8
+ZNY CA  C   SING N N 9
+ZNY O   C   DOUB N N 10
+ZNY C   OXT SING N N 11
+ZNY CB  H1  SING N N 12
+ZNY CB  H5  SING N N 13
+ZNY CD  H3  SING N N 14
+ZNY CD  H4  SING N N 15
+ZNY CA  HA  SING N N 16
+ZNY CG  H6  SING N N 17
+ZNY N   H   SING N N 18
+ZNY C49 H9  SING N N 19
+ZNY C49 H10 SING N N 20
+ZNY C50 H11 SING N N 21
+ZNY C50 H12 SING N N 22
+ZNY C50 H13 SING N N 23
+ZNY OXT HXT SING N N 24
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+ZNY SMILES           ACDLabs              12.01 "CCOC1CC(NC1)C(=O)O"
+ZNY InChI            InChI                1.03  "InChI=1S/C7H13NO3/c1-2-11-5-3-6(7(9)10)8-4-5/h5-6,8H,2-4H2,1H3,(H,9,10)/t5-,6+/m1/s1"
+ZNY InChIKey         InChI                1.03  UGNGLHKEESUVLW-RITPCOANSA-N
+ZNY SMILES_CANONICAL CACTVS               3.385 "CCO[C@H]1CN[C@@H](C1)C(O)=O"
+ZNY SMILES           CACTVS               3.385 "CCO[CH]1CN[CH](C1)C(O)=O"
+ZNY SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "CCO[C@@H]1C[C@H](NC1)C(=O)O"
+ZNY SMILES           "OpenEye OEToolkits" 2.0.7 "CCOC1CC(NC1)C(=O)O"
+
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+ZNY "SYSTEMATIC NAME" ACDLabs              12.01 "(4R)-4-ethoxy-L-proline"
+ZNY "SYSTEMATIC NAME" "OpenEye OEToolkits" 2.0.7 "(2~{S},4~{R})-4-ethoxypyrrolidine-2-carboxylic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+ZNY "Create component"     2021-05-12 RCSB
+ZNY "Initial release"      2022-03-02 RCSB
+ZNY "Standardize backbone" 2023-07-18 PDBE

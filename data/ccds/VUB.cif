@@ -1,0 +1,177 @@
+data_VUB
+_chem_comp.id                     VUB
+_chem_comp.name                   "2-[4-[(4-hydroxyphenyl)methyl]-2-(3-methylbutanimidoyl)-5-oxidanyl-imidazol-1-yl]ethanoic acid"
+_chem_comp.type                   "L-peptide linking"
+_chem_comp.pdbx_type              ATOMP
+_chem_comp.formula                "C17 H21 N3 O4"
+_chem_comp.mon_nstd_parent_comp_id LEU,TYR,GLY
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2023-04-05
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         331.366
+_chem_comp.one_letter_code        LYG
+_chem_comp.three_letter_code      VUB
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 7Q6B
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+VUB C3   C    C 0 1 N N Y N Y N -13.261 -6.926  -19.038 1.975  -2.031 0.996  C    VUB 1
+VUB O3   O    O 0 1 N N Y N Y N -12.020 -6.748  -18.657 1.185  -1.406 1.664  O    VUB 2
+VUB CA3  CA3  C 0 1 N N Y N N N -13.573 -7.817  -20.274 1.998  -1.860 -0.501 CA3  VUB 3
+VUB N3   N3   N 0 1 Y N Y N N N -14.890 -7.742  -20.931 0.975  -0.889 -0.897 N3   VUB 4
+VUB C1   C1   C 0 1 Y N Y N N N -15.609 -6.716  -21.533 1.110  0.477  -0.922 C1   VUB 5
+VUB CA1  CA1  C 0 1 N N Y N N N -15.222 -5.292  -21.728 2.315  1.227  -0.553 CA1  VUB 6
+VUB CB1  CB1  C 0 1 N N N N N N -16.173 -4.314  -22.397 3.583  0.492  -0.201 CB1  VUB 7
+VUB CG1  CG1  C 0 1 N N N N N N -16.650 -3.187  -21.469 4.636  1.492  0.280  CG1  VUB 8
+VUB CD4  CD4  C 0 1 N N N N N N -17.724 -2.405  -22.209 4.168  2.138  1.585  CD4  VUB 9
+VUB CD3  CD3  C 0 1 N N N N N N -15.574 -2.206  -20.974 5.960  0.764  0.518  CD3  VUB 10
+VUB N1   N    N 0 1 N N Y Y N N -14.030 -4.864  -21.578 2.290  2.524  -0.529 N    VUB 11
+VUB C2   C2   C 0 1 Y N Y N N N -15.680 -8.811  -21.165 -0.292 -1.171 -1.317 C2   VUB 12
+VUB O2   O2   O 0 1 N N Y N N N -15.241 -10.031 -20.701 -0.844 -2.402 -1.447 O2   VUB 13
+VUB CA2  CA2  C 0 1 Y N Y N N N -16.903 -8.486  -21.846 -0.897 0.021  -1.581 CA2  VUB 14
+VUB N2   N2   N 0 1 Y N Y N N N -16.804 -7.172  -22.062 -0.027 0.998  -1.334 N2   VUB 15
+VUB CB2  CB2  C 0 1 N N N N N N -18.132 -9.152  -22.524 -2.309 0.202  -2.073 CB2  VUB 16
+VUB CG2  CG2  C 0 1 Y N N N N N -18.367 -10.579 -22.307 -3.240 0.327  -0.895 CG2  VUB 17
+VUB CD1  CD1  C 0 1 Y N N N N N -19.486 -11.219 -21.778 -3.513 1.572  -0.359 CD1  VUB 18
+VUB CE1  CE1  C 0 1 Y N N N N N -19.366 -12.594 -21.454 -4.365 1.689  0.721  CE1  VUB 19
+VUB CD2  CD2  C 0 1 Y N N N N N -17.216 -11.321 -22.539 -3.825 -0.804 -0.354 CD2  VUB 20
+VUB CE2  CE2  C 0 1 Y N N N N N -17.148 -12.645 -22.197 -4.679 -0.692 0.726  CE2  VUB 21
+VUB CZ   CZ   C 0 1 Y N N N N N -18.209 -13.293 -21.670 -4.949 0.555  1.269  CZ   VUB 22
+VUB OH   OH   O 0 1 N N N N N N -18.033 -14.587 -21.388 -5.789 0.668  2.331  OH   VUB 23
+VUB OXT  OXT  O 0 1 N Y Y N Y N -14.296 -6.429  -18.448 2.836  -2.873 1.589  OXT  VUB 24
+VUB HA32 HA3  H 0 1 N N Y N N N -13.439 -8.861  -19.953 2.979  -1.500 -0.811 HA3  VUB 25
+VUB HA31 HA3A H 0 0 N N Y N N N -12.823 -7.569  -21.040 1.795  -2.818 -0.979 HA3A VUB 26
+VUB HB1  HB1  H 0 1 N N N N N N -15.658 -3.861  -23.257 3.377  -0.228 0.591  HB1  VUB 27
+VUB HB1A HB1A H 0 0 N N N N N N -17.054 -4.871  -22.749 3.955  -0.032 -1.081 HB1A VUB 28
+VUB HG1  HG1  H 0 1 N N N N N N -17.114 -3.651  -20.586 4.777  2.263  -0.478 HG1  VUB 29
+VUB HD4  HD4  H 0 1 N N N N N N -18.089 -1.587  -21.570 4.918  2.851  1.927  HD4  VUB 30
+VUB HD4A HD4A H 0 0 N N N N N N -17.301 -1.987  -23.134 3.224  2.658  1.415  HD4A VUB 31
+VUB HD4B HD4B H 0 0 N N N N N N -18.559 -3.076  -22.458 4.027  1.367  2.342  HD4B VUB 32
+VUB HD3  HD3  H 0 1 N N N N N N -16.038 -1.451  -20.322 6.294  0.303  -0.412 HD3  VUB 33
+VUB HD3A HD3A H 0 0 N N N N N N -14.808 -2.757  -20.409 6.710  1.476  0.860  HD3A VUB 34
+VUB HD3B HD3B H 0 0 N N N N N N -15.107 -1.708  -21.837 5.819  -0.008 1.275  HD3B VUB 35
+VUB H    HN   H 0 1 N Y Y Y N N -13.400 -5.595  -21.317 1.456  2.996  -0.683 HN   VUB 36
+VUB HB2  HB2  H 0 1 N N N N N N -18.024 -9.003  -23.608 -2.370 1.105  -2.681 HB2  VUB 37
+VUB H15  H15  H 0 1 N N N N N N -19.026 -8.619  -22.168 -2.598 -0.660 -2.675 H15  VUB 38
+VUB HD1  HD1  H 0 1 N N N N N N -20.412 -10.686 -21.620 -3.058 2.454  -0.785 HD1  VUB 39
+VUB HE1  HE1  H 0 1 N N N N N N -20.214 -13.106 -21.023 -4.577 2.661  1.140  HE1  VUB 40
+VUB HD2  HD2  H 0 1 N N N N N N -16.361 -10.846 -22.997 -3.613 -1.775 -0.777 HD2  VUB 41
+VUB HE2  HE2  H 0 1 N N N N N N -16.225 -13.183 -22.352 -5.135 -1.576 1.147  HE2  VUB 42
+VUB HOH  HOH  H 0 1 N N N N N N -18.835 -14.944 -21.025 -5.347 0.609  3.190  HOH  VUB 43
+VUB HXT  HXT  H 0 1 N Y Y N Y N -14.018 -5.917  -17.698 2.787  -2.947 2.552  HXT  VUB 44
+VUB HO2  H22  H 0 1 N N Y N N N -14.390 -9.927  -20.293 -1.290 -2.719 -0.650 H22  VUB 45
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+VUB CD2 CG2  DOUB Y N 1
+VUB CD2 CE2  SING Y N 2
+VUB CB2 CG2  SING N N 3
+VUB CB2 CA2  SING N N 4
+VUB CB1 CA1  SING N N 5
+VUB CB1 CG1  SING N N 6
+VUB CG2 CD1  SING Y N 7
+VUB CD4 CG1  SING N N 8
+VUB CE2 CZ   DOUB Y N 9
+VUB N2  CA2  SING Y N 10
+VUB N2  C1   DOUB Y N 11
+VUB CA2 C2   DOUB Y N 12
+VUB CD1 CE1  DOUB Y N 13
+VUB CA1 N1   DOUB N N 14
+VUB CA1 C1   SING N N 15
+VUB CZ  CE1  SING Y N 16
+VUB CZ  OH   SING N N 17
+VUB C1  N3   SING Y N 18
+VUB CG1 CD3  SING N N 19
+VUB C2  N3   SING Y N 20
+VUB C2  O2   SING N N 21
+VUB N3  CA3  SING N N 22
+VUB CA3 C3   SING N N 23
+VUB C3  O3   DOUB N N 24
+VUB C3  OXT  SING N N 25
+VUB CA3 HA32 SING N N 26
+VUB CA3 HA31 SING N N 27
+VUB CB1 HB1  SING N N 28
+VUB CB1 HB1A SING N N 29
+VUB CG1 HG1  SING N N 30
+VUB CD4 HD4  SING N N 31
+VUB CD4 HD4A SING N N 32
+VUB CD4 HD4B SING N N 33
+VUB CD3 HD3  SING N N 34
+VUB CD3 HD3A SING N N 35
+VUB CD3 HD3B SING N N 36
+VUB N1  H    SING N N 37
+VUB CB2 HB2  SING N N 38
+VUB CB2 H15  SING N N 39
+VUB CD1 HD1  SING N N 40
+VUB CE1 HE1  SING N N 41
+VUB CD2 HD2  SING N N 42
+VUB CE2 HE2  SING N N 43
+VUB OH  HOH  SING N N 44
+VUB OXT HXT  SING N N 45
+VUB O2  HO2  SING N N 46
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+VUB InChI            InChI                1.06  "InChI=1S/C17H21N3O4/c1-10(2)7-13(18)16-19-14(17(24)20(16)9-15(22)23)8-11-3-5-12(21)6-4-11/h3-6,10,18,21,24H,7-9H2,1-2H3,(H,22,23)/b18-13-"
+VUB InChIKey         InChI                1.06  OCWUNMVDAKROFH-AQTBWJFISA-N
+VUB SMILES_CANONICAL CACTVS               3.385 "CC(C)CC(=N)c1nc(Cc2ccc(O)cc2)c(O)n1CC(O)=O"
+VUB SMILES           CACTVS               3.385 "CC(C)CC(=N)c1nc(Cc2ccc(O)cc2)c(O)n1CC(O)=O"
+VUB SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "[H]/N=C(/CC(C)C)\c1nc(c(n1CC(=O)O)O)Cc2ccc(cc2)O"
+VUB SMILES           "OpenEye OEToolkits" 2.0.7 "CC(C)CC(=N)c1nc(c(n1CC(=O)O)O)Cc2ccc(cc2)O"
+
+_pdbx_chem_comp_identifier.comp_id VUB
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 2.0.7
+_pdbx_chem_comp_identifier.identifier
+"2-[4-[(4-hydroxyphenyl)methyl]-2-(3-methylbutanimidoyl)-5-oxidanyl-imidazol-1-yl]ethanoic acid"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+VUB "Create component"     2023-04-05 PDBE
+VUB "Initial release"      2023-04-12 RCSB
+VUB "Standardize backbone" 2023-07-18 PDBE

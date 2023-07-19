@@ -1,0 +1,136 @@
+data_KQ9
+_chem_comp.id                     KQ9
+_chem_comp.name                   "1-[(dimethylamino)methyl]cyclobutan-1-amine"
+_chem_comp.type                   non-polymer
+_chem_comp.pdbx_type              HETAIN
+_chem_comp.formula                "C7 H16 N2"
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms          ?
+_chem_comp.pdbx_formal_charge     0
+_chem_comp.pdbx_initial_date      2022-06-01
+_chem_comp.pdbx_modified_date     2023-07-18
+_chem_comp.pdbx_ambiguous_flag    N
+_chem_comp.pdbx_release_status    REL
+_chem_comp.pdbx_replaced_by       ?
+_chem_comp.pdbx_replaces          ?
+_chem_comp.formula_weight         128.215
+_chem_comp.one_letter_code        ?
+_chem_comp.three_letter_code      KQ9
+_chem_comp.pdbx_model_coordinates_details ?
+_chem_comp.pdbx_model_coordinates_missing_flag N
+_chem_comp.pdbx_ideal_coordinates_details Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag N
+_chem_comp.pdbx_model_coordinates_db_code 8A19
+_chem_comp.pdbx_subcomponent_list ?
+_chem_comp.pdbx_processing_site   PDBE
+
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_backbone_flag
+_chem_comp_atom.pdbx_N-terminal_flag
+_chem_comp_atom.pdbx_C-terminal_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+KQ9 C19 C1  C 0 1 N N N N N N 67.999 -2.480 44.348 -0.732 0.315  0.078  C19 KQ9 1
+KQ9 C20 C2  C 0 1 N N N N N N 67.224 -2.038 45.601 0.589  0.583  -0.646 C20 KQ9 2
+KQ9 C21 C3  C 0 1 N N N N N N 67.428 -0.053 47.044 1.651  -1.395 0.260  C21 KQ9 3
+KQ9 C22 C4  C 0 1 N N N N N N 68.210 -2.162 47.852 2.994  0.514  -0.381 C22 KQ9 4
+KQ9 C23 C5  C 0 1 N N N N N N 67.187 -2.043 43.103 -1.970 0.783  -0.704 C23 KQ9 5
+KQ9 N7  N1  N 0 1 N N Y Y N N 68.331 -3.880 44.655 -0.716 0.762  1.477  N7  KQ9 6
+KQ9 C25 C6  C 0 1 N N N N N N 69.062 -1.425 43.947 -1.254 -1.120 -0.104 C25 KQ9 7
+KQ9 C24 C7  C 0 1 N N N N N N 68.446 -1.374 42.547 -2.661 -0.506 -0.228 C24 KQ9 8
+KQ9 N8  N2  N 0 1 N N N N N N 68.030 -1.330 46.668 1.703  0.069  0.161  N8  KQ9 9
+KQ9 H1  H1  H 0 1 N N N N N N 66.423 -1.357 45.278 0.580  0.082  -1.615 H1  KQ9 10
+KQ9 H2  H2  H 0 1 N N N N N N 66.780 -2.936 46.056 0.711  1.656  -0.794 H2  KQ9 11
+KQ9 H3  H3  H 0 1 N N N N N N 68.042 0.428  47.819 1.712  -1.830 -0.738 H3  KQ9 12
+KQ9 H4  H4  H 0 1 N N N N N N 67.374 0.601  46.161 2.487  -1.749 0.863  H4  KQ9 13
+KQ9 H5  H5  H 0 1 N N N N N N 66.414 -0.226 47.435 0.713  -1.694 0.729  H5  KQ9 14
+KQ9 H6  H6  H 0 1 N N N N N N 68.799 -1.612 48.601 3.034  1.603  -0.379 H6  KQ9 15
+KQ9 H7  H7  H 0 1 N N N N N N 67.227 -2.417 48.274 3.802  0.120  0.235  H7  KQ9 16
+KQ9 H8  H8  H 0 1 N N N N N N 68.740 -3.085 47.574 3.105  0.149  -1.402 H8  KQ9 17
+KQ9 H9  H9  H 0 1 N N N N N N 66.363 -1.347 43.321 -2.420 1.692  -0.306 H9  KQ9 18
+KQ9 H10 H10 H 0 1 N N N N N N 66.810 -2.877 42.493 -1.816 0.825  -1.782 H10 KQ9 19
+KQ9 H11 H11 H 0 1 N N Y Y N N 68.858 -3.920 45.504 0.099  0.413  1.959  H11 KQ9 20
+KQ9 H12 H12 H 0 1 N Y Y Y N N 67.488 -4.407 44.762 -0.767 1.768  1.536  H12 KQ9 21
+KQ9 H14 H14 H 0 1 N N N N N N 70.098 -1.794 43.973 -0.904 -1.600 -1.018 H14 KQ9 22
+KQ9 H15 H15 H 0 1 N N N N N N 68.995 -0.480 44.506 -1.125 -1.747 0.779  H15 KQ9 23
+KQ9 H16 H16 H 0 1 N N N N N N 68.982 -1.972 41.795 -3.177 -0.398 0.726  H16 KQ9 24
+KQ9 H17 H17 H 0 1 N N N N N N 68.285 -0.357 42.160 -3.278 -0.979 -0.993 H17 KQ9 25
+
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+KQ9 C24 C23 SING N N 1
+KQ9 C24 C25 SING N N 2
+KQ9 C23 C19 SING N N 3
+KQ9 C25 C19 SING N N 4
+KQ9 C19 N7  SING N N 5
+KQ9 C19 C20 SING N N 6
+KQ9 C20 N8  SING N N 7
+KQ9 N8  C21 SING N N 8
+KQ9 N8  C22 SING N N 9
+KQ9 C20 H1  SING N N 10
+KQ9 C20 H2  SING N N 11
+KQ9 C21 H3  SING N N 12
+KQ9 C21 H4  SING N N 13
+KQ9 C21 H5  SING N N 14
+KQ9 C22 H6  SING N N 15
+KQ9 C22 H7  SING N N 16
+KQ9 C22 H8  SING N N 17
+KQ9 C23 H9  SING N N 18
+KQ9 C23 H10 SING N N 19
+KQ9 N7  H11 SING N N 20
+KQ9 N7  H12 SING N N 21
+KQ9 C25 H14 SING N N 22
+KQ9 C25 H15 SING N N 23
+KQ9 C24 H16 SING N N 24
+KQ9 C24 H17 SING N N 25
+
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+KQ9 InChI            InChI                1.06  "InChI=1S/C7H16N2/c1-9(2)6-7(8)4-3-5-7/h3-6,8H2,1-2H3"
+KQ9 InChIKey         InChI                1.06  OMTAOOUFJIYVKU-UHFFFAOYSA-N
+KQ9 SMILES_CANONICAL CACTVS               3.385 "CN(C)CC1(N)CCC1"
+KQ9 SMILES           CACTVS               3.385 "CN(C)CC1(N)CCC1"
+KQ9 SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "CN(C)CC1(CCC1)N"
+KQ9 SMILES           "OpenEye OEToolkits" 2.0.7 "CN(C)CC1(CCC1)N"
+
+_pdbx_chem_comp_identifier.comp_id KQ9
+_pdbx_chem_comp_identifier.type   "SYSTEMATIC NAME"
+_pdbx_chem_comp_identifier.program "OpenEye OEToolkits"
+_pdbx_chem_comp_identifier.program_version 2.0.7
+_pdbx_chem_comp_identifier.identifier "1-[(dimethylamino)methyl]cyclobutan-1-amine"
+
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+KQ9 "Create component"     2022-06-01 PDBE
+KQ9 "Modify descriptor"    2022-08-22 RCSB
+KQ9 "Initial release"      2022-12-07 RCSB
+KQ9 "Standardize backbone" 2023-07-18 PDBE
