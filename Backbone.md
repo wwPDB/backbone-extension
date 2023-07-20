@@ -36,7 +36,7 @@ Is the atom part of the backbone of the peptide residue?
 
 - pdbx_n_terminal_atom_flag 
 
-Is the atom the N-terminal atom in the peptide residue?
+Is the atom an N-terminal atom in the peptide residue?
 
 | Accepted values |
 |-----------------|
@@ -47,7 +47,7 @@ Is the atom the N-terminal atom in the peptide residue?
 
 - pdbx_c_terminal_atom_flag 
 
-Is the atom the C-terminal atom in the peptide residue? 
+Is the atom an C-terminal atom in the peptide residue? 
 
 | Accepted values |
 |-----------------|
@@ -77,7 +77,7 @@ shown in yellow. The grey colour shows ambiguous terminal groups.
 2. All hydrogens linked to the backbone atoms are labelled as backbone.
 3. All atoms in the backbone carboxyl group are labelled as backbone.
    - O, OXT and HXT 
-4. Any atoms that are modifications to the backbone are not be considered backbone atoms.
+4. Any atoms that are modifications to the backbone are not considered backbone atoms.
 
 <img src="imgs/MVA_no_atom_names.png" alt="MVA" width="35%">
 
