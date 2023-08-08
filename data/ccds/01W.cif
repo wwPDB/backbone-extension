@@ -77,7 +77,7 @@ _chem_comp_atom.pdbx_ordinal
 01W HA   HA   H 0  1 N N Y N N N -9.173  33.935 -14.376 3.981  -1.457 -1.112 HA   01W 29
 01W H    H1N  H 0  1 N N Y Y N N -10.963 33.474 -12.981 3.211  -2.297 0.983  H1N  01W 30
 01W H2   H2N  H 0  1 N Y Y Y N N -12.062 34.180 -13.961 4.839  -2.516 0.846  H2N  01W 31
-01W H3N  H3N  H 0  1 N Y Y Y N N -11.368 32.767 -14.397 4.247  -1.317 1.809  H3N  01W 32
+01W H3   H3N  H 0  1 N Y Y Y N N -11.368 32.767 -14.397 4.247  -1.317 1.809  H3N  01W 32
 
 loop_
 _chem_comp_bond.comp_id
@@ -118,7 +118,7 @@ _chem_comp_bond.pdbx_ordinal
 01W CA  HA   SING N N 29
 01W N   H    SING N N 30
 01W N   H2   SING N N 31
-01W N   H3N  SING N N 32
+01W N   H3   SING N N 32
 
 loop_
 _pdbx_chem_comp_descriptor.comp_id

@@ -116,9 +116,10 @@ atoms (excluding chromophores and capping residues, see below):
 2. Where it has the full carboxyl group, the atoms should be called O/OXT/HXT (OXT and 
 HXT being the leaving atoms).
 3. The N-terminal linked amino group should always be called N.
-   - Where it has two hydrogens, they should be called H/H2 (H2 being the leaving atom).
    - Where it has one hydrogen only it should be called H.
-4. The backbone carbon with *both* an amino group and side chain should be called CA.
+   - Where it has two hydrogens, they should be called H/H2 (H2 being the leaving atom).
+   - Where it has three hydrogens, they should be called H/H2/H3 (H2/H3 being the leaving atoms)
+5. The backbone carbon with *both* an amino group and side chain should be called CA.
 
 <img src="imgs/0JT_with_atom_names.png" alt="0JT" width="45%">
 
@@ -133,7 +134,7 @@ Example: BSE. The carbon with the side chain is called CA, even if it is differe
 the carbon having the amino group.
 
 7. No two atoms should have the same atom name.
-8. Backbone hydrogen atom naming will not be fully standardised, except H/H2/HXT.
+8. Backbone hydrogen atom naming will not be fully standardised, except H/H2/H3/HXT.
 
 In some cases, side chain atom naming was inconsistent or clashed with the new backbone 
 atom names, and has therefore been updated to align with the new annotation rules.
