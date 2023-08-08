@@ -8,7 +8,7 @@ _chem_comp.mon_nstd_parent_comp_id GLY
 _chem_comp.pdbx_synonyms          2-(NITRO)PHENYLGLYCINE
 _chem_comp.pdbx_formal_charge     0
 _chem_comp.pdbx_initial_date      2010-02-02
-_chem_comp.pdbx_modified_date     2023-07-19
+_chem_comp.pdbx_modified_date     2023-08-08
 _chem_comp.pdbx_ambiguous_flag    N
 _chem_comp.pdbx_release_status    REL
 _chem_comp.pdbx_replaced_by       ?
@@ -33,9 +33,9 @@ _chem_comp_atom.charge
 _chem_comp_atom.pdbx_align
 _chem_comp_atom.pdbx_aromatic_flag
 _chem_comp_atom.pdbx_leaving_atom_flag
-_chem_comp_atom.pdbx_backbone_flag
-_chem_comp_atom.pdbx_n_terminal_flag
-_chem_comp_atom.pdbx_c_terminal_flag
+_chem_comp_atom.pdbx_backbone_atom_flag
+_chem_comp_atom.pdbx_n_terminal_atom_flag
+_chem_comp_atom.pdbx_c_terminal_atom_flag
 _chem_comp_atom.pdbx_stereo_config
 _chem_comp_atom.model_Cartn_x
 _chem_comp_atom.model_Cartn_y
@@ -133,7 +133,7 @@ PRV "Modify aromatic_flag" 2011-06-04 RCSB
 PRV "Modify descriptor"    2011-06-04 RCSB
 PRV "Other modification"   2019-04-16 PDBE
 PRV "Modify synonyms"      2020-06-05 PDBE
-PRV "Modify backbone"      2023-07-19 PDBE
+PRV "Modify backbone"      2023-08-08 PDBE
 
 _pdbx_chem_comp_synonyms.ordinal  1
 _pdbx_chem_comp_synonyms.comp_id  PRV
