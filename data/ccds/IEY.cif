@@ -8,7 +8,7 @@ _chem_comp.mon_nstd_parent_comp_id "HIS, TYR, GLY"
 _chem_comp.pdbx_synonyms          "CHROMOPHORE (HIS-TYR-GLY)"
 _chem_comp.pdbx_formal_charge     0
 _chem_comp.pdbx_initial_date      2005-06-01
-_chem_comp.pdbx_modified_date     2023-08-08
+_chem_comp.pdbx_modified_date     2023-08-09
 _chem_comp.pdbx_ambiguous_flag    N
 _chem_comp.pdbx_release_status    REL
 _chem_comp.pdbx_replaced_by       ?
@@ -67,7 +67,7 @@ IEY OH   OH   O 0 1 N N N N N N -22.026 3.039  -15.478 6.115  -2.346 0.712  OH  
 IEY C3   C    C 0 1 N N Y N Y N -22.242 3.405  -4.260  -3.025 2.941  0.438  C    IEY 19
 IEY O3   O    O 0 1 N N Y N Y N -22.841 3.797  -3.253  -2.535 2.776  1.530  O    IEY 20
 IEY CD3  CD3  C 0 1 Y N N N N N -19.347 -2.594 -7.789  -2.548 -4.073 0.283  CD3  IEY 21
-IEY NE1  NE1  N 0 1 Y N N N N N -19.013 -3.568 -6.890  -3.780 -4.628 0.109  NE1  IEY 22
+IEY NE   NE1  N 0 1 Y N N N N N -19.013 -3.568 -6.890  -3.780 -4.628 0.109  NE1  IEY 22
 IEY N21  N21  N 0 1 Y N N N N N -20.356 -2.162 -5.906  -3.979 -2.508 -0.291 N21  IEY 23
 IEY C22  C22  C 0 1 Y N N N N N -19.649 -3.280 -5.731  -4.633 -3.633 -0.247 C22  IEY 24
 IEY OXT  OXT  O 0 1 N Y Y N Y N ?       ?      ?       -4.230 3.521  0.325  OXT  IEY 25
@@ -83,7 +83,7 @@ IEY HE1  HE1  H 0 1 N N N N N N -23.248 5.108  -14.419 4.001  -2.851 -0.750 HE1 
 IEY HE2  HE2  H 0 1 N N N N N N -21.157 1.416  -13.557 6.179  0.208  1.290  HE2  IEY 35
 IEY HO1  HO1  H 0 1 N N N N N N -21.555 2.226  -15.622 6.851  -2.454 0.094  HO1  IEY 36
 IEY HD3  HD3  H 0 1 N N N N N N -19.010 -2.521 -8.812  -1.643 -4.588 0.568  HD3  IEY 37
-IEY HA   HA   H 0 1 N N N N N N -18.411 -4.348 -7.058  -4.007 -5.565 0.219  HA   IEY 38
+IEY HNE  HA   H 0 1 N N N N N N -18.411 -4.348 -7.058  -4.007 -5.565 0.219  HA   IEY 38
 IEY H22  H22  H 0 1 N N N N N N -19.594 -3.857 -4.820  -5.685 -3.755 -0.456 H22  IEY 39
 IEY HXT  HXT  H 0 1 N Y Y N Y N 0.000   0.000  0.000   -4.667 3.789  1.144  HXT  IEY 40
 IEY HA20 H1   H 0 1 N N Y N N N -21.580 3.746  -8.673  1.597  1.778  1.115  H1   IEY 41
@@ -131,10 +131,10 @@ IEY CZ  OH   SING N N 32
 IEY OH  HO1  SING N N 33
 IEY C3  O3   DOUB N N 34
 IEY C3  OXT  SING N N 35
-IEY CD3 NE1  SING Y N 36
+IEY CD3 NE   SING Y N 36
 IEY CD3 HD3  SING N N 37
-IEY NE1 C22  SING Y N 38
-IEY NE1 HA   SING N N 39
+IEY NE  C22  SING Y N 38
+IEY NE  HNE  SING N N 39
 IEY N21 C22  DOUB Y N 40
 IEY C22 H22  SING N N 41
 IEY OXT HXT  SING N N 42
@@ -178,4 +178,4 @@ IEY "Create component"    2005-06-01 EBI
 IEY "Modify descriptor"   2011-06-04 RCSB
 IEY "Modify coordinates"  2021-08-21 PDBE
 IEY "Modify linking type" 2021-08-21 PDBE
-IEY "Modify backbone"     2023-08-08 PDBE
+IEY "Modify backbone"     2023-08-09 PDBE

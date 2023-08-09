@@ -8,7 +8,7 @@ _chem_comp.mon_nstd_parent_comp_id TYR
 _chem_comp.pdbx_synonyms          3-{[(1S,2E)-1-formyl-4-phenoxybut-2-en-1-yl]amino}-6-hydroxy-L-tyrosine
 _chem_comp.pdbx_formal_charge     0
 _chem_comp.pdbx_initial_date      2009-11-10
-_chem_comp.pdbx_modified_date     2023-08-08
+_chem_comp.pdbx_modified_date     2023-08-09
 _chem_comp.pdbx_ambiguous_flag    N
 _chem_comp.pdbx_release_status    REL
 _chem_comp.pdbx_replaced_by       ?
@@ -186,7 +186,7 @@ P2Q "Create component"     2009-11-10 PDBJ
 P2Q "Modify aromatic_flag" 2011-06-04 RCSB
 P2Q "Modify descriptor"    2011-06-04 RCSB
 P2Q "Modify synonyms"      2020-06-05 PDBE
-P2Q "Modify backbone"      2023-08-08 PDBE
+P2Q "Modify backbone"      2023-08-09 PDBE
 
 _pdbx_chem_comp_synonyms.ordinal  1
 _pdbx_chem_comp_synonyms.comp_id  P2Q

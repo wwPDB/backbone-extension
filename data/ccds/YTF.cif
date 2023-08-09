@@ -8,7 +8,7 @@ _chem_comp.mon_nstd_parent_comp_id GLN
 _chem_comp.pdbx_synonyms          ?
 _chem_comp.pdbx_formal_charge     0
 _chem_comp.pdbx_initial_date      2023-02-21
-_chem_comp.pdbx_modified_date     2023-08-08
+_chem_comp.pdbx_modified_date     2023-08-09
 _chem_comp.pdbx_ambiguous_flag    N
 _chem_comp.pdbx_release_status    REL
 _chem_comp.pdbx_replaced_by       ?
@@ -145,4 +145,4 @@ _pdbx_chem_comp_audit.date
 _pdbx_chem_comp_audit.processing_site
 YTF "Create component" 2023-02-21 RCSB
 YTF "Initial release"  2023-03-01 RCSB
-YTF "Modify backbone"  2023-08-08 PDBE
+YTF "Modify backbone"  2023-08-09 PDBE

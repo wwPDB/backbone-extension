@@ -9,7 +9,7 @@ _chem_comp.mon_nstd_parent_comp_id "LEU, TYR, GLY"
 _chem_comp.pdbx_synonyms          "PEPTIDE DERIVED CHROMOPHORE"
 _chem_comp.pdbx_formal_charge     0
 _chem_comp.pdbx_initial_date      2017-08-09
-_chem_comp.pdbx_modified_date     2023-08-08
+_chem_comp.pdbx_modified_date     2023-08-09
 _chem_comp.pdbx_ambiguous_flag    N
 _chem_comp.pdbx_release_status    REL
 _chem_comp.pdbx_replaced_by       ?
@@ -52,7 +52,7 @@ VYA C4   C4  C 0 1 Y N N N N N 40.535 82.833 99.861  5.511  0.457  0.079  C4  VY
 VYA C5   C5  C 0 1 Y N N N N N 41.914 82.561 99.599  4.471  1.257  0.477  C5  VYA 3
 VYA C6   C6  C 0 1 Y N N N N N 41.421 80.196 99.224  2.907  -0.495 -0.127 C6  VYA 4
 VYA C8   C8  C 0 1 N N N N N N 43.742 80.859 99.005  2.037  1.641  0.796  C8  VYA 5
-VYA C    C3  C 0 1 N N N N N N 45.487 88.366 99.598  -3.021 -4.345 1.339  C3  VYA 6
+VYA C22  C3  C 0 1 N N N N N N 45.487 88.366 99.598  -3.021 -4.345 1.339  C3  VYA 6
 VYA C21  C21 C 0 1 N N N N N N 46.227 87.415 98.631  -2.916 -3.289 0.237  C21 VYA 7
 VYA C10  C10 C 0 1 N N N N N N 47.709 87.625 98.926  -4.307 -2.727 -0.066 C10 VYA 8
 VYA C20  C20 C 0 1 N N N N N N 45.792 85.967 99.003  -1.999 -2.156 0.703  C20 VYA 9
@@ -114,7 +114,7 @@ VYA C2  CA2  SING N N 10
 VYA C1  N2   DOUB N N 11
 VYA C21 C10  SING N N 12
 VYA C21 C20  SING N N 13
-VYA C21 C    SING N N 14
+VYA C21 C22  SING N N 14
 VYA N2  CA2  SING N N 15
 VYA CA2 C8   DOUB N Z 16
 VYA C8  C7   SING N N 17
@@ -131,9 +131,9 @@ VYA C4  H22  SING N N 27
 VYA C5  H3   SING N N 28
 VYA C6  H4   SING N N 29
 VYA C8  H5   SING N N 30
-VYA C   H6   SING N N 31
-VYA C   H7   SING N N 32
-VYA C   H8   SING N N 33
+VYA C22 H6   SING N N 31
+VYA C22 H7   SING N N 32
+VYA C22 H8   SING N N 33
 VYA C21 H9   SING N N 34
 VYA C10 H10  SING N N 35
 VYA C10 H11  SING N N 36
@@ -178,7 +178,7 @@ VYA "Other modification" 2017-08-09 EBI
 VYA "Initial release"    2017-12-06 RCSB
 VYA "Other modification" 2018-10-20 EBI
 VYA "Modify synonyms"    2021-03-01 PDBE
-VYA "Modify backbone"    2023-08-08 PDBE
+VYA "Modify backbone"    2023-08-09 PDBE
 
 _pdbx_chem_comp_synonyms.ordinal  1
 _pdbx_chem_comp_synonyms.comp_id  VYA

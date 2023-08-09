@@ -8,7 +8,7 @@ _chem_comp.mon_nstd_parent_comp_id ?
 _chem_comp.pdbx_synonyms          "(S)-2-Aminohex-4-ynoic acid; peptide staple"
 _chem_comp.pdbx_formal_charge     0
 _chem_comp.pdbx_initial_date      2022-12-21
-_chem_comp.pdbx_modified_date     2023-08-08
+_chem_comp.pdbx_modified_date     2023-08-09
 _chem_comp.pdbx_ambiguous_flag    N
 _chem_comp.pdbx_release_status    REL
 _chem_comp.pdbx_replaced_by       ?
@@ -126,4 +126,4 @@ _pdbx_chem_comp_audit.date
 _pdbx_chem_comp_audit.processing_site
 T79 "Create component" 2022-12-31 PDBE
 T79 "Initial release"  2023-03-15 RCSB
-T79 "Modify backbone"  2023-08-08 PDBE
+T79 "Modify backbone"  2023-08-09 PDBE

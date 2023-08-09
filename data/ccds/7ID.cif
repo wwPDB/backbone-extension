@@ -9,7 +9,7 @@ _chem_comp.mon_nstd_parent_comp_id ASP
 _chem_comp.pdbx_synonyms          ?
 _chem_comp.pdbx_formal_charge     0
 _chem_comp.pdbx_initial_date      2021-08-11
-_chem_comp.pdbx_modified_date     2023-08-08
+_chem_comp.pdbx_modified_date     2023-08-09
 _chem_comp.pdbx_ambiguous_flag    N
 _chem_comp.pdbx_release_status    REL
 _chem_comp.pdbx_replaced_by       ?
@@ -164,4 +164,4 @@ _pdbx_chem_comp_audit.date
 _pdbx_chem_comp_audit.processing_site
 7ID "Create component" 2021-08-11 RCSB
 7ID "Initial release"  2021-08-18 RCSB
-7ID "Modify backbone"  2023-08-08 PDBE
+7ID "Modify backbone"  2023-08-09 PDBE

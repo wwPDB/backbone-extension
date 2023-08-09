@@ -8,7 +8,7 @@ _chem_comp.mon_nstd_parent_comp_id ?
 _chem_comp.pdbx_synonyms          ?
 _chem_comp.pdbx_formal_charge     0
 _chem_comp.pdbx_initial_date      2022-06-16
-_chem_comp.pdbx_modified_date     2023-08-08
+_chem_comp.pdbx_modified_date     2023-08-09
 _chem_comp.pdbx_ambiguous_flag    N
 _chem_comp.pdbx_release_status    REL
 _chem_comp.pdbx_replaced_by       ?
@@ -153,4 +153,4 @@ L4R "Create component"  2022-06-16 PDBE
 L4R "Modify name"       2022-07-07 PDBE
 L4R "Initial release"   2022-07-20 RCSB
 L4R "Modify descriptor" 2022-08-22 RCSB
-L4R "Modify backbone"   2023-08-08 PDBE
+L4R "Modify backbone"   2023-08-09 PDBE

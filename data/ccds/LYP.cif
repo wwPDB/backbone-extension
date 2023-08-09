@@ -8,7 +8,7 @@ _chem_comp.mon_nstd_parent_comp_id LYS
 _chem_comp.pdbx_synonyms          ?
 _chem_comp.pdbx_formal_charge     0
 _chem_comp.pdbx_initial_date      2007-03-28
-_chem_comp.pdbx_modified_date     2023-08-08
+_chem_comp.pdbx_modified_date     2023-08-09
 _chem_comp.pdbx_ambiguous_flag    N
 _chem_comp.pdbx_release_status    REL
 _chem_comp.pdbx_replaced_by       ?
@@ -158,4 +158,4 @@ _pdbx_chem_comp_audit.processing_site
 LYP "Create component"      2007-03-28 RCSB
 LYP "Modify descriptor"     2011-06-04 RCSB
 LYP "Modify parent residue" 2012-10-28 RCSB
-LYP "Modify backbone"       2023-08-08 PDBE
+LYP "Modify backbone"       2023-08-09 PDBE

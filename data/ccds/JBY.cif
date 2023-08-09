@@ -9,7 +9,7 @@ _chem_comp.mon_nstd_parent_comp_id ?
 _chem_comp.pdbx_synonyms          "Gly-Ala-Try Chromophore"
 _chem_comp.pdbx_formal_charge     0
 _chem_comp.pdbx_initial_date      2018-08-29
-_chem_comp.pdbx_modified_date     2023-08-08
+_chem_comp.pdbx_modified_date     2023-08-09
 _chem_comp.pdbx_ambiguous_flag    N
 _chem_comp.pdbx_release_status    REL
 _chem_comp.pdbx_replaced_by       ?
@@ -64,7 +64,7 @@ JBY CG2  CG2 C 0 1 Y N N N N N 1.948  15.718 28.529 -2.520 0.941  -0.012 CG2 JBY
 JBY CD2  CD2 C 0 1 Y N N N N N 1.297  15.990 29.681 -2.726 -0.441 0.105  CD2 JBY 15
 JBY CE2  CE2 C 0 1 Y N N N N N 1.917  16.440 30.807 -4.003 -0.939 0.160  CE2 JBY 16
 JBY CZ   CZ  C 0 1 Y N N N N N 3.276  16.767 30.744 -5.092 -0.075 0.098  CZ  JBY 17
-JBY O    O3  O 0 1 N N N N N N 3.794  17.229 31.783 -6.353 -0.574 0.152  O3  JBY 18
+JBY OH   O3  O 0 1 N N N N N N 3.794  17.229 31.783 -6.353 -0.574 0.152  O3  JBY 18
 JBY CE1  CE1 C 0 1 Y N N N N N 3.943  16.610 29.546 -4.893 1.296  -0.018 CE1 JBY 19
 JBY CD1  CD1 C 0 1 Y N N N N N 3.304  16.092 28.419 -3.622 1.806  -0.068 CD1 JBY 20
 JBY HA31 H4  H 0 1 N N Y N N N -0.789 14.050 23.055 3.711  -1.405 -0.414 H4  JBY 21
@@ -82,7 +82,7 @@ JBY H17  H17 H 0 1 N N N N N N 4.983  16.894 29.479 -5.743 1.962  -0.065 H17 JBY
 JBY H18  H18 H 0 1 N N N N N N 3.835  15.980 27.485 -3.469 2.872  -0.154 H18 JBY 33
 JBY OXT  OXT O 0 1 N Y Y N Y N 1.152  11.646 22.634 5.493  0.367  0.750  OXT JBY 34
 JBY HXT  HXT H 0 1 N Y Y N Y N 1.075  10.851 22.120 5.895  0.844  1.489  HXT JBY 35
-JBY H3   H3  H 0 1 N N N N N N 3.148  17.244 32.480 -6.710 -0.645 1.048  H3  JBY 36
+JBY HOH  H3  H 0 1 N N N N N N 3.148  17.244 32.480 -6.710 -0.645 1.048  H3  JBY 36
 
 loop_
 _chem_comp_bond.comp_id
@@ -112,7 +112,7 @@ JBY CG2 CD2  DOUB Y N 17
 JBY CE1 CZ   SING Y N 18
 JBY CD2 CE2  SING Y N 19
 JBY CZ  CE2  DOUB Y N 20
-JBY CZ  O    SING N N 21
+JBY CZ  OH   SING N N 21
 JBY CA3 HA31 SING N N 22
 JBY CB3 H5   SING N N 23
 JBY CB3 H6   SING N N 24
@@ -128,7 +128,7 @@ JBY CE1 H17  SING N N 33
 JBY CD1 H18  SING N N 34
 JBY C3  OXT  SING N N 35
 JBY OXT HXT  SING N N 36
-JBY O   H3   SING N N 37
+JBY OH  HOH  SING N N 37
 
 loop_
 _pdbx_chem_comp_descriptor.comp_id
@@ -161,7 +161,7 @@ _pdbx_chem_comp_audit.processing_site
 JBY "Create component" 2018-08-29 RCSB
 JBY "Initial release"  2019-03-13 RCSB
 JBY "Modify synonyms"  2021-03-01 PDBE
-JBY "Modify backbone"  2023-08-08 PDBE
+JBY "Modify backbone"  2023-08-09 PDBE
 
 _pdbx_chem_comp_synonyms.ordinal  1
 _pdbx_chem_comp_synonyms.comp_id  JBY

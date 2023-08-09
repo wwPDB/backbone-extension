@@ -8,7 +8,7 @@ _chem_comp.mon_nstd_parent_comp_id GLY
 _chem_comp.pdbx_synonyms          2-nitrobenzylglycine
 _chem_comp.pdbx_formal_charge     0
 _chem_comp.pdbx_initial_date      2018-02-20
-_chem_comp.pdbx_modified_date     2023-08-08
+_chem_comp.pdbx_modified_date     2023-08-09
 _chem_comp.pdbx_ambiguous_flag    N
 _chem_comp.pdbx_release_status    REL
 _chem_comp.pdbx_replaced_by       ?
@@ -137,7 +137,7 @@ _pdbx_chem_comp_audit.processing_site
 EZY "Create component" 2018-02-20 RCSB
 EZY "Initial release"  2018-05-16 RCSB
 EZY "Modify synonyms"  2021-03-01 PDBE
-EZY "Modify backbone"  2023-08-08 PDBE
+EZY "Modify backbone"  2023-08-09 PDBE
 
 _pdbx_chem_comp_synonyms.ordinal  1
 _pdbx_chem_comp_synonyms.comp_id  EZY

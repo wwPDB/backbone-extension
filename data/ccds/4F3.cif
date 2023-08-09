@@ -8,7 +8,7 @@ _chem_comp.mon_nstd_parent_comp_id "GLY, TYR, GLY"
 _chem_comp.pdbx_synonyms          ?
 _chem_comp.pdbx_formal_charge     0
 _chem_comp.pdbx_initial_date      2003-12-16
-_chem_comp.pdbx_modified_date     2023-08-08
+_chem_comp.pdbx_modified_date     2023-08-09
 _chem_comp.pdbx_ambiguous_flag    N
 _chem_comp.pdbx_release_status    REL
 _chem_comp.pdbx_replaced_by       ?
@@ -48,7 +48,7 @@ _chem_comp_atom.pdbx_component_comp_id
 _chem_comp_atom.pdbx_ordinal
 4F3 C12  C1   C 0 1 Y N N N N N 29.600 29.514 37.946 -4.724 1.778 1.995  C1   4F3 1
 4F3 C22  C2   C 0 1 Y N N N N N 30.284 30.044 39.040 -3.729 1.006 1.364  C2   4F3 2
-4F3 C    C3   C 0 1 Y N N N N N 31.554 30.706 38.885 -3.750 0.871 -0.029 C3   4F3 3
+4F3 C9   C3   C 0 1 Y N N N N N 31.554 30.706 38.885 -3.750 0.871 -0.029 C3   4F3 3
 4F3 C4   C4   C 0 1 Y N N N N N 32.147 30.841 37.625 -4.740 1.489 -0.790 C4   4F3 4
 4F3 C5   C5   C 0 1 Y N N N N N 31.476 30.319 36.502 -5.738 2.260 -0.186 C5   4F3 5
 4F3 C6   C6   C 0 1 Y N N N N N 30.232 29.674 36.671 -5.704 2.386 1.207  C6   4F3 6
@@ -72,7 +72,7 @@ _chem_comp_atom.pdbx_ordinal
 4F3 C25  C25  C 0 1 N N N N N N 24.224 25.605 33.385 2.173  3.588 2.904  C25  4F3 24
 4F3 N1   N    N 0 1 N N Y Y N N 22.726 27.430 35.664 1.118  3.024 5.695  N    4F3 25
 4F3 OXT  OXT  O 0 1 N Y Y N Y N ?      ?      ?      -1.156 7.685 6.463  OXT  4F3 26
-4F3 H3   H3   H 0 1 N N N N N N 32.087 31.121 39.756 -2.984 0.278 -0.521 H3   4F3 27
+4F3 H91  H3   H 0 1 N N N N N N 32.087 31.121 39.756 -2.984 0.278 -0.521 H3   4F3 27
 4F3 H4   H4   H 0 1 N N N N N N 33.121 31.347 37.519 -4.737 1.371 -1.871 H4   4F3 28
 4F3 H5   H5   H 0 1 N N N N N N 31.921 30.414 35.497 -6.508 2.741 -0.780 H5   4F3 29
 4F3 H8   H8   H 0 1 N N N N N N 27.599 28.140 35.696 -6.668 3.388 4.163  H8   4F3 30
@@ -103,10 +103,10 @@ _chem_comp_bond.pdbx_ordinal
 4F3 C12 C22  DOUB Y N 1
 4F3 C12 C6   SING Y N 2
 4F3 C12 C7   SING Y N 3
-4F3 C22 C    SING Y N 4
+4F3 C22 C9   SING Y N 4
 4F3 C22 F10  SING N N 5
-4F3 C   C4   DOUB Y N 6
-4F3 C   H3   SING N N 7
+4F3 C9  C4   DOUB Y N 6
+4F3 C9  H91  SING N N 7
 4F3 C4  C5   SING Y N 8
 4F3 C4  H4   SING N N 9
 4F3 C5  C6   DOUB Y N 10
@@ -178,4 +178,4 @@ _pdbx_chem_comp_audit.date
 _pdbx_chem_comp_audit.processing_site
 4F3 "Create component"  2003-12-16 RCSB
 4F3 "Modify descriptor" 2011-06-04 RCSB
-4F3 "Modify backbone"   2023-08-08 PDBE
+4F3 "Modify backbone"   2023-08-09 PDBE

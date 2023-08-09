@@ -8,7 +8,7 @@ _chem_comp.mon_nstd_parent_comp_id ?
 _chem_comp.pdbx_synonyms          "T3; THYROID HORMONE; LIOTHYRONINE"
 _chem_comp.pdbx_formal_charge     0
 _chem_comp.pdbx_initial_date      1999-07-12
-_chem_comp.pdbx_modified_date     2023-08-08
+_chem_comp.pdbx_modified_date     2023-08-09
 _chem_comp.pdbx_ambiguous_flag    N
 _chem_comp.pdbx_release_status    REL
 _chem_comp.pdbx_replaced_by       ?
@@ -158,7 +158,7 @@ _pdbx_chem_comp_audit.processing_site
 T3 "Create component"  1999-07-12 RCSB
 T3 "Modify descriptor" 2011-06-04 RCSB
 T3 "Modify synonyms"   2020-06-05 PDBE
-T3 "Modify backbone"   2023-08-08 PDBE
+T3 "Modify backbone"   2023-08-09 PDBE
 
 loop_
 _pdbx_chem_comp_synonyms.ordinal

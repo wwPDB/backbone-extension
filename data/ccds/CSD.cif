@@ -8,7 +8,7 @@ _chem_comp.mon_nstd_parent_comp_id CYS
 _chem_comp.pdbx_synonyms          "S-CYSTEINESULFINIC ACID; S-SULFINOCYSTEINE"
 _chem_comp.pdbx_formal_charge     0
 _chem_comp.pdbx_initial_date      1999-07-08
-_chem_comp.pdbx_modified_date     2023-08-08
+_chem_comp.pdbx_modified_date     2023-08-09
 _chem_comp.pdbx_ambiguous_flag    N
 _chem_comp.pdbx_release_status    REL
 _chem_comp.pdbx_replaced_by       ?
@@ -121,7 +121,7 @@ CSD "Modify descriptor"  2012-01-05 RCSB
 CSD "Modify coordinates" 2012-01-05 RCSB
 CSD "Other modification" 2014-11-19 RCSB
 CSD "Modify synonyms"    2020-06-05 PDBE
-CSD "Modify backbone"    2023-08-08 PDBE
+CSD "Modify backbone"    2023-08-09 PDBE
 
 loop_
 _pdbx_chem_comp_synonyms.ordinal

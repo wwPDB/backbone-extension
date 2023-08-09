@@ -8,7 +8,7 @@ _chem_comp.mon_nstd_parent_comp_id ?
 _chem_comp.pdbx_synonyms          ?
 _chem_comp.pdbx_formal_charge     0
 _chem_comp.pdbx_initial_date      2016-02-03
-_chem_comp.pdbx_modified_date     2023-08-08
+_chem_comp.pdbx_modified_date     2023-08-09
 _chem_comp.pdbx_ambiguous_flag    N
 _chem_comp.pdbx_release_status    REL
 _chem_comp.pdbx_replaced_by       ?
@@ -48,17 +48,17 @@ _chem_comp_atom.pdbx_component_comp_id
 _chem_comp_atom.pdbx_ordinal
 66E C1  C1  C 0 1 N N N N N N -19.638 33.252 18.374 -2.204 0.067  -0.648 C1  66E 1
 66E N   N   N 0 1 N N Y Y N N -19.557 34.742 18.684 -1.147 0.416  0.311  N   66E 2
-66E CA  CA  C 0 1 N N N N N S -20.801 35.486 18.680 0.182  0.137  -0.248 CA  66E 3
+66E CA  CA  C 0 1 N N Y N N S -20.801 35.486 18.680 0.182  0.137  -0.248 CA  66E 3
 66E CB  CB  C 0 1 N N N N N N -21.492 35.426 17.271 1.210  1.073  0.391  CB  66E 4
 66E CG1 CG1 C 0 1 N N N N N N -22.843 36.127 17.286 2.581  0.837  -0.247 CG1 66E 5
 66E CG2 CG2 C 0 1 N N N N N N -20.582 36.065 16.236 0.786  2.526  0.165  CG2 66E 6
 66E C   C   C 0 1 N N Y N Y N -21.715 35.005 19.764 0.559  -1.293 0.041  C   66E 7
 66E O   O   O 0 1 N N Y N Y N -22.303 33.927 19.683 -0.203 -2.008 0.649  O   66E 8
-66E C2  C2  C 0 1 N N Y N N N -19.097 32.917 16.963 -3.572 0.247  0.013  C2  66E 9
+66E C2  C2  C 0 1 N N N N N N -19.097 32.917 16.963 -3.572 0.247  0.013  C2  66E 9
 66E H1  H1  H 0 1 N N N N N N -20.689 32.934 18.435 -2.134 0.718  -1.519 H1  66E 10
 66E H3  H2  H 0 1 N N N N N N -19.045 32.702 19.120 -2.085 -0.971 -0.959 H2  66E 11
 66E H   H3  H 0 1 N Y Y Y N N -19.151 34.839 19.593 -1.224 1.380  0.599  H3  66E 12
-66E HA  H5  H 0 1 N N N N N N -20.573 36.543 18.879 0.165  0.298  -1.326 H5  66E 13
+66E HA  H5  H 0 1 N N Y N N N -20.573 36.543 18.879 0.165  0.298  -1.326 H5  66E 13
 66E H6  H6  H 0 1 N N N N N N -21.644 34.369 17.007 1.268  0.874  1.461  H6  66E 14
 66E H7  H7  H 0 1 N N N N N N -23.493 35.656 18.038 2.523  1.037  -1.317 H7  66E 15
 66E H8  H8  H 0 1 N N N N N N -22.702 37.189 17.536 3.313  1.505  0.208  H8  66E 16
@@ -66,9 +66,9 @@ _chem_comp_atom.pdbx_ordinal
 66E H10 H10 H 0 1 N N N N N N -19.610 35.551 16.234 0.600  2.690  -0.896 H10 66E 18
 66E H11 H11 H 0 1 N N N N N N -21.043 35.981 15.241 -0.124 2.731  0.729  H11 66E 19
 66E H12 H12 H 0 1 N N N N N N -20.435 37.127 16.483 1.580  3.193  0.502  H12 66E 20
-66E H14 H14 H 0 1 N N Y N N N -19.176 31.834 16.787 -3.692 1.285  0.324  H14 66E 21
-66E H15 H15 H 0 1 N N Y N N N -19.687 33.456 16.207 -4.357 -0.012 -0.698 H15 66E 22
-66E H16 H16 H 0 1 N N Y N N N -18.043 33.224 16.892 -3.643 -0.404 0.885  H16 66E 23
+66E H14 H14 H 0 1 N N N N N N -19.176 31.834 16.787 -3.692 1.285  0.324  H14 66E 21
+66E H15 H15 H 0 1 N N N N N N -19.687 33.456 16.207 -4.357 -0.012 -0.698 H15 66E 22
+66E H16 H16 H 0 1 N N N N N N -18.043 33.224 16.892 -3.643 -0.404 0.885  H16 66E 23
 66E OXT O1  O 0 1 N Y Y N Y N -21.869 35.820 20.821 1.740  -1.774 -0.378 O1  66E 24
 66E HXT H4  H 0 1 N Y Y N Y N -22.473 35.426 21.440 1.937  -2.698 -0.170 H4  66E 25
 
@@ -135,4 +135,4 @@ _pdbx_chem_comp_audit.date
 _pdbx_chem_comp_audit.processing_site
 66E "Create component" 2016-02-03 EBI
 66E "Initial release"  2017-08-16 RCSB
-66E "Modify backbone"  2023-08-08 PDBE
+66E "Modify backbone"  2023-08-09 PDBE
