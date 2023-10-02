@@ -42,7 +42,6 @@ Is the atom an N-terminal atom in the peptide residue?
 |-----------------|
 | Y               |
 | N               |
-| .               | 
 
 
 - pdbx_c_terminal_atom_flag 
@@ -53,7 +52,6 @@ Is the atom an C-terminal atom in the peptide residue?
 |-----------------|
 | Y               |
 | N               |
-| .               | 
 
 <img src="imgs/SER_with_atom_names.png" alt="SER" width="40%">
 
@@ -101,12 +99,11 @@ Example: ALT. Sulphur replaces the O atom, so it is labelled as C-terminal.
 
 Example: B2A. Boron replaces C, so it is labelled as C-terminal.
 
-4. In cases where it is ambiguous if the terminal group is N- or C-terminal, these atoms 
-can be labelled with “.” for these items. 
-   - Some non-standard residues contain two carboxyl or two amino groups rather than the 
-   standard peptide backbone. In these cases it is ambiguous which terminal group is N- 
-   or C-terminal and so both terminal groups should be labelled with “.” instead of Y 
-   values. (e.g., PX1, see example image in previous section).
+4. In cases where the residue can be flipped in the polypeptide sequence, both
+terminal groups can described as N- and C-terminal. These atoms should be labelled with 
+Y for both terminal group items. 
+   - For example, some non-standard residues contain two carboxyl or two amino groups rather than the 
+   standard peptide backbone (e.g., PX1, see example image in previous section).
 
 # Standardising the atom naming of peptide backbone atoms
 ## Rules for Atom Naming 
